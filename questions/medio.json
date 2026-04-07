@@ -4215,307 +4215,151 @@
   ],
   "ninos": [
     {
-      "question": "¿En qué año se estrenó la película \"Napoleon Dynamite\"?",
+      "question": "¿Quién interpreta a Han Solo en Star Wars?",
       "answers": [
-        "2005",
-        "2004",
-        "2003",
-        "2002"
+        "Mark Hamill",
+        "Harrison Ford",
+        "Ewan McGregor",
+        "Alec Guinness"
       ],
       "correct": 1,
       "category": "ninos",
       "level": "medio"
     },
     {
-      "question": "En la película “Réquiem por un sueño”, ¿a qué droga se vuelve adicto el personaje de Jared Leto?",
+      "question": "¿Cómo se llama el coche de Regreso al futuro?",
       "answers": [
-        "Marihuana",
-        "Cocaína",
-        "Heroína",
-        "Oxicodona"
+        "Mustang",
+        "DeLorean",
+        "Ferrari",
+        "Escarabajo"
+      ],
+      "correct": 1,
+      "category": "ninos",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué actor interpreta a Jack Sparrow en Piratas del Caribe?",
+      "answers": [
+        "Johnny Depp",
+        "Orlando Bloom",
+        "Tom Cruise",
+        "Brad Pitt"
+      ],
+      "correct": 0,
+      "category": "ninos",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué película ganó más dinero y superó a Avatar en taquilla mundial?",
+      "answers": [
+        "Titanic",
+        "Avengers: Endgame",
+        "Star Wars",
+        "Jurassic World"
+      ],
+      "correct": 1,
+      "category": "ninos",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué personaje de Disney fue añadido por Disney y no salía en los libros originales de Winnie the Pooh?",
+      "answers": [
+        "Tigger",
+        "Rabbit",
+        "Gopher",
+        "Piglet"
       ],
       "correct": 2,
       "category": "ninos",
       "level": "medio"
     },
     {
-      "question": "Brendan Fraser protagonizó las siguientes películas, ¿excepto cuál?",
-      "answers": [
-        "Hombre Encino",
-        "Titánico",
-        "Sra. Winterbourne",
-        "Hueso de Mono"
-      ],
-      "correct": 1,
-      "category": "ninos",
-      "level": "medio"
-    },
-    {
-      "question": "¿Quién le dio voz a Metalbeard en \"La Lego Película\"?",
+      "question": "¿Quién pone voz a Metalbeard en La LEGO Película?",
       "answers": [
         "Nick Offerman",
-        "Liam Neeson",
         "Morgan Freeman",
-        "Will Arnet"
+        "Liam Neeson",
+        "Will Arnett"
       ],
       "correct": 0,
       "category": "ninos",
       "level": "medio"
     },
     {
-      "question": "En la película de 2002 \"Kung Pow! Enter the Fist\", Master Pain cambia su nombre ¿a qué?",
+      "question": "¿Cómo se llama el protagonista de National Treasure interpretado por Nicolas Cage?",
       "answers": [
-        "Gatito",
-        "Betty",
-        "Amy",
-        "Salida"
-      ],
-      "correct": 1,
-      "category": "ninos",
-      "level": "medio"
-    },
-    {
-      "question": "¿Quién compuso la banda sonora del Blade Runner original?",
-      "answers": [
-        "Yanni",
-        "Kitarō",
-        "Evangelis",
-        "Enia"
-      ],
-      "correct": 2,
-      "category": "ninos",
-      "level": "medio"
-    },
-    {
-      "question": "En el universo de \"Jurassic Park\", ¿cómo se llama la isla que contiene el Sitio B de InGen?",
-      "answers": [
-        "Isla Sorna",
-        "Isla Muerta",
-        "Isla Peña",
-        "Isla Nublar"
-      ],
-      "correct": 0,
-      "category": "ninos",
-      "level": "medio"
-    },
-    {
-      "question": "En la película de 2002 \"Kung Pow! Enter the Fist\", ¿por qué Wimp Lo fue entrenado mal deliberadamente?",
-      "answers": [
-        "Como Una Broma",
-        "Por Hacer Trampa",
-        "Venganza",
-        "Para Probarlo"
-      ],
-      "correct": 0,
-      "category": "ninos",
-      "level": "medio"
-    },
-    {
-      "question": "¿Cómo se llama el personaje que interpreta Nicolas Cage en la película \"Tesoro Nacional\"?",
-      "answers": [
-        "George Washington Swanson",
+        "Benjamin Franklin Gates",
+        "Thomas Jefferson Walker",
         "John Quincy Beckett",
-        "Benjamín Franklin Gates",
-        "Thomas Jefferson Walker"
-      ],
-      "correct": 2,
-      "category": "ninos",
-      "level": "medio"
-    },
-    {
-      "question": "¿Cuál de los siguientes actores no desempeña un papel en la película \"Sospechosos habituales\"?",
-      "answers": [
-        "Kevin Spacey",
-        "Benicio del Toro",
-        "Steve Buscemi",
-        "Gabriel Byrne"
-      ],
-      "correct": 2,
-      "category": "ninos",
-      "level": "medio"
-    },
-    {
-      "question": "¿Cuánto dinero recaudó la película de Marvel de 2019 \"Avengers: Endgame\" durante su fin de semana de estreno récord en todo el mundo?",
-      "answers": [
-        "1,2 Mil Millones de Dólares",
-        "392 Millones de Dólares",
-        "456 Millones de Dólares",
-        "640 Millones de Dólares"
+        "George Washington Swanson"
       ],
       "correct": 0,
       "category": "ninos",
       "level": "medio"
     },
     {
-      "question": "En la serie Friday The 13th, ¿cuál es el nombre de pila de la madre de Jason?",
+      "question": "¿Qué actor ganó su primer Oscar al Mejor Actor por El Renacido?",
       "answers": [
-        "María",
-        "Pamela",
-        "Cristina",
-        "Angelina"
+        "Brad Pitt",
+        "Leonardo DiCaprio",
+        "Matt Damon",
+        "Christian Bale"
       ],
       "correct": 1,
       "category": "ninos",
       "level": "medio"
     },
     {
-      "question": "Este tropo se refiere a personajes menores que mueren para mostrar cómo funciona un monstruo.",
+      "question": "¿Quién interpretó a Freddy Krueger en el remake de 2010 de Pesadilla en Elm Street?",
       "answers": [
-        "Camisa Roja",
-        "Consumibles",
-        "Carne de Cañón",
-        "Minions"
-      ],
-      "correct": 0,
-      "category": "ninos",
-      "level": "medio"
-    },
-    {
-      "question": "¿Qué personaje de las películas de Winnie the Pooh fue añadido por Disney y no aparece en los libros originales?",
-      "answers": [
-        "Tigre",
-        "Heffalumps",
-        "Tuza",
-        "Conejo"
-      ],
-      "correct": 2,
-      "category": "ninos",
-      "level": "medio"
-    },
-    {
-      "question": "¿Cuál es la frase correcta para el dicho latino \"Romanes Eunt Domus\" en La vida de Brian de Monty Python?",
-      "answers": [
-        "Tomate Ite Domum",
-        "Romani Ite Domum",
-        "Roxani Ite Domum",
-        "Los Romanos Regresan a Casa"
-      ],
-      "correct": 1,
-      "category": "ninos",
-      "level": "medio"
-    },
-    {
-      "question": "En la película británica de 1979 \"Quadrophenia\", ¿cómo se llama la ciudad costera que visitan los mods?",
-      "answers": [
-        "Bridlington",
-        "Brighton",
-        "Eastbourne",
-        "Ratonera"
-      ],
-      "correct": 1,
-      "category": "ninos",
-      "level": "medio"
-    },
-    {
-      "question": "En la película “El Gigante de Hierro”, este personaje es el protagonista.",
-      "answers": [
-        "Annie Hughes",
-        "Hogarth Hughes",
-        "Dean McCoppin",
-        "Kent Mansley"
-      ],
-      "correct": 1,
-      "category": "ninos",
-      "level": "medio"
-    },
-    {
-      "question": "Antes de conseguir la escopeta, ¿qué quería comprar el vagabundo titular de 'Hobo with a Shotgun'?",
-      "answers": [
-        "Una Cortadora de Césped",
-        "Un Revólver",
-        "Una Guitarra",
-        "Un Traje"
-      ],
-      "correct": 0,
-      "category": "ninos",
-      "level": "medio"
-    },
-    {
-      "question": "¿Leonardo Di Caprio ganó su primer Oscar al Mejor Actor por su actuación en qué película?",
-      "answers": [
-        "Inicio",
-        "Isla de Persiana",
-        "El Renacido",
-        "El Lobo de Wall Street"
-      ],
-      "correct": 2,
-      "category": "ninos",
-      "level": "medio"
-    },
-    {
-      "question": "En el reinicio de Nightmare on Elm Street de 2010, ¿quién interpretó a Freddy Kruger?",
-      "answers": [
-        "Jackie Earl Haley",
+        "Jackie Earle Haley",
         "Derek Mears",
-        "Tyler Mané",
-        "Gunnar Hansen"
+        "Tyler Mane",
+        "Robert Englund"
       ],
       "correct": 0,
       "category": "ninos",
       "level": "medio"
     },
     {
-      "question": "¿Qué película del director de cine Stanley Kubrick se sabe que es una adaptación de una novela de Stephen King?",
+      "question": "¿Qué película de Kubrick adapta una novela de Stephen King?",
       "answers": [
-        "Dr. Amor Extraño",
-        "El Resplandor",
-        "Ojos Bien Cerrados",
-        "2001: Una Odisea en el Espacio"
+        "2001: Una odisea del espacio",
+        "El resplandor",
+        "Eyes Wide Shut",
+        "La naranja mecánica"
       ],
       "correct": 1,
       "category": "ninos",
       "level": "medio"
     },
     {
-      "question": "¿Qué cantante famoso fue interpretado por el actor Kevin Spacey en la película biográfica de 2004 \"Más allá del mar\"?",
+      "question": "¿Quién interpreta a Bruce Wayne en El caballero oscuro (2008)?",
       "answers": [
-        "Bobby Darín",
-        "Luis Armstrong",
-        "Frank Sinatra",
-        "Dean Martín"
-      ],
-      "correct": 0,
-      "category": "ninos",
-      "level": "medio"
-    },
-    {
-      "question": "¿Quién interpreta a \"Bruce Wayne\" en la película de 2008 \"El caballero de la noche\"?",
-      "answers": [
-        "Ron Dean",
-        "Cristian Bale",
+        "Christian Bale",
         "Heath Ledger",
-        "Michael Caín"
+        "Michael Caine",
+        "Gary Oldman"
       ],
-      "correct": 1,
+      "correct": 0,
       "category": "ninos",
       "level": "medio"
     },
     {
-      "question": "¿Cómo se llama el robot del clásico del cine de ciencia ficción de 1951 'El día que la Tierra se detuvo'?",
+      "question": "¿Cómo se llama el robot del clásico El día que la Tierra se detuvo?",
       "answers": [
         "Robby",
-        "Gorta",
-        "Coloso",
-        "Caja"
+        "Gort",
+        "Colossus",
+        "B-9"
       ],
       "correct": 1,
       "category": "ninos",
       "level": "medio"
     },
     {
-      "question": "En la franquicia Mad Max, ¿qué tipo de coche es el Pursuit Special conducido por Max?",
-      "answers": [
-        "Halcón",
-        "Cargador Chrysler Valiente",
-        "Pontiac Pájaro de Fuego",
-        "Holden Monaro"
-      ],
-      "correct": 0,
-      "category": "ninos",
-      "level": "medio"
-    },
-    {
-      "question": "¿En qué país se rodó íntegramente la serie de películas de Peter Jackson \"El Señor de los Anillos\"?",
+      "question": "¿En qué país se rodó casi toda la trilogía de El Señor de los Anillos?",
       "answers": [
         "Canadá",
         "Nueva Zelanda",
@@ -4527,23 +4371,23 @@
       "level": "medio"
     },
     {
-      "question": "En Regreso al futuro II, ¿a qué fecha futura van Marty y el Dr. Emmett Brown?",
+      "question": "En Regreso al futuro II, ¿a qué fecha viajan Marty y Doc?",
       "answers": [
-        "20 de Julio de 2015",
-        "25 de Enero de 2015",
-        "21 de Octubre de 2015",
-        "28 de Agosto de 2015"
+        "20 de julio de 2015",
+        "21 de octubre de 2015",
+        "25 de enero de 2015",
+        "28 de agosto de 2015"
       ],
-      "correct": 2,
+      "correct": 1,
       "category": "ninos",
       "level": "medio"
     },
     {
-      "question": "¿Qué comediante puso voz al loro parlante \"Iago\" en la adaptación de Aladdin de Disney de 1992?",
+      "question": "¿Qué comediante puso voz a Iago en Aladdin (1992)?",
       "answers": [
         "Robin Williams",
-        "Gilberto Gottfried",
-        "Pauly Costa",
+        "Gilbert Gottfried",
+        "Pauly Shore",
         "Jonathan Freeman"
       ],
       "correct": 1,
@@ -4551,202 +4395,58 @@
       "level": "medio"
     },
     {
-      "question": "¿La actriz Susan Sarandon contrajo neumonía durante el rodaje de qué película?",
+      "question": "¿Qué película de Eddie Murphy intercambia identidades con Dan Aykroyd?",
       "answers": [
-        "El Espectáculo de Imágenes de Terror de Rocky",
-        "Hombre Muerto Caminando",
-        "Encantada",
-        "Telma y Luisa"
-      ],
-      "correct": 0,
-      "category": "ninos",
-      "level": "medio"
-    },
-    {
-      "question": "Después de la India, ¿qué país produce el segundo mayor número de películas al año?",
-      "answers": [
-        "China",
-        "Nigeria",
-        "Estados Unidos",
-        "Francia"
+        "Coming to America",
+        "Trading Places",
+        "The Blues Brothers",
+        "Beverly Hills Cop"
       ],
       "correct": 1,
       "category": "ninos",
       "level": "medio"
     },
     {
-      "question": "¿Qué clásico de culto de la comedia de los 90 presenta cameos de Meat Loaf, Alice Cooper y Chris Farley?",
+      "question": "¿Por qué vuelve John Wick a la acción en la primera película?",
       "answers": [
-        "La Excelente Aventura de Bill y Ted",
-        "El Mundo de Wayne",
-        "Austin Powers: el Hombre Internacional del Misterio",
-        "Tontos y Más Tontos"
-      ],
-      "correct": 1,
-      "category": "ninos",
-      "level": "medio"
-    },
-    {
-      "question": "Ed Koch, alcalde de Nueva York en 1984, ¿en qué película de los Muppets se interpretó a sí mismo?",
-      "answers": [
-        "El Cuento de Navidad de los Muppets",
-        "La Gran Travesura de los Muppets",
-        "La Película de los Muppets",
-        "Los Muppets Toman Manhattan"
-      ],
-      "correct": 3,
-      "category": "ninos",
-      "level": "medio"
-    },
-    {
-      "question": "¿Qué actor audicionó para el papel de Luke Skywalker?",
-      "answers": [
-        "James Remar",
-        "Kurt Russell",
-        "Cristóbal Lambert",
-        "Laurence Fishburne"
-      ],
-      "correct": 1,
-      "category": "ninos",
-      "level": "medio"
-    },
-    {
-      "question": "¿Cuál de estos clásicos de Disney se estrenó en 1970?",
-      "answers": [
-        "Los Aristogatos",
-        "Ciento Un Dálmatas",
-        "El Zorro y el Perro",
-        "La Sirenita"
+        "Porque matan a su cachorro y le roban el coche",
+        "Porque necesita dinero",
+        "Porque lo echan del trabajo",
+        "Porque secuestran a su hermano"
       ],
       "correct": 0,
       "category": "ninos",
       "level": "medio"
     },
     {
-      "question": "¿Quién interpretó al barón Victor Frankestein en la película de terror de Hammer de 1957 \"La maldición de Frankenstein\"?",
+      "question": "¿Quién canta la mayoría de canciones de Spirit: Stallion of the Cimarron?",
       "answers": [
-        "Lon Chaney Jr.",
-        "Peter Cushing",
-        "Vicente Precio",
-        "Boris Karloff"
-      ],
-      "correct": 1,
-      "category": "ninos",
-      "level": "medio"
-    },
-    {
-      "question": "¿Cuál era el nombre del personaje de Marilyn Monroe en la película \"Some Like It Hot\"?",
-      "answers": [
-        "Caramelo",
-        "Miel",
-        "Azúcar",
-        "Caramelo"
-      ],
-      "correct": 2,
-      "category": "ninos",
-      "level": "medio"
-    },
-    {
-      "question": "¿Cómo se llama el artista de foley que diseñó los famosos sonidos de Star Wars, incluido el rugido de Chewbacca y los pitidos y silbidos de R2-D2?",
-      "answers": [
-        "Miranda Keyes",
-        "Ralph Mc Quarrie",
-        "Ben Burtt",
-        "Ken Burns"
-      ],
-      "correct": 2,
-      "category": "ninos",
-      "level": "medio"
-    },
-    {
-      "question": "¿En qué país africano se desarrolló principalmente la película 'Blood Diamond' de 2006?",
-      "answers": [
-        "Sierra Leona",
-        "Burkina Faso",
-        "Liberia",
-        "República Centroafricana"
-      ],
-      "correct": 0,
-      "category": "ninos",
-      "level": "medio"
-    },
-    {
-      "question": "¿Cuál fue otro nombre sugerido para la película de 1985, Regreso al futuro?",
-      "answers": [
-        "Los Viajeros del Tiempo",
-        "El Hombre Afortunado",
-        "Astronauta de Plutón",
-        "Viajeros del Tiempo de Hill Valley"
-      ],
-      "correct": 2,
-      "category": "ninos",
-      "level": "medio"
-    },
-    {
-      "question": "¿En qué película Eddie Murphy intercambia identidades con Dan Aykroyd?",
-      "answers": [
-        "Cazafantasmas",
-        "Viniendo a America",
-        "Lugares Comerciales",
-        "Los Hermanos del Blues"
-      ],
-      "correct": 2,
-      "category": "ninos",
-      "level": "medio"
-    },
-    {
-      "question": "En la película \"John Wick\" ¿por qué John Wick sale del retiro?",
-      "answers": [
-        "Matan a Su Cachorro y Le Roban el Auto",
-        "Necesitaba Dinero",
-        "Lo Asaltaron",
-        "Le Dieron Un Puñetazo en la Cara"
-      ],
-      "correct": 0,
-      "category": "ninos",
-      "level": "medio"
-    },
-    {
-      "question": "¿Quién proporcionó la mayoría de las canciones y letras de \"Spirit: Stallion of the Cimarron\"?",
-      "answers": [
-        "Aplastar la Boca",
+        "Smash Mouth",
         "Bryan Adams",
         "Oasis",
-        "Suministro de Aire"
+        "Air Supply"
       ],
       "correct": 1,
       "category": "ninos",
       "level": "medio"
     },
     {
-      "question": "¿En qué película el personaje de Robin Williams tiene que disfrazarse de mujer?",
+      "question": "¿En qué película Robin Williams se disfraza de mujer?",
       "answers": [
-        "Sra. Doubtfire",
+        "Mrs. Doubtfire",
         "Jumanji",
         "Despertares",
-        "Perros Viejos"
+        "Hook"
       ],
       "correct": 0,
       "category": "ninos",
       "level": "medio"
     },
     {
-      "question": "¿En qué película de 1955 Frank Sinatra interpreta a Nathan Detroit?",
-      "answers": [
-        "Levantan Anclas",
-        "De Aquí a la Eternidad",
-        "Chicos y Muñecas",
-        "Alta Sociedad"
-      ],
-      "correct": 2,
-      "category": "ninos",
-      "level": "medio"
-    },
-    {
-      "question": "¿Quién interpretó a Batman en la película de 1997 \"Batman y Robin\"?",
+      "question": "¿Quién interpretó a Batman en Batman y Robin (1997)?",
       "answers": [
         "George Clooney",
-        "Cristian Bale",
+        "Christian Bale",
         "Val Kilmer",
         "Michael Keaton"
       ],
@@ -4755,59 +4455,47 @@
       "level": "medio"
     },
     {
-      "question": "¿Cómo se llama la primera película de \"Star Wars\" por orden de estreno?",
+      "question": "¿Cuál es la primera película de Star Wars por fecha de estreno?",
       "answers": [
-        "La Venganza de los Sith",
-        "La Amenaza Fantasma",
-        "Una Nueva Esperanza",
-        "La Fuerza Despierta"
-      ],
-      "correct": 2,
-      "category": "ninos",
-      "level": "medio"
-    },
-    {
-      "question": "¿Qué secuela de película tuvo mejores resultados de taquilla en comparación con su película original?",
-      "answers": [
-        "Hijo de la Mascara",
-        "Sin City: Una Dama Por la Que Matar",
-        "Velocidad 2: Control de Crucero",
-        "Historia del Juguete 2"
-      ],
-      "correct": 3,
-      "category": "ninos",
-      "level": "medio"
-    },
-    {
-      "question": "¿Qué película destronó Avatar de James Cameron como la película más taquillera de la historia?",
-      "answers": [
-        "Guerra de las Galaxias",
-        "Titánico",
-        "Mandíbulas",
-        "Lo Que el Viento Se Llevó"
+        "La amenaza fantasma",
+        "Una nueva esperanza",
+        "La venganza de los Sith",
+        "El despertar de la Fuerza"
       ],
       "correct": 1,
       "category": "ninos",
       "level": "medio"
     },
     {
-      "question": "¿Cuál de estas películas está rodada íntegramente en una sola toma?",
+      "question": "¿Qué secuela recaudó claramente más que su película original?",
       "answers": [
-        "Hombre Pájaro",
-        "Caza de Buena Voluntad",
-        "La Lista de Schindler",
-        "Arca Rusa"
+        "Son of the Mask",
+        "Sin City: A Dame to Kill For",
+        "Speed 2",
+        "Toy Story 2"
       ],
       "correct": 3,
       "category": "ninos",
       "level": "medio"
     },
     {
-      "question": "En \"El Hobbit\", ¿quién era el jefe del Consejo Blanco?",
+      "question": "¿Qué película está rodada realmente en una sola toma?",
+      "answers": [
+        "Birdman",
+        "Arca rusa",
+        "La lista de Schindler",
+        "Good Will Hunting"
+      ],
+      "correct": 1,
+      "category": "ninos",
+      "level": "medio"
+    },
+    {
+      "question": "En El Hobbit, ¿quién lidera el Concilio Blanco?",
       "answers": [
         "Saruman",
         "Gandalf",
-        "Señora Galadriel",
+        "Galadriel",
         "Elrond"
       ],
       "correct": 0,

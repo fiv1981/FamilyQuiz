@@ -1,3009 +1,359 @@
 {
   "general": [
     {
-      "question": "¿Qué tipo de conducta ilegal ha cometido un delincuente que ha “maquillado los libros”?",
-      "answers": [
-        "Chantaje",
-        "Fraude Contable",
-        "Extorsión",
-        "Lavado de Dinero"
-      ],
-      "correct": 1,
-      "category": "general",
-      "level": "nino"
-    },
-    {
-      "question": "Según el Libro del Génesis en el Antiguo Testamento, ¿cuántos días le tomó a Dios crear el mundo?",
-      "answers": [
-        "Uno",
-        "Siete",
-        "Seis",
-        "Doce"
-      ],
+      "question": "¿Cuántos días tiene una semana?",
+      "answers": ["5", "6", "7", "8"],
       "correct": 2,
       "category": "general",
       "level": "nino"
     },
     {
-      "question": "¿Cuál es el apellido del famoso Papa John?",
-      "answers": [
-        "Williams",
-        "Schnatter",
-        "ANDERSON",
-        "Sopa de Pescado"
-      ],
-      "correct": 1,
-      "category": "general",
-      "level": "nino"
-    },
-    {
-      "question": "¿Cuántas sílabas componen un haiku?",
-      "answers": [
-        "17",
-        "10",
-        "15",
-        "21"
-      ],
+      "question": "¿Qué color tiene el cielo en un día despejado?",
+      "answers": ["Azul", "Verde", "Rojo", "Negro"],
       "correct": 0,
       "category": "general",
       "level": "nino"
     },
     {
-      "question": "¿Por qué producto alimenticio es más conocida la empresa estadounidense \"Campbell's\"?",
-      "answers": [
-        "Salchichas",
-        "Sopas Enlatadas",
-        "Refrescos",
-        "Chocolate"
-      ],
+      "question": "¿Qué animal dice miau?",
+      "answers": ["Perro", "Gato", "Pato", "Caballo"],
       "correct": 1,
       "category": "general",
       "level": "nino"
     },
     {
-      "question": "¿Cuál de estos no es un diseño de espada típico europeo?",
-      "answers": [
-        "Ulfberht",
-        "Bracamole",
-        "Cimitarra",
-        "Flamberge"
-      ],
+      "question": "¿Qué usamos para ver?",
+      "answers": ["Ojos", "Orejas", "Nariz", "Manos"],
+      "correct": 0,
+      "category": "general",
+      "level": "nino"
+    },
+    {
+      "question": "¿Cuántos meses tiene un año?",
+      "answers": ["10", "11", "12", "13"],
       "correct": 2,
       "category": "general",
       "level": "nino"
     },
     {
-      "question": "¿Cuándo se fundó el sitio web reddit?",
-      "answers": [
-        "2004",
-        "2005",
-        "2006",
-        "2008"
-      ],
-      "correct": 1,
-      "category": "general",
-      "level": "nino"
-    },
-    {
-      "question": "¿Cómo se llama el Año Nuevo judío?",
-      "answers": [
-        "Año Nuevo",
-        "Rosh Hashaná",
-        "Elul",
-        "Éxito"
-      ],
-      "correct": 1,
-      "category": "general",
-      "level": "nino"
-    },
-    {
-      "question": "Si viaja a una velocidad de 80 mph, ¿cuánto tiempo le tomará recorrer 80 millas?",
-      "answers": [
-        "30 Minutos",
-        "60 Minutos",
-        "50 Minutos",
-        "90 Minutos"
-      ],
-      "correct": 1,
-      "category": "general",
-      "level": "nino"
-    },
-    {
-      "question": "¿Qué tipo de animal era Harambe, que recibió un disparo después de que un niño cayera dentro de su recinto en el Zoológico de Cincinnati?",
-      "answers": [
-        "Gorila",
-        "Panda",
-        "Tigre",
-        "Cocodrilo"
-      ],
+      "question": "¿Qué fruta suele ser amarilla?",
+      "answers": ["Plátano", "Fresa", "Cereza", "Mora"],
       "correct": 0,
       "category": "general",
       "level": "nino"
     },
     {
-      "question": "En Half-Life, ¿cómo se llama el extraterrestre que se adhiere a las cabezas?",
-      "answers": [
-        "Vortigante",
-        "Abrazador de Cara",
-        "Cangrejo",
-        "Calamar Toro"
-      ],
-      "correct": 2,
-      "category": "general",
-      "level": "nino"
-    },
-    {
-      "question": "¿Qué país tiene la Union Jack en su bandera?",
-      "answers": [
-        "Nueva Zelanda",
-        "Sudáfrica",
-        "Canadá",
-        "Hong Kong"
-      ],
-      "correct": 0,
-      "category": "general",
-      "level": "nino"
-    },
-    {
-      "question": "¿Qué frutos secos se utilizan en la elaboración del mazapán?",
-      "answers": [
-        "Almendras",
-        "Nueces",
-        "Pistachos",
-        "Maní"
-      ],
-      "correct": 0,
-      "category": "general",
-      "level": "nino"
-    },
-    {
-      "question": "¿Cómo se llamaba el mal cuadro de Sqiudward en el episodio de Bob Esponja \"Artista desconocido\"?",
-      "answers": [
-        "Bits Rasgados",
-        "Calamardo en Reposo",
-        "Atrevido y Atrevido",
-        "Perspectivas Inclinadas"
-      ],
-      "correct": 2,
-      "category": "general",
-      "level": "nino"
-    },
-    {
-      "question": "¿Cómo llaman los marineros a la parte trasera de un barco?",
-      "answers": [
-        "Estribor",
-        "Puerto",
-        "Popa",
-        "Arco"
-      ],
-      "correct": 2,
-      "category": "general",
-      "level": "nino"
-    },
-    {
-      "question": "¿Cómo se llama el telescopio espacial más famoso de la NASA?",
-      "answers": [
-        "Ojo Grande",
-        "Halcón Milenario",
-        "Telescopio Espacial Hubble",
-        "Estrella de la Muerte"
-      ],
-      "correct": 2,
-      "category": "general",
-      "level": "nino"
-    },
-    {
-      "question": "¿Quién interpretó al general Aladeen en El dictador?",
-      "answers": [
-        "James Franco",
-        "Sacha Barón Cohen",
-        "Leonardo Dicaprio",
-        "Johnny Depp"
-      ],
+      "question": "¿Qué bebida sale de una vaca?",
+      "answers": ["Zumo", "Leche", "Té", "Café"],
       "correct": 1,
       "category": "general",
       "level": "nino"
     },
     {
-      "question": "¿Cuál es el planeta más cercano al sol de nuestro sistema solar?",
-      "answers": [
-        "Mercurio",
-        "Marte",
-        "Júpiter",
-        "Tierra"
-      ],
-      "correct": 0,
-      "category": "general",
-      "level": "nino"
-    },
-    {
-      "question": "¿Qué canal conecta el mar Mediterráneo con el mar Rojo?",
-      "answers": [
-        "Canal de Qaraqum",
-        "Canal del Sinaí",
-        "Canal de Suez",
-        "Canal de Panamá"
-      ],
-      "correct": 2,
-      "category": "general",
-      "level": "nino"
-    },
-    {
-      "question": "El foie gras es un manjar francés que se elabora típicamente con ¿qué parte de pato o ganso?",
-      "answers": [
-        "Hígado",
-        "Estómago",
-        "Corazón",
-        "Intestinos"
-      ],
-      "correct": 0,
-      "category": "general",
-      "level": "nino"
-    },
-    {
-      "question": "¿En qué galaxia se encuentra la Tierra?",
-      "answers": [
-        "El Agujero Negro",
-        "La Vía Láctea",
-        "La Nota Galaxia",
-        "La Galaxia de Marte"
-      ],
+      "question": "¿Qué parte del día viene después de la tarde?",
+      "answers": ["Mañana", "Noche", "Mediodía", "Amanecer"],
       "correct": 1,
       "category": "general",
       "level": "nino"
     },
     {
-      "question": "¿La mascota de qué restaurante es un payaso?",
-      "answers": [
-        "McDonald's",
-        "Qué Hamburguesa",
-        "Hamburguesa Rey",
-        "Sonico"
-      ],
+      "question": "¿Qué animal pone huevos y dice cacareo?",
+      "answers": ["Gallina", "Perro", "Conejo", "Vaca"],
       "correct": 0,
       "category": "general",
       "level": "nino"
     },
     {
-      "question": "¿Cuál de estos juegos de Marvel se lanzó en Playstation 2?",
-      "answers": [
-        "Wolverine: Ira de Adamantium",
-        "Howard el Pato",
-        "El Hombre Araña 2",
-        "Surfista Plateado"
-      ],
-      "correct": 2,
-      "category": "general",
-      "level": "nino"
-    },
-    {
-      "question": "Según la canción infantil, ¿qué fruta sacó el pequeño Jack Horner de su pastel de Navidad?",
-      "answers": [
-        "Durazno",
-        "Manzana",
-        "Ciruela",
-        "Pera"
-      ],
-      "correct": 2,
-      "category": "general",
-      "level": "nino"
-    },
-    {
-      "question": "En aerodinámica, ¿qué fuerza empuja un objeto hacia arriba?",
-      "answers": [
-        "Empuje",
-        "Ascensor",
-        "Peso",
-        "Arrastrar"
-      ],
+      "question": "¿Qué usamos para sentarnos?",
+      "answers": ["Mesa", "Silla", "Lámpara", "Puerta"],
       "correct": 1,
-      "category": "general",
-      "level": "nino"
-    },
-    {
-      "question": "¿Cuántas estrellas tiene la bandera de la Unión Europea?",
-      "answers": [
-        "10",
-        "12",
-        "14",
-        "16"
-      ],
-      "correct": 1,
-      "category": "general",
-      "level": "nino"
-    },
-    {
-      "question": "¿Cuál de los siguientes es el código IATA del aeropuerto de Manchester?",
-      "answers": [
-        "AECT",
-        "LHR",
-        "HOMBRE",
-        "EGLL"
-      ],
-      "correct": 2,
-      "category": "general",
-      "level": "nino"
-    },
-    {
-      "question": "¿Qué signo del zodíaco está representado por el Cangrejo?",
-      "answers": [
-        "Libra",
-        "Virgo",
-        "Cáncer",
-        "Sagitario"
-      ],
-      "correct": 2,
-      "category": "general",
-      "level": "nino"
-    },
-    {
-      "question": "¿Qué signo del zodíaco se sitúa entre Virgo y Escorpio?",
-      "answers": [
-        "Capricornio",
-        "Libra",
-        "Tauro",
-        "Géminis"
-      ],
-      "correct": 1,
-      "category": "general",
-      "level": "nino"
-    },
-    {
-      "question": "¿Qué tecnología lleva el nombre de un gobernante de Dinamarca y Noruega del siglo X?",
-      "answers": [
-        "GPS",
-        "Bluetooth",
-        "Wifi",
-        "Internet"
-      ],
-      "correct": 1,
-      "category": "general",
-      "level": "nino"
-    },
-    {
-      "question": "¿En qué año se independizó Ghana?",
-      "answers": [
-        "1947",
-        "1957",
-        "1958",
-        "1960"
-      ],
-      "correct": 1,
-      "category": "general",
-      "level": "nino"
-    },
-    {
-      "question": "Virgin Trains, Virgin Atlantic y Virgin Racing, ¿son todas empresas propiedad de qué empresario famoso?",
-      "answers": [
-        "Donald Trump",
-        "Alan Azúcar",
-        "Bill Gates",
-        "Richard Branson"
-      ],
-      "correct": 3,
-      "category": "general",
-      "level": "nino"
-    },
-    {
-      "question": "¿Dónde está la estación de tren Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch?",
-      "answers": [
-        "Dinamarca",
-        "Gales",
-        "Moldavia",
-        "República Checa"
-      ],
-      "correct": 1,
-      "category": "general",
-      "level": "nino"
-    },
-    {
-      "question": "¿Qué juguete más vendido de 1983 causó histeria y provocó disturbios en las tiendas?",
-      "answers": [
-        "Niños de Repollo",
-        "Ositos Cariñosos",
-        "Transformadores",
-        "El Cubo de Rubik"
-      ],
-      "correct": 0,
-      "category": "general",
-      "level": "nino"
-    },
-    {
-      "question": "¿A qué le teme la cinofobia?",
-      "answers": [
-        "Gérmenes",
-        "Perros",
-        "Volando",
-        "Aves"
-      ],
-      "correct": 1,
-      "category": "general",
-      "level": "nino"
-    },
-    {
-      "question": "¿Cuándo se lanzó la Playstation 3?",
-      "answers": [
-        "25 de Diciembre de 2007",
-        "8 de Enero de 2007",
-        "11 de Noviembre de 2006",
-        "16 de Julio de 2006"
-      ],
-      "correct": 2,
-      "category": "general",
-      "level": "nino"
-    },
-    {
-      "question": "¿Cuál fue la primera línea del metro de Londres que se construyó?",
-      "answers": [
-        "Línea Bakerloo",
-        "Línea Metropolitana",
-        "Línea Victoria",
-        "Línea Circular"
-      ],
-      "correct": 1,
-      "category": "general",
-      "level": "nino"
-    },
-    {
-      "question": "¿Cuál es la palabra francesa para \"pescado\"?",
-      "answers": [
-        "Veneno",
-        "Ficha",
-        "Caracoles",
-        "Mer"
-      ],
-      "correct": 0,
-      "category": "general",
-      "level": "nino"
-    },
-    {
-      "question": "¿El Corán es el libro sagrado de qué religión abrahámica?",
-      "answers": [
-        "Islam",
-        "Judaísmo",
-        "Rastafarianismo",
-        "Cristianismo"
-      ],
-      "correct": 0,
-      "category": "general",
-      "level": "nino"
-    },
-    {
-      "question": "¿Cuál fue el apodo que se le dio al Hughes H-4 Hercules, un hidroavión de transporte pesado que logró volar en 1947?",
-      "answers": [
-        "Ganso Abeto",
-        "Hombre Gordo",
-        "Arca de Noé",
-        "Caballo de Troya"
-      ],
-      "correct": 0,
-      "category": "general",
-      "level": "nino"
-    },
-    {
-      "question": "¿Qué país ha tenido primeros ministros llamados Eden, Major, Peel, Law, Brown y Heath?",
-      "answers": [
-        "Nueva Zelanda",
-        "Canadá",
-        "Reino Unido",
-        "Australia"
-      ],
-      "correct": 2,
-      "category": "general",
-      "level": "nino"
-    },
-    {
-      "question": "¿Para combatir qué se toman generalmente antibióticos?",
-      "answers": [
-        "Infecciones Bacterianas",
-        "Virus",
-        "Migrañas",
-        "Dolores Musculares"
-      ],
-      "correct": 0,
-      "category": "general",
-      "level": "nino"
-    },
-    {
-      "question": "¿Qué idioma se habla más en Suiza?",
-      "answers": [
-        "Alemán",
-        "Italiano",
-        "Suizo",
-        "Francés"
-      ],
-      "correct": 0,
-      "category": "general",
-      "level": "nino"
-    },
-    {
-      "question": "¿Cuál es la moneda de la India y Pakistán, así como de algunos otros países asiáticos?",
-      "answers": [
-        "Rupia",
-        "Peso",
-        "Rial",
-        "Dinar"
-      ],
-      "correct": 0,
-      "category": "general",
-      "level": "nino"
-    },
-    {
-      "question": "¿La imagen de qué presidente aparece en el raro billete de 2 dólares de la moneda estadounidense?",
-      "answers": [
-        "Beca Ulises",
-        "John Quincy Adams",
-        "Thomas Jefferson",
-        "Martin Van Buren"
-      ],
-      "correct": 2,
-      "category": "general",
-      "level": "nino"
-    },
-    {
-      "question": "¿De qué están hechos los sombreros panamá?",
-      "answers": [
-        "Seda",
-        "Lino",
-        "Paja",
-        "Cáñamo"
-      ],
-      "correct": 2,
-      "category": "general",
-      "level": "nino"
-    },
-    {
-      "question": "¿Cuál de los siguientes componentes sanguíneos forma un tapón en el lugar de las lesiones?",
-      "answers": [
-        "Glóbulos Blancos",
-        "Plasma Sanguíneo",
-        "Glóbulos Rojos",
-        "Plaquetas"
-      ],
-      "correct": 3,
-      "category": "general",
-      "level": "nino"
-    },
-    {
-      "question": "¿Qué elemento tiene el símbolo químico Kr?",
-      "answers": [
-        "Queroseno",
-        "Criptón",
-        "Curio",
-        "Cinético"
-      ],
-      "correct": 1,
-      "category": "general",
-      "level": "nino"
-    },
-    {
-      "question": "¿Qué fruta es un ingrediente tradicional del pastel de la Selva Negra?",
-      "answers": [
-        "Pasas",
-        "Albaricoques",
-        "Manzanas",
-        "Cerezas"
-      ],
-      "correct": 3,
-      "category": "general",
-      "level": "nino"
-    },
-    {
-      "question": "En un calendario gregoriano estándar, ¿cuántos meses comienzan con la letra \"J\"?",
-      "answers": [
-        "Tres",
-        "Cinco",
-        "Cuatro",
-        "Dos"
-      ],
-      "correct": 0,
       "category": "general",
       "level": "nino"
     }
   ],
   "geografia": [
     {
-      "question": "¿El país de Belice limita con qué país?",
-      "answers": [
-        "Guatemala",
-        "Perú",
-        "Kenia",
-        "Laos"
-      ],
-      "correct": 0,
-      "category": "geografia",
-      "level": "nino"
-    },
-    {
-      "question": "¿Qué estado de EE. UU. está más al noreste?",
-      "answers": [
-        "Maine",
-        "Georgia",
-        "Nueva York",
-        "Florida"
-      ],
-      "correct": 0,
-      "category": "geografia",
-      "level": "nino"
-    },
-    {
-      "question": "¿Cuál es la capital de Dinamarca?",
-      "answers": [
-        "Ålborg",
-        "Copenhague",
-        "Odense",
-        "Århus"
-      ],
+      "question": "¿Cuál es la capital de España?",
+      "answers": ["Barcelona", "Madrid", "Sevilla", "Valencia"],
       "correct": 1,
       "category": "geografia",
       "level": "nino"
     },
     {
-      "question": "¿Cuál de las siguientes lenguas europeas está clasificada como una \"lengua aislada\"?",
-      "answers": [
-        "Maltés",
-        "Gallego",
-        "Vasco",
-        "Húngaro"
-      ],
+      "question": "¿En qué continente está España?",
+      "answers": ["Europa", "Asia", "África", "América"],
+      "correct": 0,
+      "category": "geografia",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué país tiene forma de bota?",
+      "answers": ["Italia", "Francia", "Alemania", "Portugal"],
+      "correct": 0,
+      "category": "geografia",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué océano baña la costa oeste de América?",
+      "answers": ["Atlántico", "Pacífico", "Índico", "Ártico"],
+      "correct": 1,
+      "category": "geografia",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué país tiene una hoja de arce en su bandera?",
+      "answers": ["México", "Brasil", "Canadá", "India"],
       "correct": 2,
       "category": "geografia",
       "level": "nino"
     },
     {
-      "question": "¿Cuál de estos países africanos incluye el \"español\" como idioma oficial?",
-      "answers": [
-        "Angola",
-        "Camerún",
-        "Guinea Ecuatorial",
-        "Guinea"
-      ],
+      "question": "¿Cuál es la capital de Francia?",
+      "answers": ["Roma", "París", "Lisboa", "Berlín"],
+      "correct": 1,
+      "category": "geografia",
+      "level": "nino"
+    },
+    {
+      "question": "¿En qué país está Río de Janeiro?",
+      "answers": ["Chile", "Argentina", "Brasil", "Perú"],
       "correct": 2,
       "category": "geografia",
       "level": "nino"
     },
     {
-      "question": "¿Cuál es la decimoquinta letra del alfabeto griego?",
-      "answers": [
-        "Ómicrón (Ο)",
-        "Pi (Π)",
-        "Sigma (Σ)",
-        "Nu (Ν)"
-      ],
+      "question": "¿Qué ciudad es la capital del Reino Unido?",
+      "answers": ["Londres", "Dublín", "Manchester", "Liverpool"],
+      "correct": 0,
+      "category": "geografia",
+      "level": "nino"
+    },
+    {
+      "question": "¿Dónde están las pirámides de Egipto?",
+      "answers": ["África", "Europa", "Asia", "Oceanía"],
       "correct": 0,
       "category": "geografia",
       "level": "nino"
     },
     {
       "question": "¿Cuál es el país más grande del mundo?",
-      "answers": [
-        "Brasil",
-        "Federación Rusa",
-        "Canadá",
-        "China"
-      ],
+      "answers": ["China", "Rusia", "Canadá", "Estados Unidos"],
       "correct": 1,
-      "category": "geografia",
-      "level": "nino"
-    },
-    {
-      "question": "¿Cuál de las siguientes islas japonesas es la más grande?",
-      "answers": [
-        "Shikoku",
-        "Hokkaidō",
-        "Honshu",
-        "Kyūshū"
-      ],
-      "correct": 2,
-      "category": "geografia",
-      "level": "nino"
-    },
-    {
-      "question": "¿Cuál es la provincia más pequeña de Canadá?",
-      "answers": [
-        "Nueva Escocia",
-        "Yukón",
-        "Isla del Príncipe Eduardo",
-        "Nuevo Brunswick"
-      ],
-      "correct": 2,
-      "category": "geografia",
-      "level": "nino"
-    },
-    {
-      "question": "¿Cuál es la capital de Corea del Sur?",
-      "answers": [
-        "Taegu",
-        "Seúl",
-        "Pionyang",
-        "Kitakyūshū"
-      ],
-      "correct": 1,
-      "category": "geografia",
-      "level": "nino"
-    },
-    {
-      "question": "¿Cuántas zonas horarias tiene China?",
-      "answers": [
-        "1",
-        "4",
-        "2",
-        "3"
-      ],
-      "correct": 0,
-      "category": "geografia",
-      "level": "nino"
-    },
-    {
-      "question": "¿Con cuantos países limita México?",
-      "answers": [
-        "2",
-        "4",
-        "3",
-        "1"
-      ],
-      "correct": 2,
-      "category": "geografia",
-      "level": "nino"
-    },
-    {
-      "question": "¿Cuál de estas regiones africanas *no* limita directamente con la República Democrática del Congo?",
-      "answers": [
-        "Sudán",
-        "Zambia",
-        "Tanzanía",
-        "República Centroafricana"
-      ],
-      "correct": 0,
-      "category": "geografia",
-      "level": "nino"
-    },
-    {
-      "question": "¿Los Alpes son una cadena montañosa en qué continente?",
-      "answers": [
-        "Asia",
-        "Europa",
-        "América del Norte",
-        "África"
-      ],
-      "correct": 1,
-      "category": "geografia",
-      "level": "nino"
-    },
-    {
-      "question": "¿Qué país NO era parte de la Unión Soviética?",
-      "answers": [
-        "Rumania",
-        "Bielorrusia",
-        "Tayikistán",
-        "Turkmenistán"
-      ],
-      "correct": 0,
-      "category": "geografia",
-      "level": "nino"
-    },
-    {
-      "question": "¿En qué océano se encuentra la isla Reunión?",
-      "answers": [
-        "Océano Índico",
-        "Océano Atlántico",
-        "Océano Pacífico Norte",
-        "Océano Pacífico Sur"
-      ],
-      "correct": 0,
-      "category": "geografia",
-      "level": "nino"
-    },
-    {
-      "question": "¿A cuál de los siguientes países europeos y sus estatus económicos se refiere el burlón acrónimo \"PIIGS\"?",
-      "answers": [
-        "Polonia, Islandia, Italia, Groenlandia, España",
-        "Portugal, Islandia, Irlanda, Grecia, Serbia",
-        "Portugal, Irlanda, Italia, Grecia, España",
-        "Polonia, Islandia, Italia, Grecia, Serbia"
-      ],
-      "correct": 2,
-      "category": "geografia",
-      "level": "nino"
-    },
-    {
-      "question": "¿Cuál es el país más pequeño del mundo?",
-      "answers": [
-        "Ciudad del Vaticano",
-        "Mónaco",
-        "Maldivas",
-        "Malta"
-      ],
-      "correct": 0,
-      "category": "geografia",
-      "level": "nino"
-    },
-    {
-      "question": "¿Cómo se llama el océano en el que se encuentra Hawaii?",
-      "answers": [
-        "Ártico",
-        "Pacífico",
-        "Indio",
-        "Atlántico"
-      ],
-      "correct": 1,
-      "category": "geografia",
-      "level": "nino"
-    },
-    {
-      "question": "¿Cuál es la capital de Jamaica?",
-      "answers": [
-        "Kingston",
-        "San Juan",
-        "Puerto Príncipe",
-        "Bridgetown"
-      ],
-      "correct": 0,
-      "category": "geografia",
-      "level": "nino"
-    },
-    {
-      "question": "¿Cuál es la capital del estado estadounidense de Nueva York?",
-      "answers": [
-        "Rochester",
-        "Nueva York",
-        "Albany",
-        "Búfalo"
-      ],
-      "correct": 2,
-      "category": "geografia",
-      "level": "nino"
-    },
-    {
-      "question": "¿Cuál de estos lugares es una ubicación en Cornualles?",
-      "answers": [
-        "Alicante",
-        "Madrid",
-        "Barcelona",
-        "Lisboa"
-      ],
-      "correct": 2,
-      "category": "geografia",
-      "level": "nino"
-    },
-    {
-      "question": "¿Qué país tiene una hoja de arce en su bandera?",
-      "answers": [
-        "Brasil",
-        "Canadá",
-        "India",
-        "México"
-      ],
-      "correct": 1,
-      "category": "geografia",
-      "level": "nino"
-    },
-    {
-      "question": "¿Cuál es el país más grande, por área, que tiene una sola zona horaria?",
-      "answers": [
-        "Canadá",
-        "China",
-        "India",
-        "Rusia"
-      ],
-      "correct": 1,
-      "category": "geografia",
-      "level": "nino"
-    },
-    {
-      "question": "¿Qué océano bordea la costa oeste de los Estados Unidos?",
-      "answers": [
-        "Pacífico",
-        "Indio",
-        "Ártico",
-        "Atlántico"
-      ],
-      "correct": 0,
-      "category": "geografia",
-      "level": "nino"
-    },
-    {
-      "question": "¿Cuál de los siguientes estados de la ex Yugoslavia no tiene salida al mar?",
-      "answers": [
-        "Bosnia y Herzegovina",
-        "Serbia",
-        "Montenegro",
-        "Croacia"
-      ],
-      "correct": 1,
-      "category": "geografia",
-      "level": "nino"
-    },
-    {
-      "question": "¿Qué país es el segundo más grande del mundo por superficie?",
-      "answers": [
-        "Canadá",
-        "Estados Unidos de America",
-        "China",
-        "Rusia"
-      ],
-      "correct": 0,
-      "category": "geografia",
-      "level": "nino"
-    },
-    {
-      "question": "¿Cuál de estos es el nombre de la ciudad más grande del estado estadounidense de Tennessee?",
-      "answers": [
-        "Alejandría",
-        "Menfis",
-        "Tebas",
-        "Lúxor"
-      ],
-      "correct": 1,
-      "category": "geografia",
-      "level": "nino"
-    },
-    {
-      "question": "La Ciudad del Vaticano, el país más pequeño del mundo, ¿está completamente rodeada por qué país?",
-      "answers": [
-        "España",
-        "Alemania",
-        "Italia",
-        "Francia"
-      ],
-      "correct": 2,
-      "category": "geografia",
-      "level": "nino"
-    },
-    {
-      "question": "¿Cuál es la capital de España?",
-      "answers": [
-        "Barcelona",
-        "Madrid",
-        "Sevilla",
-        "Toledo"
-      ],
-      "correct": 1,
-      "category": "geografia",
-      "level": "nino"
-    },
-    {
-      "question": "¿Cuál de los siguientes idiomas NO utiliza el alfabeto latino?",
-      "answers": [
-        "Georgiano",
-        "Vietnamita",
-        "Turco",
-        "Suajili"
-      ],
-      "correct": 0,
-      "category": "geografia",
-      "level": "nino"
-    },
-    {
-      "question": "¿Qué país del Reino Unido tiene un dragón en su bandera?",
-      "answers": [
-        "Irlanda del Norte",
-        "Escocia",
-        "Inglaterra",
-        "Gales"
-      ],
-      "correct": 3,
-      "category": "geografia",
-      "level": "nino"
-    },
-    {
-      "question": "¿Aproximadamente cuantos países hay en el mundo?",
-      "answers": [
-        "200",
-        "100",
-        "500",
-        "300"
-      ],
-      "correct": 0,
-      "category": "geografia",
-      "level": "nino"
-    },
-    {
-      "question": "¿Cuál es la capital del estado americano de Arizona?",
-      "answers": [
-        "Tallahassee",
-        "Montgomery",
-        "Fénix",
-        "Raleigh"
-      ],
-      "correct": 2,
-      "category": "geografia",
-      "level": "nino"
-    },
-    {
-      "question": "¿Cuál es la capital de Finlandia?",
-      "answers": [
-        "Macedonia",
-        "Helsinki",
-        "Oslo",
-        "Jabraltar"
-      ],
-      "correct": 1,
-      "category": "geografia",
-      "level": "nino"
-    },
-    {
-      "question": "¿En qué continente está Guyana?",
-      "answers": [
-        "América del Sur",
-        "América del Norte",
-        "África",
-        "Asia"
-      ],
-      "correct": 0,
-      "category": "geografia",
-      "level": "nino"
-    },
-    {
-      "question": "¿Cuál de los siguientes países árabes NO tiene una bandera que contenga únicamente colores panárabes?",
-      "answers": [
-        "Jordania",
-        "Catar",
-        "Emiratos Árabes Unidos",
-        "Kuwait"
-      ],
-      "correct": 1,
-      "category": "geografia",
-      "level": "nino"
-    },
-    {
-      "question": "¿Qué ciudad europea es conocida como la \"Ciudad de la Luz\"?",
-      "answers": [
-        "Londres",
-        "Roma",
-        "París",
-        "Madrid"
-      ],
-      "correct": 2,
-      "category": "geografia",
-      "level": "nino"
-    },
-    {
-      "question": "¿Cuál es la ciudad polaca conocida por los alemanes como Danzig?",
-      "answers": [
-        "Zakopane",
-        "Poznan",
-        "Gdansk",
-        "Varsovia"
-      ],
-      "correct": 2,
-      "category": "geografia",
-      "level": "nino"
-    },
-    {
-      "question": "¿Cuál es el idioma oficial de Costa Rica?",
-      "answers": [
-        "Ingles",
-        "Español",
-        "Portugués",
-        "Criollo"
-      ],
-      "correct": 1,
-      "category": "geografia",
-      "level": "nino"
-    },
-    {
-      "question": "¿En qué país está la ciudad de Río de Janeiro?",
-      "answers": [
-        "Brasil",
-        "Venezuela",
-        "Chile",
-        "Perú"
-      ],
-      "correct": 0,
-      "category": "geografia",
-      "level": "nino"
-    },
-    {
-      "question": "¿Cómo se llama la península que contiene a España y Portugal?",
-      "answers": [
-        "Península Europea",
-        "Península del Peloponeso",
-        "Península Ibérica",
-        "Península Escandinava"
-      ],
-      "correct": 2,
-      "category": "geografia",
-      "level": "nino"
-    },
-    {
-      "question": "¿Entre qué dos naciones se encuentra la frontera compartida más larga del mundo?",
-      "answers": [
-        "Canadá y Estados Unidos",
-        "India y Pakistán",
-        "Rusia y China",
-        "Chile y Argentina"
-      ],
-      "correct": 0,
-      "category": "geografia",
-      "level": "nino"
-    },
-    {
-      "question": "¿En qué animal se basó el cuerpo de la Esfinge egipcia?",
-      "answers": [
-        "Caballo",
-        "León",
-        "Toro",
-        "Perro"
-      ],
-      "correct": 1,
-      "category": "geografia",
-      "level": "nino"
-    },
-    {
-      "question": "¿Qué estado de EE. UU. tiene la mayor población?",
-      "answers": [
-        "California",
-        "Tejas",
-        "Florida",
-        "Nueva York"
-      ],
-      "correct": 0,
-      "category": "geografia",
-      "level": "nino"
-    },
-    {
-      "question": "¿Qué zona de Europa del Este es famosa por su asociación con los vampiros?",
-      "answers": [
-        "Transilvania",
-        "Silesia",
-        "Eslovaquia",
-        "Macedonia"
-      ],
-      "correct": 0,
-      "category": "geografia",
-      "level": "nino"
-    },
-    {
-      "question": "¿Qué ciudad es la más grande de Canadá?",
-      "answers": [
-        "Montréal",
-        "Vancouver",
-        "Ottawa",
-        "Toronto"
-      ],
-      "correct": 3,
-      "category": "geografia",
-      "level": "nino"
-    },
-    {
-      "question": "¿Groenlandia es parte de qué reino?",
-      "answers": [
-        "Reino Unido",
-        "Suecia",
-        "Dinamarca",
-        "Noruega"
-      ],
-      "correct": 2,
-      "category": "geografia",
-      "level": "nino"
-    },
-    {
-      "question": "¿Cuál de estos NO es un estado o territorio australiano?",
-      "answers": [
-        "Victoria",
-        "Queensland",
-        "Nueva Gales del Sur",
-        "Alberta"
-      ],
-      "correct": 3,
-      "category": "geografia",
-      "level": "nino"
-    },
-    {
-      "question": "¿Con cuántos países Estados Unidos comparte frontera terrestre?",
-      "answers": [
-        "2",
-        "1",
-        "3",
-        "4"
-      ],
-      "correct": 0,
       "category": "geografia",
       "level": "nino"
     }
   ],
   "ciencia": [
     {
-      "question": "¿Cuál es la \"potencia\" de la célula animal eucariota?",
-      "answers": [
-        "Retículo Endoplásmico",
-        "Mitocondrias",
-        "Cloroplasto",
-        "Núcleo"
-      ],
+      "question": "¿Cuántos planetas hay en el Sistema Solar?",
+      "answers": ["7", "8", "9", "10"],
       "correct": 1,
       "category": "ciencia",
       "level": "nino"
     },
     {
-      "question": "¿Cuál es el peso atómico estándar de un núcleo de plutonio?",
-      "answers": [
-        "481",
-        "94",
-        "244",
-        "128"
-      ],
+      "question": "¿Cuál es el planeta más cercano al Sol?",
+      "answers": ["Venus", "Tierra", "Mercurio", "Marte"],
       "correct": 2,
-      "category": "ciencia",
-      "level": "nino"
-    },
-    {
-      "question": "El 71% de la superficie terrestre está formada por",
-      "answers": [
-        "Continentes",
-        "Agua",
-        "Bosques",
-        "Desiertos"
-      ],
-      "correct": 1,
-      "category": "ciencia",
-      "level": "nino"
-    },
-    {
-      "question": "¿Qué significa ADN?",
-      "answers": [
-        "Ácido Desoxirribonucleico",
-        "Átomos Desoxirribogenéticos",
-        "Ácido Desoxirribogenético",
-        "Ácido Detoxico"
-      ],
-      "correct": 0,
-      "category": "ciencia",
-      "level": "nino"
-    },
-    {
-      "question": "¿Cuántos cromosomas hay en las células de tu cuerpo?",
-      "answers": [
-        "24",
-        "23",
-        "22",
-        "21"
-      ],
-      "correct": 1,
-      "category": "ciencia",
-      "level": "nino"
-    },
-    {
-      "question": "¿Qué orgánulo ayuda en la síntesis de ADN en las células?",
-      "answers": [
-        "Lisosomas",
-        "Núcleos",
-        "Ribosomas",
-        "Mitocondrias"
-      ],
-      "correct": 2,
-      "category": "ciencia",
-      "level": "nino"
-    },
-    {
-      "question": "¿Cuál de los siguientes huesos no está en la pierna?",
-      "answers": [
-        "Tibia",
-        "Radio",
-        "Peroné",
-        "Rótula"
-      ],
-      "correct": 1,
-      "category": "ciencia",
-      "level": "nino"
-    },
-    {
-      "question": "¿Cuántas cámaras tiene el corazón humano?",
-      "answers": [
-        "6",
-        "4",
-        "2",
-        "3"
-      ],
-      "correct": 1,
-      "category": "ciencia",
-      "level": "nino"
-    },
-    {
-      "question": "¿La rinoplastia es un procedimiento quirúrgico en qué parte del cuerpo humano?",
-      "answers": [
-        "Barbilla",
-        "Nariz",
-        "Cuello",
-        "Orejas"
-      ],
-      "correct": 1,
-      "category": "ciencia",
-      "level": "nino"
-    },
-    {
-      "question": "¿Qué gas noble tiene el número atómico más bajo?",
-      "answers": [
-        "Helio",
-        "Argón",
-        "Neón",
-        "Criptón"
-      ],
-      "correct": 0,
-      "category": "ciencia",
-      "level": "nino"
-    },
-    {
-      "question": "¿Qué significa LÁSER?",
-      "answers": [
-        "Amplificador de Luz Mediante Energía de Reserva de Radio.",
-        "Antimateria Viva Al Entrar de Pie en el Rango",
-        "Amplificación de la Luz Mediante Emisión Estimulada de Radiación.",
-        "Análisis Lite Por Ecorazer Estéreo."
-      ],
-      "correct": 2,
-      "category": "ciencia",
-      "level": "nino"
-    },
-    {
-      "question": "¿Cuál de estos elementos es un metaloide?",
-      "answers": [
-        "Antimonio",
-        "Estaño",
-        "Bromo",
-        "Rubidio"
-      ],
-      "correct": 0,
       "category": "ciencia",
       "level": "nino"
     },
     {
       "question": "¿Cuántas lunas tiene la Tierra?",
-      "answers": [
-        "1",
-        "2",
-        "3",
-        "0"
-      ],
-      "correct": 0,
-      "category": "ciencia",
-      "level": "nino"
-    },
-    {
-      "question": "¿Cuál es el elemento más abundante en el universo?",
-      "answers": [
-        "Litio",
-        "Helio",
-        "Hidrógeno",
-        "Oxígeno"
-      ],
-      "correct": 2,
-      "category": "ciencia",
-      "level": "nino"
-    },
-    {
-      "question": "¿Qué nombre se le da a todas las crías de marsupiales?",
-      "answers": [
-        "Cachorro",
-        "Cachorro",
-        "Joey",
-        "Becerro"
-      ],
-      "correct": 2,
-      "category": "ciencia",
-      "level": "nino"
-    },
-    {
-      "question": "¿Cuál es el nombre común del compuesto químico \"monóxido de dihidrógeno\"?",
-      "answers": [
-        "Metano",
-        "Gas de la Risa",
-        "Agua",
-        "Amoníaco"
-      ],
-      "correct": 2,
-      "category": "ciencia",
-      "level": "nino"
-    },
-    {
-      "question": "¿Cuál es la unidad SI estándar para distancia?",
-      "answers": [
-        "Pie",
-        "Metro",
-        "Braza",
-        "Angstrom"
-      ],
+      "answers": ["0", "1", "2", "3"],
       "correct": 1,
       "category": "ciencia",
       "level": "nino"
     },
     {
-      "question": "¿Cuántas leyes de la termodinámica existen?",
-      "answers": [
-        "Cuatro",
-        "Tres",
-        "Dos",
-        "Cinco"
-      ],
+      "question": "¿Qué gas respiramos para vivir?",
+      "answers": ["Helio", "Oxígeno", "Nitrógeno", "Vapor"],
+      "correct": 1,
+      "category": "ciencia",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué astro nos da luz y calor durante el día?",
+      "answers": ["Luna", "Sol", "Marte", "Venus"],
+      "correct": 1,
+      "category": "ciencia",
+      "level": "nino"
+    },
+    {
+      "question": "¿Cuál es el animal más grande del mundo?",
+      "answers": ["Elefante", "Ballena azul", "Jirafa", "Orca"],
+      "correct": 1,
+      "category": "ciencia",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué parte de la planta está bajo tierra?",
+      "answers": ["Flor", "Raíz", "Hoja", "Fruto"],
+      "correct": 1,
+      "category": "ciencia",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué planeta es conocido como el planeta rojo?",
+      "answers": ["Marte", "Júpiter", "Saturno", "Mercurio"],
       "correct": 0,
       "category": "ciencia",
       "level": "nino"
     },
     {
-      "question": "¿Cuántos planetas hay en nuestro Sistema Solar?",
-      "answers": [
-        "Diez",
-        "Siete",
-        "Ocho",
-        "Nueve"
-      ],
+      "question": "¿Cuántos huesos tiene un adulto aproximadamente?",
+      "answers": ["106", "206", "306", "406"],
+      "correct": 1,
+      "category": "ciencia",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué parte del cuerpo bombea la sangre?",
+      "answers": ["Pulmón", "Hígado", "Corazón", "Estómago"],
       "correct": 2,
-      "category": "ciencia",
-      "level": "nino"
-    },
-    {
-      "question": "¿Las estrellas se componen principalmente de hidrógeno y de qué otro gas?",
-      "answers": [
-        "Helio",
-        "Argón",
-        "Oxígeno",
-        "Nitrógeno"
-      ],
-      "correct": 0,
-      "category": "ciencia",
-      "level": "nino"
-    },
-    {
-      "question": "¿Cuál es la masa atómica del carbono?",
-      "answers": [
-        "10",
-        "12",
-        "16",
-        "14"
-      ],
-      "correct": 1,
-      "category": "ciencia",
-      "level": "nino"
-    },
-    {
-      "question": "¿Cuál es la unidad de resistencia eléctrica?",
-      "answers": [
-        "Ohmios",
-        "Mho",
-        "Tesla",
-        "Julio"
-      ],
-      "correct": 0,
-      "category": "ciencia",
-      "level": "nino"
-    },
-    {
-      "question": "Este elemento, cuando se supera con calor y presión extremos, crea diamantes.",
-      "answers": [
-        "Hidrógeno",
-        "Oxígeno",
-        "Carbono",
-        "Nitrógeno"
-      ],
-      "correct": 2,
-      "category": "ciencia",
-      "level": "nino"
-    },
-    {
-      "question": "¿Qué elemento tiene el punto de fusión más alto?",
-      "answers": [
-        "Platino",
-        "Tungsteno",
-        "Carbono",
-        "Osmio"
-      ],
-      "correct": 2,
-      "category": "ciencia",
-      "level": "nino"
-    },
-    {
-      "question": "¿Cómo se llamó el primer satélite artificial de la Tierra, lanzado por la Unión Soviética en 1957?",
-      "answers": [
-        "Vosjod 3KV",
-        "Sputnik 1",
-        "Zenit-2",
-        "Soyuz 7K-OK"
-      ],
-      "correct": 1,
-      "category": "ciencia",
-      "level": "nino"
-    },
-    {
-      "question": "¿El hielo seco es la forma sólida de qué sustancia?",
-      "answers": [
-        "Nitrógeno",
-        "Dióxido de Carbono",
-        "Amoníaco",
-        "Oxígeno"
-      ],
-      "correct": 1,
-      "category": "ciencia",
-      "level": "nino"
-    },
-    {
-      "question": "¿Cuántos huesos hay en el cuerpo humano?",
-      "answers": [
-        "200",
-        "209",
-        "206",
-        "203"
-      ],
-      "correct": 2,
-      "category": "ciencia",
-      "level": "nino"
-    },
-    {
-      "question": "¿Cuál es el planeta más caliente del sistema solar?",
-      "answers": [
-        "Júpiter",
-        "Mercurio",
-        "Venus",
-        "Marte"
-      ],
-      "correct": 2,
-      "category": "ciencia",
-      "level": "nino"
-    },
-    {
-      "question": "¿Cuál es el primer elemento de la tabla periódica?",
-      "answers": [
-        "Litio",
-        "Hidrógeno",
-        "Oxígeno",
-        "Helio"
-      ],
-      "correct": 1,
-      "category": "ciencia",
-      "level": "nino"
-    },
-    {
-      "question": "¿Cuál es el animal más grande actualmente en la Tierra?",
-      "answers": [
-        "Calamar Colosal",
-        "Ballena Azul",
-        "Orca",
-        "Jirafa"
-      ],
-      "correct": 1,
-      "category": "ciencia",
-      "level": "nino"
-    },
-    {
-      "question": "¿Cuál es un ejemplo de un patógeno bacteriano?",
-      "answers": [
-        "Sarampión",
-        "Cólera",
-        "Tiña",
-        "SIDA"
-      ],
-      "correct": 1,
-      "category": "ciencia",
-      "level": "nino"
-    },
-    {
-      "question": "¿Qué animal participa en el experimento mental más famoso de Schrödinger?",
-      "answers": [
-        "Murciélago",
-        "Perro",
-        "Mariposa",
-        "Gato"
-      ],
-      "correct": 3,
-      "category": "ciencia",
-      "level": "nino"
-    },
-    {
-      "question": "¿Quién descubrió la Ley de la Gravedad?",
-      "answers": [
-        "Albert Einstein",
-        "Señor Isaac Newton",
-        "Galileo Galilei",
-        "Carlos Darwin"
-      ],
-      "correct": 1,
-      "category": "ciencia",
-      "level": "nino"
-    },
-    {
-      "question": "¿Cuál es la velocidad de la luz en el vacío?",
-      "answers": [
-        "299.792.458m/S",
-        "308.215.043m/S",
-        "50.461m/S",
-        "751.665.014.151m/S"
-      ],
-      "correct": 0,
-      "category": "ciencia",
-      "level": "nino"
-    },
-    {
-      "question": "¿Cuál es la unidad estándar del SI para el tiempo?",
-      "answers": [
-        "Dia",
-        "Segundo",
-        "Hora",
-        "Minuto"
-      ],
-      "correct": 1,
-      "category": "ciencia",
-      "level": "nino"
-    },
-    {
-      "question": "¿Cuál es la capa delgada y más externa de la Tierra?",
-      "answers": [
-        "Manto",
-        "Exosfera",
-        "Corteza",
-        "Núcleo Exterior"
-      ],
-      "correct": 2,
-      "category": "ciencia",
-      "level": "nino"
-    },
-    {
-      "question": "¿Qué elemento tiene el símbolo químico 'Fe'?",
-      "answers": [
-        "Plata",
-        "Hierro",
-        "Estaño",
-        "Oro"
-      ],
-      "correct": 1,
-      "category": "ciencia",
-      "level": "nino"
-    },
-    {
-      "question": "¿Qué significa la letra 'S' en 'NASA'?",
-      "answers": [
-        "Espacio",
-        "Ciencia",
-        "Sociedad",
-        "Estrella"
-      ],
-      "correct": 0,
-      "category": "ciencia",
-      "level": "nino"
-    },
-    {
-      "question": "¿Cuál de los siguientes es el término médico para el ombligo?",
-      "answers": [
-        "Ombligo",
-        "Nares",
-        "Paxilo",
-        "Nevo"
-      ],
-      "correct": 0,
-      "category": "ciencia",
-      "level": "nino"
-    },
-    {
-      "question": "La mayor distinción entre una célula eucariota y una célula procariótica es:",
-      "answers": [
-        "La Presencia o Ausencia de Un Núcleo.",
-        "La Presencia o Ausencia de Ciertos Orgánulos.",
-        "El Tamaño Total",
-        "El Modo de Reproducción."
-      ],
-      "correct": 0,
-      "category": "ciencia",
-      "level": "nino"
-    },
-    {
-      "question": "¿Cuál es el símbolo químico del helio?",
-      "answers": [
-        "Hg",
-        "Hs",
-        "El",
-        "H"
-      ],
-      "correct": 2,
-      "category": "ciencia",
-      "level": "nino"
-    },
-    {
-      "question": "¿Cuál es la principal sustancia adictiva que se encuentra en el tabaco?",
-      "answers": [
-        "Nicotina",
-        "Catinona",
-        "Efedrina",
-        "Glaucina"
-      ],
-      "correct": 0,
-      "category": "ciencia",
-      "level": "nino"
-    },
-    {
-      "question": "¿Cuántos planetas hay en el Sistema Solar?",
-      "answers": [
-        "8",
-        "11",
-        "10",
-        "9"
-      ],
-      "correct": 0,
-      "category": "ciencia",
-      "level": "nino"
-    },
-    {
-      "question": "¿Qué gas forma aproximadamente el 78% de la atmósfera terrestre?",
-      "answers": [
-        "Nitrógeno",
-        "Argón",
-        "Oxígeno",
-        "Dióxido de Carbono"
-      ],
-      "correct": 0,
-      "category": "ciencia",
-      "level": "nino"
-    },
-    {
-      "question": "¿Cuántos planetas forman nuestro Sistema Solar?",
-      "answers": [
-        "9",
-        "6",
-        "8",
-        "7"
-      ],
-      "correct": 2,
-      "category": "ciencia",
-      "level": "nino"
-    },
-    {
-      "question": "¿Cuántas copias de cada gen suelen tener las células humanas?",
-      "answers": [
-        "1",
-        "3",
-        "2",
-        "4"
-      ],
-      "correct": 2,
-      "category": "ciencia",
-      "level": "nino"
-    },
-    {
-      "question": "¿Cuál es el planeta más grande del Sistema Solar?",
-      "answers": [
-        "Tierra",
-        "Marte",
-        "Saturno",
-        "Júpiter"
-      ],
-      "correct": 3,
-      "category": "ciencia",
-      "level": "nino"
-    },
-    {
-      "question": "¿Qué misión Apolo fue la primera en aterrizar en la Luna?",
-      "answers": [
-        "Apolo 10",
-        "Apolo 11",
-        "Apolo 13",
-        "Apolo 9"
-      ],
-      "correct": 1,
-      "category": "ciencia",
-      "level": "nino"
-    },
-    {
-      "question": "¿Cuál de los siguientes vasos sanguíneos transporta sangre desoxigenada?",
-      "answers": [
-        "Aorta",
-        "Vena Pulmonar",
-        "Arteria Coronaria",
-        "Arteria Pulmonar"
-      ],
-      "correct": 3,
-      "category": "ciencia",
-      "level": "nino"
-    },
-    {
-      "question": "¿Cuál de los siguientes elementos interviene en hacer que la sangre humana sea roja?",
-      "answers": [
-        "Hierro",
-        "Iridio",
-        "Cobre",
-        "Cobalto"
-      ],
-      "correct": 0,
       "category": "ciencia",
       "level": "nino"
     }
   ],
   "historia": [
     {
-      "question": "¿Cuál era el apodo de Manfred von Richthofen?",
-      "answers": [
-        "La Serpiente Azul",
-        "El Barón Rojo",
-        "El Artillero Alemán",
-        "El As de los Altos Vuelos"
-      ],
-      "correct": 1,
-      "category": "historia",
-      "level": "nino"
-    },
-    {
-      "question": "¿Cuál de estos países permaneció neutral durante la Segunda Guerra Mundial?",
-      "answers": [
-        "Reino Unido",
-        "Suiza",
-        "Francia",
-        "Italia"
-      ],
-      "correct": 1,
-      "category": "historia",
-      "level": "nino"
-    },
-    {
-      "question": "¿Quién era el primer ministro de Japón cuando Japón declaró la guerra a Estados Unidos?",
-      "answers": [
-        "Fumimaro Konoe",
-        "Yamamoto Isoroku",
-        "Hideki Tojo",
-        "Michinomiya Hirohito"
-      ],
-      "correct": 2,
-      "category": "historia",
-      "level": "nino"
-    },
-    {
-      "question": "¿Cuántos barcos hermanos estaban relacionados con el TItanic?",
-      "answers": [
-        "4",
-        "3",
-        "2",
-        "1"
-      ],
-      "correct": 2,
-      "category": "historia",
-      "level": "nino"
-    },
-    {
-      "question": "En 1453, ¿qué ciudad importante cayó?",
-      "answers": [
-        "Constantinopla",
-        "Hamburgo",
-        "Atenas",
-        "Roma"
-      ],
+      "question": "¿Quién descubrió América para los europeos en 1492?",
+      "answers": ["Cristóbal Colón", "Miguel de Cervantes", "Napoleón", "Julio César"],
       "correct": 0,
       "category": "historia",
       "level": "nino"
     },
     {
-      "question": "¿Quién dirigió la Revolución Comunista de Rusia?",
-      "answers": [
-        "Vladímir Lenin",
-        "José Stalin",
-        "Vladímir Putin",
-        "Mijaíl Gorbachov"
-      ],
+      "question": "¿Quién fue el primer ser humano en pisar la Luna?",
+      "answers": ["Buzz Aldrin", "Neil Armstrong", "Yuri Gagarin", "Michael Collins"],
+      "correct": 1,
+      "category": "historia",
+      "level": "nino"
+    },
+    {
+      "question": "¿En qué país están las pirámides más famosas?",
+      "answers": ["Grecia", "Egipto", "Italia", "México"],
+      "correct": 1,
+      "category": "historia",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué imperio construyó el Coliseo de Roma?",
+      "answers": ["Egipcio", "Romano", "Azteca", "Chino"],
+      "correct": 1,
+      "category": "historia",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué guerra ocurrió antes?",
+      "answers": ["Segunda Guerra Mundial", "Primera Guerra Mundial", "Guerra Fría", "Ninguna"],
+      "correct": 1,
+      "category": "historia",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué famosa muralla está en China?",
+      "answers": ["Muro de Berlín", "Gran Muralla China", "Muro de Adriano", "Muralla Roja"],
+      "correct": 1,
+      "category": "historia",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué invento permitió hablar con alguien a distancia con la voz?",
+      "answers": ["Teléfono", "Televisión", "Microondas", "Reloj"],
       "correct": 0,
       "category": "historia",
       "level": "nino"
     },
     {
-      "question": "¿Cuándo se fundó Google?",
-      "answers": [
-        "12 de Diciembre de 1989",
-        "7 de Febrero de 2000",
-        "4 de Septiembre de 1998",
-        "9 de Octubre de 1997"
-      ],
-      "correct": 2,
-      "category": "historia",
-      "level": "nino"
-    },
-    {
-      "question": "¿Cuál de los siguientes países no fue una potencia del eje durante la Segunda Guerra Mundial?",
-      "answers": [
-        "Alemania",
-        "Italia",
-        "Unión Soviética",
-        "Japón"
-      ],
-      "correct": 2,
-      "category": "historia",
-      "level": "nino"
-    },
-    {
-      "question": "¿El \"Sendero de Lágrimas\" fue el resultado de qué política de expulsión de indios del Presidente de los Estados Unidos?",
-      "answers": [
-        "John Quincy Adams",
-        "Andres Jackson",
-        "Martin Van Buren",
-        "Harry Truman"
-      ],
+      "question": "¿Qué ciudad quedó famosa por un gran muro que cayó en 1989?",
+      "answers": ["París", "Berlín", "Roma", "Londres"],
       "correct": 1,
       "category": "historia",
       "level": "nino"
     },
     {
-      "question": "¿Qué país moderno es la región que en la antigüedad se conocía como Frigia?",
-      "answers": [
-        "Siria",
-        "Turquía",
-        "Grecia",
-        "Egipto"
-      ],
+      "question": "¿Qué medio de transporte usaban mucho los caballeros medievales?",
+      "answers": ["Coche", "Caballo", "Avión", "Patinete"],
       "correct": 1,
       "category": "historia",
       "level": "nino"
     },
     {
-      "question": "En 1720, Inglaterra estaba endeudada enormemente y se vio involucrada en la Burbuja de los Mares del Sur. ¿Quién fue el principal autor intelectual detrás de esto?",
-      "answers": [
-        "Juan Blunt",
-        "Roberto Harley",
-        "Juan Iglesias",
-        "Daniel de Foe"
-      ],
+      "question": "¿Qué famoso barco se hundió en 1912?",
+      "answers": ["Titanic", "Santa María", "Mayflower", "Endeavour"],
       "correct": 0,
-      "category": "historia",
-      "level": "nino"
-    },
-    {
-      "question": "El alfabeto romano original carecía de las siguientes letras EXCEPTO:",
-      "answers": [
-        "W.",
-        "Ud.",
-        "X",
-        "J"
-      ],
-      "correct": 2,
-      "category": "historia",
-      "level": "nino"
-    },
-    {
-      "question": "¿En qué año se produjo el crack de Wall Street?",
-      "answers": [
-        "1929",
-        "1925",
-        "1930",
-        "1932"
-      ],
-      "correct": 0,
-      "category": "historia",
-      "level": "nino"
-    },
-    {
-      "question": "¿Cómo se llamaba comúnmente a las antiguas rutas comerciales que conectaban el este y el oeste de Eurasia?",
-      "answers": [
-        "Ruta de la Seda",
-        "Camino de Arcilla",
-        "Camino de las Especias",
-        "Camino de la Sal"
-      ],
-      "correct": 0,
-      "category": "historia",
-      "level": "nino"
-    },
-    {
-      "question": "¿Bajo cuál de las siguientes Brasil era una antigua colonia?",
-      "answers": [
-        "Países Bajos",
-        "Francia",
-        "Portugal",
-        "España"
-      ],
-      "correct": 2,
-      "category": "historia",
-      "level": "nino"
-    },
-    {
-      "question": "¿En qué año se diseñó la pistola M1911?",
-      "answers": [
-        "1907",
-        "1917",
-        "1911",
-        "1899"
-      ],
-      "correct": 2,
-      "category": "historia",
-      "level": "nino"
-    },
-    {
-      "question": "¿Cuál de estos no fue un lugar de desembarco en la playa durante la invasión de Normandía?",
-      "answers": [
-        "Juno",
-        "Espada",
-        "Plata",
-        "Oro"
-      ],
-      "correct": 2,
-      "category": "historia",
-      "level": "nino"
-    },
-    {
-      "question": "¿A qué partido político pertenecía Abraham Lincoln cuando fue elegido presidente?",
-      "answers": [
-        "Republicano",
-        "Independiente",
-        "Demócrata",
-        "Whig"
-      ],
-      "correct": 0,
-      "category": "historia",
-      "level": "nino"
-    },
-    {
-      "question": "¿Cuántos alunizajes tripulados ha habido?",
-      "answers": [
-        "6",
-        "7",
-        "3",
-        "1"
-      ],
-      "correct": 0,
-      "category": "historia",
-      "level": "nino"
-    },
-    {
-      "question": "¿Cuánto duró la Segunda Guerra Mundial?",
-      "answers": [
-        "5 Años",
-        "4 Años",
-        "6 Años",
-        "7 Años"
-      ],
-      "correct": 2,
-      "category": "historia",
-      "level": "nino"
-    },
-    {
-      "question": "¿Cuál de los siguientes pueblos antiguos NO fue clasificado como helénico (griego)?",
-      "answers": [
-        "Jonios",
-        "Aqueos",
-        "Ilirios",
-        "Dorios"
-      ],
-      "correct": 2,
-      "category": "historia",
-      "level": "nino"
-    },
-    {
-      "question": "¿Cuál de los siguientes países africanos tuvo más éxito en resistir la colonización?",
-      "answers": [
-        "Congo",
-        "Etiopía",
-        "Costa de Marfil",
-        "Namibia"
-      ],
-      "correct": 1,
-      "category": "historia",
-      "level": "nino"
-    },
-    {
-      "question": "¿En qué país se construyó y exportó la Estatua de la Libertad a los Estados Unidos de América?",
-      "answers": [
-        "Inglaterra",
-        "Francia",
-        "España",
-        "Alemania"
-      ],
-      "correct": 1,
-      "category": "historia",
-      "level": "nino"
-    },
-    {
-      "question": "¿El abolicionista John Brown asaltó el arsenal en qué ciudad de Virginia?",
-      "answers": [
-        "Ferry de Harper",
-        "Harrisonburg",
-        "Richmond",
-        "Martinsburg"
-      ],
-      "correct": 0,
-      "category": "historia",
-      "level": "nino"
-    },
-    {
-      "question": "¿Qué edad tenía Adolf Hitler cuando murió?",
-      "answers": [
-        "65",
-        "47",
-        "56",
-        "43"
-      ],
-      "correct": 2,
-      "category": "historia",
-      "level": "nino"
-    },
-    {
-      "question": "Durante la Segunda Guerra Mundial, en 1945, Estados Unidos lanzó bombas atómicas sobre las dos ciudades japonesas de Hiroshima y ¿qué otra ciudad?",
-      "answers": [
-        "Kawasaki",
-        "Nagasaki",
-        "Tokio",
-        "Kagoshima"
-      ],
-      "correct": 1,
-      "category": "historia",
-      "level": "nino"
-    },
-    {
-      "question": "¿Pol Pot fue el ex dictador de qué país?",
-      "answers": [
-        "Camboya",
-        "Corea del Norte",
-        "Vietnam",
-        "Laos"
-      ],
-      "correct": 0,
-      "category": "historia",
-      "level": "nino"
-    },
-    {
-      "question": "¿Qué mariscal de campo alemán era conocido como el \"Zorro del Desierto\"?",
-      "answers": [
-        "Wolfram Freiherr Von Richthofen",
-        "Erwin Rommel",
-        "Ernesto Busch",
-        "Lista de Guillermo"
-      ],
-      "correct": 1,
-      "category": "historia",
-      "level": "nino"
-    },
-    {
-      "question": "¿Quién montó a caballo para advertir a los Minutemen que los británicos vendrían durante la Guerra Revolucionaria de Estados Unidos?",
-      "answers": [
-        "Natalia Hale",
-        "Pablo Revere",
-        "Henry Longfellow",
-        "Tomás Paine"
-      ],
-      "correct": 1,
-      "category": "historia",
-      "level": "nino"
-    },
-    {
-      "question": "¿Cuándo comenzó la batalla del Somme?",
-      "answers": [
-        "1 de Agosto de 1916",
-        "1 de Julio de 1916",
-        "2 de Julio de 1916",
-        "30 de Junio de 1916"
-      ],
-      "correct": 1,
-      "category": "historia",
-      "level": "nino"
-    },
-    {
-      "question": "¿El rey Enrique VIII fue el segundo monarca de qué casa real europea?",
-      "answers": [
-        "Lancaster",
-        "Tudor",
-        "York",
-        "Estuardo"
-      ],
-      "correct": 1,
-      "category": "historia",
-      "level": "nino"
-    },
-    {
-      "question": "¿En qué año comenzó la Primera Guerra Mundial?",
-      "answers": [
-        "1905",
-        "1925",
-        "1919",
-        "1914"
-      ],
-      "correct": 3,
-      "category": "historia",
-      "level": "nino"
-    },
-    {
-      "question": "¿Cómo fue ejecutado Sócrates?",
-      "answers": [
-        "Decapitación",
-        "Crucifixión",
-        "Veneno",
-        "Pelotón de Fusilamiento"
-      ],
-      "correct": 2,
-      "category": "historia",
-      "level": "nino"
-    },
-    {
-      "question": "¿En qué guerra ocurrieron los bombardeos atómicos de Hiroshima y Nagasaki?",
-      "answers": [
-        "Primera Guerra Mundial",
-        "Guerra Ruso-Japonesa",
-        "Segunda Guerra Mundial",
-        "Primera Guerra Chino-Japonesa"
-      ],
-      "correct": 2,
-      "category": "historia",
-      "level": "nino"
-    },
-    {
-      "question": "¿Quién descubrió la penicilina?",
-      "answers": [
-        "Alfred Nobel",
-        "Alejandro Flemming",
-        "Luis Pasteur",
-        "María Curie"
-      ],
-      "correct": 1,
-      "category": "historia",
-      "level": "nino"
-    },
-    {
-      "question": "¿Quién estuvo entre los muertos en la tragedia del accidente aéreo de Smolensk, Rusia, en 2010?",
-      "answers": [
-        "Papa Juan Pablo II",
-        "El Presidente Polaco",
-        "Bang-Ding Ow",
-        "Alberto Putin"
-      ],
-      "correct": 1,
-      "category": "historia",
-      "level": "nino"
-    },
-    {
-      "question": "¿Cómo era mejor conocido William Frederick Cody?",
-      "answers": [
-        "El Salvaje Bill Hickok",
-        "Bill Pawnee",
-        "Billete de Búfalo",
-        "Billy el Niño"
-      ],
-      "correct": 2,
-      "category": "historia",
-      "level": "nino"
-    },
-    {
-      "question": "¿Cuándo son los idus de marzo?",
-      "answers": [
-        "31 de Marzo",
-        "14 de Marzo",
-        "15 de Marzo",
-        "1 de Marzo"
-      ],
-      "correct": 2,
-      "category": "historia",
-      "level": "nino"
-    },
-    {
-      "question": "¿Qué país moderno se conoce como \"El cementerio de los imperios\"?",
-      "answers": [
-        "Rusia",
-        "Afganistán",
-        "Irak",
-        "China"
-      ],
-      "correct": 1,
-      "category": "historia",
-      "level": "nino"
-    },
-    {
-      "question": "¿Cuál de estos países NO estuvo en las potencias centrales durante la Primera Guerra Mundial?",
-      "answers": [
-        "Austria-Hungría",
-        "España",
-        "Turquía",
-        "Alemania"
-      ],
-      "correct": 1,
-      "category": "historia",
-      "level": "nino"
-    },
-    {
-      "question": "¿Qué celebran los Estados Unidos de América durante el 4 de julio?",
-      "answers": [
-        "La Firma de la Declaración de Independencia",
-        "El Cruce del Río Delaware",
-        "La Ratificación de la Constitución",
-        "El Aniversario de la Batalla de Gettysburg"
-      ],
-      "correct": 0,
-      "category": "historia",
-      "level": "nino"
-    },
-    {
-      "question": "¿Cuál de estos tanques fue diseñado y operado por el Reino Unido?",
-      "answers": [
-        "M4 Sherman",
-        "Tigre H1",
-        "Tog II",
-        "T-34"
-      ],
-      "correct": 2,
-      "category": "historia",
-      "level": "nino"
-    },
-    {
-      "question": "¿Qué juego fue el Juego del Año en 2018?",
-      "answers": [
-        "Dios de la Guerra",
-        "Una Salida",
-        "Redención Muerta Roja 2",
-        "Detroit: Conviértete en Humano"
-      ],
-      "correct": 0,
-      "category": "historia",
-      "level": "nino"
-    },
-    {
-      "question": "¿En qué año se produjo el colapso de la Unión Soviética?",
-      "answers": [
-        "1891",
-        "1991",
-        "1992",
-        "1990"
-      ],
-      "correct": 1,
-      "category": "historia",
-      "level": "nino"
-    },
-    {
-      "question": "¿En qué guerra se disolvió el Imperio Otomano después de su pérdida?",
-      "answers": [
-        "Revolución Serbia",
-        "Segunda Guerra de los Balcanes",
-        "Primera Guerra Mundial",
-        "Guerra de Crimea"
-      ],
-      "correct": 2,
-      "category": "historia",
-      "level": "nino"
-    },
-    {
-      "question": "¿Qué líder mundial famoso es famoso por el dicho \"Que coman pastel\", pero se rumorea que nunca lo dijo?",
-      "answers": [
-        "Zar Nicolás II",
-        "Enrique VIII",
-        "María Antonieta",
-        "Isabel I"
-      ],
-      "correct": 2,
-      "category": "historia",
-      "level": "nino"
-    },
-    {
-      "question": "Estos dos países formaron una mancomunidad desde el siglo XVI al XVIII.",
-      "answers": [
-        "Corea del Norte y Corea del Sur",
-        "Bangladesh y Bután",
-        "Hutu y Ruanda",
-        "Polonia y Lituania"
-      ],
-      "correct": 3,
-      "category": "historia",
-      "level": "nino"
-    },
-    {
-      "question": "¿Quién fue el primer primer ministro de Canadá?",
-      "answers": [
-        "Robert Borden",
-        "Juan Macdonald",
-        "Juan Abbott",
-        "Alejandro Mackenzie"
-      ],
-      "correct": 1,
-      "category": "historia",
-      "level": "nino"
-    },
-    {
-      "question": "En 1939, Gran Bretaña y Francia declararon la guerra a Alemania después de que ésta invadiera ¿qué país?",
-      "answers": [
-        "Checoslovaquia",
-        "Hungría",
-        "Austria",
-        "Polonia"
-      ],
-      "correct": 3,
-      "category": "historia",
-      "level": "nino"
-    },
-    {
-      "question": "¿En qué año se fundió la central nuclear de Chernóbil?",
-      "answers": [
-        "1975",
-        "1991",
-        "1986",
-        "1998"
-      ],
-      "correct": 2,
       "category": "historia",
       "level": "nino"
     }
   ],
   "cine": [
     {
-      "question": "¿Cuál de estas películas NO está ambientada en Los Ángeles?",
-      "answers": [
-        "Robocop",
-        "El Terminador",
-        "Depredador 2",
-        "Cazador de Espadas"
-      ],
-      "correct": 0,
-      "category": "cine",
-      "level": "nino"
-    },
-    {
-      "question": "¿En cuál de estas películas no protagonizó Jeff Bridges?",
-      "answers": [
-        "El Dador",
-        "Los Odiosos Ocho",
-        "Tron: Legado",
-        "Verdadero Valor"
-      ],
+      "question": "¿Cómo se llama el muñeco vaquero de Toy Story?",
+      "answers": ["Buzz", "Woody", "Andy", "Rex"],
       "correct": 1,
       "category": "cine",
       "level": "nino"
     },
     {
-      "question": "¿Cuál fue el título de la primera película de Bond, estrenada en 1962?",
-      "answers": [
-        "Doctor No",
-        "Bola de Trueno",
-        "Dedo de Oro",
-        "Desde Rusia Con Amor"
-      ],
-      "correct": 0,
-      "category": "cine",
-      "level": "nino"
-    },
-    {
-      "question": "¿Qué película de James Bond tuvo el tema principal escrito e interpretado por la cantautora inglesa Adele?",
-      "answers": [
-        "Casino Real",
-        "Consuelo Cuántico",
-        "Caída del Cielo",
-        "Espectro"
-      ],
+      "question": "¿Qué superhéroe lleva una capa roja y una S en el pecho?",
+      "answers": ["Batman", "Spiderman", "Superman", "Hulk"],
       "correct": 2,
       "category": "cine",
       "level": "nino"
     },
     {
-      "question": "En la película de 1992 \"Army of Darkness\", ¿qué nombre le da Ash a su escopeta de dos cañones?",
-      "answers": [
-        "Palo de Auge",
-        "Rama Explosiva",
-        "Chump de 2 Bombas",
-        "Palo de Floración"
-      ],
-      "correct": 0,
-      "category": "cine",
-      "level": "nino"
-    },
-    {
-      "question": "¿Las tiendas 7-Eleven se convirtieron temporalmente en Kwik E-marts para promover el estreno de qué película?",
-      "answers": [
-        "Shrek Tercero",
-        "La Película de los Simpson",
-        "El Hombre Araña 3",
-        "Pisto"
-      ],
+      "question": "¿Qué personaje vive en una piña debajo del mar?",
+      "answers": ["Mickey Mouse", "Bob Esponja", "Shrek", "Olaf"],
       "correct": 1,
       "category": "cine",
       "level": "nino"
     },
     {
-      "question": "En la película \"V de Vendetta\", ¿cuál es la fecha que el justiciero enmascarado \"V\" insta a la gente a recordar?",
-      "answers": [
-        "5 de Noviembre",
-        "5 de Septiembre",
-        "4 de Noviembre",
-        "6 de Noviembre"
-      ],
-      "correct": 0,
-      "category": "cine",
-      "level": "nino"
-    },
-    {
-      "question": "En la película de 1986 \"The Wraith\", ¿qué concept car se utiliza para el Turbo Interceptor?",
-      "answers": [
-        "Esquivar M4S",
-        "Pájaro de Fuego de General Motors",
-        "Pontiac Banshee",
-        "Esquivar Cabeza de Cobre"
-      ],
-      "correct": 0,
-      "category": "cine",
-      "level": "nino"
-    },
-    {
-      "question": "¿Quién interpretó a Thanos en Vengadores: Infinity War y Vengadores: End Game?",
-      "answers": [
-        "Sean Gunn",
-        "Jose Brolin",
-        "Adam Sandler",
-        "Tom Hiddleston"
-      ],
-      "correct": 1,
-      "category": "cine",
-      "level": "nino"
-    },
-    {
-      "question": "¿Cuál es la película de Disney más antigua?",
-      "answers": [
-        "Blancanieves y los Siete Enanitos",
-        "Dumbo",
-        "Pinocho",
-        "Fantasía"
-      ],
-      "correct": 0,
-      "category": "cine",
-      "level": "nino"
-    },
-    {
-      "question": "¿Qué película animada fue la primera en presentar a una celebridad como actor de doblaje?",
-      "answers": [
-        "James y el Melocotón Gigante",
-        "Aladino",
-        "El Jorobado de Notre Dame",
-        "Historia del Juguete"
-      ],
-      "correct": 1,
-      "category": "cine",
-      "level": "nino"
-    },
-    {
-      "question": "Daniel Radcliffe se convirtió en una estrella mundial en la industria cinematográfica debido a su actuación ¿en qué franquicia cinematográfica?",
-      "answers": [
-        "Niños Espías",
-        "Ted",
-        "Harry Potter",
-        "Piratas del Caribe"
-      ],
+      "question": "¿Cómo se llama el ogro verde de DreamWorks?",
+      "answers": ["Fiona", "Burro", "Shrek", "Mike"],
       "correct": 2,
       "category": "cine",
       "level": "nino"
     },
     {
-      "question": "Max Schreck, un famoso actor de cine mudo alemán, interpreta a un famoso monstruo ¿en qué película de 1922?",
-      "answers": [
-        "Haxan",
-        "Nosferatu",
-        "El Jinete Sin Cabeza",
-        "Frankenstein"
-      ],
-      "correct": 1,
-      "category": "cine",
-      "level": "nino"
-    },
-    {
-      "question": "¿Cuál de los siguientes no era uno de \"Los siete magníficos\"?",
-      "answers": [
-        "Clint Eastwood",
-        "Carlos Bronson",
-        "Steve McQueen",
-        "Robert Vaughn"
-      ],
+      "question": "¿Quién es el mejor amigo de Harry Potter?",
+      "answers": ["Ron", "Draco", "Snape", "Dobby"],
       "correct": 0,
       "category": "cine",
       "level": "nino"
     },
     {
-      "question": "¿Quién interpreta al personaje de Po en las películas de Kung Fu Panda?",
-      "answers": [
-        "McConahey Ramsés",
-        "Jack Negro",
-        "Jim Petersson",
-        "Mirana Jonnes"
-      ],
+      "question": "¿Cómo se llama la princesa de Frozen que canta 'Libre soy'?",
+      "answers": ["Anna", "Elsa", "Olaf", "Moana"],
       "correct": 1,
       "category": "cine",
       "level": "nino"
     },
     {
-      "question": "¿Quién interpreta al protagonista Ethan Hunt en la serie de películas \"Misión: Imposible\"?",
-      "answers": [
-        "Johnny Depp",
-        "Tom Crucero",
-        "Pierce Brosnan",
-        "Sean Connery"
-      ],
+      "question": "¿Qué juguete espacial dice 'Hasta el infinito y más allá'?",
+      "answers": ["Buzz Lightyear", "Woody", "Jessie", "Rex"],
+      "correct": 0,
+      "category": "cine",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué animal es Simba en El Rey León?",
+      "answers": ["Tigre", "León", "Perro", "Caballo"],
       "correct": 1,
       "category": "cine",
       "level": "nino"
     },
     {
-      "question": "En \"Jurassic World\", ¿cómo se llama el dinosaurio que es un híbrido genético?",
-      "answers": [
-        "Pteranodon",
-        "Tiranosaurio Rex",
-        "Indominus Rex",
-        "Mosasaurio"
-      ],
+      "question": "¿Cómo se llama el fontanero de gorra roja de Nintendo?",
+      "answers": ["Luigi", "Sonic", "Mario", "Yoshi"],
       "correct": 2,
       "category": "cine",
       "level": "nino"
     },
     {
-      "question": "¿Cuál de los siguientes no es el nombre de una \"Chica Bond\"?",
-      "answers": [
-        "Maria Buenas Noches",
-        "Vanessa Kensington",
-        "Pamela Bouvier",
-        "Wai Lin"
-      ],
-      "correct": 1,
-      "category": "cine",
-      "level": "nino"
-    },
-    {
-      "question": "¿Cuál fue la primera película de James Bond?",
-      "answers": [
-        "Doctor No",
-        "Bola de Trueno",
-        "Desde Rusia Con Amor",
-        "Dedo de Oro"
-      ],
-      "correct": 0,
-      "category": "cine",
-      "level": "nino"
-    },
-    {
-      "question": "¿Quién escribió y dirigió la película 'Platoon' de 1986?",
-      "answers": [
-        "Francis Ford Coppola",
-        "Oliver Piedra",
-        "Stanley Kubrick",
-        "Michael Cimino"
-      ],
-      "correct": 1,
-      "category": "cine",
-      "level": "nino"
-    },
-    {
-      "question": "¿En qué año se lanzó el primer Youtube Rewind oficial?",
-      "answers": [
-        "2011",
-        "2013",
-        "2010",
-        "2012"
-      ],
-      "correct": 2,
-      "category": "cine",
-      "level": "nino"
-    },
-    {
-      "question": "¿Cuál de las siguientes películas no está basada en una novela de Stephen King?",
-      "answers": [
-        "Carrie",
-        "Miseria",
-        "La Cosa",
-        "La Milla Verde"
-      ],
-      "correct": 2,
-      "category": "cine",
-      "level": "nino"
-    },
-    {
-      "question": "En la película \"Balto\" de 1995, ¿quiénes son los cómplices de Steele?",
-      "answers": [
-        "Jenna, Sylvie y Dixie",
-        "Kaltag, Nikki y Estrella",
-        "Nuk, Yak y Zumaque",
-        "Dusty, Kirby y Ralph"
-      ],
-      "correct": 1,
-      "category": "cine",
-      "level": "nino"
-    },
-    {
-      "question": "En \"ALF\", ¿cuál era el verdadero nombre de ALF?",
-      "answers": [
-        "Gordon Milipp",
-        "Gordon Shumway",
-        "Gordon Foster",
-        "Gordon Von Gam"
-      ],
-      "correct": 1,
-      "category": "cine",
-      "level": "nino"
-    },
-    {
-      "question": "¿Quién dirigió la película de 2015 \"The Revenant\"?",
-      "answers": [
-        "Anderson",
-        "David Fincher",
-        "Alejandro G. Iñárritu",
-        "Cristóbal Nolan"
-      ],
-      "correct": 2,
-      "category": "cine",
-      "level": "nino"
-    },
-    {
-      "question": "En la película \"Blade Runner\", ¿cuál es el término utilizado para los androides con apariencia humana?",
-      "answers": [
-        "Replicantes",
-        "Cylones",
-        "Sintéticos",
-        "Trabajos de Piel"
-      ],
-      "correct": 0,
-      "category": "cine",
-      "level": "nino"
-    },
-    {
-      "question": "En Big Hero 6, ¿de qué ciudad ficticia es Big Hero 6?",
-      "answers": [
-        "Tokysisco",
-        "San Francisco",
-        "Sankyo",
-        "San Tokio"
-      ],
-      "correct": 1,
-      "category": "cine",
-      "level": "nino"
-    },
-    {
-      "question": "¿Qué película contiene la cita \"¡Saluda a mi amiguito!\"?",
-      "answers": [
-        "Caracortada",
-        "Calor",
-        "Perros de Reserva",
-        "Buenos Amigos"
-      ],
-      "correct": 0,
-      "category": "cine",
-      "level": "nino"
-    },
-    {
-      "question": "¿Cuándo tiene lugar cronológicamente \"Rogue One: Una historia de Star Wars\" en la serie?",
-      "answers": [
-        "Entre el Episodio 4 y 5",
-        "Antes del Episodio 1",
-        "Entre el Episodio 3 y 4",
-        "Después del Episodio 6"
-      ],
-      "correct": 2,
-      "category": "cine",
-      "level": "nino"
-    },
-    {
-      "question": "¿Quién dirigió \"E.T. el Extraterrestre\" (1982)?",
-      "answers": [
-        "Steven Spielberg",
-        "Stanley Kubrick",
-        "James Cameron",
-        "Tim Burton"
-      ],
-      "correct": 0,
-      "category": "cine",
-      "level": "nino"
-    },
-    {
-      "question": "¿Cuál de estos actores NO aparece en la película de 1998 \"Salvando al soldado Ryan\"?",
-      "answers": [
-        "Matt Damon",
-        "Ralph Fiennes",
-        "Tom Hanks",
-        "Vin Diésel"
-      ],
-      "correct": 1,
-      "category": "cine",
-      "level": "nino"
-    },
-    {
-      "question": "¿En qué película de 1986 aparece la canción de Queen \"A Kind Of Magic\"?",
-      "answers": [
-        "Howard el Pato",
-        "Laberinto",
-        "Flash Gordon",
-        "Montañés"
-      ],
-      "correct": 3,
-      "category": "cine",
-      "level": "nino"
-    },
-    {
-      "question": "En la película de 2012, \"The Lorax\", ¿quién es el antagonista?",
-      "answers": [
-        "Aloysius O'Hare",
-        "Ted Wiggins",
-        "Norma Grammy",
-        "El Once-Ler"
-      ],
-      "correct": 0,
-      "category": "cine",
-      "level": "nino"
-    },
-    {
-      "question": "¿Quién es el protagonista de la película de 2002 \"Kung Pow! Enter the Fist\"?",
-      "answers": [
-        "Rey Dragón",
-        "Mono de Hierro",
-        "Elegido",
-        "Maestro Tang"
-      ],
-      "correct": 2,
-      "category": "cine",
-      "level": "nino"
-    },
-    {
-      "question": "¿Cuál de estas películas NO se estrenó en 1996?",
-      "answers": [
-        "Gladiador",
-        "La Roca",
-        "Misión: Imposible",
-        "Día de la Independencia"
-      ],
-      "correct": 0,
-      "category": "cine",
-      "level": "nino"
-    },
-    {
-      "question": "¿Quién interpretó a la protagonista femenina en la película \"King Kong\" de 1933?",
-      "answers": [
-        "Vivian Leigh",
-        "Fay Wray",
-        "Juan Harlow",
-        "Mae West"
-      ],
-      "correct": 1,
-      "category": "cine",
-      "level": "nino"
-    },
-    {
-      "question": "¿Quién dirigió la película de 2017 \"La forma del agua\"?",
-      "answers": [
-        "Guillermo del Toro",
-        "Martín Scorsese",
-        "James Cameron",
-        "Steven Spielberg"
-      ],
-      "correct": 0,
-      "category": "cine",
-      "level": "nino"
-    },
-    {
-      "question": "¿Qué actriz bailó el twist con John Travolta en 'Pulp Fiction'?",
-      "answers": [
-        "Uma Thurman",
-        "Pamela Grier",
-        "Kathy Griffin",
-        "Brígida Fonda"
-      ],
-      "correct": 0,
-      "category": "cine",
-      "level": "nino"
-    },
-    {
-      "question": "¿Cuál de estos actores NO ha interpretado a Spiderman en el cine?",
-      "answers": [
-        "Andres Garfield",
-        "Tom Holanda",
-        "Miguel Cera",
-        "Tobey Maguire"
-      ],
-      "correct": 2,
-      "category": "cine",
-      "level": "nino"
-    },
-    {
-      "question": "¿Qué película incluye un espíritu gigante parecido a un conejito que tiene poderes mágicos, incluido el cultivo de árboles?",
-      "answers": [
-        "Mi Vecino Totoro",
-        "Salto",
-        "El Ascenso de los Guardianes",
-        "Alicia en el País de las Maravillas"
-      ],
-      "correct": 0,
-      "category": "cine",
-      "level": "nino"
-    },
-    {
-      "question": "En la película \"Spaceballs\", ¿qué intentan robar las Spaceballs del planeta Druidia?",
-      "answers": [
-        "Albóndigas",
-        "Princesa Estrella Solitaria",
-        "Aire",
-        "El Schwartz"
-      ],
-      "correct": 2,
-      "category": "cine",
-      "level": "nino"
-    },
-    {
-      "question": "¿Qué nombre le puso Tom Hanks a su compañero de voleibol en la película `Náufrago`?",
-      "answers": [
-        "Jones",
-        "Viernes",
-        "Wilson",
-        "Billy"
-      ],
-      "correct": 2,
-      "category": "cine",
-      "level": "nino"
-    },
-    {
-      "question": "¿Qué actor interpreta a Obi-Wan Kenobi en los Episodios I-III de Star Wars?",
-      "answers": [
-        "Liam Neeson",
-        "Ewan McGregor",
-        "Hayden Christensen",
-        "Alec Guinness"
-      ],
-      "correct": 1,
-      "category": "cine",
-      "level": "nino"
-    },
-    {
-      "question": "¿En qué estado de Estados Unidos se desarrolla principalmente la película de 1996 'Fargo'?",
-      "answers": [
-        "Minnesota",
-        "Dakota del Sur",
-        "Dakota del Norte",
-        "Wisconsin"
-      ],
-      "correct": 0,
-      "category": "cine",
-      "level": "nino"
-    },
-    {
-      "question": "¿Quién queda congelado al final de la película \"Goldeneye\"?",
-      "answers": [
-        "Natalia Simonova",
-        "Borís Grishenko",
-        "Alec Travelyan",
-        "James Bond"
-      ],
-      "correct": 1,
-      "category": "cine",
-      "level": "nino"
-    },
-    {
-      "question": "¿Quién dirigió las películas de Kill Bill?",
-      "answers": [
-        "Arnold Schwarzenegger",
-        "Quentin Tarantino",
-        "Stanley Kubrick",
-        "David Lean"
-      ],
-      "correct": 1,
-      "category": "cine",
-      "level": "nino"
-    },
-    {
-      "question": "Al final de la película \"Rat Race\" de 2001, ¿en qué concierto chocan los concursantes?",
-      "answers": [
-        "Suma 41",
-        "Bolos Para Sopa",
-        "Parque Linkin",
-        "Aplastar la Boca"
-      ],
-      "correct": 3,
-      "category": "cine",
-      "level": "nino"
-    },
-    {
-      "question": "¿A qué villano de Batman es conocido por haber expresado Mark Hamill?",
-      "answers": [
-        "Silencio",
-        "El Comodín",
-        "Dos Caras",
-        "Perdición"
-      ],
-      "correct": 1,
-      "category": "cine",
-      "level": "nino"
-    },
-    {
-      "question": "En la película Gremlins, ¿a partir de qué hora del día no debes alimentar a Mogwai?",
-      "answers": [
-        "Mañana",
-        "Tarde",
-        "Tarde",
-        "Medianoche"
-      ],
-      "correct": 3,
-      "category": "cine",
-      "level": "nino"
-    },
-    {
-      "question": "¿Qué superhéroe han interpretado en el cine los actores Michael Keaton, Val Kilmer, George Clooney y Christian Bale?",
-      "answers": [
-        "Superhombre",
-        "Ordenanza",
-        "Hombre de Hierro",
-        "Hombre Araña"
-      ],
+      "question": "¿Qué pez payaso busca a su hijo en una película de Pixar?",
+      "answers": ["Dory", "Marlin", "Bruce", "Nemo"],
       "correct": 1,
       "category": "cine",
       "level": "nino"
@@ -3011,1805 +361,215 @@
   ],
   "deporte": [
     {
-      "question": "¿En qué deporte se utiliza un \"volante\"?",
-      "answers": [
-        "Grillo",
-        "Bádminton",
-        "Rugby",
-        "Tenis de Mesa"
-      ],
-      "correct": 1,
-      "category": "deporte",
-      "level": "nino"
-    },
-    {
-      "question": "¿A qué equipo venció Inglaterra para ganar la final del Mundial de 1966?",
-      "answers": [
-        "Portugal",
-        "Unión Soviética",
-        "Alemania Occidental",
-        "Brasil"
-      ],
+      "question": "¿Cuántos jugadores tiene un equipo de fútbol en el campo?",
+      "answers": ["9", "10", "11", "12"],
       "correct": 2,
       "category": "deporte",
       "level": "nino"
     },
     {
-      "question": "¿Qué dos equipos jugaron el Super Bowl XLII?",
-      "answers": [
-        "Las Águilas de Filadelfia y los Patriotas de Nueva Inglaterra",
-        "Los Gigantes de Nueva York y los Patriotas de Nueva Inglaterra",
-        "Los Seattle Seahawks y los Denver Broncos",
-        "Los Empacadores de Green Bay y los Acereros de Pittsburgh"
-      ],
-      "correct": 1,
-      "category": "deporte",
-      "level": "nino"
-    },
-    {
-      "question": "¿Cuál de estos equipos de la NHL jugó originalmente en Atlanta?",
-      "answers": [
-        "Llamas de Calgary",
-        "Minnesota Salvaje",
-        "Blues de San Luis",
-        "Canucks de Vancouver"
-      ],
-      "correct": 0,
-      "category": "deporte",
-      "level": "nino"
-    },
-    {
-      "question": "¿Qué país fue sede de la Copa Mundial de la FIFA 2018?",
-      "answers": [
-        "Arabia Saudita",
-        "Rusia",
-        "Estados Unidos",
-        "Alemania"
-      ],
-      "correct": 1,
-      "category": "deporte",
-      "level": "nino"
-    },
-    {
-      "question": "¿Cuántos jugadores de fútbol deberían estar en el campo al mismo tiempo?",
-      "answers": [
-        "24",
-        "20",
-        "22",
-        "26"
-      ],
+      "question": "¿Con qué parte del cuerpo no se puede tocar el balón en fútbol, salvo el portero?",
+      "answers": ["Pie", "Cabeza", "Mano", "Rodilla"],
       "correct": 2,
       "category": "deporte",
       "level": "nino"
     },
     {
-      "question": "¿De qué ciudad es originario el antiguo equipo de la NHL \"The Nordiques\"?",
-      "answers": [
-        "Montréal",
-        "Ciudad de Quebec",
-        "Nueva York",
-        "Houston"
-      ],
-      "correct": 1,
-      "category": "deporte",
-      "level": "nino"
-    },
-    {
-      "question": "¿Quién ganó el Campeonato Mundial de Fórmula 1 2015?",
-      "answers": [
-        "Sebastián Vettel",
-        "Lewis Hamilton",
-        "Nico Rosberg",
-        "Botón de Jenson"
-      ],
-      "correct": 1,
-      "category": "deporte",
-      "level": "nino"
-    },
-    {
-      "question": "¿De qué país surgieron futbolistas como Cafú, Roberto Carlos y Pelé?",
-      "answers": [
-        "Portugal",
-        "Brasil",
-        "España",
-        "Argentina"
-      ],
-      "correct": 1,
-      "category": "deporte",
-      "level": "nino"
-    },
-    {
-      "question": "¿Cuándo se jugó el primer partido internacional oficial?",
-      "answers": [
-        "1872",
-        "1863",
-        "1880",
-        "1865"
-      ],
+      "question": "¿En qué deporte se usa una raqueta?",
+      "answers": ["Tenis", "Natación", "Fútbol", "Atletismo"],
       "correct": 0,
       "category": "deporte",
       "level": "nino"
     },
     {
-      "question": "En los bolos, ¿cuál es el término utilizado para conseguir tres strikes consecutivos?",
-      "answers": [
-        "Pajarito",
-        "Águila",
-        "Turquía",
-        "Flamenco"
-      ],
+      "question": "¿Qué deporte practica Rafael Nadal?",
+      "answers": ["Baloncesto", "Tenis", "Ciclismo", "Golf"],
+      "correct": 1,
+      "category": "deporte",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué objeto se lanza a la canasta en baloncesto?",
+      "answers": ["Pelota", "Disco", "Palo", "Raqueta"],
+      "correct": 0,
+      "category": "deporte",
+      "level": "nino"
+    },
+    {
+      "question": "¿En qué deporte se nada en una piscina?",
+      "answers": ["Esquí", "Natación", "Tenis", "Judo"],
+      "correct": 1,
+      "category": "deporte",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué país ganó el Mundial de fútbol de 2010?",
+      "answers": ["Alemania", "Brasil", "España", "Argentina"],
       "correct": 2,
       "category": "deporte",
       "level": "nino"
     },
     {
-      "question": "¿Qué club de fútbol inglés tiene el sobrenombre de 'Los Zorros'?",
-      "answers": [
-        "Ciudad de Leicester",
-        "Ciudad de Northampton",
-        "Ciudad de Bradford",
-        "West Bromwich Albión"
-      ],
-      "correct": 0,
-      "category": "deporte",
-      "level": "nino"
-    },
-    {
-      "question": "En la Copa Mundial de la FIFA 2014, ¿cuál fue el resultado final del partido Brasil - Alemania?",
-      "answers": [
-        "1-7",
-        "1-6",
-        "2-6",
-        "1-5"
-      ],
-      "correct": 0,
-      "category": "deporte",
-      "level": "nino"
-    },
-    {
-      "question": "¿Qué país fue sede de la Copa Mundial de la FIFA 2022?",
-      "answers": [
-        "Japón",
-        "Estados Unidos",
-        "Catar",
-        "Suiza"
-      ],
-      "correct": 2,
-      "category": "deporte",
-      "level": "nino"
-    },
-    {
-      "question": "¿La Liga de Campeones de la UEFA es una competición anual de fútbol de clubes en la que participan clubes de qué continente?",
-      "answers": [
-        "África",
-        "Asia",
-        "Europa",
-        "América del Sur"
-      ],
-      "correct": 2,
-      "category": "deporte",
-      "level": "nino"
-    },
-    {
-      "question": "¿Quién ganó la UEFA Champions League en 2017?",
-      "answers": [
-        "Atlético de Madrid",
-        "Juventus F.C.",
-        "Real Madrid C. F.",
-        "AS Mónaco FC"
-      ],
-      "correct": 2,
-      "category": "deporte",
-      "level": "nino"
-    },
-    {
-      "question": "¿De qué ciudad de Estados Unidos eran originarios los Dodgers de Los Ángeles?",
-      "answers": [
-        "Boston",
-        "Brooklyn",
-        "Seattle",
-        "Las Vegas"
-      ],
+      "question": "¿Qué deportista argentino era conocido como 'la mano de Dios'?",
+      "answers": ["Messi", "Maradona", "Agüero", "Batistuta"],
       "correct": 1,
       "category": "deporte",
       "level": "nino"
     },
     {
-      "question": "En béisbol, ¿cuántas veces se debe lanzar la pelota fuera de la zona de strike antes de que se le dé base por bolas al bateador?",
-      "answers": [
-        "4",
-        "1",
-        "2",
-        "3"
-      ],
-      "correct": 0,
+      "question": "¿Qué deporte usa guantes y un ring?",
+      "answers": ["Tenis", "Boxeo", "Golf", "Rugby"],
+      "correct": 1,
       "category": "deporte",
       "level": "nino"
     },
     {
-      "question": "¿En qué año ganaron los New Orleans Saints el Super Bowl?",
-      "answers": [
-        "2011",
-        "2009",
-        "2010",
-        "2008"
-      ],
+      "question": "¿Cómo se llama el trofeo más famoso del fútbol mundial de selecciones?",
+      "answers": ["Champions", "Eurocopa", "Mundial", "Copa Davis"],
       "correct": 2,
-      "category": "deporte",
-      "level": "nino"
-    },
-    {
-      "question": "¿Cuál fue el año de fundación del Bari Italian Football Club?",
-      "answers": [
-        "1908",
-        "2014",
-        "1945",
-        "1895"
-      ],
-      "correct": 0,
-      "category": "deporte",
-      "level": "nino"
-    },
-    {
-      "question": "¿Quién ganó el título de la Premier League en la temporada 2015-2016 tras una racha de cuento de hadas?",
-      "answers": [
-        "Ciudad de Stoke",
-        "Ciudad de Leicester",
-        "Watford",
-        "Tottenham Hotspur"
-      ],
-      "correct": 1,
-      "category": "deporte",
-      "level": "nino"
-    },
-    {
-      "question": "¿Cómo se llama el estadio del Manchester United?",
-      "answers": [
-        "Old Trafford",
-        "Anfield",
-        "Estadio de la Ciudad de Manchester",
-        "Parque de San Jaime"
-      ],
-      "correct": 0,
-      "category": "deporte",
-      "level": "nino"
-    },
-    {
-      "question": "¿Cómo se llama la \"herramienta\" que se utiliza para golpear la bola blanca en el billar?",
-      "answers": [
-        "Mazo",
-        "Murciélago",
-        "Señal",
-        "Raqueta"
-      ],
-      "correct": 2,
-      "category": "deporte",
-      "level": "nino"
-    },
-    {
-      "question": "¿Cuál es el tipo de lanzamiento más común que realizan los lanzadores en el béisbol?",
-      "answers": [
-        "Loco",
-        "Bola Lenta",
-        "Bola Rápida",
-        "Pelota de Palma"
-      ],
-      "correct": 2,
-      "category": "deporte",
-      "level": "nino"
-    },
-    {
-      "question": "¿Quién ganó el Campeonato Mundial de Pilotos de Fórmula Uno 2017?",
-      "answers": [
-        "Max Verstappen",
-        "Lewis Hamilton",
-        "Nico Rosberg",
-        "Sebastián Vettel"
-      ],
-      "correct": 1,
-      "category": "deporte",
-      "level": "nino"
-    },
-    {
-      "question": "¿Quién ganó el Campeonato Mundial de Pilotos de Fórmula 1 2016?",
-      "answers": [
-        "Lewis Hamilton",
-        "Nico Rosberg",
-        "Max Verstappen",
-        "Kimi Räikkönen"
-      ],
-      "correct": 1,
-      "category": "deporte",
-      "level": "nino"
-    },
-    {
-      "question": "¿Qué jugador tiene el récord de la NHL de 2.857 puntos?",
-      "answers": [
-        "Gordie Howe",
-        "Sidney Crosby",
-        "Wayne Gretzky",
-        "Mario Lemieux"
-      ],
-      "correct": 2,
-      "category": "deporte",
-      "level": "nino"
-    },
-    {
-      "question": "¿Qué equipo ha ganado más Copas Stanley en la NHL?",
-      "answers": [
-        "Blackhawks de Chicago",
-        "Hojas de Arce de Toronto",
-        "Canadienses de Montreal",
-        "Alas Rojas de Detroit"
-      ],
-      "correct": 2,
-      "category": "deporte",
-      "level": "nino"
-    },
-    {
-      "question": "¿Qué país ganó la Copa Mundial de la FIFA 2018 celebrada en Rusia?",
-      "answers": [
-        "Inglaterra",
-        "Francia",
-        "Bélgica",
-        "Croacia"
-      ],
-      "correct": 1,
-      "category": "deporte",
-      "level": "nino"
-    },
-    {
-      "question": "¿Qué piloto ha sido campeón del mundo de Fórmula 1 un récord de 7 veces?",
-      "answers": [
-        "Fernando Alonso",
-        "Michael Schumacher",
-        "Ayrton Sena",
-        "Jim Clark"
-      ],
-      "correct": 1,
-      "category": "deporte",
-      "level": "nino"
-    },
-    {
-      "question": "¿Qué deporte presenta los términos amor, dos, partido y volea?",
-      "answers": [
-        "Grillo",
-        "Tenis",
-        "Curling",
-        "Baloncesto"
-      ],
-      "correct": 1,
-      "category": "deporte",
-      "level": "nino"
-    },
-    {
-      "question": "¿Qué selección nacional ganó la primera Liga de Naciones de la UEFA?",
-      "answers": [
-        "Inglaterra",
-        "Países Bajos",
-        "Suiza",
-        "Portugal"
-      ],
-      "correct": 3,
-      "category": "deporte",
-      "level": "nino"
-    },
-    {
-      "question": "¿Cuándo se fundó el FC Schalke 04?",
-      "answers": [
-        "1999",
-        "1904",
-        "1909",
-        "2008"
-      ],
-      "correct": 1,
-      "category": "deporte",
-      "level": "nino"
-    },
-    {
-      "question": "¿Qué equipo ganó la Copa MLS 2016?",
-      "answers": [
-        "Sondas de Seattle",
-        "Toronto FC",
-        "Rápidos de Colorado",
-        "Impacto de Montreal"
-      ],
-      "correct": 0,
-      "category": "deporte",
-      "level": "nino"
-    },
-    {
-      "question": "¿En qué año ganó Jenson Button su primer Campeonato Mundial de Pilotos de Fórmula Uno?",
-      "answers": [
-        "2006",
-        "2009",
-        "2007",
-        "2010"
-      ],
-      "correct": 1,
-      "category": "deporte",
-      "level": "nino"
-    },
-    {
-      "question": "¿En qué fecha se celebró la ceremonia de clausura de los Juegos Olímpicos de Verano de Río 2016?",
-      "answers": [
-        "19 de Agosto",
-        "23 de Agosto",
-        "21 de Agosto",
-        "17 de Agosto"
-      ],
-      "correct": 2,
-      "category": "deporte",
-      "level": "nino"
-    },
-    {
-      "question": "¿Qué boxeador fue sancionado por darle un mordisco a la oreja a Evander Holyfield en 1997?",
-      "answers": [
-        "Evander Holyfield",
-        "Mike Tyson",
-        "Lennox Lewis",
-        "Roy Jones Jr."
-      ],
-      "correct": 1,
-      "category": "deporte",
-      "level": "nino"
-    },
-    {
-      "question": "¿Qué equipo ganó la Copa Mundial de la FIFA Brasil 2014?",
-      "answers": [
-        "Alemania",
-        "Argentina",
-        "Brasil",
-        "Países Bajos"
-      ],
-      "correct": 0,
-      "category": "deporte",
-      "level": "nino"
-    },
-    {
-      "question": "¿Cuántos puntos anotó LeBron James en su primer partido de la NBA?",
-      "answers": [
-        "25",
-        "69",
-        "41",
-        "19"
-      ],
-      "correct": 0,
-      "category": "deporte",
-      "level": "nino"
-    },
-    {
-      "question": "Este presentador deportivo de la televisión canadiense es conocido por su papel en \"Hockey Night in Canada\", un programa de comentarios durante los partidos de hockey.",
-      "answers": [
-        "Don Cereza",
-        "Don Taylor",
-        "Don McKellar",
-        "Donald Sutherland"
-      ],
-      "correct": 0,
-      "category": "deporte",
-      "level": "nino"
-    },
-    {
-      "question": "¿Cuántos jugadores hay en un equipo de fútbol/fútbol de una asociación?",
-      "answers": [
-        "9",
-        "8",
-        "11",
-        "10"
-      ],
-      "correct": 2,
-      "category": "deporte",
-      "level": "nino"
-    },
-    {
-      "question": "¿A quién se suele llamar \"el Maestro\" en el circuito de tenis masculino?",
-      "answers": [
-        "Federer",
-        "Bill Tilden",
-        "Boris Becker",
-        "Pete Sampras"
-      ],
-      "correct": 0,
-      "category": "deporte",
-      "level": "nino"
-    },
-    {
-      "question": "¿Qué equipo de la NFL juega para Nueva Inglaterra?",
-      "answers": [
-        "Patriotas",
-        "Delfines",
-        "49ers",
-        "Jefes"
-      ],
-      "correct": 0,
-      "category": "deporte",
-      "level": "nino"
-    },
-    {
-      "question": "¿En cuál de estos equipos no ha jugado Jaromir Jagr?",
-      "answers": [
-        "Isleños de Nueva York",
-        "Diablos de Nueva Jersey",
-        "Llamas de Calgary",
-        "Estrellas de Dallas"
-      ],
-      "correct": 0,
-      "category": "deporte",
-      "level": "nino"
-    },
-    {
-      "question": "¿Qué país fue sede de los Juegos Olímpicos de Verano de 2020?",
-      "answers": [
-        "Australia",
-        "Alemania",
-        "Japón",
-        "China"
-      ],
-      "correct": 2,
-      "category": "deporte",
-      "level": "nino"
-    },
-    {
-      "question": "¿Con quién ganó Steven Gerrard la Liga de Campeones?",
-      "answers": [
-        "Real Madrid",
-        "Hombre de la Ciudad",
-        "Liverpool",
-        "Chelsea"
-      ],
-      "correct": 2,
-      "category": "deporte",
-      "level": "nino"
-    },
-    {
-      "question": "¿Cuál fue el resultado final del partido de la Copa Mundial de la FIFA Alemania vs. Brasil 2014?",
-      "answers": [
-        "3 - 4",
-        "16 - 0",
-        "0 - 1",
-        "7 - 1"
-      ],
-      "correct": 3,
-      "category": "deporte",
-      "level": "nino"
-    },
-    {
-      "question": "¿Cuál de los siguientes deportes no forma parte del triatlón?",
-      "answers": [
-        "Ciclismo",
-        "Montar a Caballo",
-        "Corriendo",
-        "Natación"
-      ],
-      "correct": 1,
-      "category": "deporte",
-      "level": "nino"
-    },
-    {
-      "question": "¿Qué equipo ganó la Premier League inglesa 2015-16?",
-      "answers": [
-        "Cheslea",
-        "Liverpool",
-        "Manchester Unido",
-        "Ciudad de Leicester"
-      ],
-      "correct": 3,
-      "category": "deporte",
-      "level": "nino"
-    },
-    {
-      "question": "¿El \"Estadio de la Luz\" es el estadio de qué equipo de fútbol?",
-      "answers": [
-        "FC Sunderland",
-        "París Saints Germain",
-        "FC Barcelona",
-        "Manchester Unido"
-      ],
-      "correct": 0,
       "category": "deporte",
       "level": "nino"
     }
   ],
   "musica": [
     {
-      "question": "¿Qué grupo interpreta la canción \"Crash into Me\"?",
-      "answers": [
-        "El Hijo del Destino",
-        "Banda de Dave Matthews",
-        "Los Muertos Agradecidos",
-        "Phishing"
-      ],
-      "correct": 1,
-      "category": "musica",
-      "level": "nino"
-    },
-    {
-      "question": "¿Cuál fue el primer álbum de estudio de Daft Punk?",
-      "answers": [
-        "Memorias de Acceso Aleatorio",
-        "Descubrimiento",
-        "Tarea",
-        "Humano Después de Todo"
-      ],
+      "question": "¿Cuántas cuerdas tiene una guitarra normal?",
+      "answers": ["4", "5", "6", "7"],
       "correct": 2,
       "category": "musica",
       "level": "nino"
     },
     {
-      "question": "¿Cuál es el álbum más vendido de todos los tiempos desde 1976 hasta 2018?",
-      "answers": [
-        "Suspense",
-        "Camino de la Abadía",
-        "El Lado Oscuro de la Luna",
-        "De Vuelta en Negro"
-      ],
+      "question": "¿Qué instrumento tiene teclas blancas y negras?",
+      "answers": ["Piano", "Trompeta", "Violín", "Tambor"],
       "correct": 0,
       "category": "musica",
       "level": "nino"
     },
     {
-      "question": "¿De qué familia musical forma parte la tuba?",
-      "answers": [
-        "Latón",
-        "Percusión",
-        "Cuerdas",
-        "Viento de Madera"
-      ],
+      "question": "¿Qué instrumento toca normalmente un batería?",
+      "answers": ["Batería", "Flauta", "Arpa", "Saxofón"],
       "correct": 0,
       "category": "musica",
       "level": "nino"
     },
     {
-      "question": "¿Qué publicación musical suele abreviarse como NME?",
-      "answers": [
-        "Próxima Empresa Musical",
-        "Expreso del Norte de Manchester",
-        "Nuevo Expreso Musical",
-        "Nuevo Entretenimiento Metro"
-      ],
+      "question": "¿Qué grupo cantaba 'Yellow Submarine'?",
+      "answers": ["Queen", "The Beatles", "ABBA", "Coldplay"],
+      "correct": 1,
+      "category": "musica",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué cantante es conocida como la Reina del Pop?",
+      "answers": ["Madonna", "Adele", "Shakira", "Rosalía"],
+      "correct": 0,
+      "category": "musica",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué instrumento soplas para tocar?",
+      "answers": ["Flauta", "Tambor", "Piano", "Guitarra"],
+      "correct": 0,
+      "category": "musica",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué cantante española canta 'Despechá'?",
+      "answers": ["Aitana", "Rosalía", "Shakira", "Lola Índigo"],
+      "correct": 1,
+      "category": "musica",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué grupo cantaba 'We Will Rock You'?",
+      "answers": ["Queen", "U2", "Nirvana", "Oasis"],
+      "correct": 0,
+      "category": "musica",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué palabra completa el título 'La ___ Bamba'?",
+      "answers": ["Gran", "Pequeña", "Bamba", "Lenta"],
       "correct": 2,
       "category": "musica",
       "level": "nino"
     },
     {
-      "question": "¿Qué banda de punk rock lanzó canciones exitosas como \"Californication\", \"Can't Stop\" y \"Under the Bridge\"?",
-      "answers": [
-        "Pimientos Rojos Picantes",
-        "Parque Linkin",
-        "Dia Verde",
-        "Foo Fighters"
-      ],
+      "question": "¿Quién suele cantar en un grupo musical?",
+      "answers": ["El cantante", "El portero", "El árbitro", "El entrenador"],
       "correct": 0,
-      "category": "musica",
-      "level": "nino"
-    },
-    {
-      "question": "¿Cómo se llama el líder de la banda de metal Megadeth?",
-      "answers": [
-        "David Mustaine",
-        "Vince Neil",
-        "James Hetfield",
-        "Rob Halford"
-      ],
-      "correct": 0,
-      "category": "musica",
-      "level": "nino"
-    },
-    {
-      "question": "En 2006, ¿qué banda lanzó su álbum debut \"A Fever You Can't Sweat Out\"?",
-      "answers": [
-        "¡Pánico! en la Discoteca",
-        "Veintiún Pilotos",
-        "Mi Romance Químico",
-        "Caerse Chico"
-      ],
-      "correct": 0,
-      "category": "musica",
-      "level": "nino"
-    },
-    {
-      "question": "¿Qué artista famoso apareció en la canción \"Computers\" de Rowdy Rebel de 2015?",
-      "answers": [
-        "Bobby Shmurda",
-        "Will.I.AM",
-        "Kendrick Lamar",
-        "Pequeño Wayne"
-      ],
-      "correct": 0,
-      "category": "musica",
-      "level": "nino"
-    },
-    {
-      "question": "¿Kanye West en los VMA de 2009 interrumpió a qué celebridad?",
-      "answers": [
-        "CONDENACIÓN MF",
-        "Beyoncé",
-        "Taylor Swift",
-        "Beck"
-      ],
-      "correct": 2,
-      "category": "musica",
-      "level": "nino"
-    },
-    {
-      "question": "¿Qué actor ganador del Oscar contó con \"Gold Digger\" de Kanye West?",
-      "answers": [
-        "Bruce Willis",
-        "Jamie Foxx",
-        "David Johnson",
-        "Alec Baldwin"
-      ],
-      "correct": 1,
-      "category": "musica",
-      "level": "nino"
-    },
-    {
-      "question": "¿Quién apareció en la canción \"Words\" de Feint?",
-      "answers": [
-        "Laura Brehm",
-        "Danyka Nadeau",
-        "Anna Yvette",
-        "Veela"
-      ],
-      "correct": 0,
-      "category": "musica",
-      "level": "nino"
-    },
-    {
-      "question": "¿Qué miembro de Foo Fighters fue anteriormente el baterista de Nirvana?",
-      "answers": [
-        "Chris Shiflett",
-        "Nat Mendel",
-        "David Grohl",
-        "Taylor Hawkins"
-      ],
-      "correct": 2,
-      "category": "musica",
-      "level": "nino"
-    },
-    {
-      "question": "¿Cuántos álbumes de estudio ha lanzado el dúo Daft Punk?",
-      "answers": [
-        "5",
-        "1",
-        "4",
-        "2"
-      ],
-      "correct": 2,
-      "category": "musica",
-      "level": "nino"
-    },
-    {
-      "question": "Sting, el vocalista principal de The Police, ¿qué instrumento toca principalmente?",
-      "answers": [
-        "Teclados",
-        "Bajo",
-        "Guitarra",
-        "Tambores"
-      ],
-      "correct": 1,
-      "category": "musica",
-      "level": "nino"
-    },
-    {
-      "question": "¿Qué rapero famoso aparece en el sencillo de 2015 de Jack Ü (Skrillex y Diplo) llamado \"Febreze\"?",
-      "answers": [
-        "Primicia Gordo",
-        "2 Cadenas",
-        "Kendrick Lamar",
-        "Futuro"
-      ],
-      "correct": 1,
-      "category": "musica",
-      "level": "nino"
-    },
-    {
-      "question": "¿Cuál de estas canciones NO hizo el grupo \"Men At Work\"?",
-      "answers": [
-        "Es Un Error",
-        "Danza de Seguridad",
-        "¿Quién Puede Ser Ahora?",
-        "Abajo"
-      ],
-      "correct": 1,
-      "category": "musica",
-      "level": "nino"
-    },
-    {
-      "question": "¿Cuál de estos NO es el nombre de un álbum lanzado por la cantautora inglesa Adele?",
-      "answers": [
-        "12",
-        "19",
-        "21",
-        "25"
-      ],
-      "correct": 0,
-      "category": "musica",
-      "level": "nino"
-    },
-    {
-      "question": "¿De quién son los álbumes \"Back in Black\" y \"Ballbreaker\"?",
-      "answers": [
-        "Metalica",
-        "Sábado Negro",
-        "CA/CC",
-        "Doncella de Hierro"
-      ],
-      "correct": 2,
-      "category": "musica",
-      "level": "nino"
-    },
-    {
-      "question": "¿Qué músico de reggae canadiense tuvo un éxito en 1993 con la canción 'Informer'?",
-      "answers": [
-        "Lluvia",
-        "Nieve",
-        "Granizo",
-        "Aguanieve"
-      ],
-      "correct": 1,
-      "category": "musica",
-      "level": "nino"
-    },
-    {
-      "question": "¿De qué país se originó la canción \"Gangnam Style\"?",
-      "answers": [
-        "China",
-        "Corea del Sur",
-        "Corea del Norte",
-        "Japón"
-      ],
-      "correct": 1,
-      "category": "musica",
-      "level": "nino"
-    },
-    {
-      "question": "¿Cuál de estas canciones de Skrillex presenta a Fatman Scoop como artista paralelo?",
-      "answers": [
-        "Todo Se Vale en el Amor y Brostep",
-        "Rock N Roll (te Llevará a la Montaña)",
-        "Recreo",
-        "Monstruos Aterradores y Duendes Agradables"
-      ],
-      "correct": 2,
-      "category": "musica",
-      "level": "nino"
-    },
-    {
-      "question": "¿Brian May fue el guitarrista de qué banda?",
-      "answers": [
-        "Piedras Rodantes",
-        "Reina",
-        "Las Puertas",
-        "Rosa Floyd"
-      ],
-      "correct": 1,
-      "category": "musica",
-      "level": "nino"
-    },
-    {
-      "question": "¿Cuál de estas NO es una canción de Men at Work?",
-      "answers": [
-        "Dr. Heckyll y Sr. Jive",
-        "Caja de Cesta",
-        "¿Quién Puede Ser Ahora?",
-        "Se Bueno Johnny"
-      ],
-      "correct": 1,
-      "category": "musica",
-      "level": "nino"
-    },
-    {
-      "question": "¿Cuál es el nombre artístico de la rapera inglesa Mathangi Arulpragasam, conocida por la canción \"Paper Planes\"?",
-      "answers": [
-        "DESAPARECIDO EN COMBATE.",
-        "CIA",
-        "A.I.A.",
-        "K.I.A."
-      ],
-      "correct": 0,
-      "category": "musica",
-      "level": "nino"
-    },
-    {
-      "question": "¿Qué banda lanzó canciones como \"Rio\", \"Girls on Film\" y \"The Reflex\"?",
-      "answers": [
-        "La Cura",
-        "Nuevo Orden",
-        "Durán Durán",
-        "Modo Depeche"
-      ],
-      "correct": 2,
-      "category": "musica",
-      "level": "nino"
-    },
-    {
-      "question": "¿Qué instrumento de metal tiene el tono más bajo en una orquesta?",
-      "answers": [
-        "Trombón",
-        "Saxofón",
-        "Tuba",
-        "Trompeta"
-      ],
-      "correct": 2,
-      "category": "musica",
-      "level": "nino"
-    },
-    {
-      "question": "¿Qué instrumento tocaba principalmente Ringo Starr de The Beatles?",
-      "answers": [
-        "Tambores",
-        "Bajo",
-        "Guitarra",
-        "Piano"
-      ],
-      "correct": 0,
-      "category": "musica",
-      "level": "nino"
-    },
-    {
-      "question": "¿Qué álbum de Led Zeppelin contiene \"Stairway to Heaven\"?",
-      "answers": [
-        "Graffiti Físico",
-        "Led Zeppelin IV",
-        "Led Zeppelin III",
-        "Casas del Santo"
-      ],
-      "correct": 1,
-      "category": "musica",
-      "level": "nino"
-    },
-    {
-      "question": "¿Qué palabra significa la \"K\" en \"K-Pop\"?",
-      "answers": [
-        "Coreano",
-        "Kazajstán",
-        "Keniano",
-        "Kuwaití"
-      ],
-      "correct": 0,
-      "category": "musica",
-      "level": "nino"
-    },
-    {
-      "question": "¿\"Hallelujah\" es una canción escrita por qué artista canadiense?",
-      "answers": [
-        "Kory Lefkowits",
-        "Leonardo Cohen",
-        "Justin Bieber",
-        "Ryan Letourneau"
-      ],
-      "correct": 1,
-      "category": "musica",
-      "level": "nino"
-    },
-    {
-      "question": "¿Qué banda de los 80 está liderada por el cantante y guitarrista Robert Smith?",
-      "answers": [
-        "Echo y los Conejitos",
-        "Los Herreros",
-        "Nuevo Orden",
-        "La Cura"
-      ],
-      "correct": 3,
-      "category": "musica",
-      "level": "nino"
-    },
-    {
-      "question": "¿Qué canción de \"Random Access Memories\" de Daft Punk presenta a Pharrell Williams?",
-      "answers": [
-        "El Juego del Amor",
-        "Tener Suerte",
-        "Haciéndolo Bien",
-        "Aplastamiento Instantáneo"
-      ],
-      "correct": 1,
-      "category": "musica",
-      "level": "nino"
-    },
-    {
-      "question": "La \"invasión británica\" fue un fenómeno cultural en la música donde las boy bands británicas se hicieron populares en los EE. UU. ¿En qué década?",
-      "answers": [
-        "Años 60",
-        "Años 50",
-        "40's",
-        "30's"
-      ],
-      "correct": 0,
-      "category": "musica",
-      "level": "nino"
-    },
-    {
-      "question": "¿Qué banda grabó el disco \"Parallel Lines\"?",
-      "answers": [
-        "Coldplay",
-        "La Policia",
-        "Rubia",
-        "Paramore"
-      ],
-      "correct": 2,
-      "category": "musica",
-      "level": "nino"
-    },
-    {
-      "question": "\"Grande Valse\" es una frase de la canción \"Gran Vals\". ¿Cómo se llama ese segmento de la canción?",
-      "answers": [
-        "Melodía Nokia",
-        "Tono Droide",
-        "Hola Moto [Tono de Llamada de Motorola]",
-        "Tono de Llamada de Microsoft"
-      ],
-      "correct": 0,
-      "category": "musica",
-      "level": "nino"
-    },
-    {
-      "question": "En una orquesta, ¿cuál es el miembro más bajo de la familia de los metales?",
-      "answers": [
-        "Tuba",
-        "Contrabajo",
-        "Fagot",
-        "Trombón"
-      ],
-      "correct": 0,
-      "category": "musica",
-      "level": "nino"
-    },
-    {
-      "question": "¿Cómo se llama el líder de Death Grips, MC Ride?",
-      "answers": [
-        "Stefan Burnett",
-        "Zach Colina",
-        "Andy Morín",
-        "Stanley Burrell"
-      ],
-      "correct": 0,
-      "category": "musica",
-      "level": "nino"
-    },
-    {
-      "question": "¿Qué banda incluía a Sting, Stewart Copeland y Andy Summers?",
-      "answers": [
-        "La Cura",
-        "Bonjovi",
-        "La Policia",
-        "Def Leppard"
-      ],
-      "correct": 2,
-      "category": "musica",
-      "level": "nino"
-    },
-    {
-      "question": "¿De quién es la técnica de guitarra característica que se llama \"molino de viento\"?",
-      "answers": [
-        "Página de Jimmy",
-        "Eddie Van Halen",
-        "Pete Townshend",
-        "Jimi Hendrix"
-      ],
-      "correct": 2,
-      "category": "musica",
-      "level": "nino"
-    },
-    {
-      "question": "\"The Singing Cowboy\" A Gene Autry se le atribuye la primera grabación de todos, pero ¿qué clásico jingle navideño?",
-      "answers": [
-        "Blanca Navidad",
-        "Aquí Viene Papá Noel",
-        "Rodolfo el Reno de Nariz Roja",
-        "Frosty el Muñeco de Nieve"
-      ],
-      "correct": 0,
-      "category": "musica",
-      "level": "nino"
-    },
-    {
-      "question": "Una canción clásica de 1976 de Blue Oyster Cult incluye el consejo \"Don't Fear The\", ¿qué?",
-      "answers": [
-        "Silencio",
-        "Segador",
-        "Oscuro",
-        "Payasos"
-      ],
-      "correct": 1,
-      "category": "musica",
-      "level": "nino"
-    },
-    {
-      "question": "¿Qué género musical tocaba la banda Type O Negative?",
-      "answers": [
-        "Rock Duro",
-        "Metal Gótico",
-        "Pop-Rock",
-        "Metal"
-      ],
-      "correct": 1,
-      "category": "musica",
-      "level": "nino"
-    },
-    {
-      "question": "¿Qué streamer de Twitch es el vocalista de Red Vox?",
-      "answers": [
-        "LIRIK",
-        "El Baterista de 8 Bits",
-        "Salsa de Vinagre",
-        "Refresco"
-      ],
-      "correct": 2,
-      "category": "musica",
-      "level": "nino"
-    },
-    {
-      "question": "¿Quién escribió el éxito de Sinead O`Connor 'Nothing Compares 2 U'?",
-      "answers": [
-        "Rick James",
-        "Príncipe",
-        "Camafeo",
-        "Michael Jackson"
-      ],
-      "correct": 1,
-      "category": "musica",
-      "level": "nino"
-    },
-    {
-      "question": "¿Qué álbum de los Beatles NO incluye a ninguno de los miembros de la banda en su portada?",
-      "answers": [
-        "Tour Mágico y Misterio",
-        "Los Beatles (Álbum Blanco)",
-        "Alma de Goma",
-        "Camino de la Abadía"
-      ],
-      "correct": 1,
-      "category": "musica",
-      "level": "nino"
-    },
-    {
-      "question": "¿Quién interpretó \"Tomé una pastilla en Ibiza\"?",
-      "answers": [
-        "Harry Estilos",
-        "Robbie Williams",
-        "Avicii",
-        "Mike Posner"
-      ],
-      "correct": 3,
-      "category": "musica",
-      "level": "nino"
-    },
-    {
-      "question": "¿En qué año se lanzó el álbum \"Year of the Snitch\" de Death Grips?",
-      "answers": [
-        "2013",
-        "2018",
-        "2011",
-        "2017"
-      ],
-      "correct": 1,
-      "category": "musica",
-      "level": "nino"
-    },
-    {
-      "question": "¿Cómo se llama el exitoso sencillo del DJ finlandés Darude lanzado en octubre de 1999?",
-      "answers": [
-        "Siroco",
-        "Diablo de Polvo",
-        "Jamsin",
-        "Tormenta de Arena"
-      ],
-      "correct": 3,
-      "category": "musica",
-      "level": "nino"
-    },
-    {
-      "question": "El DJ sueco Tim Bergling, que produjo canciones como \"Levels\" y \"Wake Me Up\", ¿bajo qué alias es más conocido?",
-      "answers": [
-        "Alesso",
-        "Deadmau5",
-        "Avicii",
-        "Skrilex"
-      ],
-      "correct": 2,
       "category": "musica",
       "level": "nino"
     }
   ],
   "ninos": [
     {
-      "question": "¿Qué período histórico fue el centro de la película Assassin's Creed (2016)?",
-      "answers": [
-        "Revolución Francesa",
-        "América Colonial",
-        "Inquisición Española",
-        "Inglaterra Victoriana"
-      ],
-      "correct": 2,
-      "category": "ninos",
-      "level": "nino"
-    },
-    {
-      "question": "En la película de 1951 \"El día que la Tierra se detuvo\", ¿en qué ciudad estadounidense aterrizó la nave espacial extraterrestre?",
-      "answers": [
-        "Washington DC",
-        "Nueva York",
-        "Los Ángeles",
-        "Filadelfia"
-      ],
-      "correct": 0,
-      "category": "ninos",
-      "level": "nino"
-    },
-    {
-      "question": "Al final de la película \"Rat Race\" de 2001, ¿en qué concierto chocan los concursantes?",
-      "answers": [
-        "Aplastar la Boca",
-        "Suma 41",
-        "Parque Linkin",
-        "Bolos Para Sopa"
-      ],
-      "correct": 0,
-      "category": "ninos",
-      "level": "nino"
-    },
-    {
-      "question": "¿En qué país europeo se desarrolla principalmente la película de 2002 \"28 días después\"?",
-      "answers": [
-        "Reino Unido",
-        "Francia",
-        "Italia",
-        "Alemania"
-      ],
-      "correct": 0,
-      "category": "ninos",
-      "level": "nino"
-    },
-    {
-      "question": "¿Quién escribió y dirigió la película 'Platoon' de 1986?",
-      "answers": [
-        "Stanley Kubrick",
-        "Michael Cimino",
-        "Oliver Piedra",
-        "Francis Ford Coppola"
-      ],
-      "correct": 2,
-      "category": "ninos",
-      "level": "nino"
-    },
-    {
-      "question": "¿Cuál de estas películas NO se estrenó en 1996?",
-      "answers": [
-        "Día de la Independencia",
-        "Gladiador",
-        "La Roca",
-        "Misión: Imposible"
-      ],
+      "question": "¿Cómo se llama la princesa de hielo de Frozen?",
+      "answers": ["Anna", "Elsa", "Rapunzel", "Moana"],
       "correct": 1,
       "category": "ninos",
       "level": "nino"
     },
     {
-      "question": "¿Qué actriz bailó el twist con John Travolta en 'Pulp Fiction'?",
-      "answers": [
-        "Uma Thurman",
-        "Brígida Fonda",
-        "Pamela Grier",
-        "Kathy Griffin"
-      ],
-      "correct": 0,
-      "category": "ninos",
-      "level": "nino"
-    },
-    {
-      "question": "¿En qué año se lanzó el primer Youtube Rewind oficial?",
-      "answers": [
-        "2011",
-        "2012",
-        "2010",
-        "2013"
-      ],
-      "correct": 2,
-      "category": "ninos",
-      "level": "nino"
-    },
-    {
-      "question": "¿Quién es el protagonista de la película de 2002 \"Kung Pow! Enter the Fist\"?",
-      "answers": [
-        "Mono de Hierro",
-        "Maestro Tang",
-        "Elegido",
-        "Rey Dragón"
-      ],
-      "correct": 2,
-      "category": "ninos",
-      "level": "nino"
-    },
-    {
-      "question": "¿Quién interpretó a Bruce Wayne y Batman en la película \"Batman\" de Tim Burton de 1989?",
-      "answers": [
-        "Michael Keaton",
-        "George Clooney",
-        "Val Kilmer",
-        "Adán Oeste"
-      ],
-      "correct": 0,
-      "category": "ninos",
-      "level": "nino"
-    },
-    {
-      "question": "En Big Hero 6, ¿de qué ciudad ficticia es Big Hero 6?",
-      "answers": [
-        "San Francisco",
-        "Tokysisco",
-        "Sankyo",
-        "San Tokio"
-      ],
-      "correct": 0,
-      "category": "ninos",
-      "level": "nino"
-    },
-    {
-      "question": "Esta película contiene la cita: \"Nadie arrincona a Baby\".",
-      "answers": [
-        "Baile Sucio",
-        "Día Libre de Ferris Bueller",
-        "Tres Hombres y Un Bebé",
-        "Bonita en Rosa"
-      ],
-      "correct": 0,
-      "category": "ninos",
-      "level": "nino"
-    },
-    {
-      "question": "En \"Jurassic World\", ¿cómo se llama el dinosaurio que es un híbrido genético?",
-      "answers": [
-        "Pteranodon",
-        "Tiranosaurio Rex",
-        "Indominus Rex",
-        "Mosasaurio"
-      ],
-      "correct": 2,
-      "category": "ninos",
-      "level": "nino"
-    },
-    {
-      "question": "¿Las tiendas 7-Eleven se convirtieron temporalmente en Kwik E-marts para promover el estreno de qué película?",
-      "answers": [
-        "El Hombre Araña 3",
-        "La Película de los Simpson",
-        "Shrek Tercero",
-        "Pisto"
-      ],
+      "question": "¿Qué muñeca vaquero aparece en Toy Story?",
+      "answers": ["Buzz", "Woody", "Rex", "Slinky"],
       "correct": 1,
       "category": "ninos",
       "level": "nino"
     },
     {
-      "question": "En la película de 2012, \"The Lorax\", ¿quién es el antagonista?",
-      "answers": [
-        "El Once-Ler",
-        "Aloysius O'Hare",
-        "Norma Grammy",
-        "Ted Wiggins"
-      ],
+      "question": "¿Cómo se llama el pez olvidadizo azul de Pixar?",
+      "answers": ["Nemo", "Dory", "Marlin", "Coral"],
       "correct": 1,
       "category": "ninos",
       "level": "nino"
     },
     {
-      "question": "Para la película \"En busca del arca perdida\", ¿de qué se enfermó Harrison Ford durante el rodaje de la persecución en El Cairo?",
-      "answers": [
-        "Disentería",
-        "Anemia",
-        "Reflujo Ácido",
-        "Estreñimiento"
-      ],
-      "correct": 0,
-      "category": "ninos",
-      "level": "nino"
-    },
-    {
-      "question": "¿Qué superhéroe han interpretado en el cine los actores Michael Keaton, Val Kilmer, George Clooney y Christian Bale?",
-      "answers": [
-        "Hombre Araña",
-        "Batman",
-        "Hombre de Hierro",
-        "Superhombre"
-      ],
-      "correct": 1,
-      "category": "ninos",
-      "level": "nino"
-    },
-    {
-      "question": "En El Señor de los Anillos: Las Dos Torres, ¿a dónde lleva el grupo de orcos a los hobbits?",
-      "answers": [
-        "Rivendel",
-        "Mordor",
-        "Isengard",
-        "Moría"
-      ],
+      "question": "¿Qué color es Pikachu?",
+      "answers": ["Azul", "Rojo", "Amarillo", "Verde"],
       "correct": 2,
       "category": "ninos",
       "level": "nino"
     },
     {
-      "question": "¿Cuál de estos actores NO ha interpretado a Spiderman en el cine?",
-      "answers": [
-        "Andres Garfield",
-        "Miguel Cera",
-        "Tom Holanda",
-        "Tobey Maguire"
-      ],
+      "question": "¿Cómo se llama el mejor amigo de Shrek?",
+      "answers": ["Burro", "Gato", "Dragón", "Lobo"],
+      "correct": 0,
+      "category": "ninos",
+      "level": "nino"
+    },
+    {
+      "question": "¿Quién vive en una piña debajo del mar?",
+      "answers": ["Peppa Pig", "Bob Esponja", "Bluey", "Mickey"],
       "correct": 1,
       "category": "ninos",
       "level": "nino"
     },
     {
-      "question": "¿Quién dirigió Marvel's Avengers Endgame?",
-      "answers": [
-        "Josh Whedon",
-        "Los Hermanos Russo",
-        "Zack Sinder",
-        "Kevin Feige"
-      ],
+      "question": "¿Qué superhéroe lanza telarañas?",
+      "answers": ["Batman", "Hulk", "Spiderman", "Thor"],
+      "correct": 2,
+      "category": "ninos",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué animal es Dumbo?",
+      "answers": ["León", "Elefante", "Caballo", "Mono"],
       "correct": 1,
       "category": "ninos",
       "level": "nino"
     },
     {
-      "question": "Esta película contiene la cita: \"Siento la necesidad... ¡la necesidad de velocidad!\".",
-      "answers": [
-        "Cóctel",
-        "Pistola Superior",
-        "El Color del Dinero",
-        "Días de Trueno"
-      ],
+      "question": "¿Cómo se llama la hermana de Elsa?",
+      "answers": ["Bella", "Anna", "Ariel", "Mérida"],
       "correct": 1,
       "category": "ninos",
       "level": "nino"
     },
     {
-      "question": "¿Quién interpreta a Alice en las películas de Resident Evil?",
-      "answers": [
-        "Milla Johnson",
-        "Milla Jovovich",
-        "Madison Derpe",
-        "Kim Demp"
-      ],
-      "correct": 1,
-      "category": "ninos",
-      "level": "nino"
-    },
-    {
-      "question": "¿A qué villano de Batman es conocido por haber expresado Mark Hamill?",
-      "answers": [
-        "Silencio",
-        "El Comodín",
-        "Perdición",
-        "Dos Caras"
-      ],
-      "correct": 1,
-      "category": "ninos",
-      "level": "nino"
-    },
-    {
-      "question": "¿Cuál era el apellido de Dorothy en 'El mago de Oz'?",
-      "answers": [
-        "Dia",
-        "Vendaval",
-        "Perkins",
-        "Parker"
-      ],
-      "correct": 1,
-      "category": "ninos",
-      "level": "nino"
-    },
-    {
-      "question": "¿En qué película Humphrey Bogart dice la famosa frase: \"Aquí te estoy mirando, chico\"?",
-      "answers": [
-        "Ciudadano Kane",
-        "El Tesoro de la Sierra Madre",
-        "Casablanca",
-        "El Halcón Maltés"
-      ],
-      "correct": 2,
-      "category": "ninos",
-      "level": "nino"
-    },
-    {
-      "question": "¿Cuál fue la frase icónica de Bruce Campbell después de conseguir una motosierra en Evil Dead 2?",
-      "answers": [
-        "Retorcido.",
-        "Perfecto.",
-        "Genial.",
-        "Lindo."
-      ],
-      "correct": 2,
-      "category": "ninos",
-      "level": "nino"
-    },
-    {
-      "question": "¿Qué actor interpreta a Obi-Wan Kenobi en los Episodios I-III de Star Wars?",
-      "answers": [
-        "Liam Neeson",
-        "Ewan McGregor",
-        "Hayden Christensen",
-        "Alec Guinness"
-      ],
-      "correct": 1,
-      "category": "ninos",
-      "level": "nino"
-    },
-    {
-      "question": "En la película \"Náufrago\", se nombra al mejor amigo del protagonista principal mientras estaba en la isla.",
-      "answers": [
-        "Carson",
-        "Wilson",
-        "Jackson",
-        "Willy"
-      ],
-      "correct": 1,
-      "category": "ninos",
-      "level": "nino"
-    },
-    {
-      "question": "¿Qué película estrenada en 2016 presenta a Superman y Batman peleando?",
-      "answers": [
-        "Batman V Superman: el Negro del Caballero",
-        "Batman V Superman: el Amanecer de la Justicia",
-        "Batman V Superman: Caída del Caballero",
-        "Batman V Superman: Superapocalipsis"
-      ],
-      "correct": 1,
-      "category": "ninos",
-      "level": "nino"
-    },
-    {
-      "question": "En la película de Super Mario Bros. (2023), ¿quién interpreta a Toad?",
-      "answers": [
-        "Día de Charlie",
-        "Seth Rogan",
-        "Keegan-Michael Key",
-        "Jack Negro"
-      ],
-      "correct": 2,
-      "category": "ninos",
-      "level": "nino"
-    },
-    {
-      "question": "¿Cuándo se estrenó la película 'Con Air'?",
-      "answers": [
-        "1990",
-        "1985",
-        "1997",
-        "1999"
-      ],
-      "correct": 2,
-      "category": "ninos",
-      "level": "nino"
-    },
-    {
-      "question": "En Avengers: Infinity War, ¿quién mantuvo la Piedra de la Realidad (también conocida como Éter) bajo custodia segura?",
-      "answers": [
-        "Bruja Escarlata",
-        "El Gran Maestro",
-        "Doctor Extraño",
-        "El Coleccionista"
-      ],
-      "correct": 3,
-      "category": "ninos",
-      "level": "nino"
-    },
-    {
-      "question": "¿Quién es el protagonista principal de la película de 1985, Regreso al futuro?",
-      "answers": [
-        "Marty Mcfly",
-        "Emmett \"Doc\" Marrón",
-        "George McFly",
-        "Biff Tannen"
-      ],
-      "correct": 0,
-      "category": "ninos",
-      "level": "nino"
-    },
-    {
-      "question": "¿Qué película incluye un espíritu gigante parecido a un conejito que tiene poderes mágicos, incluido el cultivo de árboles?",
-      "answers": [
-        "Mi Vecino Totoro",
-        "Salto",
-        "El Ascenso de los Guardianes",
-        "Alicia en el País de las Maravillas"
-      ],
-      "correct": 0,
-      "category": "ninos",
-      "level": "nino"
-    },
-    {
-      "question": "¿Cuál de estos actores/actrices NO forma parte del elenco de la película de 2016 \"Suicide Squad\"?",
-      "answers": [
-        "Will Smith",
-        "Margot Robbie",
-        "Scarlett Johansson",
-        "Jared Leto"
-      ],
-      "correct": 2,
-      "category": "ninos",
-      "level": "nino"
-    },
-    {
-      "question": "¿Qué película protagonizada por Bruce Willis contiene la frase \"Veo gente muerta\"?",
-      "answers": [
-        "Morir Duro",
-        "El Quinto Elemento",
-        "El Sexto Sentido",
-        "Armagedón"
-      ],
-      "correct": 2,
-      "category": "ninos",
-      "level": "nino"
-    },
-    {
-      "question": "¿Qué raza de perro era Marley en la película \"Marley & Me\" (2008)?",
-      "answers": [
-        "Perro Perdiguero de Labrador",
-        "Dálmata",
-        "Shiba-Inu",
-        "Perro Perdiguero de Oro"
-      ],
-      "correct": 0,
-      "category": "ninos",
-      "level": "nino"
-    },
-    {
-      "question": "¿Quién interpretó al mariscal adjunto Samuel Gerard en la película de 1993 \"El fugitivo\"?",
-      "answers": [
-        "Tommy Lee Jones",
-        "Harvey Keitel",
-        "Harrison Ford",
-        "Martín Landau"
-      ],
-      "correct": 0,
-      "category": "ninos",
-      "level": "nino"
-    },
-    {
-      "question": "¿Quién queda congelado al final de la película \"Goldeneye\"?",
-      "answers": [
-        "Natalia Simonova",
-        "Alec Travelyan",
-        "Borís Grishenko",
-        "James Bond"
-      ],
-      "correct": 2,
-      "category": "ninos",
-      "level": "nino"
-    },
-    {
-      "question": "¿Quién en Pulp Fiction dice: \"No, tienen el sistema métrico ahí, no sabrían qué carajo es un cuarto de libra\".",
-      "answers": [
-        "Vicente Vega",
-        "Jules Winfield",
-        "Jimmie Dimmick",
-        "Butch Coolidge"
-      ],
-      "correct": 0,
-      "category": "ninos",
-      "level": "nino"
-    },
-    {
-      "question": "¿Quién protagonizó la película de 1973 \"Enter The Dragon\"?",
-      "answers": [
-        "Bruce Lee",
-        "Jet Li",
-        "Chow Yun-Fat",
-        "Jackie Chan"
-      ],
-      "correct": 0,
-      "category": "ninos",
-      "level": "nino"
-    },
-    {
-      "question": "En la película \"Spaceballs\", ¿qué intentan robar las Spaceballs del planeta Druidia?",
-      "answers": [
-        "Aire",
-        "Princesa Estrella Solitaria",
-        "El Schwartz",
-        "Albóndigas"
-      ],
-      "correct": 0,
-      "category": "ninos",
-      "level": "nino"
-    },
-    {
-      "question": "¿Cuál de los siguientes actores solo ha estado una vez en una película dirigida por Quentin Tarantino?",
-      "answers": [
-        "Harvey Keitel",
-        "Samuel Jackson",
-        "Juan Travolta",
-        "Cristóbal Vals"
-      ],
-      "correct": 2,
-      "category": "ninos",
-      "level": "nino"
-    },
-    {
-      "question": "¿Cuál de los siguientes no era uno de \"Los siete magníficos\"?",
-      "answers": [
-        "Clint Eastwood",
-        "Steve McQueen",
-        "Carlos Bronson",
-        "Robert Vaughn"
-      ],
-      "correct": 0,
-      "category": "ninos",
-      "level": "nino"
-    },
-    {
-      "question": "¿Quién dirigió la película de 2017 \"La forma del agua\"?",
-      "answers": [
-        "Guillermo del Toro",
-        "Martín Scorsese",
-        "James Cameron",
-        "Steven Spielberg"
-      ],
-      "correct": 0,
-      "category": "ninos",
-      "level": "nino"
-    },
-    {
-      "question": "¿Qué película animada fue la primera en presentar a una celebridad como actor de doblaje?",
-      "answers": [
-        "Aladino",
-        "Historia del Juguete",
-        "El Jorobado de Notre Dame",
-        "James y el Melocotón Gigante"
-      ],
-      "correct": 0,
-      "category": "ninos",
-      "level": "nino"
-    },
-    {
-      "question": "¿Cuál de estos actores NO aparece en la película de 1998 \"Salvando al soldado Ryan\"?",
-      "answers": [
-        "Matt Damon",
-        "Tom Hanks",
-        "Vin Diésel",
-        "Ralph Fiennes"
-      ],
-      "correct": 3,
-      "category": "ninos",
-      "level": "nino"
-    },
-    {
-      "question": "¿En cuál de estas películas no protagonizó Jeff Bridges?",
-      "answers": [
-        "Verdadero Valor",
-        "Tron: Legado",
-        "Los Odiosos Ocho",
-        "El Dador"
-      ],
-      "correct": 2,
-      "category": "ninos",
-      "level": "nino"
-    },
-    {
-      "question": "¿Qué película de James Bond tuvo el tema principal escrito e interpretado por la cantautora inglesa Adele?",
-      "answers": [
-        "Espectro",
-        "Consuelo Cuántico",
-        "Casino Real",
-        "Caída del Cielo"
-      ],
-      "correct": 3,
-      "category": "ninos",
-      "level": "nino"
-    },
-    {
-      "question": "¿Cuál fue el título de la primera película de Bond, estrenada en 1962?",
-      "answers": [
-        "Dedo de Oro",
-        "Doctor No",
-        "Desde Rusia Con Amor",
-        "Bola de Trueno"
-      ],
+      "question": "¿Qué fontanero lleva gorra roja?",
+      "answers": ["Luigi", "Mario", "Sonic", "Tails"],
       "correct": 1,
       "category": "ninos",
       "level": "nino"
