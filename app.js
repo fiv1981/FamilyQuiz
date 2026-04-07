@@ -123,11 +123,11 @@ function renderDifficultyScreen() {
   stopTimer();
   screen.innerHTML = `
     <section class="panel stage-panel stage-panel--difficulty">
+      <button class="ghost-btn options-btn" id="openOptionsBtn">Opciones</button>
       <div class="stage-head">
         <div>
           <h2>Elige dificultad</h2>
         </div>
-        <button class="ghost-btn" id="openOptionsBtn">Opciones</button>
       </div>
       <div class="level-grid">
         ${Object.entries(LEVELS).map(([id, level]) => `
@@ -158,7 +158,6 @@ function renderCategoryScreen() {
     <section class="panel stage-panel stage-panel--category">
       <div class="stage-head compact">
         <div>
-          <div class="section-title">${LEVELS[state.level].label}</div>
           <h2>Elige tema</h2>
         </div>
       </div>

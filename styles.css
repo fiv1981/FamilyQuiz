@@ -64,6 +64,7 @@ body {
 }
 
 .panel {
+  position: relative;
   height: 100%;
   min-height: 0;
   overflow: auto;
@@ -103,6 +104,13 @@ body {
   justify-content: space-between;
   align-items: start;
   gap: 12px;
+}
+
+.options-btn {
+  position: absolute;
+  top: 18px;
+  right: 18px;
+  z-index: 2;
 }
 
 .stage-head.compact h2,
@@ -405,6 +413,7 @@ body {
 @media (max-height: 520px) and (orientation: landscape) {
   .app { padding: 8px; gap: 8px; }
   .panel { padding: 12px; }
+  .options-btn { top: 12px; right: 12px; }
   .topbar h1 { font-size: clamp(1.7rem, 2.4vw, 2.6rem); }
   .stage-head h2, .stage-head.compact h2 { font-size: clamp(1.6rem, 2.6vw, 2.4rem); }
   .level-grid { grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 10px; }
