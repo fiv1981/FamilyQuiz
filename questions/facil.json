@@ -603,600 +603,600 @@
   ],
   "geografia": [
     {
-      "question": "¿Cuál es la capital de España?",
+      "question": "¿Cuántas estrellas aparecen en la bandera de Nueva Zelanda?",
       "answers": [
-        "Madrid",
-        "Barcelona",
-        "Sevilla",
-        "Valencia"
+        "2",
+        "0",
+        "4",
+        "5"
+      ],
+      "correct": 2,
+      "category": "geografia",
+      "level": "facil"
+    },
+    {
+      "question": "¿Cuál de las siguientes lenguas europeas está clasificada como una \"lengua aislada\"?",
+      "answers": [
+        "vasco",
+        "maltés",
+        "gallego",
+        "húngaro"
       ],
       "correct": 0,
       "category": "geografia",
       "level": "facil"
     },
     {
-      "question": "¿Cuál es la capital de Francia?",
+      "question": "Si el fútbol se llama fútbol en Inglaterra, ¿cómo se llama fútbol americano en Inglaterra?",
       "answers": [
-        "Roma",
-        "París",
-        "Lisboa",
-        "Berlín"
+        "Aterrizaje",
+        "futbol americano",
+        "balonmano",
+        "combball"
       ],
       "correct": 1,
       "category": "geografia",
       "level": "facil"
     },
     {
-      "question": "¿En qué continente está Japón?",
+      "question": "¿Qué país tiene una hoja de arce en su bandera?",
       "answers": [
-        "Europa",
-        "Asia",
-        "África",
-        "Oceanía"
+        "México",
+        "Canadá",
+        "Brasil",
+        "India"
       ],
       "correct": 1,
       "category": "geografia",
       "level": "facil"
     },
     {
-      "question": "¿Qué océano está al oeste de América?",
+      "question": "¿Cuál es el apodo del estado estadounidense de Delaware?",
       "answers": [
-        "Índico",
-        "Pacífico",
-        "Ártico",
-        "Mediterráneo"
+        "El decimosexto estado",
+        "El segundo estado",
+        "El primer estado",
+        "El quincuagésimo estado"
+      ],
+      "correct": 2,
+      "category": "geografia",
+      "level": "facil"
+    },
+    {
+      "question": "¿Con cuántos países Estados Unidos comparte frontera terrestre?",
+      "answers": [
+        "1",
+        "3",
+        "2",
+        "4"
+      ],
+      "correct": 2,
+      "category": "geografia",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué nombre se utilizó históricamente para la ciudad turca actualmente conocida como Estambul?",
+      "answers": [
+        "Söğüt",
+        "Constantinopla",
+        "Adrianópolis",
+        "Hudavendígar"
       ],
       "correct": 1,
       "category": "geografia",
       "level": "facil"
     },
     {
-      "question": "¿Qué ciudad es famosa por la Torre Eiffel?",
+      "question": "¿Cuál es la capital del estado americano de Arizona?",
       "answers": [
-        "Roma",
-        "París",
-        "Londres",
-        "Atenas"
+        "montgomery",
+        "fénix",
+        "Tallahassee",
+        "Raleigh"
       ],
       "correct": 1,
       "category": "geografia",
       "level": "facil"
     },
     {
-      "question": "¿Cuál es la capital de España? (2)",
+      "question": "¿Con qué país no tiene frontera Austria?",
       "answers": [
-        "Madrid",
-        "Barcelona",
-        "Sevilla",
-        "Valencia"
+        "Francia",
+        "Suiza",
+        "Eslovaquia",
+        "Eslovenia"
       ],
       "correct": 0,
       "category": "geografia",
       "level": "facil"
     },
     {
-      "question": "¿Cuál es la capital de Francia? (2)",
+      "question": "¿A cuál de los siguientes países europeos y sus estatus económicos se refiere el burlón acrónimo \"PIIGS\"?",
       "answers": [
-        "Roma",
-        "París",
-        "Lisboa",
-        "Berlín"
+        "Polonia, Islandia, Italia, Groenlandia, España",
+        "Polonia, Islandia, Italia, Grecia, Serbia",
+        "Portugal, Irlanda, Italia, Grecia, España",
+        "Portugal, Islandia, Irlanda, Grecia, Serbia"
       ],
-      "correct": 1,
+      "correct": 2,
       "category": "geografia",
       "level": "facil"
     },
     {
-      "question": "¿En qué continente está Japón? (2)",
+      "question": "¿Cuál es el desierto cálido más grande del mundo?",
       "answers": [
-        "Europa",
-        "Asia",
-        "África",
-        "Oceanía"
-      ],
-      "correct": 1,
-      "category": "geografia",
-      "level": "facil"
-    },
-    {
-      "question": "¿Qué océano está al oeste de América? (2)",
-      "answers": [
-        "Índico",
-        "Pacífico",
-        "Ártico",
-        "Mediterráneo"
-      ],
-      "correct": 1,
-      "category": "geografia",
-      "level": "facil"
-    },
-    {
-      "question": "¿Qué ciudad es famosa por la Torre Eiffel? (2)",
-      "answers": [
-        "Roma",
-        "París",
-        "Londres",
-        "Atenas"
-      ],
-      "correct": 1,
-      "category": "geografia",
-      "level": "facil"
-    },
-    {
-      "question": "¿Cuál es la capital de España? (3)",
-      "answers": [
-        "Madrid",
-        "Barcelona",
-        "Sevilla",
-        "Valencia"
+        "Sáhara",
+        "mojave",
+        "Kalahari",
+        "Gobi"
       ],
       "correct": 0,
       "category": "geografia",
       "level": "facil"
     },
     {
-      "question": "¿Cuál es la capital de Francia? (3)",
+      "question": "¿Qué país tiene una bandera horizontal bicolor roja y blanca?",
       "answers": [
-        "Roma",
-        "París",
-        "Lisboa",
-        "Berlín"
+        "malta",
+        "Mónaco",
+        "Bahréin",
+        "Liechenstein"
       ],
       "correct": 1,
       "category": "geografia",
       "level": "facil"
     },
     {
-      "question": "¿En qué continente está Japón? (3)",
+      "question": "¿Cuál es la ciudad polaca conocida por los alemanes como Danzig?",
       "answers": [
-        "Europa",
-        "Asia",
-        "África",
-        "Oceanía"
+        "Poznan",
+        "Zakopane",
+        "Gdansk",
+        "Varsovia"
+      ],
+      "correct": 2,
+      "category": "geografia",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué zona de Europa del Este es famosa por su asociación con los vampiros?",
+      "answers": [
+        "Silesia",
+        "Transilvania",
+        "Macedonia",
+        "Eslovaquia"
       ],
       "correct": 1,
       "category": "geografia",
       "level": "facil"
     },
     {
-      "question": "¿Qué océano está al oeste de América? (3)",
+      "question": "¿Cuál es la capital del estado estadounidense de Nueva York?",
       "answers": [
-        "Índico",
-        "Pacífico",
-        "Ártico",
-        "Mediterráneo"
+        "rochester",
+        "Albany",
+        "Nueva York",
+        "Búfalo"
       ],
       "correct": 1,
       "category": "geografia",
       "level": "facil"
     },
     {
-      "question": "¿Qué ciudad es famosa por la Torre Eiffel? (3)",
+      "question": "¿Cuál de los siguientes idiomas NO utiliza el alfabeto latino?",
       "answers": [
-        "Roma",
-        "París",
-        "Londres",
-        "Atenas"
-      ],
-      "correct": 1,
-      "category": "geografia",
-      "level": "facil"
-    },
-    {
-      "question": "¿Cuál es la capital de España? (4)",
-      "answers": [
-        "Madrid",
-        "Barcelona",
-        "Sevilla",
-        "Valencia"
+        "georgiano",
+        "vietnamita",
+        "turco",
+        "suajili"
       ],
       "correct": 0,
       "category": "geografia",
       "level": "facil"
     },
     {
-      "question": "¿Cuál es la capital de Francia? (4)",
+      "question": "¿Cuál de las siguientes características geográficas es un arrecife de coral, una isla o una serie de islotes en forma de anillo?",
       "answers": [
-        "Roma",
-        "París",
-        "Lisboa",
-        "Berlín"
+        "delta",
+        "Atolón",
+        "istmo",
+        "Península"
       ],
       "correct": 1,
       "category": "geografia",
       "level": "facil"
     },
     {
-      "question": "¿En qué continente está Japón? (4)",
+      "question": "¿Cómo se llama la península que contiene a España y Portugal?",
       "answers": [
-        "Europa",
-        "Asia",
-        "África",
-        "Oceanía"
+        "Península europea",
+        "Península del Peloponeso",
+        "Península Ibérica",
+        "península escandinava"
       ],
-      "correct": 1,
+      "correct": 2,
       "category": "geografia",
       "level": "facil"
     },
     {
-      "question": "¿Qué océano está al oeste de América? (4)",
+      "question": "¿Qué estado de Estados Unidos recibe el sobrenombre de \"El Estado Dorado\"?",
       "answers": [
-        "Índico",
-        "Pacífico",
-        "Ártico",
-        "Mediterráneo"
-      ],
-      "correct": 1,
-      "category": "geografia",
-      "level": "facil"
-    },
-    {
-      "question": "¿Qué ciudad es famosa por la Torre Eiffel? (4)",
-      "answers": [
-        "Roma",
-        "París",
-        "Londres",
-        "Atenas"
-      ],
-      "correct": 1,
-      "category": "geografia",
-      "level": "facil"
-    },
-    {
-      "question": "¿Cuál es la capital de España? (5)",
-      "answers": [
-        "Madrid",
-        "Barcelona",
-        "Sevilla",
-        "Valencia"
+        "California",
+        "Nuevo México",
+        "alaska",
+        "florida"
       ],
       "correct": 0,
       "category": "geografia",
       "level": "facil"
     },
     {
-      "question": "¿Cuál es la capital de Francia? (5)",
+      "question": "¿Qué ciudad europea es conocida como la \"Ciudad de la Luz\"?",
       "answers": [
-        "Roma",
-        "París",
-        "Lisboa",
-        "Berlín"
-      ],
-      "correct": 1,
-      "category": "geografia",
-      "level": "facil"
-    },
-    {
-      "question": "¿En qué continente está Japón? (5)",
-      "answers": [
-        "Europa",
-        "Asia",
-        "África",
-        "Oceanía"
-      ],
-      "correct": 1,
-      "category": "geografia",
-      "level": "facil"
-    },
-    {
-      "question": "¿Qué océano está al oeste de América? (5)",
-      "answers": [
-        "Índico",
-        "Pacífico",
-        "Ártico",
-        "Mediterráneo"
-      ],
-      "correct": 1,
-      "category": "geografia",
-      "level": "facil"
-    },
-    {
-      "question": "¿Qué ciudad es famosa por la Torre Eiffel? (5)",
-      "answers": [
-        "Roma",
         "París",
         "Londres",
-        "Atenas"
-      ],
-      "correct": 1,
-      "category": "geografia",
-      "level": "facil"
-    },
-    {
-      "question": "¿Cuál es la capital de España? (6)",
-      "answers": [
-        "Madrid",
-        "Barcelona",
-        "Sevilla",
-        "Valencia"
+        "Roma",
+        "madrid"
       ],
       "correct": 0,
       "category": "geografia",
       "level": "facil"
     },
     {
-      "question": "¿Cuál es la capital de Francia? (6)",
+      "question": "¿Cuántos estados de EE. UU. comienzan con la letra K?",
       "answers": [
-        "Roma",
-        "París",
-        "Lisboa",
-        "Berlín"
-      ],
-      "correct": 1,
-      "category": "geografia",
-      "level": "facil"
-    },
-    {
-      "question": "¿En qué continente está Japón? (6)",
-      "answers": [
-        "Europa",
-        "Asia",
-        "África",
-        "Oceanía"
-      ],
-      "correct": 1,
-      "category": "geografia",
-      "level": "facil"
-    },
-    {
-      "question": "¿Qué océano está al oeste de América? (6)",
-      "answers": [
-        "Índico",
-        "Pacífico",
-        "Ártico",
-        "Mediterráneo"
-      ],
-      "correct": 1,
-      "category": "geografia",
-      "level": "facil"
-    },
-    {
-      "question": "¿Qué ciudad es famosa por la Torre Eiffel? (6)",
-      "answers": [
-        "Roma",
-        "París",
-        "Londres",
-        "Atenas"
-      ],
-      "correct": 1,
-      "category": "geografia",
-      "level": "facil"
-    },
-    {
-      "question": "¿Cuál es la capital de España? (7)",
-      "answers": [
-        "Madrid",
-        "Barcelona",
-        "Sevilla",
-        "Valencia"
+        "dos",
+        "tres",
+        "Ninguno",
+        "uno"
       ],
       "correct": 0,
       "category": "geografia",
       "level": "facil"
     },
     {
-      "question": "¿Cuál es la capital de Francia? (7)",
+      "question": "¿Groenlandia es parte de qué reino?",
       "answers": [
-        "Roma",
-        "París",
-        "Lisboa",
-        "Berlín"
+        "Noruega",
+        "Suecia",
+        "Dinamarca",
+        "Reino Unido"
+      ],
+      "correct": 2,
+      "category": "geografia",
+      "level": "facil"
+    },
+    {
+      "question": "¿Cuántas zonas horarias tiene China?",
+      "answers": [
+        "4",
+        "2",
+        "1",
+        "3"
+      ],
+      "correct": 2,
+      "category": "geografia",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué país NO era parte de la Unión Soviética?",
+      "answers": [
+        "Turkmenistán",
+        "Rumania",
+        "Bielorrusia",
+        "Tayikistán"
       ],
       "correct": 1,
       "category": "geografia",
       "level": "facil"
     },
     {
-      "question": "¿En qué continente está Japón? (7)",
+      "question": "¿En qué continente está Guyana?",
       "answers": [
-        "Europa",
         "Asia",
-        "África",
-        "Oceanía"
+        "américa del sur",
+        "América del Norte",
+        "África"
       ],
       "correct": 1,
       "category": "geografia",
       "level": "facil"
     },
     {
-      "question": "¿Qué océano está al oeste de América? (7)",
+      "question": "¿Qué país del Reino Unido tiene un dragón en su bandera?",
       "answers": [
-        "Índico",
-        "Pacífico",
-        "Ártico",
-        "Mediterráneo"
+        "Irlanda del Norte",
+        "Gales",
+        "Inglaterra",
+        "Escocia"
       ],
       "correct": 1,
       "category": "geografia",
       "level": "facil"
     },
     {
-      "question": "¿Qué ciudad es famosa por la Torre Eiffel? (7)",
+      "question": "¿Con cuantos países limita México?",
       "answers": [
-        "Roma",
-        "París",
-        "Londres",
-        "Atenas"
-      ],
-      "correct": 1,
-      "category": "geografia",
-      "level": "facil"
-    },
-    {
-      "question": "¿Cuál es la capital de España? (8)",
-      "answers": [
-        "Madrid",
-        "Barcelona",
-        "Sevilla",
-        "Valencia"
+        "3",
+        "1",
+        "4",
+        "2"
       ],
       "correct": 0,
       "category": "geografia",
       "level": "facil"
     },
     {
-      "question": "¿Cuál es la capital de Francia? (8)",
+      "question": "¿Cuál es la capital de Finlandia?",
       "answers": [
-        "Roma",
-        "París",
-        "Lisboa",
-        "Berlín"
-      ],
-      "correct": 1,
-      "category": "geografia",
-      "level": "facil"
-    },
-    {
-      "question": "¿En qué continente está Japón? (8)",
-      "answers": [
-        "Europa",
-        "Asia",
-        "África",
-        "Oceanía"
-      ],
-      "correct": 1,
-      "category": "geografia",
-      "level": "facil"
-    },
-    {
-      "question": "¿Qué océano está al oeste de América? (8)",
-      "answers": [
-        "Índico",
-        "Pacífico",
-        "Ártico",
-        "Mediterráneo"
-      ],
-      "correct": 1,
-      "category": "geografia",
-      "level": "facil"
-    },
-    {
-      "question": "¿Qué ciudad es famosa por la Torre Eiffel? (8)",
-      "answers": [
-        "Roma",
-        "París",
-        "Londres",
-        "Atenas"
-      ],
-      "correct": 1,
-      "category": "geografia",
-      "level": "facil"
-    },
-    {
-      "question": "¿Cuál es la capital de España? (9)",
-      "answers": [
-        "Madrid",
-        "Barcelona",
-        "Sevilla",
-        "Valencia"
+        "helsinki",
+        "Macedonia",
+        "Jabraltar",
+        "oslo"
       ],
       "correct": 0,
       "category": "geografia",
       "level": "facil"
     },
     {
-      "question": "¿Cuál es la capital de Francia? (9)",
+      "question": "¿Cuál de los siguientes países tiene una bandera con un león amarillo empuñando una espada sobre un fondo rojo oscuro?",
       "answers": [
-        "Roma",
-        "París",
-        "Lisboa",
-        "Berlín"
-      ],
-      "correct": 1,
-      "category": "geografia",
-      "level": "facil"
-    },
-    {
-      "question": "¿En qué continente está Japón? (9)",
-      "answers": [
-        "Europa",
-        "Asia",
-        "África",
-        "Oceanía"
-      ],
-      "correct": 1,
-      "category": "geografia",
-      "level": "facil"
-    },
-    {
-      "question": "¿Qué océano está al oeste de América? (9)",
-      "answers": [
-        "Índico",
-        "Pacífico",
-        "Ártico",
-        "Mediterráneo"
-      ],
-      "correct": 1,
-      "category": "geografia",
-      "level": "facil"
-    },
-    {
-      "question": "¿Qué ciudad es famosa por la Torre Eiffel? (9)",
-      "answers": [
-        "Roma",
-        "París",
-        "Londres",
-        "Atenas"
-      ],
-      "correct": 1,
-      "category": "geografia",
-      "level": "facil"
-    },
-    {
-      "question": "¿Cuál es la capital de España? (10)",
-      "answers": [
-        "Madrid",
-        "Barcelona",
-        "Sevilla",
-        "Valencia"
+        "Srilanka",
+        "Escocia",
+        "Bután",
+        "Kiribati"
       ],
       "correct": 0,
       "category": "geografia",
       "level": "facil"
     },
     {
-      "question": "¿Cuál es la capital de Francia? (10)",
+      "question": "¿Cuál es la provincia más pequeña de Canadá?",
       "answers": [
-        "Roma",
-        "París",
-        "Lisboa",
-        "Berlín"
+        "Nueva Escocia",
+        "Nuevo Brunswick",
+        "Isla del Príncipe Eduardo",
+        "Yukón"
+      ],
+      "correct": 2,
+      "category": "geografia",
+      "level": "facil"
+    },
+    {
+      "question": "¿Cuál es el idioma oficial de Costa Rica?",
+      "answers": [
+        "criollo",
+        "ingles",
+        "español",
+        "portugués"
+      ],
+      "correct": 2,
+      "category": "geografia",
+      "level": "facil"
+    },
+    {
+      "question": "¿En qué país está la ciudad de Río de Janeiro?",
+      "answers": [
+        "Venezuela",
+        "Chile",
+        "Perú",
+        "Brasil"
+      ],
+      "correct": 3,
+      "category": "geografia",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué es Laos?",
+      "answers": [
+        "País",
+        "ciudad",
+        "Región",
+        "río"
+      ],
+      "correct": 0,
+      "category": "geografia",
+      "level": "facil"
+    },
+    {
+      "question": "¿En qué océano se encuentra la isla Reunión?",
+      "answers": [
+        "Océano Índico",
+        "Océano Atlántico",
+        "Océano Pacífico Sur",
+        "Océano Pacífico Norte"
+      ],
+      "correct": 0,
+      "category": "geografia",
+      "level": "facil"
+    },
+    {
+      "question": "¿De qué color es el círculo de la bandera japonesa?",
+      "answers": [
+        "negro",
+        "amarillo",
+        "rojo",
+        "blanco"
+      ],
+      "correct": 2,
+      "category": "geografia",
+      "level": "facil"
+    },
+    {
+      "question": "¿Cuál es la capital de Jamaica?",
+      "answers": [
+        "san juan",
+        "Puerto Príncipe",
+        "Kingston",
+        "Bridgetown"
+      ],
+      "correct": 2,
+      "category": "geografia",
+      "level": "facil"
+    },
+    {
+      "question": "¿Cuál es el país más grande del mundo?",
+      "answers": [
+        "China",
+        "Rusia",
+        "Estados Unidos",
+        "Canadá"
       ],
       "correct": 1,
       "category": "geografia",
       "level": "facil"
     },
     {
-      "question": "¿En qué continente está Japón? (10)",
+      "question": "¿Cómo se llama el océano en el que se encuentra Hawaii?",
       "answers": [
-        "Europa",
-        "Asia",
-        "África",
-        "Oceanía"
-      ],
-      "correct": 1,
-      "category": "geografia",
-      "level": "facil"
-    },
-    {
-      "question": "¿Qué océano está al oeste de América? (10)",
-      "answers": [
-        "Índico",
+        "atlántico",
         "Pacífico",
-        "Ártico",
-        "Mediterráneo"
+        "indio",
+        "Ártico"
       ],
       "correct": 1,
       "category": "geografia",
       "level": "facil"
     },
     {
-      "question": "¿Qué ciudad es famosa por la Torre Eiffel? (10)",
+      "question": "¿Cuál es la capital de Rumania?",
       "answers": [
-        "Roma",
-        "París",
-        "Londres",
-        "Atenas"
+        "Bucarest",
+        "Belgrado",
+        "budapest",
+        "Bratislava"
+      ],
+      "correct": 0,
+      "category": "geografia",
+      "level": "facil"
+    },
+    {
+      "question": "¿Dónde encontrarías la \"Plaza de España\"?",
+      "answers": [
+        "Berlín, Alemania",
+        "Barcelona, España",
+        "Roma, Italia",
+        "Londres, Inglaterra"
+      ],
+      "correct": 2,
+      "category": "geografia",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué país es el segundo más grande del mundo por superficie?",
+      "answers": [
+        "Canadá",
+        "Estados Unidos de America",
+        "China",
+        "Rusia"
+      ],
+      "correct": 0,
+      "category": "geografia",
+      "level": "facil"
+    },
+    {
+      "question": "¿Cuál es la decimoquinta letra del alfabeto griego?",
+      "answers": [
+        "Ómicrón (Ο)",
+        "Sigma (Σ)",
+        "Pi (Π)",
+        "Nu (Ν)"
+      ],
+      "correct": 0,
+      "category": "geografia",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué estado es el estado más grande de los Estados Unidos de América?",
+      "answers": [
+        "Washington",
+        "Tejas",
+        "alaska",
+        "California"
+      ],
+      "correct": 2,
+      "category": "geografia",
+      "level": "facil"
+    },
+    {
+      "question": "¿Cuál es el país más grande, por área, que tiene una sola zona horaria?",
+      "answers": [
+        "Canadá",
+        "China",
+        "India",
+        "Rusia"
+      ],
+      "correct": 1,
+      "category": "geografia",
+      "level": "facil"
+    },
+    {
+      "question": "¿En qué ciudad se encuentra la Space Needle?",
+      "answers": [
+        "vancouver",
+        "seattle",
+        "toronto",
+        "Los Ángeles"
+      ],
+      "correct": 1,
+      "category": "geografia",
+      "level": "facil"
+    },
+    {
+      "question": "¿Cuál es la capital de la India?",
+      "answers": [
+        "Nueva Delhi",
+        "tithi",
+        "Pekín",
+        "Montréal"
+      ],
+      "correct": 0,
+      "category": "geografia",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué estado de EE. UU. tiene la mayor población?",
+      "answers": [
+        "florida",
+        "Nueva York",
+        "Tejas",
+        "California"
+      ],
+      "correct": 3,
+      "category": "geografia",
+      "level": "facil"
+    },
+    {
+      "question": "¿Entre qué dos naciones se encuentra la frontera compartida más larga del mundo?",
+      "answers": [
+        "India y Pakistán",
+        "chile y argentina",
+        "Canadá y Estados Unidos",
+        "Rusia y China"
+      ],
+      "correct": 2,
+      "category": "geografia",
+      "level": "facil"
+    },
+    {
+      "question": "¿En qué continente se encuentra la cordillera de los andes?",
+      "answers": [
+        "África",
+        "Asia",
+        "Europa",
+        "américa del sur"
+      ],
+      "correct": 3,
+      "category": "geografia",
+      "level": "facil"
+    },
+    {
+      "question": "¿Cuántos estados federales tiene Alemania?",
+      "answers": [
+        "13",
+        "16",
+        "32",
+        "25"
       ],
       "correct": 1,
       "category": "geografia",
@@ -1205,46 +1205,538 @@
   ],
   "ciencia": [
     {
-      "question": "¿Qué planeta es conocido como el planeta rojo?",
+      "question": "¿Cuál de los siguientes huesos no está en la pierna?",
       "answers": [
-        "Venus",
-        "Marte",
-        "Neptuno",
-        "Mercurio"
+        "tibia",
+        "Radio",
+        "Peroné",
+        "rótula"
       ],
       "correct": 1,
       "category": "ciencia",
       "level": "facil"
     },
     {
-      "question": "¿Cuál es el estado sólido del agua?",
+      "question": "¿Cuántos planetas hay en el Sistema Solar?",
       "answers": [
-        "Humo",
-        "Vapor",
-        "Hielo",
-        "Niebla"
+        "9",
+        "8",
+        "11",
+        "10"
+      ],
+      "correct": 1,
+      "category": "ciencia",
+      "level": "facil"
+    },
+    {
+      "question": "¿Cuál es el peso atómico estándar de un núcleo de plutonio?",
+      "answers": [
+        "128",
+        "481",
+        "244",
+        "94"
       ],
       "correct": 2,
       "category": "ciencia",
       "level": "facil"
     },
     {
-      "question": "¿Qué parte de la planta está bajo tierra?",
+      "question": "¿Cuál es el animal más grande actualmente en la Tierra?",
       "answers": [
-        "Flor",
-        "Raíz",
-        "Hoja",
-        "Fruto"
+        "Orca",
+        "Calamar colosal",
+        "ballena azul",
+        "Jirafa"
+      ],
+      "correct": 2,
+      "category": "ciencia",
+      "level": "facil"
+    },
+    {
+      "question": "¿Cuál es el símbolo químico del helio?",
+      "answers": [
+        "hs",
+        "el",
+        "Hg",
+        "h"
       ],
       "correct": 1,
       "category": "ciencia",
       "level": "facil"
     },
     {
-      "question": "¿Cuál es el astro que da luz a la Tierra?",
+      "question": "¿Cuál de los siguientes es el término médico para el ombligo?",
       "answers": [
-        "Sol",
-        "Luna",
+        "Nevo",
+        "ombligo",
+        "nares",
+        "Paxilo"
+      ],
+      "correct": 1,
+      "category": "ciencia",
+      "level": "facil"
+    },
+    {
+      "question": "El 71% de la superficie terrestre está formada por",
+      "answers": [
+        "Bosques",
+        "Continentes",
+        "agua",
+        "Desiertos"
+      ],
+      "correct": 2,
+      "category": "ciencia",
+      "level": "facil"
+    },
+    {
+      "question": "¿Cuántas lunas tiene Plutón?",
+      "answers": [
+        "tres",
+        "cinco",
+        "dos",
+        "uno"
+      ],
+      "correct": 1,
+      "category": "ciencia",
+      "level": "facil"
+    },
+    {
+      "question": "¿Cuál es la composición química del agua?",
+      "answers": [
+        "h",
+        "H20",
+        "CO2",
+        "C12H6O2"
+      ],
+      "correct": 1,
+      "category": "ciencia",
+      "level": "facil"
+    },
+    {
+      "question": "¿Cuál es el elemento más abundante en el universo?",
+      "answers": [
+        "helio",
+        "Hidrógeno",
+        "Litio",
+        "Oxígeno"
+      ],
+      "correct": 1,
+      "category": "ciencia",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué tipo de roca se crea por calor Y presión intensos?",
+      "answers": [
+        "metamórfico",
+        "Ígneo",
+        "diamante",
+        "sedimentario"
+      ],
+      "correct": 0,
+      "category": "ciencia",
+      "level": "facil"
+    },
+    {
+      "question": "¿Cuál es la \"potencia\" de la célula animal eucariota?",
+      "answers": [
+        "Núcleo",
+        "cloroplasto",
+        "mitocondrias",
+        "Retículo endoplásmico"
+      ],
+      "correct": 2,
+      "category": "ciencia",
+      "level": "facil"
+    },
+    {
+      "question": "¿Cuál de estos huesos es más difícil de romper?",
+      "answers": [
+        "fémur",
+        "tibia",
+        "húmero",
+        "cráneo"
+      ],
+      "correct": 0,
+      "category": "ciencia",
+      "level": "facil"
+    },
+    {
+      "question": "¿Cuál de los siguientes vasos sanguíneos transporta sangre desoxigenada?",
+      "answers": [
+        "aorta",
+        "arteria pulmonar",
+        "Vena pulmonar",
+        "arteria coronaria"
+      ],
+      "correct": 1,
+      "category": "ciencia",
+      "level": "facil"
+    },
+    {
+      "question": "¿Cuántas lunas tiene la Tierra?",
+      "answers": [
+        "2",
+        "3",
+        "1",
+        "0"
+      ],
+      "correct": 2,
+      "category": "ciencia",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué gas noble tiene el número atómico más bajo?",
+      "answers": [
+        "helio",
+        "Neón",
+        "criptón",
+        "argón"
+      ],
+      "correct": 0,
+      "category": "ciencia",
+      "level": "facil"
+    },
+    {
+      "question": "¿Cuál es la unidad de resistencia eléctrica?",
+      "answers": [
+        "tesla",
+        "julio",
+        "ohmios",
+        "Mho"
+      ],
+      "correct": 2,
+      "category": "ciencia",
+      "level": "facil"
+    },
+    {
+      "question": "¿Cuántos huesos hay en el cuerpo humano?",
+      "answers": [
+        "206",
+        "209",
+        "203",
+        "200"
+      ],
+      "correct": 0,
+      "category": "ciencia",
+      "level": "facil"
+    },
+    {
+      "question": "¿Cuál es el planeta más grande del Sistema Solar?",
+      "answers": [
+        "Júpiter",
+        "Marte",
+        "tierra",
+        "Saturno"
+      ],
+      "correct": 0,
+      "category": "ciencia",
+      "level": "facil"
+    },
+    {
+      "question": "¿Cuál es el hueso más largo del cuerpo humano?",
+      "answers": [
+        "Peroné",
+        "escápula",
+        "fémur",
+        "cúbito"
+      ],
+      "correct": 2,
+      "category": "ciencia",
+      "level": "facil"
+    },
+    {
+      "question": "¿Cuál es la unidad estándar SI para masa?",
+      "answers": [
+        "kilogramo",
+        "libra",
+        "gramo",
+        "tonelada"
+      ],
+      "correct": 0,
+      "category": "ciencia",
+      "level": "facil"
+    },
+    {
+      "question": "¿Cuál es la principal sustancia adictiva que se encuentra en el tabaco?",
+      "answers": [
+        "Nicotina",
+        "catinona",
+        "Efedrina",
+        "Glaucina"
+      ],
+      "correct": 0,
+      "category": "ciencia",
+      "level": "facil"
+    },
+    {
+      "question": "¿Cuántas leyes de la termodinámica existen?",
+      "answers": [
+        "cuatro",
+        "cinco",
+        "dos",
+        "tres"
+      ],
+      "correct": 0,
+      "category": "ciencia",
+      "level": "facil"
+    },
+    {
+      "question": "¿Cuántas copias de cada gen suelen tener las células humanas?",
+      "answers": [
+        "4",
+        "2",
+        "1",
+        "3"
+      ],
+      "correct": 1,
+      "category": "ciencia",
+      "level": "facil"
+    },
+    {
+      "question": "¿Cuál es el nombre común del compuesto químico \"monóxido de dihidrógeno\"?",
+      "answers": [
+        "amoníaco",
+        "Gas de la risa",
+        "agua",
+        "Metano"
+      ],
+      "correct": 2,
+      "category": "ciencia",
+      "level": "facil"
+    },
+    {
+      "question": "¿El hielo seco es la forma sólida de qué sustancia?",
+      "answers": [
+        "nitrógeno",
+        "dióxido de carbono",
+        "amoníaco",
+        "Oxígeno"
+      ],
+      "correct": 1,
+      "category": "ciencia",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué usó Gregory Mendel para probar los cruces genéticos?",
+      "answers": [
+        "guisantes",
+        "flores",
+        "loros",
+        "gatos"
+      ],
+      "correct": 0,
+      "category": "ciencia",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué gas forma aproximadamente el 78% de la atmósfera terrestre?",
+      "answers": [
+        "Oxígeno",
+        "argón",
+        "nitrógeno",
+        "dióxido de carbono"
+      ],
+      "correct": 2,
+      "category": "ciencia",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué produce el color verde de la mayoría de las hojas de las plantas?",
+      "answers": [
+        "pigmentos naturales",
+        "radiación ultravioleta",
+        "clorofila",
+        "Refracción de la luz"
+      ],
+      "correct": 2,
+      "category": "ciencia",
+      "level": "facil"
+    },
+    {
+      "question": "¿Aproximadamente qué porcentaje de la superficie de la Tierra es agua?",
+      "answers": [
+        "30%",
+        "70%",
+        "50%",
+        "90%"
+      ],
+      "correct": 1,
+      "category": "ciencia",
+      "level": "facil"
+    },
+    {
+      "question": "¿Entre qué dos planetas se encuentra el cinturón de asteroides?",
+      "answers": [
+        "Marte y Júpiter",
+        "Tierra y Marte",
+        "Júpiter y Saturno",
+        "Mercurio y Venus"
+      ],
+      "correct": 0,
+      "category": "ciencia",
+      "level": "facil"
+    },
+    {
+      "question": "Este elemento, cuando se supera con calor y presión extremos, crea diamantes.",
+      "answers": [
+        "nitrógeno",
+        "Hidrógeno",
+        "Oxígeno",
+        "Carbono"
+      ],
+      "correct": 3,
+      "category": "ciencia",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué hay en el centro de nuestra galaxia?",
+      "answers": [
+        "un agujero de gusano",
+        "un quásar",
+        "Un agujero negro",
+        "una supernova"
+      ],
+      "correct": 2,
+      "category": "ciencia",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué nombre se le da a todas las crías de marsupiales?",
+      "answers": [
+        "becerro",
+        "cachorro",
+        "Joey",
+        "cachorro"
+      ],
+      "correct": 2,
+      "category": "ciencia",
+      "level": "facil"
+    },
+    {
+      "question": "¿Cuál es la capa delgada y más externa de la Tierra?",
+      "answers": [
+        "Núcleo exterior",
+        "corteza",
+        "manto",
+        "Exosfera"
+      ],
+      "correct": 1,
+      "category": "ciencia",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué elemento tiene el punto de fusión más alto?",
+      "answers": [
+        "tungsteno",
+        "Carbono",
+        "Platino",
+        "Osmio"
+      ],
+      "correct": 1,
+      "category": "ciencia",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué significa LÁSER?",
+      "answers": [
+        "Antimateria viva al entrar de pie en el rango",
+        "Amplificador de luz mediante energía de reserva de radio.",
+        "Amplificación de la luz mediante emisión estimulada de radiación.",
+        "Análisis Lite por ecorazer estéreo."
+      ],
+      "correct": 2,
+      "category": "ciencia",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué elemento tiene el símbolo químico 'Fe'?",
+      "answers": [
+        "Plata",
+        "hierro",
+        "oro",
+        "Estaño"
+      ],
+      "correct": 1,
+      "category": "ciencia",
+      "level": "facil"
+    },
+    {
+      "question": "¿Cuál es la unidad SI estándar para temperatura?",
+      "answers": [
+        "kélvin",
+        "Rankine",
+        "Celsius",
+        "Fahrenheit"
+      ],
+      "correct": 0,
+      "category": "ciencia",
+      "level": "facil"
+    },
+    {
+      "question": "¿Cuál de estos elementos es un metaloide?",
+      "answers": [
+        "antimonio",
+        "bromo",
+        "Estaño",
+        "Rubidio"
+      ],
+      "correct": 0,
+      "category": "ciencia",
+      "level": "facil"
+    },
+    {
+      "question": "¿Cuál es un ejemplo de un patógeno bacteriano?",
+      "answers": [
+        "Cólera",
+        "SIDA",
+        "Tiña",
+        "sarampión"
+      ],
+      "correct": 0,
+      "category": "ciencia",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué misión Apolo fue la primera en aterrizar en la Luna?",
+      "answers": [
+        "Apolo 10",
+        "Apolo 9",
+        "Apolo 11",
+        "Apolo 13"
+      ],
+      "correct": 2,
+      "category": "ciencia",
+      "level": "facil"
+    },
+    {
+      "question": "¿Cuál es el nombre oficial de la estrella ubicada más cercana al polo norte celeste?",
+      "answers": [
+        "estrella polar",
+        "Iota Cephei",
+        "Gama Cephei",
+        "Eridano"
+      ],
+      "correct": 0,
+      "category": "ciencia",
+      "level": "facil"
+    },
+    {
+      "question": "¿Cuál es el símbolo elemental del mercurio?",
+      "answers": [
+        "Mc",
+        "Hg",
+        "Yo",
+        "hola"
+      ],
+      "correct": 1,
+      "category": "ciencia",
+      "level": "facil"
+    },
+    {
+      "question": "¿Cuál es el planeta más caliente del sistema solar?",
+      "answers": [
+        "venus",
+        "Mercurio",
         "Marte",
         "Júpiter"
       ],
@@ -1253,1154 +1745,662 @@
       "level": "facil"
     },
     {
-      "question": "¿Cuál de estos animales es mamífero?",
+      "question": "¿Cuál es la unidad estándar del SI para el tiempo?",
       "answers": [
-        "Tiburón",
-        "Delfín",
-        "Pulpo",
-        "Trucha"
-      ],
-      "correct": 1,
-      "category": "ciencia",
-      "level": "facil"
-    },
-    {
-      "question": "¿Qué planeta es conocido como el planeta rojo? (2)",
-      "answers": [
-        "Venus",
-        "Marte",
-        "Neptuno",
-        "Mercurio"
-      ],
-      "correct": 1,
-      "category": "ciencia",
-      "level": "facil"
-    },
-    {
-      "question": "¿Cuál es el estado sólido del agua? (2)",
-      "answers": [
-        "Humo",
-        "Vapor",
-        "Hielo",
-        "Niebla"
-      ],
-      "correct": 2,
-      "category": "ciencia",
-      "level": "facil"
-    },
-    {
-      "question": "¿Qué parte de la planta está bajo tierra? (2)",
-      "answers": [
-        "Flor",
-        "Raíz",
-        "Hoja",
-        "Fruto"
-      ],
-      "correct": 1,
-      "category": "ciencia",
-      "level": "facil"
-    },
-    {
-      "question": "¿Cuál es el astro que da luz a la Tierra? (2)",
-      "answers": [
-        "Sol",
-        "Luna",
-        "Marte",
-        "Júpiter"
+        "segundo",
+        "Minuto",
+        "dia",
+        "Hora"
       ],
       "correct": 0,
       "category": "ciencia",
       "level": "facil"
     },
     {
-      "question": "¿Cuál de estos animales es mamífero? (2)",
+      "question": "¿Cuál es el primer elemento de la tabla periódica?",
       "answers": [
-        "Tiburón",
-        "Delfín",
-        "Pulpo",
-        "Trucha"
+        "helio",
+        "Oxígeno",
+        "Litio",
+        "Hidrógeno"
       ],
-      "correct": 1,
+      "correct": 3,
       "category": "ciencia",
       "level": "facil"
     },
     {
-      "question": "¿Qué planeta es conocido como el planeta rojo? (3)",
+      "question": "¿De quién lleva el nombre el elemento químico curio?",
       "answers": [
-        "Venus",
-        "Marte",
-        "Neptuno",
-        "Mercurio"
-      ],
-      "correct": 1,
-      "category": "ciencia",
-      "level": "facil"
-    },
-    {
-      "question": "¿Cuál es el estado sólido del agua? (3)",
-      "answers": [
-        "Humo",
-        "Vapor",
-        "Hielo",
-        "Niebla"
-      ],
-      "correct": 2,
-      "category": "ciencia",
-      "level": "facil"
-    },
-    {
-      "question": "¿Qué parte de la planta está bajo tierra? (3)",
-      "answers": [
-        "Flor",
-        "Raíz",
-        "Hoja",
-        "Fruto"
-      ],
-      "correct": 1,
-      "category": "ciencia",
-      "level": "facil"
-    },
-    {
-      "question": "¿Cuál es el astro que da luz a la Tierra? (3)",
-      "answers": [
-        "Sol",
-        "Luna",
-        "Marte",
-        "Júpiter"
+        "María y Pedro Curie",
+        "Esteban Curry",
+        "El rover Curiosity",
+        "Jorge el curioso"
       ],
       "correct": 0,
       "category": "ciencia",
       "level": "facil"
     },
     {
-      "question": "¿Cuál de estos animales es mamífero? (3)",
+      "question": "¿Cuál es la unidad SI estándar para distancia?",
       "answers": [
-        "Tiburón",
-        "Delfín",
-        "Pulpo",
-        "Trucha"
+        "Angstrom",
+        "braza",
+        "pie",
+        "Metro"
       ],
-      "correct": 1,
+      "correct": 3,
       "category": "ciencia",
       "level": "facil"
     },
     {
-      "question": "¿Qué planeta es conocido como el planeta rojo? (4)",
+      "question": "¿Qué significa ADN?",
       "answers": [
-        "Venus",
-        "Marte",
-        "Neptuno",
-        "Mercurio"
-      ],
-      "correct": 1,
-      "category": "ciencia",
-      "level": "facil"
-    },
-    {
-      "question": "¿Cuál es el estado sólido del agua? (4)",
-      "answers": [
-        "Humo",
-        "Vapor",
-        "Hielo",
-        "Niebla"
+        "Átomos desoxirribogenéticos",
+        "Ácido desoxirribogenético",
+        "Ácido desoxirribonucleico",
+        "Ácido detoxico"
       ],
       "correct": 2,
-      "category": "ciencia",
-      "level": "facil"
-    },
-    {
-      "question": "¿Qué parte de la planta está bajo tierra? (4)",
-      "answers": [
-        "Flor",
-        "Raíz",
-        "Hoja",
-        "Fruto"
-      ],
-      "correct": 1,
-      "category": "ciencia",
-      "level": "facil"
-    },
-    {
-      "question": "¿Cuál es el astro que da luz a la Tierra? (4)",
-      "answers": [
-        "Sol",
-        "Luna",
-        "Marte",
-        "Júpiter"
-      ],
-      "correct": 0,
-      "category": "ciencia",
-      "level": "facil"
-    },
-    {
-      "question": "¿Cuál de estos animales es mamífero? (4)",
-      "answers": [
-        "Tiburón",
-        "Delfín",
-        "Pulpo",
-        "Trucha"
-      ],
-      "correct": 1,
-      "category": "ciencia",
-      "level": "facil"
-    },
-    {
-      "question": "¿Qué planeta es conocido como el planeta rojo? (5)",
-      "answers": [
-        "Venus",
-        "Marte",
-        "Neptuno",
-        "Mercurio"
-      ],
-      "correct": 1,
-      "category": "ciencia",
-      "level": "facil"
-    },
-    {
-      "question": "¿Cuál es el estado sólido del agua? (5)",
-      "answers": [
-        "Humo",
-        "Vapor",
-        "Hielo",
-        "Niebla"
-      ],
-      "correct": 2,
-      "category": "ciencia",
-      "level": "facil"
-    },
-    {
-      "question": "¿Qué parte de la planta está bajo tierra? (5)",
-      "answers": [
-        "Flor",
-        "Raíz",
-        "Hoja",
-        "Fruto"
-      ],
-      "correct": 1,
-      "category": "ciencia",
-      "level": "facil"
-    },
-    {
-      "question": "¿Cuál es el astro que da luz a la Tierra? (5)",
-      "answers": [
-        "Sol",
-        "Luna",
-        "Marte",
-        "Júpiter"
-      ],
-      "correct": 0,
-      "category": "ciencia",
-      "level": "facil"
-    },
-    {
-      "question": "¿Cuál de estos animales es mamífero? (5)",
-      "answers": [
-        "Tiburón",
-        "Delfín",
-        "Pulpo",
-        "Trucha"
-      ],
-      "correct": 1,
-      "category": "ciencia",
-      "level": "facil"
-    },
-    {
-      "question": "¿Qué planeta es conocido como el planeta rojo? (6)",
-      "answers": [
-        "Venus",
-        "Marte",
-        "Neptuno",
-        "Mercurio"
-      ],
-      "correct": 1,
-      "category": "ciencia",
-      "level": "facil"
-    },
-    {
-      "question": "¿Cuál es el estado sólido del agua? (6)",
-      "answers": [
-        "Humo",
-        "Vapor",
-        "Hielo",
-        "Niebla"
-      ],
-      "correct": 2,
-      "category": "ciencia",
-      "level": "facil"
-    },
-    {
-      "question": "¿Qué parte de la planta está bajo tierra? (6)",
-      "answers": [
-        "Flor",
-        "Raíz",
-        "Hoja",
-        "Fruto"
-      ],
-      "correct": 1,
-      "category": "ciencia",
-      "level": "facil"
-    },
-    {
-      "question": "¿Cuál es el astro que da luz a la Tierra? (6)",
-      "answers": [
-        "Sol",
-        "Luna",
-        "Marte",
-        "Júpiter"
-      ],
-      "correct": 0,
-      "category": "ciencia",
-      "level": "facil"
-    },
-    {
-      "question": "¿Cuál de estos animales es mamífero? (6)",
-      "answers": [
-        "Tiburón",
-        "Delfín",
-        "Pulpo",
-        "Trucha"
-      ],
-      "correct": 1,
-      "category": "ciencia",
-      "level": "facil"
-    },
-    {
-      "question": "¿Qué planeta es conocido como el planeta rojo? (7)",
-      "answers": [
-        "Venus",
-        "Marte",
-        "Neptuno",
-        "Mercurio"
-      ],
-      "correct": 1,
-      "category": "ciencia",
-      "level": "facil"
-    },
-    {
-      "question": "¿Cuál es el estado sólido del agua? (7)",
-      "answers": [
-        "Humo",
-        "Vapor",
-        "Hielo",
-        "Niebla"
-      ],
-      "correct": 2,
-      "category": "ciencia",
-      "level": "facil"
-    },
-    {
-      "question": "¿Qué parte de la planta está bajo tierra? (7)",
-      "answers": [
-        "Flor",
-        "Raíz",
-        "Hoja",
-        "Fruto"
-      ],
-      "correct": 1,
-      "category": "ciencia",
-      "level": "facil"
-    },
-    {
-      "question": "¿Cuál es el astro que da luz a la Tierra? (7)",
-      "answers": [
-        "Sol",
-        "Luna",
-        "Marte",
-        "Júpiter"
-      ],
-      "correct": 0,
-      "category": "ciencia",
-      "level": "facil"
-    },
-    {
-      "question": "¿Cuál de estos animales es mamífero? (7)",
-      "answers": [
-        "Tiburón",
-        "Delfín",
-        "Pulpo",
-        "Trucha"
-      ],
-      "correct": 1,
-      "category": "ciencia",
-      "level": "facil"
-    },
-    {
-      "question": "¿Qué planeta es conocido como el planeta rojo? (8)",
-      "answers": [
-        "Venus",
-        "Marte",
-        "Neptuno",
-        "Mercurio"
-      ],
-      "correct": 1,
-      "category": "ciencia",
-      "level": "facil"
-    },
-    {
-      "question": "¿Cuál es el estado sólido del agua? (8)",
-      "answers": [
-        "Humo",
-        "Vapor",
-        "Hielo",
-        "Niebla"
-      ],
-      "correct": 2,
-      "category": "ciencia",
-      "level": "facil"
-    },
-    {
-      "question": "¿Qué parte de la planta está bajo tierra? (8)",
-      "answers": [
-        "Flor",
-        "Raíz",
-        "Hoja",
-        "Fruto"
-      ],
-      "correct": 1,
-      "category": "ciencia",
-      "level": "facil"
-    },
-    {
-      "question": "¿Cuál es el astro que da luz a la Tierra? (8)",
-      "answers": [
-        "Sol",
-        "Luna",
-        "Marte",
-        "Júpiter"
-      ],
-      "correct": 0,
-      "category": "ciencia",
-      "level": "facil"
-    },
-    {
-      "question": "¿Cuál de estos animales es mamífero? (8)",
-      "answers": [
-        "Tiburón",
-        "Delfín",
-        "Pulpo",
-        "Trucha"
-      ],
-      "correct": 1,
-      "category": "ciencia",
-      "level": "facil"
-    },
-    {
-      "question": "¿Qué planeta es conocido como el planeta rojo? (9)",
-      "answers": [
-        "Venus",
-        "Marte",
-        "Neptuno",
-        "Mercurio"
-      ],
-      "correct": 1,
-      "category": "ciencia",
-      "level": "facil"
-    },
-    {
-      "question": "¿Cuál es el estado sólido del agua? (9)",
-      "answers": [
-        "Humo",
-        "Vapor",
-        "Hielo",
-        "Niebla"
-      ],
-      "correct": 2,
-      "category": "ciencia",
-      "level": "facil"
-    },
-    {
-      "question": "¿Qué parte de la planta está bajo tierra? (9)",
-      "answers": [
-        "Flor",
-        "Raíz",
-        "Hoja",
-        "Fruto"
-      ],
-      "correct": 1,
-      "category": "ciencia",
-      "level": "facil"
-    },
-    {
-      "question": "¿Cuál es el astro que da luz a la Tierra? (9)",
-      "answers": [
-        "Sol",
-        "Luna",
-        "Marte",
-        "Júpiter"
-      ],
-      "correct": 0,
-      "category": "ciencia",
-      "level": "facil"
-    },
-    {
-      "question": "¿Cuál de estos animales es mamífero? (9)",
-      "answers": [
-        "Tiburón",
-        "Delfín",
-        "Pulpo",
-        "Trucha"
-      ],
-      "correct": 1,
-      "category": "ciencia",
-      "level": "facil"
-    },
-    {
-      "question": "¿Qué planeta es conocido como el planeta rojo? (10)",
-      "answers": [
-        "Venus",
-        "Marte",
-        "Neptuno",
-        "Mercurio"
-      ],
-      "correct": 1,
-      "category": "ciencia",
-      "level": "facil"
-    },
-    {
-      "question": "¿Cuál es el estado sólido del agua? (10)",
-      "answers": [
-        "Humo",
-        "Vapor",
-        "Hielo",
-        "Niebla"
-      ],
-      "correct": 2,
-      "category": "ciencia",
-      "level": "facil"
-    },
-    {
-      "question": "¿Qué parte de la planta está bajo tierra? (10)",
-      "answers": [
-        "Flor",
-        "Raíz",
-        "Hoja",
-        "Fruto"
-      ],
-      "correct": 1,
-      "category": "ciencia",
-      "level": "facil"
-    },
-    {
-      "question": "¿Cuál es el astro que da luz a la Tierra? (10)",
-      "answers": [
-        "Sol",
-        "Luna",
-        "Marte",
-        "Júpiter"
-      ],
-      "correct": 0,
-      "category": "ciencia",
-      "level": "facil"
-    },
-    {
-      "question": "¿Cuál de estos animales es mamífero? (10)",
-      "answers": [
-        "Tiburón",
-        "Delfín",
-        "Pulpo",
-        "Trucha"
-      ],
-      "correct": 1,
       "category": "ciencia",
       "level": "facil"
     }
   ],
   "historia": [
     {
-      "question": "¿Qué construyeron los egipcios famosos por su tamaño?",
+      "question": "¿Cuándo son los idus de marzo?",
       "answers": [
-        "Pirámides",
-        "Rascacielos",
-        "Túneles",
-        "Puertos"
+        "31 de marzo",
+        "1 de marzo",
+        "15 de marzo",
+        "14 de marzo"
       ],
-      "correct": 0,
+      "correct": 2,
       "category": "historia",
       "level": "facil"
     },
     {
-      "question": "¿Quién llegó a América en 1492?",
+      "question": "¿En qué año se produjo la invasión de Kuwait por parte de Irak?",
       "answers": [
-        "Marco Polo",
-        "Colón",
-        "Napoleón",
-        "Elcano"
-      ],
-      "correct": 1,
-      "category": "historia",
-      "level": "facil"
-    },
-    {
-      "question": "¿Qué civilización vivía en Roma antigua?",
-      "answers": [
-        "Romana",
-        "Inca",
-        "Maya",
-        "Vikinga"
-      ],
-      "correct": 0,
-      "category": "historia",
-      "level": "facil"
-    },
-    {
-      "question": "¿Qué monumento está en China y es muy largo?",
-      "answers": [
-        "Muralla China",
-        "Big Ben",
-        "Coliseo",
-        "Torre Eiffel"
-      ],
-      "correct": 0,
-      "category": "historia",
-      "level": "facil"
-    },
-    {
-      "question": "¿En qué país estaban los faraones?",
-      "answers": [
-        "Grecia",
-        "Egipto",
-        "China",
-        "Perú"
+        "1988",
+        "1990",
+        "1992",
+        "1986"
       ],
       "correct": 1,
       "category": "historia",
       "level": "facil"
     },
     {
-      "question": "¿Qué construyeron los egipcios famosos por su tamaño? (2)",
+      "question": "¿En qué año se diseñó la pistola M1911?",
       "answers": [
-        "Pirámides",
-        "Rascacielos",
-        "Túneles",
-        "Puertos"
+        "1911",
+        "1917",
+        "1899",
+        "1907"
       ],
       "correct": 0,
       "category": "historia",
       "level": "facil"
     },
     {
-      "question": "¿Quién llegó a América en 1492? (2)",
+      "question": "El alfabeto romano original carecía de las siguientes letras EXCEPTO:",
       "answers": [
-        "Marco Polo",
-        "Colón",
-        "Napoleón",
-        "Elcano"
+        "W.",
+        "Ud.",
+        "x",
+        "j"
+      ],
+      "correct": 2,
+      "category": "historia",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué país moderno se conoce como \"El cementerio de los imperios\"?",
+      "answers": [
+        "Afganistán",
+        "Irak",
+        "Rusia",
+        "China"
+      ],
+      "correct": 0,
+      "category": "historia",
+      "level": "facil"
+    },
+    {
+      "question": "Estos dos países formaron una mancomunidad desde el siglo XVI al XVIII.",
+      "answers": [
+        "Polonia y Lituania",
+        "Corea del Norte y Corea del Sur",
+        "Hutu y Ruanda",
+        "Bangladesh y Bután"
+      ],
+      "correct": 0,
+      "category": "historia",
+      "level": "facil"
+    },
+    {
+      "question": "¿En qué año comenzó la Primera Guerra Mundial?",
+      "answers": [
+        "1925",
+        "1914",
+        "1919",
+        "1905"
       ],
       "correct": 1,
       "category": "historia",
       "level": "facil"
     },
     {
-      "question": "¿Qué civilización vivía en Roma antigua? (2)",
+      "question": "¿Pol Pot fue el ex dictador de qué país?",
       "answers": [
-        "Romana",
-        "Inca",
-        "Maya",
-        "Vikinga"
+        "Corea del Norte",
+        "Laos",
+        "Camboya",
+        "Vietnam"
       ],
-      "correct": 0,
+      "correct": 2,
       "category": "historia",
       "level": "facil"
     },
     {
-      "question": "¿Qué monumento está en China y es muy largo? (2)",
+      "question": "¿Cómo era mejor conocido William Frederick Cody?",
       "answers": [
-        "Muralla China",
-        "Big Ben",
-        "Coliseo",
-        "Torre Eiffel"
+        "El salvaje Bill Hickok",
+        "Bill Pawnee",
+        "billete de búfalo",
+        "Billy el niño"
       ],
-      "correct": 0,
+      "correct": 2,
       "category": "historia",
       "level": "facil"
     },
     {
-      "question": "¿En qué país estaban los faraones? (2)",
+      "question": "¿Quién fue el primer gobernante de Haití después de que el país obtuvo su independencia?",
       "answers": [
-        "Grecia",
-        "Egipto",
-        "China",
-        "Perú"
-      ],
-      "correct": 1,
-      "category": "historia",
-      "level": "facil"
-    },
-    {
-      "question": "¿Qué construyeron los egipcios famosos por su tamaño? (3)",
-      "answers": [
-        "Pirámides",
-        "Rascacielos",
-        "Túneles",
-        "Puertos"
-      ],
-      "correct": 0,
-      "category": "historia",
-      "level": "facil"
-    },
-    {
-      "question": "¿Quién llegó a América en 1492? (3)",
-      "answers": [
-        "Marco Polo",
-        "Colón",
-        "Napoleón",
-        "Elcano"
+        "Toussaint Louverture",
+        "Jean-Jacques Dessalines",
+        "Henri Christophe",
+        "Alexandre Pétion"
       ],
       "correct": 1,
       "category": "historia",
       "level": "facil"
     },
     {
-      "question": "¿Qué civilización vivía en Roma antigua? (3)",
+      "question": "En 1720, Inglaterra estaba endeudada enormemente y se vio involucrada en la Burbuja de los Mares del Sur. ¿Quién fue el principal autor intelectual detrás de esto?",
       "answers": [
-        "Romana",
-        "Inca",
-        "Maya",
-        "Vikinga"
+        "Juan Blunt",
+        "Roberto Harley",
+        "Juan Iglesias",
+        "Daniel De Foe"
       ],
       "correct": 0,
       "category": "historia",
       "level": "facil"
     },
     {
-      "question": "¿Qué monumento está en China y es muy largo? (3)",
+      "question": "¿A qué partido político pertenecía Abraham Lincoln cuando fue elegido presidente?",
       "answers": [
-        "Muralla China",
-        "Big Ben",
-        "Coliseo",
-        "Torre Eiffel"
-      ],
-      "correct": 0,
-      "category": "historia",
-      "level": "facil"
-    },
-    {
-      "question": "¿En qué país estaban los faraones? (3)",
-      "answers": [
-        "Grecia",
-        "Egipto",
-        "China",
-        "Perú"
+        "independiente",
+        "republicano",
+        "demócrata",
+        "Whig"
       ],
       "correct": 1,
       "category": "historia",
       "level": "facil"
     },
     {
-      "question": "¿Qué construyeron los egipcios famosos por su tamaño? (4)",
+      "question": "¿A qué ciudad estadounidense se hundió el RMS Titanic durante su viaje inaugural desde Southampton, Inglaterra?",
       "answers": [
-        "Pirámides",
-        "Rascacielos",
-        "Túneles",
-        "Puertos"
+        "Washington",
+        "Filadelfia",
+        "ciudad de nueva york",
+        "Boston"
       ],
-      "correct": 0,
+      "correct": 2,
       "category": "historia",
       "level": "facil"
     },
     {
-      "question": "¿Quién llegó a América en 1492? (4)",
+      "question": "En 1939, Gran Bretaña y Francia declararon la guerra a Alemania después de que ésta invadiera ¿qué país?",
       "answers": [
-        "Marco Polo",
-        "Colón",
-        "Napoleón",
-        "Elcano"
-      ],
-      "correct": 1,
-      "category": "historia",
-      "level": "facil"
-    },
-    {
-      "question": "¿Qué civilización vivía en Roma antigua? (4)",
-      "answers": [
-        "Romana",
-        "Inca",
-        "Maya",
-        "Vikinga"
-      ],
-      "correct": 0,
-      "category": "historia",
-      "level": "facil"
-    },
-    {
-      "question": "¿Qué monumento está en China y es muy largo? (4)",
-      "answers": [
-        "Muralla China",
-        "Big Ben",
-        "Coliseo",
-        "Torre Eiffel"
-      ],
-      "correct": 0,
-      "category": "historia",
-      "level": "facil"
-    },
-    {
-      "question": "¿En qué país estaban los faraones? (4)",
-      "answers": [
-        "Grecia",
-        "Egipto",
-        "China",
-        "Perú"
+        "Checoslovaquia",
+        "Polonia",
+        "austria",
+        "Hungría"
       ],
       "correct": 1,
       "category": "historia",
       "level": "facil"
     },
     {
-      "question": "¿Qué construyeron los egipcios famosos por su tamaño? (5)",
+      "question": "¿Bajo cuál de las siguientes Brasil era una antigua colonia?",
       "answers": [
-        "Pirámides",
-        "Rascacielos",
-        "Túneles",
-        "Puertos"
+        "portugal",
+        "Países Bajos",
+        "Francia",
+        "España"
       ],
       "correct": 0,
       "category": "historia",
       "level": "facil"
     },
     {
-      "question": "¿Quién llegó a América en 1492? (5)",
+      "question": "¿En qué año se produjo el colapso de la Unión Soviética?",
       "answers": [
-        "Marco Polo",
-        "Colón",
-        "Napoleón",
-        "Elcano"
+        "1991",
+        "1992",
+        "1990",
+        "1891"
+      ],
+      "correct": 0,
+      "category": "historia",
+      "level": "facil"
+    },
+    {
+      "question": "¿Quién dirigió la Revolución Comunista de Rusia?",
+      "answers": [
+        "Vladímir Putin",
+        "Mijaíl Gorbachov",
+        "Vladímir Lenin",
+        "José Stalin"
+      ],
+      "correct": 2,
+      "category": "historia",
+      "level": "facil"
+    },
+    {
+      "question": "¿Quién articuló y promovió la idea del socialismo?",
+      "answers": [
+        "Vladímir Lenin",
+        "José Stalin",
+        "Carlos Marx",
+        "Vladímir Putin"
+      ],
+      "correct": 2,
+      "category": "historia",
+      "level": "facil"
+    },
+    {
+      "question": "¿En qué guerra ocurrieron los bombardeos atómicos de Hiroshima y Nagasaki?",
+      "answers": [
+        "Segunda Guerra Mundial",
+        "Guerra Ruso-Japonesa",
+        "Primera guerra chino-japonesa",
+        "Primera Guerra Mundial"
+      ],
+      "correct": 0,
+      "category": "historia",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué edad tenía Adolf Hitler cuando murió?",
+      "answers": [
+        "43",
+        "56",
+        "65",
+        "47"
       ],
       "correct": 1,
       "category": "historia",
       "level": "facil"
     },
     {
-      "question": "¿Qué civilización vivía en Roma antigua? (5)",
+      "question": "¿En qué calle comenzó el Gran Incendio de Londres de 1666?",
       "answers": [
-        "Romana",
-        "Inca",
-        "Maya",
-        "Vikinga"
+        "Casas del Parlamento",
+        "Catedral de San Pablo",
+        "Carril del pudín",
+        "Calle del panadero"
+      ],
+      "correct": 2,
+      "category": "historia",
+      "level": "facil"
+    },
+    {
+      "question": "¿Cuál es el nombre histórico de Sri Lanka?",
+      "answers": [
+        "Ceilán",
+        "colombo",
+        "Birmania",
+        "badula"
       ],
       "correct": 0,
       "category": "historia",
       "level": "facil"
     },
     {
-      "question": "¿Qué monumento está en China y es muy largo? (5)",
+      "question": "¿Quién era el primer ministro de Japón cuando Japón declaró la guerra a Estados Unidos?",
       "answers": [
-        "Muralla China",
-        "Big Ben",
-        "Coliseo",
-        "Torre Eiffel"
-      ],
-      "correct": 0,
-      "category": "historia",
-      "level": "facil"
-    },
-    {
-      "question": "¿En qué país estaban los faraones? (5)",
-      "answers": [
-        "Grecia",
-        "Egipto",
-        "China",
-        "Perú"
+        "Yamamoto Isoroku",
+        "Hideki Tojo",
+        "Fumimaro Konoe",
+        "Michinomiya Hirohito"
       ],
       "correct": 1,
       "category": "historia",
       "level": "facil"
     },
     {
-      "question": "¿Qué construyeron los egipcios famosos por su tamaño? (6)",
+      "question": "¿Quién montó a caballo para advertir a los Minutemen que los británicos vendrían durante la Guerra Revolucionaria de Estados Unidos?",
       "answers": [
-        "Pirámides",
-        "Rascacielos",
-        "Túneles",
-        "Puertos"
-      ],
-      "correct": 0,
-      "category": "historia",
-      "level": "facil"
-    },
-    {
-      "question": "¿Quién llegó a América en 1492? (6)",
-      "answers": [
-        "Marco Polo",
-        "Colón",
-        "Napoleón",
-        "Elcano"
+        "Henry Longfellow",
+        "Pablo Revere",
+        "Tomás Paine",
+        "Natalia Hale"
       ],
       "correct": 1,
       "category": "historia",
       "level": "facil"
     },
     {
-      "question": "¿Qué civilización vivía en Roma antigua? (6)",
+      "question": "¿Qué celebran los Estados Unidos de América durante el 4 de julio?",
       "answers": [
-        "Romana",
-        "Inca",
-        "Maya",
-        "Vikinga"
+        "La firma de la Declaración de Independencia",
+        "El cruce del río Delaware",
+        "La ratificación de la Constitución",
+        "El aniversario de la batalla de Gettysburg"
       ],
       "correct": 0,
       "category": "historia",
       "level": "facil"
     },
     {
-      "question": "¿Qué monumento está en China y es muy largo? (6)",
+      "question": "¿Cuánto duró la Segunda Guerra Mundial?",
       "answers": [
-        "Muralla China",
-        "Big Ben",
-        "Coliseo",
-        "Torre Eiffel"
+        "4 años",
+        "5 años",
+        "6 años",
+        "7 años"
+      ],
+      "correct": 2,
+      "category": "historia",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué mariscal de campo alemán era conocido como el \"Zorro del Desierto\"?",
+      "answers": [
+        "Erwin Rommel",
+        "Lista de Guillermo",
+        "Wolfram Freiherr von Richthofen",
+        "Ernesto Busch"
       ],
       "correct": 0,
       "category": "historia",
       "level": "facil"
     },
     {
-      "question": "¿En qué país estaban los faraones? (6)",
+      "question": "¿Cuándo colapsó el Imperio Bizantino?",
       "answers": [
-        "Grecia",
-        "Egipto",
-        "China",
-        "Perú"
+        "1453",
+        "1353",
+        "1299",
+        "1498"
+      ],
+      "correct": 0,
+      "category": "historia",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué juego fue el Juego del Año en 2018?",
+      "answers": [
+        "Redención muerta roja 2",
+        "Una salida",
+        "dios de la guerra",
+        "Detroit: conviértete en humano"
+      ],
+      "correct": 2,
+      "category": "historia",
+      "level": "facil"
+    },
+    {
+      "question": "¿Cuál de los siguientes pueblos antiguos NO fue clasificado como helénico (griego)?",
+      "answers": [
+        "dorios",
+        "ilirios",
+        "aqueos",
+        "jonios"
       ],
       "correct": 1,
       "category": "historia",
       "level": "facil"
     },
     {
-      "question": "¿Qué construyeron los egipcios famosos por su tamaño? (7)",
+      "question": "¿Cuál de los siguientes países africanos tuvo más éxito en resistir la colonización?",
       "answers": [
-        "Pirámides",
-        "Rascacielos",
-        "Túneles",
-        "Puertos"
+        "namibia",
+        "Costa de Marfil",
+        "Etiopía",
+        "Congo"
+      ],
+      "correct": 2,
+      "category": "historia",
+      "level": "facil"
+    },
+    {
+      "question": "¿Quién fue el general confederado en la Guerra Civil estadounidense?",
+      "answers": [
+        "Ulises S. Grant",
+        "George B. McClellan",
+        "George A. Custer",
+        "Robert Lee"
+      ],
+      "correct": 3,
+      "category": "historia",
+      "level": "facil"
+    },
+    {
+      "question": "¿En qué año se fundió la central nuclear de Chernóbil?",
+      "answers": [
+        "1986",
+        "1991",
+        "1998",
+        "1975"
       ],
       "correct": 0,
       "category": "historia",
       "level": "facil"
     },
     {
-      "question": "¿Quién llegó a América en 1492? (7)",
+      "question": "¿Cuál de estos tanques fue diseñado y operado por el Reino Unido?",
       "answers": [
-        "Marco Polo",
-        "Colón",
-        "Napoleón",
-        "Elcano"
+        "M4 Sherman",
+        "tigre h1",
+        "Tog II",
+        "T-34"
+      ],
+      "correct": 2,
+      "category": "historia",
+      "level": "facil"
+    },
+    {
+      "question": "¿El \"Sendero de Lágrimas\" fue el resultado de qué política de expulsión de indios del Presidente de los Estados Unidos?",
+      "answers": [
+        "Andres Jackson",
+        "Martin Van Buren",
+        "John Quincy Adams",
+        "Harry Truman"
+      ],
+      "correct": 0,
+      "category": "historia",
+      "level": "facil"
+    },
+    {
+      "question": "¿El abolicionista John Brown asaltó el arsenal en qué ciudad de Virginia?",
+      "answers": [
+        "Richmond",
+        "ferry de harper",
+        "Harrisonburg",
+        "Martinsburg"
       ],
       "correct": 1,
       "category": "historia",
       "level": "facil"
     },
     {
-      "question": "¿Qué civilización vivía en Roma antigua? (7)",
+      "question": "¿En qué año terminó la Gran Guerra del Norte, entre Rusia y Suecia?",
       "answers": [
-        "Romana",
-        "Inca",
-        "Maya",
-        "Vikinga"
+        "1721",
+        "1724",
+        "1727",
+        "1726"
       ],
       "correct": 0,
       "category": "historia",
       "level": "facil"
     },
     {
-      "question": "¿Qué monumento está en China y es muy largo? (7)",
+      "question": "¿En qué país se construyó y exportó la Estatua de la Libertad a los Estados Unidos de América?",
       "answers": [
-        "Muralla China",
-        "Big Ben",
-        "Coliseo",
-        "Torre Eiffel"
+        "España",
+        "Alemania",
+        "Francia",
+        "Inglaterra"
       ],
-      "correct": 0,
+      "correct": 2,
       "category": "historia",
       "level": "facil"
     },
     {
-      "question": "¿En qué país estaban los faraones? (7)",
+      "question": "¿Cuál era el apodo de Manfred von Richthofen?",
       "answers": [
-        "Grecia",
-        "Egipto",
-        "China",
-        "Perú"
+        "La serpiente azul",
+        "El artillero alemán",
+        "El barón rojo",
+        "El as de los altos vuelos"
+      ],
+      "correct": 2,
+      "category": "historia",
+      "level": "facil"
+    },
+    {
+      "question": "¿Quién descubrió la penicilina?",
+      "answers": [
+        "María Curie",
+        "Alejandro Flemming",
+        "alfred nobel",
+        "Luis Pasteur"
       ],
       "correct": 1,
       "category": "historia",
       "level": "facil"
     },
     {
-      "question": "¿Qué construyeron los egipcios famosos por su tamaño? (8)",
+      "question": "Una colección de himnos y versos sánscritos conocidos como los Vedas son textos sagrados ¿en qué religión?",
       "answers": [
-        "Pirámides",
-        "Rascacielos",
-        "Túneles",
-        "Puertos"
+        "hinduismo",
+        "Islam",
+        "budismo",
+        "judaísmo"
       ],
       "correct": 0,
       "category": "historia",
       "level": "facil"
     },
     {
-      "question": "¿Quién llegó a América en 1492? (8)",
+      "question": "¿Cuándo se fundó Google?",
       "answers": [
-        "Marco Polo",
-        "Colón",
-        "Napoleón",
-        "Elcano"
+        "9 de octubre de 1997",
+        "12 de diciembre de 1989",
+        "4 de septiembre de 1998",
+        "7 de febrero de 2000"
+      ],
+      "correct": 2,
+      "category": "historia",
+      "level": "facil"
+    },
+    {
+      "question": "¿Quién fue el primer estadounidense en el espacio?",
+      "answers": [
+        "Jim Lovell",
+        "Juan Glenn",
+        "Alan Shepard",
+        "Neil Armstrong"
+      ],
+      "correct": 2,
+      "category": "historia",
+      "level": "facil"
+    },
+    {
+      "question": "¿Cuántos alunizajes tripulados ha habido?",
+      "answers": [
+        "1",
+        "6",
+        "3",
+        "7"
       ],
       "correct": 1,
       "category": "historia",
       "level": "facil"
     },
     {
-      "question": "¿Qué civilización vivía en Roma antigua? (8)",
+      "question": "Durante la Segunda Guerra Mundial, en 1945, Estados Unidos lanzó bombas atómicas sobre las dos ciudades japonesas de Hiroshima y ¿qué otra ciudad?",
       "answers": [
-        "Romana",
-        "Inca",
-        "Maya",
-        "Vikinga"
-      ],
-      "correct": 0,
-      "category": "historia",
-      "level": "facil"
-    },
-    {
-      "question": "¿Qué monumento está en China y es muy largo? (8)",
-      "answers": [
-        "Muralla China",
-        "Big Ben",
-        "Coliseo",
-        "Torre Eiffel"
-      ],
-      "correct": 0,
-      "category": "historia",
-      "level": "facil"
-    },
-    {
-      "question": "¿En qué país estaban los faraones? (8)",
-      "answers": [
-        "Grecia",
-        "Egipto",
-        "China",
-        "Perú"
+        "Tokio",
+        "Nagasaki",
+        "Kagoshima",
+        "kawasaki"
       ],
       "correct": 1,
       "category": "historia",
       "level": "facil"
     },
     {
-      "question": "¿Qué construyeron los egipcios famosos por su tamaño? (9)",
+      "question": "¿Cuándo comenzó la batalla del Somme?",
       "answers": [
-        "Pirámides",
-        "Rascacielos",
-        "Túneles",
-        "Puertos"
+        "1 de julio de 1916",
+        "1 de agosto de 1916",
+        "30 de junio de 1916",
+        "2 de julio de 1916"
       ],
       "correct": 0,
       "category": "historia",
       "level": "facil"
     },
     {
-      "question": "¿Quién llegó a América en 1492? (9)",
+      "question": "¿En qué guerra se disolvió el Imperio Otomano después de su pérdida?",
       "answers": [
-        "Marco Polo",
-        "Colón",
-        "Napoleón",
-        "Elcano"
+        "Guerra de Crimea",
+        "Revolución serbia",
+        "Segunda guerra de los Balcanes",
+        "Primera Guerra Mundial"
       ],
-      "correct": 1,
+      "correct": 3,
       "category": "historia",
       "level": "facil"
     },
     {
-      "question": "¿Qué civilización vivía en Roma antigua? (9)",
+      "question": "¿Qué país se unió a la UE en 2013?",
       "answers": [
-        "Romana",
-        "Inca",
-        "Maya",
-        "Vikinga"
+        "Turquía",
+        "bulgaria",
+        "Croacia",
+        "Eslovenia"
       ],
-      "correct": 0,
+      "correct": 2,
       "category": "historia",
       "level": "facil"
     },
     {
-      "question": "¿Qué monumento está en China y es muy largo? (9)",
+      "question": "¿En qué año se produjo el crack de Wall Street?",
       "answers": [
-        "Muralla China",
-        "Big Ben",
-        "Coliseo",
-        "Torre Eiffel"
+        "1930",
+        "1925",
+        "1932",
+        "1929"
       ],
-      "correct": 0,
+      "correct": 3,
       "category": "historia",
       "level": "facil"
     },
     {
-      "question": "¿En qué país estaban los faraones? (9)",
+      "question": "¿Cómo fue ejecutado Sócrates?",
       "answers": [
-        "Grecia",
-        "Egipto",
-        "China",
-        "Perú"
-      ],
-      "correct": 1,
-      "category": "historia",
-      "level": "facil"
-    },
-    {
-      "question": "¿Qué construyeron los egipcios famosos por su tamaño? (10)",
-      "answers": [
-        "Pirámides",
-        "Rascacielos",
-        "Túneles",
-        "Puertos"
-      ],
-      "correct": 0,
-      "category": "historia",
-      "level": "facil"
-    },
-    {
-      "question": "¿Quién llegó a América en 1492? (10)",
-      "answers": [
-        "Marco Polo",
-        "Colón",
-        "Napoleón",
-        "Elcano"
-      ],
-      "correct": 1,
-      "category": "historia",
-      "level": "facil"
-    },
-    {
-      "question": "¿Qué civilización vivía en Roma antigua? (10)",
-      "answers": [
-        "Romana",
-        "Inca",
-        "Maya",
-        "Vikinga"
-      ],
-      "correct": 0,
-      "category": "historia",
-      "level": "facil"
-    },
-    {
-      "question": "¿Qué monumento está en China y es muy largo? (10)",
-      "answers": [
-        "Muralla China",
-        "Big Ben",
-        "Coliseo",
-        "Torre Eiffel"
-      ],
-      "correct": 0,
-      "category": "historia",
-      "level": "facil"
-    },
-    {
-      "question": "¿En qué país estaban los faraones? (10)",
-      "answers": [
-        "Grecia",
-        "Egipto",
-        "China",
-        "Perú"
+        "Decapitación",
+        "veneno",
+        "pelotón de fusilamiento",
+        "Crucifixión"
       ],
       "correct": 1,
       "category": "historia",
@@ -2409,2406 +2409,2406 @@
   ],
   "cine": [
     {
-      "question": "¿Qué superhéroe lleva un escudo con estrella?",
+      "question": "Esta película contiene la cita: \"Siento la necesidad... ¡la necesidad de velocidad!\".",
       "answers": [
-        "Batman",
-        "Iron Man",
-        "Capitán América",
-        "Thor"
+        "Cóctel",
+        "El color del dinero",
+        "Pistola superior",
+        "Días de trueno"
       ],
       "correct": 2,
       "category": "cine",
       "level": "facil"
     },
     {
-      "question": "¿Qué película tiene un pez llamado Nemo?",
+      "question": "¿Qué nombre le puso Tom Hanks a su compañero de voleibol en la película `Náufrago`?",
       "answers": [
-        "Coco",
-        "Cars",
-        "Buscando a Nemo",
-        "Frozen"
-      ],
-      "correct": 2,
-      "category": "cine",
-      "level": "facil"
-    },
-    {
-      "question": "¿Qué estudio creó a Mickey Mouse?",
-      "answers": [
-        "Pixar",
-        "DreamWorks",
-        "Disney",
-        "Ghibli"
-      ],
-      "correct": 2,
-      "category": "cine",
-      "level": "facil"
-    },
-    {
-      "question": "¿Qué personaje de Star Wars respira con máscara negra?",
-      "answers": [
-        "Yoda",
-        "Darth Vader",
-        "Han Solo",
-        "Chewbacca"
-      ],
-      "correct": 1,
-      "category": "cine",
-      "level": "facil"
-    },
-    {
-      "question": "¿Qué juguete espacial acompaña a Woody?",
-      "answers": [
-        "Buzz Lightyear",
-        "Forky",
-        "Jessie",
-        "Rex"
+        "wilson",
+        "jones",
+        "viernes",
+        "billy"
       ],
       "correct": 0,
       "category": "cine",
       "level": "facil"
     },
     {
-      "question": "¿Qué superhéroe lleva un escudo con estrella? (2)",
+      "question": "¿Cuál de estas películas NO está ambientada en Los Ángeles?",
       "answers": [
-        "Batman",
-        "Iron Man",
-        "Capitán América",
-        "Thor"
-      ],
-      "correct": 2,
-      "category": "cine",
-      "level": "facil"
-    },
-    {
-      "question": "¿Qué película tiene un pez llamado Nemo? (2)",
-      "answers": [
-        "Coco",
-        "Cars",
-        "Buscando a Nemo",
-        "Frozen"
-      ],
-      "correct": 2,
-      "category": "cine",
-      "level": "facil"
-    },
-    {
-      "question": "¿Qué estudio creó a Mickey Mouse? (2)",
-      "answers": [
-        "Pixar",
-        "DreamWorks",
-        "Disney",
-        "Ghibli"
-      ],
-      "correct": 2,
-      "category": "cine",
-      "level": "facil"
-    },
-    {
-      "question": "¿Qué personaje de Star Wars respira con máscara negra? (2)",
-      "answers": [
-        "Yoda",
-        "Darth Vader",
-        "Han Solo",
-        "Chewbacca"
-      ],
-      "correct": 1,
-      "category": "cine",
-      "level": "facil"
-    },
-    {
-      "question": "¿Qué juguete espacial acompaña a Woody? (2)",
-      "answers": [
-        "Buzz Lightyear",
-        "Forky",
-        "Jessie",
-        "Rex"
+        "Robocop",
+        "Depredador 2",
+        "El terminador",
+        "Cazador de espadas"
       ],
       "correct": 0,
       "category": "cine",
       "level": "facil"
     },
     {
-      "question": "¿Qué superhéroe lleva un escudo con estrella? (3)",
+      "question": "Daniel Radcliffe se convirtió en una estrella mundial en la industria cinematográfica debido a su actuación ¿en qué franquicia cinematográfica?",
       "answers": [
-        "Batman",
-        "Iron Man",
-        "Capitán América",
-        "Thor"
-      ],
-      "correct": 2,
-      "category": "cine",
-      "level": "facil"
-    },
-    {
-      "question": "¿Qué película tiene un pez llamado Nemo? (3)",
-      "answers": [
-        "Coco",
-        "Cars",
-        "Buscando a Nemo",
-        "Frozen"
-      ],
-      "correct": 2,
-      "category": "cine",
-      "level": "facil"
-    },
-    {
-      "question": "¿Qué estudio creó a Mickey Mouse? (3)",
-      "answers": [
-        "Pixar",
-        "DreamWorks",
-        "Disney",
-        "Ghibli"
-      ],
-      "correct": 2,
-      "category": "cine",
-      "level": "facil"
-    },
-    {
-      "question": "¿Qué personaje de Star Wars respira con máscara negra? (3)",
-      "answers": [
-        "Yoda",
-        "Darth Vader",
-        "Han Solo",
-        "Chewbacca"
-      ],
-      "correct": 1,
-      "category": "cine",
-      "level": "facil"
-    },
-    {
-      "question": "¿Qué juguete espacial acompaña a Woody? (3)",
-      "answers": [
-        "Buzz Lightyear",
-        "Forky",
-        "Jessie",
-        "Rex"
+        "harry potter",
+        "ted",
+        "Niños espías",
+        "piratas del caribe"
       ],
       "correct": 0,
       "category": "cine",
       "level": "facil"
     },
     {
-      "question": "¿Qué superhéroe lleva un escudo con estrella? (4)",
+      "question": "¿Quién en Pulp Fiction dice: \"No, tienen el sistema métrico ahí, no sabrían qué carajo es un cuarto de libra\".",
       "answers": [
-        "Batman",
-        "Iron Man",
-        "Capitán América",
-        "Thor"
+        "Jimmie Dimmick",
+        "Butch Coolidge",
+        "Vicente Vega",
+        "Jules Winfield"
       ],
       "correct": 2,
       "category": "cine",
       "level": "facil"
     },
     {
-      "question": "¿Qué película tiene un pez llamado Nemo? (4)",
+      "question": "¿Quién protagonizó la película de 1973 \"Enter The Dragon\"?",
       "answers": [
-        "Coco",
-        "Cars",
-        "Buscando a Nemo",
-        "Frozen"
-      ],
-      "correct": 2,
-      "category": "cine",
-      "level": "facil"
-    },
-    {
-      "question": "¿Qué estudio creó a Mickey Mouse? (4)",
-      "answers": [
-        "Pixar",
-        "DreamWorks",
-        "Disney",
-        "Ghibli"
-      ],
-      "correct": 2,
-      "category": "cine",
-      "level": "facil"
-    },
-    {
-      "question": "¿Qué personaje de Star Wars respira con máscara negra? (4)",
-      "answers": [
-        "Yoda",
-        "Darth Vader",
-        "Han Solo",
-        "Chewbacca"
-      ],
-      "correct": 1,
-      "category": "cine",
-      "level": "facil"
-    },
-    {
-      "question": "¿Qué juguete espacial acompaña a Woody? (4)",
-      "answers": [
-        "Buzz Lightyear",
-        "Forky",
-        "Jessie",
-        "Rex"
+        "bruce lee",
+        "Jet Li",
+        "Jackie Chan",
+        "Chow Yun-Fat"
       ],
       "correct": 0,
       "category": "cine",
       "level": "facil"
     },
     {
-      "question": "¿Qué superhéroe lleva un escudo con estrella? (5)",
+      "question": "¿Cuál de estos actores NO aparece en la película de 1998 \"Salvando al soldado Ryan\"?",
       "answers": [
-        "Batman",
-        "Iron Man",
-        "Capitán América",
-        "Thor"
-      ],
-      "correct": 2,
-      "category": "cine",
-      "level": "facil"
-    },
-    {
-      "question": "¿Qué película tiene un pez llamado Nemo? (5)",
-      "answers": [
-        "Coco",
-        "Cars",
-        "Buscando a Nemo",
-        "Frozen"
-      ],
-      "correct": 2,
-      "category": "cine",
-      "level": "facil"
-    },
-    {
-      "question": "¿Qué estudio creó a Mickey Mouse? (5)",
-      "answers": [
-        "Pixar",
-        "DreamWorks",
-        "Disney",
-        "Ghibli"
-      ],
-      "correct": 2,
-      "category": "cine",
-      "level": "facil"
-    },
-    {
-      "question": "¿Qué personaje de Star Wars respira con máscara negra? (5)",
-      "answers": [
-        "Yoda",
-        "Darth Vader",
-        "Han Solo",
-        "Chewbacca"
-      ],
-      "correct": 1,
-      "category": "cine",
-      "level": "facil"
-    },
-    {
-      "question": "¿Qué juguete espacial acompaña a Woody? (5)",
-      "answers": [
-        "Buzz Lightyear",
-        "Forky",
-        "Jessie",
-        "Rex"
+        "Ralph Fiennes",
+        "Vin Diésel",
+        "Matt Damon",
+        "Tom Hanks"
       ],
       "correct": 0,
       "category": "cine",
       "level": "facil"
     },
     {
-      "question": "¿Qué superhéroe lleva un escudo con estrella? (6)",
+      "question": "Esta película contiene la cita: \"Nadie arrincona a Baby\".",
       "answers": [
-        "Batman",
-        "Iron Man",
-        "Capitán América",
-        "Thor"
-      ],
-      "correct": 2,
-      "category": "cine",
-      "level": "facil"
-    },
-    {
-      "question": "¿Qué película tiene un pez llamado Nemo? (6)",
-      "answers": [
-        "Coco",
-        "Cars",
-        "Buscando a Nemo",
-        "Frozen"
-      ],
-      "correct": 2,
-      "category": "cine",
-      "level": "facil"
-    },
-    {
-      "question": "¿Qué estudio creó a Mickey Mouse? (6)",
-      "answers": [
-        "Pixar",
-        "DreamWorks",
-        "Disney",
-        "Ghibli"
-      ],
-      "correct": 2,
-      "category": "cine",
-      "level": "facil"
-    },
-    {
-      "question": "¿Qué personaje de Star Wars respira con máscara negra? (6)",
-      "answers": [
-        "Yoda",
-        "Darth Vader",
-        "Han Solo",
-        "Chewbacca"
-      ],
-      "correct": 1,
-      "category": "cine",
-      "level": "facil"
-    },
-    {
-      "question": "¿Qué juguete espacial acompaña a Woody? (6)",
-      "answers": [
-        "Buzz Lightyear",
-        "Forky",
-        "Jessie",
-        "Rex"
+        "baile sucio",
+        "Tres hombres y un bebé",
+        "Día libre de Ferris Bueller",
+        "Bonita en rosa"
       ],
       "correct": 0,
       "category": "cine",
       "level": "facil"
     },
     {
-      "question": "¿Qué superhéroe lleva un escudo con estrella? (7)",
+      "question": "¿Quién es el principal antagonista de la película de 2012 de Christopher Nolan \"The Dark Knight Rises\"?",
       "answers": [
-        "Batman",
-        "Iron Man",
-        "Capitán América",
-        "Thor"
-      ],
-      "correct": 2,
-      "category": "cine",
-      "level": "facil"
-    },
-    {
-      "question": "¿Qué película tiene un pez llamado Nemo? (7)",
-      "answers": [
-        "Coco",
-        "Cars",
-        "Buscando a Nemo",
-        "Frozen"
-      ],
-      "correct": 2,
-      "category": "cine",
-      "level": "facil"
-    },
-    {
-      "question": "¿Qué estudio creó a Mickey Mouse? (7)",
-      "answers": [
-        "Pixar",
-        "DreamWorks",
-        "Disney",
-        "Ghibli"
-      ],
-      "correct": 2,
-      "category": "cine",
-      "level": "facil"
-    },
-    {
-      "question": "¿Qué personaje de Star Wars respira con máscara negra? (7)",
-      "answers": [
-        "Yoda",
-        "Darth Vader",
-        "Han Solo",
-        "Chewbacca"
-      ],
-      "correct": 1,
-      "category": "cine",
-      "level": "facil"
-    },
-    {
-      "question": "¿Qué juguete espacial acompaña a Woody? (7)",
-      "answers": [
-        "Buzz Lightyear",
-        "Forky",
-        "Jessie",
-        "Rex"
+        "Perdición",
+        "CIA",
+        "El acertijo",
+        "el comodín"
       ],
       "correct": 0,
       "category": "cine",
       "level": "facil"
     },
     {
-      "question": "¿Qué superhéroe lleva un escudo con estrella? (8)",
+      "question": "En Big Hero 6, ¿de qué ciudad ficticia es Big Hero 6?",
       "answers": [
-        "Batman",
-        "Iron Man",
-        "Capitán América",
-        "Thor"
-      ],
-      "correct": 2,
-      "category": "cine",
-      "level": "facil"
-    },
-    {
-      "question": "¿Qué película tiene un pez llamado Nemo? (8)",
-      "answers": [
-        "Coco",
-        "Cars",
-        "Buscando a Nemo",
-        "Frozen"
-      ],
-      "correct": 2,
-      "category": "cine",
-      "level": "facil"
-    },
-    {
-      "question": "¿Qué estudio creó a Mickey Mouse? (8)",
-      "answers": [
-        "Pixar",
-        "DreamWorks",
-        "Disney",
-        "Ghibli"
-      ],
-      "correct": 2,
-      "category": "cine",
-      "level": "facil"
-    },
-    {
-      "question": "¿Qué personaje de Star Wars respira con máscara negra? (8)",
-      "answers": [
-        "Yoda",
-        "Darth Vader",
-        "Han Solo",
-        "Chewbacca"
-      ],
-      "correct": 1,
-      "category": "cine",
-      "level": "facil"
-    },
-    {
-      "question": "¿Qué juguete espacial acompaña a Woody? (8)",
-      "answers": [
-        "Buzz Lightyear",
-        "Forky",
-        "Jessie",
-        "Rex"
+        "San Francisco",
+        "San Tokio",
+        "Tokysisco",
+        "Sankyo"
       ],
       "correct": 0,
       "category": "cine",
       "level": "facil"
     },
     {
-      "question": "¿Qué superhéroe lleva un escudo con estrella? (9)",
+      "question": "¿Cuál de los siguientes no es el nombre de una \"Chica Bond\"?",
       "answers": [
-        "Batman",
-        "Iron Man",
-        "Capitán América",
-        "Thor"
-      ],
-      "correct": 2,
-      "category": "cine",
-      "level": "facil"
-    },
-    {
-      "question": "¿Qué película tiene un pez llamado Nemo? (9)",
-      "answers": [
-        "Coco",
-        "Cars",
-        "Buscando a Nemo",
-        "Frozen"
-      ],
-      "correct": 2,
-      "category": "cine",
-      "level": "facil"
-    },
-    {
-      "question": "¿Qué estudio creó a Mickey Mouse? (9)",
-      "answers": [
-        "Pixar",
-        "DreamWorks",
-        "Disney",
-        "Ghibli"
-      ],
-      "correct": 2,
-      "category": "cine",
-      "level": "facil"
-    },
-    {
-      "question": "¿Qué personaje de Star Wars respira con máscara negra? (9)",
-      "answers": [
-        "Yoda",
-        "Darth Vader",
-        "Han Solo",
-        "Chewbacca"
-      ],
-      "correct": 1,
-      "category": "cine",
-      "level": "facil"
-    },
-    {
-      "question": "¿Qué juguete espacial acompaña a Woody? (9)",
-      "answers": [
-        "Buzz Lightyear",
-        "Forky",
-        "Jessie",
-        "Rex"
+        "Vanessa Kensington",
+        "maria buenas noches",
+        "Wai Lin",
+        "Pamela Bouvier"
       ],
       "correct": 0,
       "category": "cine",
       "level": "facil"
     },
     {
-      "question": "¿Qué superhéroe lleva un escudo con estrella? (10)",
+      "question": "¿Las tiendas 7-Eleven se convirtieron temporalmente en Kwik E-marts para promover el estreno de qué película?",
       "answers": [
-        "Batman",
-        "Iron Man",
-        "Capitán América",
-        "Thor"
+        "La película de los Simpson",
+        "shrek tercero",
+        "El hombre araña 3",
+        "pisto"
+      ],
+      "correct": 0,
+      "category": "cine",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué película incluye un espíritu gigante parecido a un conejito que tiene poderes mágicos, incluido el cultivo de árboles?",
+      "answers": [
+        "El ascenso de los guardianes",
+        "Alicia en el país de las maravillas",
+        "mi vecino totoro",
+        "salto"
       ],
       "correct": 2,
       "category": "cine",
       "level": "facil"
     },
     {
-      "question": "¿Qué película tiene un pez llamado Nemo? (10)",
+      "question": "¿Quién es el protagonista principal de la película de 1985, Regreso al futuro?",
       "answers": [
-        "Coco",
-        "Cars",
-        "Buscando a Nemo",
-        "Frozen"
+        "marty mcfly",
+        "Emmett \"Doc\" Marrón",
+        "Biff Tannen",
+        "George McFly"
       ],
-      "correct": 2,
+      "correct": 0,
       "category": "cine",
       "level": "facil"
     },
     {
-      "question": "¿Qué estudio creó a Mickey Mouse? (10)",
+      "question": "En \"Mean Girls\", ¿quién tiene pechos que avisan cuando está lloviendo?",
       "answers": [
-        "Pixar",
-        "DreamWorks",
-        "Disney",
-        "Ghibli"
+        "Karen Smith",
+        "Janice Ian",
+        "garza cady",
+        "Gretchen Weiners"
       ],
-      "correct": 2,
+      "correct": 0,
       "category": "cine",
       "level": "facil"
     },
     {
-      "question": "¿Qué personaje de Star Wars respira con máscara negra? (10)",
+      "question": "\"La primera regla es: no hables de eso\" ¿a qué película se refiere?",
       "answers": [
-        "Yoda",
-        "Darth Vader",
-        "Han Solo",
-        "Chewbacca"
+        "pastel americano",
+        "club de lucha",
+        "la isla",
+        "impensable"
       ],
       "correct": 1,
       "category": "cine",
       "level": "facil"
     },
     {
-      "question": "¿Qué juguete espacial acompaña a Woody? (10)",
+      "question": "¿Quién interpreta al personaje de Po en las películas de Kung Fu Panda?",
       "answers": [
-        "Buzz Lightyear",
-        "Forky",
-        "Jessie",
-        "Rex"
+        "Jack negro",
+        "Jim Petersson",
+        "McConahey Ramsés",
+        "Mirana Jonnes"
       ],
       "correct": 0,
+      "category": "cine",
+      "level": "facil"
+    },
+    {
+      "question": "¿Quién interpretó a Bruce Wayne y Batman en la película \"Batman\" de Tim Burton de 1989?",
+      "answers": [
+        "George Clooney",
+        "Val Kilmer",
+        "Michael Keaton",
+        "Adán Oeste"
+      ],
+      "correct": 2,
+      "category": "cine",
+      "level": "facil"
+    },
+    {
+      "question": "¿Cuál de las siguientes películas no está basada en una novela de Stephen King?",
+      "answers": [
+        "miseria",
+        "La cosa",
+        "La Milla Verde",
+        "carrie"
+      ],
+      "correct": 1,
+      "category": "cine",
+      "level": "facil"
+    },
+    {
+      "question": "¿Cuál fue la primera película de James Bond?",
+      "answers": [
+        "Desde Rusia con amor",
+        "doctor no",
+        "dedo de oro",
+        "bola de trueno"
+      ],
+      "correct": 1,
+      "category": "cine",
+      "level": "facil"
+    },
+    {
+      "question": "¿Cuál es la película de Disney más antigua?",
+      "answers": [
+        "fantasía",
+        "Blancanieves y los siete enanitos",
+        "Dumbo",
+        "Pinocho"
+      ],
+      "correct": 1,
+      "category": "cine",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué actor interpreta a Obi-Wan Kenobi en los Episodios I-III de Star Wars?",
+      "answers": [
+        "Alec Guinness",
+        "Hayden Christensen",
+        "Ewan McGregor",
+        "Liam Neeson"
+      ],
+      "correct": 2,
+      "category": "cine",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué película protagonizada por Bruce Willis contiene la frase \"Veo gente muerta\"?",
+      "answers": [
+        "Armagedón",
+        "Morir duro",
+        "El sexto sentido",
+        "El quinto elemento"
+      ],
+      "correct": 2,
+      "category": "cine",
+      "level": "facil"
+    },
+    {
+      "question": "¿En qué país europeo se desarrolla principalmente la película de 2002 \"28 días después\"?",
+      "answers": [
+        "Francia",
+        "Reino Unido",
+        "Italia",
+        "Alemania"
+      ],
+      "correct": 1,
+      "category": "cine",
+      "level": "facil"
+    },
+    {
+      "question": "¿Quién dirigió las películas \"Pulp Fiction\", \"Reservoir Dogs\" y \"Django Unchained\"?",
+      "answers": [
+        "Quentin Tarantino",
+        "Steven Spielberg",
+        "James Cameron",
+        "Martín Scorsese"
+      ],
+      "correct": 0,
+      "category": "cine",
+      "level": "facil"
+    },
+    {
+      "question": "En la película de Super Mario Bros. (2023), ¿quién interpreta a Toad?",
+      "answers": [
+        "Seth Rogan",
+        "día de charlie",
+        "Keegan-Michael Key",
+        "Jack negro"
+      ],
+      "correct": 2,
+      "category": "cine",
+      "level": "facil"
+    },
+    {
+      "question": "¿Cuál de estos actores NO ha interpretado a Spiderman en el cine?",
+      "answers": [
+        "Tom Holanda",
+        "miguel cera",
+        "andres garfield",
+        "Tobey Maguire"
+      ],
+      "correct": 1,
+      "category": "cine",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué película contiene la cita \"¡Saluda a mi amiguito!\"?",
+      "answers": [
+        "Calor",
+        "caracortada",
+        "Perros de reserva",
+        "Buenos amigos"
+      ],
+      "correct": 1,
+      "category": "cine",
+      "level": "facil"
+    },
+    {
+      "question": "¿Quién interpretó a Thanos en Vengadores: Infinity War y Vengadores: End Game?",
+      "answers": [
+        "Adam Sandler",
+        "jose brolin",
+        "Sean Gunn",
+        "Tom Hiddleston"
+      ],
+      "correct": 1,
+      "category": "cine",
+      "level": "facil"
+    },
+    {
+      "question": "En El Señor de los Anillos: Las Dos Torres, ¿a dónde lleva el grupo de orcos a los hobbits?",
+      "answers": [
+        "Rivendel",
+        "Mordor",
+        "Isengard",
+        "Moría"
+      ],
+      "correct": 2,
+      "category": "cine",
+      "level": "facil"
+    },
+    {
+      "question": "En la película \"V de Vendetta\", ¿cuál es la fecha que el justiciero enmascarado \"V\" insta a la gente a recordar?",
+      "answers": [
+        "6 de noviembre",
+        "5 de septiembre",
+        "5 de noviembre",
+        "4 de noviembre"
+      ],
+      "correct": 2,
+      "category": "cine",
+      "level": "facil"
+    },
+    {
+      "question": "¿Quién es el protagonista de la película de 2002 \"Kung Pow! Enter the Fist\"?",
+      "answers": [
+        "mono de hierro",
+        "Maestro Tang",
+        "Rey Dragón",
+        "Elegido"
+      ],
+      "correct": 3,
+      "category": "cine",
+      "level": "facil"
+    },
+    {
+      "question": "¿Cuál fue el primer monstruo que apareció junto a Godzilla?",
+      "answers": [
+        "Rey Ghidora",
+        "Anguirus",
+        "rey kong",
+        "motra"
+      ],
+      "correct": 1,
+      "category": "cine",
+      "level": "facil"
+    },
+    {
+      "question": "¿Quién interpreta a Jack Burton en la película \"El gran problema en la pequeña China\"?",
+      "answers": [
+        "Kurt Russell",
+        "Patricio Swayze",
+        "Juan Cusack",
+        "Harrison Ford"
+      ],
+      "correct": 0,
+      "category": "cine",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué película estrenada en 2016 presenta a Superman y Batman peleando?",
+      "answers": [
+        "Batman v Superman: El negro del caballero",
+        "Batman v Superman: Caída del Caballero",
+        "Batman v Superman: El amanecer de la justicia",
+        "Batman v Superman: Superapocalipsis"
+      ],
+      "correct": 2,
+      "category": "cine",
+      "level": "facil"
+    },
+    {
+      "question": "¿Quién interpreta al protagonista Ethan Hunt en la serie de películas \"Misión: Imposible\"?",
+      "answers": [
+        "Tom Crucero",
+        "Sean Connery",
+        "Johnny Depp",
+        "Pierce Brosnan"
+      ],
+      "correct": 0,
+      "category": "cine",
+      "level": "facil"
+    },
+    {
+      "question": "¿Quién interpreta a Alice en las películas de Resident Evil?",
+      "answers": [
+        "Milla Jovovich",
+        "Milla Johnson",
+        "Kim Demp",
+        "Madison Derpe"
+      ],
+      "correct": 0,
+      "category": "cine",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué actriz bailó el twist con John Travolta en 'Pulp Fiction'?",
+      "answers": [
+        "Uma Thurman",
+        "Kathy Griffin",
+        "Pamela Grier",
+        "Brígida Fonda"
+      ],
+      "correct": 0,
+      "category": "cine",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué superhéroe han interpretado en el cine los actores Michael Keaton, Val Kilmer, George Clooney y Christian Bale?",
+      "answers": [
+        "batman",
+        "hombre de hierro",
+        "hombre araña",
+        "superhombre"
+      ],
+      "correct": 0,
+      "category": "cine",
+      "level": "facil"
+    },
+    {
+      "question": "¿Quién dirigió Marvel's Avengers Endgame?",
+      "answers": [
+        "Zack Sinder",
+        "Josh Whedon",
+        "Los hermanos Russo",
+        "Kevin Feige"
+      ],
+      "correct": 2,
+      "category": "cine",
+      "level": "facil"
+    },
+    {
+      "question": "¿Quién dirigió \"E.T. el Extraterrestre\" (1982)?",
+      "answers": [
+        "Steven Spielberg",
+        "Tim Burton",
+        "James Cameron",
+        "Stanley Kubrick"
+      ],
+      "correct": 0,
+      "category": "cine",
+      "level": "facil"
+    },
+    {
+      "question": "¿Quién dirigió la película de 2017 \"La forma del agua\"?",
+      "answers": [
+        "guillermo del toro",
+        "James Cameron",
+        "Steven Spielberg",
+        "Martín Scorsese"
+      ],
+      "correct": 0,
+      "category": "cine",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué película ha sido considerada por la crítica como la mejor película de todos los tiempos?",
+      "answers": [
+        "El Padrino Parte II",
+        "La habitación",
+        "Ciudadano Kane",
+        "avatar"
+      ],
+      "correct": 2,
+      "category": "cine",
+      "level": "facil"
+    },
+    {
+      "question": "¿En qué año se lanzó el primer Youtube Rewind oficial?",
+      "answers": [
+        "2010",
+        "2012",
+        "2011",
+        "2013"
+      ],
+      "correct": 0,
+      "category": "cine",
+      "level": "facil"
+    },
+    {
+      "question": "¿Cuál fue el título de la primera película de Bond, estrenada en 1962?",
+      "answers": [
+        "doctor no",
+        "bola de trueno",
+        "dedo de oro",
+        "Desde Rusia con amor"
+      ],
+      "correct": 0,
+      "category": "cine",
+      "level": "facil"
+    },
+    {
+      "question": "En la película de 2012, \"The Lorax\", ¿quién es el antagonista?",
+      "answers": [
+        "Norma Grammy",
+        "Aloysius O'Hare",
+        "Ted Wiggins",
+        "El Once-Ler"
+      ],
+      "correct": 1,
+      "category": "cine",
+      "level": "facil"
+    },
+    {
+      "question": "En la película de 1992 \"Army of Darkness\", ¿qué nombre le da Ash a su escopeta de dos cañones?",
+      "answers": [
+        "palo de floración",
+        "Chump de 2 bombas",
+        "rama explosiva",
+        "palo de auge"
+      ],
+      "correct": 3,
+      "category": "cine",
+      "level": "facil"
+    },
+    {
+      "question": "Para la película \"En busca del arca perdida\", ¿de qué se enfermó Harrison Ford durante el rodaje de la persecución en El Cairo?",
+      "answers": [
+        "anemia",
+        "Reflujo ácido",
+        "disentería",
+        "Estreñimiento"
+      ],
+      "correct": 2,
+      "category": "cine",
+      "level": "facil"
+    },
+    {
+      "question": "En la película \"Blade Runner\", ¿cuál es el término utilizado para los androides con apariencia humana?",
+      "answers": [
+        "Sintéticos",
+        "trabajos de piel",
+        "cylones",
+        "Replicantes"
+      ],
+      "correct": 3,
+      "category": "cine",
+      "level": "facil"
+    },
+    {
+      "question": "¿Cuándo se estrenó la película 'Con Air'?",
+      "answers": [
+        "1999",
+        "1997",
+        "1985",
+        "1990"
+      ],
+      "correct": 1,
       "category": "cine",
       "level": "facil"
     }
   ],
   "deporte": [
     {
-      "question": "¿Qué deporte juega Rafa Nadal?",
+      "question": "¿Cuál fue el resultado final del partido de la Copa Mundial de la FIFA Alemania vs. Brasil 2014?",
       "answers": [
-        "Fútbol",
-        "Tenis",
-        "Balonmano",
-        "Ciclismo"
+        "3 - 4",
+        "7 - 1",
+        "16 - 0",
+        "0 - 1"
       ],
       "correct": 1,
       "category": "deporte",
       "level": "facil"
     },
     {
-      "question": "¿Dónde se marcan goles?",
+      "question": "¿Quién ganó la UEFA Champions League en 2017?",
       "answers": [
-        "Fútbol",
-        "Ajedrez",
-        "Natación",
-        "Atletismo"
+        "Atlético de Madrid",
+        "Real Madrid C. F.",
+        "AS Mónaco FC",
+        "Juventus F.C."
       ],
-      "correct": 0,
+      "correct": 1,
       "category": "deporte",
       "level": "facil"
     },
     {
-      "question": "¿Qué deporte usa una pelota de baloncesto?",
+      "question": "¿La Liga de Campeones de la UEFA es una competición anual de fútbol de clubes en la que participan clubes de qué continente?",
       "answers": [
-        "Tenis",
-        "Golf",
-        "Baloncesto",
-        "Rugby"
+        "Asia",
+        "África",
+        "Europa",
+        "américa del sur"
       ],
       "correct": 2,
       "category": "deporte",
       "level": "facil"
     },
     {
-      "question": "¿Qué se necesita para nadar en piscina?",
+      "question": "¿A qué equipo venció Inglaterra para ganar la final del Mundial de 1966?",
       "answers": [
-        "Casco",
-        "Bañador",
-        "Botas",
-        "Guantes"
-      ],
-      "correct": 1,
-      "category": "deporte",
-      "level": "facil"
-    },
-    {
-      "question": "¿Qué deporte practican los pilotos de MotoGP?",
-      "answers": [
-        "Automovilismo",
-        "Motociclismo",
-        "Ciclismo",
-        "Karting"
-      ],
-      "correct": 1,
-      "category": "deporte",
-      "level": "facil"
-    },
-    {
-      "question": "¿Qué deporte juega Rafa Nadal? (2)",
-      "answers": [
-        "Fútbol",
-        "Tenis",
-        "Balonmano",
-        "Ciclismo"
-      ],
-      "correct": 1,
-      "category": "deporte",
-      "level": "facil"
-    },
-    {
-      "question": "¿Dónde se marcan goles? (2)",
-      "answers": [
-        "Fútbol",
-        "Ajedrez",
-        "Natación",
-        "Atletismo"
-      ],
-      "correct": 0,
-      "category": "deporte",
-      "level": "facil"
-    },
-    {
-      "question": "¿Qué deporte usa una pelota de baloncesto? (2)",
-      "answers": [
-        "Tenis",
-        "Golf",
-        "Baloncesto",
-        "Rugby"
+        "unión soviética",
+        "portugal",
+        "Alemania Occidental",
+        "Brasil"
       ],
       "correct": 2,
       "category": "deporte",
       "level": "facil"
     },
     {
-      "question": "¿Qué se necesita para nadar en piscina? (2)",
+      "question": "¿Qué equipo de la NFL juega para Nueva Inglaterra?",
       "answers": [
-        "Casco",
-        "Bañador",
-        "Botas",
-        "Guantes"
+        "49ers",
+        "Patriotas",
+        "delfines",
+        "jefes"
       ],
       "correct": 1,
       "category": "deporte",
       "level": "facil"
     },
     {
-      "question": "¿Qué deporte practican los pilotos de MotoGP? (2)",
+      "question": "¿Qué país fue sede de la Copa Mundial de la FIFA 2018?",
       "answers": [
-        "Automovilismo",
-        "Motociclismo",
-        "Ciclismo",
-        "Karting"
+        "Alemania",
+        "Rusia",
+        "Estados Unidos",
+        "Arabia Saudita"
       ],
       "correct": 1,
       "category": "deporte",
       "level": "facil"
     },
     {
-      "question": "¿Qué deporte juega Rafa Nadal? (3)",
+      "question": "En béisbol, ¿cuántas faltas supone un out?",
       "answers": [
-        "Fútbol",
-        "Tenis",
-        "Balonmano",
-        "Ciclismo"
-      ],
-      "correct": 1,
-      "category": "deporte",
-      "level": "facil"
-    },
-    {
-      "question": "¿Dónde se marcan goles? (3)",
-      "answers": [
-        "Fútbol",
-        "Ajedrez",
-        "Natación",
-        "Atletismo"
-      ],
-      "correct": 0,
-      "category": "deporte",
-      "level": "facil"
-    },
-    {
-      "question": "¿Qué deporte usa una pelota de baloncesto? (3)",
-      "answers": [
-        "Tenis",
-        "Golf",
-        "Baloncesto",
-        "Rugby"
+        "2",
+        "3",
+        "0",
+        "5"
       ],
       "correct": 2,
       "category": "deporte",
       "level": "facil"
     },
     {
-      "question": "¿Qué se necesita para nadar en piscina? (3)",
+      "question": "¿Qué dos equipos jugaron el Super Bowl XLII?",
       "answers": [
-        "Casco",
-        "Bañador",
-        "Botas",
-        "Guantes"
+        "Las Águilas de Filadelfia y los Patriotas de Nueva Inglaterra",
+        "Los Gigantes de Nueva York y los Patriotas de Nueva Inglaterra",
+        "Los Empacadores de Green Bay y los Acereros de Pittsburgh",
+        "Los Seattle Seahawks y los Denver Broncos"
       ],
       "correct": 1,
       "category": "deporte",
       "level": "facil"
     },
     {
-      "question": "¿Qué deporte practican los pilotos de MotoGP? (3)",
+      "question": "Este presentador deportivo de la televisión canadiense es conocido por su papel en \"Hockey Night in Canada\", un programa de comentarios durante los partidos de hockey.",
       "answers": [
-        "Automovilismo",
-        "Motociclismo",
-        "Ciclismo",
-        "Karting"
+        "Donald Sutherland",
+        "don cereza",
+        "Don Taylor",
+        "Don McKellar"
       ],
       "correct": 1,
       "category": "deporte",
       "level": "facil"
     },
     {
-      "question": "¿Qué deporte juega Rafa Nadal? (4)",
+      "question": "¿Con quién ganó Steven Gerrard la Liga de Campeones?",
       "answers": [
-        "Fútbol",
-        "Tenis",
-        "Balonmano",
-        "Ciclismo"
+        "real madrid",
+        "Liverpool",
+        "Chelsea",
+        "hombre de la ciudad"
       ],
       "correct": 1,
       "category": "deporte",
       "level": "facil"
     },
     {
-      "question": "¿Dónde se marcan goles? (4)",
+      "question": "¿Cuándo se jugó el primer partido internacional oficial?",
       "answers": [
-        "Fútbol",
-        "Ajedrez",
-        "Natación",
-        "Atletismo"
+        "1872",
+        "1863",
+        "1865",
+        "1880"
       ],
       "correct": 0,
       "category": "deporte",
       "level": "facil"
     },
     {
-      "question": "¿Qué deporte usa una pelota de baloncesto? (4)",
+      "question": "En béisbol, ¿cuántas veces se debe lanzar la pelota fuera de la zona de strike antes de que se le dé base por bolas al bateador?",
       "answers": [
-        "Tenis",
-        "Golf",
-        "Baloncesto",
-        "Rugby"
+        "1",
+        "2",
+        "4",
+        "3"
       ],
       "correct": 2,
       "category": "deporte",
       "level": "facil"
     },
     {
-      "question": "¿Qué se necesita para nadar en piscina? (4)",
+      "question": "¿Qué piloto ha sido campeón del mundo de Fórmula 1 un récord de 7 veces?",
       "answers": [
-        "Casco",
-        "Bañador",
-        "Botas",
-        "Guantes"
-      ],
-      "correct": 1,
-      "category": "deporte",
-      "level": "facil"
-    },
-    {
-      "question": "¿Qué deporte practican los pilotos de MotoGP? (4)",
-      "answers": [
-        "Automovilismo",
-        "Motociclismo",
-        "Ciclismo",
-        "Karting"
-      ],
-      "correct": 1,
-      "category": "deporte",
-      "level": "facil"
-    },
-    {
-      "question": "¿Qué deporte juega Rafa Nadal? (5)",
-      "answers": [
-        "Fútbol",
-        "Tenis",
-        "Balonmano",
-        "Ciclismo"
-      ],
-      "correct": 1,
-      "category": "deporte",
-      "level": "facil"
-    },
-    {
-      "question": "¿Dónde se marcan goles? (5)",
-      "answers": [
-        "Fútbol",
-        "Ajedrez",
-        "Natación",
-        "Atletismo"
+        "michael schumacher",
+        "Jim Clark",
+        "fernando alonso",
+        "Ayrton Sena"
       ],
       "correct": 0,
       "category": "deporte",
       "level": "facil"
     },
     {
-      "question": "¿Qué deporte usa una pelota de baloncesto? (5)",
+      "question": "¿Cuál es el tipo de lanzamiento más común que realizan los lanzadores en el béisbol?",
       "answers": [
-        "Tenis",
-        "Golf",
-        "Baloncesto",
-        "Rugby"
+        "loco",
+        "bola rápida",
+        "bola lenta",
+        "pelota de palma"
+      ],
+      "correct": 1,
+      "category": "deporte",
+      "level": "facil"
+    },
+    {
+      "question": "¿Cómo se llama la \"herramienta\" que se utiliza para golpear la bola blanca en el billar?",
+      "answers": [
+        "murciélago",
+        "mazo",
+        "señal",
+        "raqueta"
       ],
       "correct": 2,
       "category": "deporte",
       "level": "facil"
     },
     {
-      "question": "¿Qué se necesita para nadar en piscina? (5)",
+      "question": "¿De qué país surgieron futbolistas como Cafú, Roberto Carlos y Pelé?",
       "answers": [
-        "Casco",
-        "Bañador",
-        "Botas",
-        "Guantes"
-      ],
-      "correct": 1,
-      "category": "deporte",
-      "level": "facil"
-    },
-    {
-      "question": "¿Qué deporte practican los pilotos de MotoGP? (5)",
-      "answers": [
-        "Automovilismo",
-        "Motociclismo",
-        "Ciclismo",
-        "Karting"
-      ],
-      "correct": 1,
-      "category": "deporte",
-      "level": "facil"
-    },
-    {
-      "question": "¿Qué deporte juega Rafa Nadal? (6)",
-      "answers": [
-        "Fútbol",
-        "Tenis",
-        "Balonmano",
-        "Ciclismo"
-      ],
-      "correct": 1,
-      "category": "deporte",
-      "level": "facil"
-    },
-    {
-      "question": "¿Dónde se marcan goles? (6)",
-      "answers": [
-        "Fútbol",
-        "Ajedrez",
-        "Natación",
-        "Atletismo"
+        "Brasil",
+        "Argentina",
+        "España",
+        "portugal"
       ],
       "correct": 0,
       "category": "deporte",
       "level": "facil"
     },
     {
-      "question": "¿Qué deporte usa una pelota de baloncesto? (6)",
+      "question": "¿Quién ganó el Campeonato Mundial de Pilotos de Fórmula Uno 2017?",
       "answers": [
-        "Tenis",
-        "Golf",
-        "Baloncesto",
-        "Rugby"
+        "Nico Rosberg",
+        "Max Verstappen",
+        "Lewis Hamilton",
+        "Sebastián Vettel"
       ],
       "correct": 2,
       "category": "deporte",
       "level": "facil"
     },
     {
-      "question": "¿Qué se necesita para nadar en piscina? (6)",
+      "question": "¿Quién ganó el Campeonato Mundial de Fórmula 1 2015?",
       "answers": [
-        "Casco",
-        "Bañador",
-        "Botas",
-        "Guantes"
-      ],
-      "correct": 1,
-      "category": "deporte",
-      "level": "facil"
-    },
-    {
-      "question": "¿Qué deporte practican los pilotos de MotoGP? (6)",
-      "answers": [
-        "Automovilismo",
-        "Motociclismo",
-        "Ciclismo",
-        "Karting"
-      ],
-      "correct": 1,
-      "category": "deporte",
-      "level": "facil"
-    },
-    {
-      "question": "¿Qué deporte juega Rafa Nadal? (7)",
-      "answers": [
-        "Fútbol",
-        "Tenis",
-        "Balonmano",
-        "Ciclismo"
-      ],
-      "correct": 1,
-      "category": "deporte",
-      "level": "facil"
-    },
-    {
-      "question": "¿Dónde se marcan goles? (7)",
-      "answers": [
-        "Fútbol",
-        "Ajedrez",
-        "Natación",
-        "Atletismo"
+        "Lewis Hamilton",
+        "Sebastián Vettel",
+        "Nico Rosberg",
+        "Botón de Jenson"
       ],
       "correct": 0,
       "category": "deporte",
       "level": "facil"
     },
     {
-      "question": "¿Qué deporte usa una pelota de baloncesto? (7)",
+      "question": "¿A quién se suele llamar \"el Maestro\" en el circuito de tenis masculino?",
       "answers": [
-        "Tenis",
-        "Golf",
-        "Baloncesto",
-        "Rugby"
-      ],
-      "correct": 2,
-      "category": "deporte",
-      "level": "facil"
-    },
-    {
-      "question": "¿Qué se necesita para nadar en piscina? (7)",
-      "answers": [
-        "Casco",
-        "Bañador",
-        "Botas",
-        "Guantes"
-      ],
-      "correct": 1,
-      "category": "deporte",
-      "level": "facil"
-    },
-    {
-      "question": "¿Qué deporte practican los pilotos de MotoGP? (7)",
-      "answers": [
-        "Automovilismo",
-        "Motociclismo",
-        "Ciclismo",
-        "Karting"
-      ],
-      "correct": 1,
-      "category": "deporte",
-      "level": "facil"
-    },
-    {
-      "question": "¿Qué deporte juega Rafa Nadal? (8)",
-      "answers": [
-        "Fútbol",
-        "Tenis",
-        "Balonmano",
-        "Ciclismo"
-      ],
-      "correct": 1,
-      "category": "deporte",
-      "level": "facil"
-    },
-    {
-      "question": "¿Dónde se marcan goles? (8)",
-      "answers": [
-        "Fútbol",
-        "Ajedrez",
-        "Natación",
-        "Atletismo"
+        "Federer",
+        "Pete Sampras",
+        "Boris Becker",
+        "Bill Tilden"
       ],
       "correct": 0,
       "category": "deporte",
       "level": "facil"
     },
     {
-      "question": "¿Qué deporte usa una pelota de baloncesto? (8)",
+      "question": "¿En qué deporte se utiliza un \"volante\"?",
       "answers": [
-        "Tenis",
-        "Golf",
-        "Baloncesto",
-        "Rugby"
+        "rugby",
+        "Tenis de mesa",
+        "Bádminton",
+        "Grillo"
       ],
       "correct": 2,
       "category": "deporte",
       "level": "facil"
     },
     {
-      "question": "¿Qué se necesita para nadar en piscina? (8)",
+      "question": "¿Qué boxeador fue sancionado por darle un mordisco a la oreja a Evander Holyfield en 1997?",
       "answers": [
-        "Casco",
-        "Bañador",
-        "Botas",
-        "Guantes"
-      ],
-      "correct": 1,
-      "category": "deporte",
-      "level": "facil"
-    },
-    {
-      "question": "¿Qué deporte practican los pilotos de MotoGP? (8)",
-      "answers": [
-        "Automovilismo",
-        "Motociclismo",
-        "Ciclismo",
-        "Karting"
-      ],
-      "correct": 1,
-      "category": "deporte",
-      "level": "facil"
-    },
-    {
-      "question": "¿Qué deporte juega Rafa Nadal? (9)",
-      "answers": [
-        "Fútbol",
-        "Tenis",
-        "Balonmano",
-        "Ciclismo"
-      ],
-      "correct": 1,
-      "category": "deporte",
-      "level": "facil"
-    },
-    {
-      "question": "¿Dónde se marcan goles? (9)",
-      "answers": [
-        "Fútbol",
-        "Ajedrez",
-        "Natación",
-        "Atletismo"
+        "mike tyson",
+        "Evander Holyfield",
+        "Lennox Lewis",
+        "Roy Jones Jr."
       ],
       "correct": 0,
       "category": "deporte",
       "level": "facil"
     },
     {
-      "question": "¿Qué deporte usa una pelota de baloncesto? (9)",
+      "question": "¿En qué fecha se celebró la ceremonia de clausura de los Juegos Olímpicos de Verano de Río 2016?",
       "answers": [
-        "Tenis",
-        "Golf",
-        "Baloncesto",
-        "Rugby"
-      ],
-      "correct": 2,
-      "category": "deporte",
-      "level": "facil"
-    },
-    {
-      "question": "¿Qué se necesita para nadar en piscina? (9)",
-      "answers": [
-        "Casco",
-        "Bañador",
-        "Botas",
-        "Guantes"
-      ],
-      "correct": 1,
-      "category": "deporte",
-      "level": "facil"
-    },
-    {
-      "question": "¿Qué deporte practican los pilotos de MotoGP? (9)",
-      "answers": [
-        "Automovilismo",
-        "Motociclismo",
-        "Ciclismo",
-        "Karting"
-      ],
-      "correct": 1,
-      "category": "deporte",
-      "level": "facil"
-    },
-    {
-      "question": "¿Qué deporte juega Rafa Nadal? (10)",
-      "answers": [
-        "Fútbol",
-        "Tenis",
-        "Balonmano",
-        "Ciclismo"
-      ],
-      "correct": 1,
-      "category": "deporte",
-      "level": "facil"
-    },
-    {
-      "question": "¿Dónde se marcan goles? (10)",
-      "answers": [
-        "Fútbol",
-        "Ajedrez",
-        "Natación",
-        "Atletismo"
+        "21 de agosto",
+        "23 de agosto",
+        "19 de agosto",
+        "17 de agosto"
       ],
       "correct": 0,
       "category": "deporte",
       "level": "facil"
     },
     {
-      "question": "¿Qué deporte usa una pelota de baloncesto? (10)",
+      "question": "¿Qué equipo ganó la Premier League inglesa 2015-16?",
       "answers": [
-        "Tenis",
-        "Golf",
-        "Baloncesto",
-        "Rugby"
+        "ciudad de leicester",
+        "manchester unido",
+        "Cheslea",
+        "Liverpool"
+      ],
+      "correct": 0,
+      "category": "deporte",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué país fue sede de los Juegos Olímpicos de Verano de 2020?",
+      "answers": [
+        "Australia",
+        "Japón",
+        "China",
+        "Alemania"
+      ],
+      "correct": 1,
+      "category": "deporte",
+      "level": "facil"
+    },
+    {
+      "question": "¿Cuántos jugadores hay en un equipo de fútbol/fútbol de una asociación?",
+      "answers": [
+        "9",
+        "8",
+        "11",
+        "10"
       ],
       "correct": 2,
       "category": "deporte",
       "level": "facil"
     },
     {
-      "question": "¿Qué se necesita para nadar en piscina? (10)",
+      "question": "¿Qué jugador tiene el récord de la NHL de 2.857 puntos?",
       "answers": [
-        "Casco",
-        "Bañador",
-        "Botas",
-        "Guantes"
+        "Mario Lemieux",
+        "Wayne Gretzky",
+        "Sidney Crosby",
+        "Gordie Howe"
       ],
       "correct": 1,
       "category": "deporte",
       "level": "facil"
     },
     {
-      "question": "¿Qué deporte practican los pilotos de MotoGP? (10)",
+      "question": "¿Qué afroamericano es en parte responsable de la integración del béisbol en las Grandes Ligas?",
       "answers": [
-        "Automovilismo",
-        "Motociclismo",
-        "Ciclismo",
-        "Karting"
+        "Jackie Robinson",
+        "Roy Campanella",
+        "Paige",
+        "Inundación breve"
+      ],
+      "correct": 0,
+      "category": "deporte",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué club de fútbol inglés tiene el sobrenombre de 'Los Zorros'?",
+      "answers": [
+        "Ciudad de Northampton",
+        "ciudad de bradford",
+        "ciudad de leicester",
+        "West Bromwich Albión"
+      ],
+      "correct": 2,
+      "category": "deporte",
+      "level": "facil"
+    },
+    {
+      "question": "¿En qué año ganó Jenson Button su primer Campeonato Mundial de Pilotos de Fórmula Uno?",
+      "answers": [
+        "2007",
+        "2006",
+        "2009",
+        "2010"
+      ],
+      "correct": 2,
+      "category": "deporte",
+      "level": "facil"
+    },
+    {
+      "question": "¿Cuál fue el año de fundación del Bari Italian Football Club?",
+      "answers": [
+        "1945",
+        "1908",
+        "2014",
+        "1895"
       ],
       "correct": 1,
+      "category": "deporte",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué equipo ha ganado más Copas Stanley en la NHL?",
+      "answers": [
+        "Canadienses de Montreal",
+        "Alas rojas de Detroit",
+        "Blackhawks de Chicago",
+        "Hojas de arce de Toronto"
+      ],
+      "correct": 0,
+      "category": "deporte",
+      "level": "facil"
+    },
+    {
+      "question": "¿De qué ciudad es originario el antiguo equipo de la NHL \"The Nordiques\"?",
+      "answers": [
+        "houston",
+        "Nueva York",
+        "Montréal",
+        "Ciudad de Quebec"
+      ],
+      "correct": 3,
+      "category": "deporte",
+      "level": "facil"
+    },
+    {
+      "question": "¿Quién ganó la UEFA Champions League en 2016?",
+      "answers": [
+        "FC Bayern de Múnich",
+        "Manchester City FC",
+        "Real Madrid C. F.",
+        "Atlético de Madrid"
+      ],
+      "correct": 2,
+      "category": "deporte",
+      "level": "facil"
+    },
+    {
+      "question": "En la Copa Mundial de la FIFA 2014, ¿cuál fue el resultado final del partido Brasil - Alemania?",
+      "answers": [
+        "1-5",
+        "1-6",
+        "1-7",
+        "2-6"
+      ],
+      "correct": 2,
+      "category": "deporte",
+      "level": "facil"
+    },
+    {
+      "question": "En golf, ¿qué nombre se le da a un hoyo con una puntuación de dos bajo par?",
+      "answers": [
+        "Albatros",
+        "Águila",
+        "fantasma",
+        "pajarito"
+      ],
+      "correct": 1,
+      "category": "deporte",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué equipo ganó la Copa Mundial de la FIFA Brasil 2014?",
+      "answers": [
+        "Argentina",
+        "Alemania",
+        "Brasil",
+        "Países Bajos"
+      ],
+      "correct": 1,
+      "category": "deporte",
+      "level": "facil"
+    },
+    {
+      "question": "¿Quién ganó el Campeonato Mundial de Pilotos de Fórmula 1 2016?",
+      "answers": [
+        "Kimi Räikkönen",
+        "Max Verstappen",
+        "Nico Rosberg",
+        "Lewis Hamilton"
+      ],
+      "correct": 2,
+      "category": "deporte",
+      "level": "facil"
+    },
+    {
+      "question": "¿Cuál de estos equipos de la NHL jugó originalmente en Atlanta?",
+      "answers": [
+        "Minnesota salvaje",
+        "Llamas de Calgary",
+        "Blues de San Luis",
+        "Canucks de Vancouver"
+      ],
+      "correct": 1,
+      "category": "deporte",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué luchador ganó el Royal Rumble masculino de 2019?",
+      "answers": [
+        "Seth Rollins",
+        "andrade",
+        "Estilos AJ",
+        "Braun Strowman"
+      ],
+      "correct": 0,
+      "category": "deporte",
+      "level": "facil"
+    },
+    {
+      "question": "¿De qué ciudad de Estados Unidos eran originarios los Dodgers de Los Ángeles?",
+      "answers": [
+        "Brooklyn",
+        "Boston",
+        "Las Vegas",
+        "seattle"
+      ],
+      "correct": 0,
+      "category": "deporte",
+      "level": "facil"
+    },
+    {
+      "question": "En los bolos, ¿cuál es el término utilizado para conseguir tres strikes consecutivos?",
+      "answers": [
+        "Turquía",
+        "pajarito",
+        "Águila",
+        "flamenco"
+      ],
+      "correct": 0,
+      "category": "deporte",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué deporte presenta los términos amor, dos, partido y volea?",
+      "answers": [
+        "Grillo",
+        "baloncesto",
+        "Tenis",
+        "Curling"
+      ],
+      "correct": 2,
+      "category": "deporte",
+      "level": "facil"
+    },
+    {
+      "question": "¿Cuándo se fundó el FC Schalke 04?",
+      "answers": [
+        "1904",
+        "1999",
+        "2008",
+        "1909"
+      ],
+      "correct": 0,
+      "category": "deporte",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué país fue sede de la Copa Mundial de la FIFA 2022?",
+      "answers": [
+        "Japón",
+        "Catar",
+        "Estados Unidos",
+        "Suiza"
+      ],
+      "correct": 1,
+      "category": "deporte",
+      "level": "facil"
+    },
+    {
+      "question": "¿En qué año ganaron los New Orleans Saints el Super Bowl?",
+      "answers": [
+        "2010",
+        "2009",
+        "2011",
+        "2008"
+      ],
+      "correct": 0,
+      "category": "deporte",
+      "level": "facil"
+    },
+    {
+      "question": "¿Cuántos jugadores de fútbol deberían estar en el campo al mismo tiempo?",
+      "answers": [
+        "22",
+        "20",
+        "26",
+        "24"
+      ],
+      "correct": 0,
+      "category": "deporte",
+      "level": "facil"
+    },
+    {
+      "question": "¿Cuál de los siguientes deportes no forma parte del triatlón?",
+      "answers": [
+        "Ciclismo",
+        "Natación",
+        "corriendo",
+        "montar a caballo"
+      ],
+      "correct": 3,
+      "category": "deporte",
+      "level": "facil"
+    },
+    {
+      "question": "¿Cuántos puntos anotó LeBron James en su primer partido de la NBA?",
+      "answers": [
+        "25",
+        "41",
+        "19",
+        "69"
+      ],
+      "correct": 0,
+      "category": "deporte",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué selección nacional ganó la primera Liga de Naciones de la UEFA?",
+      "answers": [
+        "Países Bajos",
+        "Suiza",
+        "Inglaterra",
+        "portugal"
+      ],
+      "correct": 3,
+      "category": "deporte",
+      "level": "facil"
+    },
+    {
+      "question": "¿Cómo se llama el estadio del Manchester United?",
+      "answers": [
+        "Estadio de la ciudad de Manchester",
+        "Anfield",
+        "Old Trafford",
+        "Parque de San Jaime"
+      ],
+      "correct": 2,
       "category": "deporte",
       "level": "facil"
     }
   ],
   "musica": [
     {
-      "question": "¿Qué artista era conocido como el Rey del Pop?",
+      "question": "¿Cuál de los siguientes es un álbum de la banda de punk rock Anti-Flag?",
       "answers": [
-        "Prince",
-        "Michael Jackson",
-        "Freddie Mercury",
-        "Bowie"
+        "Sin almohadillas, sin cascos... Sólo pelotas",
+        "Por la sangre y el imperio",
+        "Desglose del siglo XXI",
+        "Infinito en lo alto"
       ],
       "correct": 1,
       "category": "musica",
       "level": "facil"
     },
     {
-      "question": "¿Qué instrumento tiene cuerdas y se toca con dedos o púa?",
+      "question": "¿Qué canción de \"Random Access Memories\" de Daft Punk presenta a Pharrell Williams?",
       "answers": [
-        "Guitarra",
-        "Batería",
-        "Trompeta",
-        "Fagot"
-      ],
-      "correct": 0,
-      "category": "musica",
-      "level": "facil"
-    },
-    {
-      "question": "¿Qué grupo cantaba Bohemian Rhapsody?",
-      "answers": [
-        "ABBA",
-        "Queen",
-        "U2",
-        "Coldplay"
+        "Haciéndolo bien",
+        "tener suerte",
+        "Aplastamiento instantáneo",
+        "El juego del amor"
       ],
       "correct": 1,
       "category": "musica",
       "level": "facil"
     },
     {
-      "question": "¿Qué instrumento toca un baterista?",
+      "question": "Según la rapera estadounidense Nelly, ¿qué se debe hacer cuando hace calor aquí?",
       "answers": [
-        "Chelo",
-        "Arpa",
-        "Batería",
-        "Clarinete"
+        "Ir a nadar desnudos",
+        "bebe un poco de agua",
+        "Quítate toda la ropa",
+        "Toma una ducha fría"
       ],
       "correct": 2,
       "category": "musica",
       "level": "facil"
     },
     {
-      "question": "¿Qué cantante fue líder de Queen?",
+      "question": "¿Qué género musical tocaba la banda Type O Negative?",
       "answers": [
-        "Freddie Mercury",
-        "Bono",
-        "Mick Jagger",
-        "Sting"
+        "metal gótico",
+        "rock duro",
+        "metal",
+        "pop-rock"
       ],
       "correct": 0,
       "category": "musica",
       "level": "facil"
     },
     {
-      "question": "¿Qué artista era conocido como el Rey del Pop? (2)",
+      "question": "¿Kanye West en los VMA de 2009 interrumpió a qué celebridad?",
       "answers": [
-        "Prince",
-        "Michael Jackson",
-        "Freddie Mercury",
-        "Bowie"
+        "beck",
+        "Taylor Swift",
+        "Beyoncé",
+        "CONDENACIÓN MF"
       ],
       "correct": 1,
       "category": "musica",
       "level": "facil"
     },
     {
-      "question": "¿Qué instrumento tiene cuerdas y se toca con dedos o púa? (2)",
+      "question": "¿Qué banda incluía a Sting, Stewart Copeland y Andy Summers?",
       "answers": [
-        "Guitarra",
-        "Batería",
-        "Trompeta",
-        "Fagot"
-      ],
-      "correct": 0,
-      "category": "musica",
-      "level": "facil"
-    },
-    {
-      "question": "¿Qué grupo cantaba Bohemian Rhapsody? (2)",
-      "answers": [
-        "ABBA",
-        "Queen",
-        "U2",
-        "Coldplay"
-      ],
-      "correct": 1,
-      "category": "musica",
-      "level": "facil"
-    },
-    {
-      "question": "¿Qué instrumento toca un baterista? (2)",
-      "answers": [
-        "Chelo",
-        "Arpa",
-        "Batería",
-        "Clarinete"
+        "La cura",
+        "Def Leppard",
+        "la policia",
+        "Bonjovi"
       ],
       "correct": 2,
       "category": "musica",
       "level": "facil"
     },
     {
-      "question": "¿Qué cantante fue líder de Queen? (2)",
+      "question": "¿Qué banda de punk rock lanzó canciones exitosas como \"Californication\", \"Can't Stop\" y \"Under the Bridge\"?",
       "answers": [
-        "Freddie Mercury",
-        "Bono",
-        "Mick Jagger",
-        "Sting"
-      ],
-      "correct": 0,
-      "category": "musica",
-      "level": "facil"
-    },
-    {
-      "question": "¿Qué artista era conocido como el Rey del Pop? (3)",
-      "answers": [
-        "Prince",
-        "Michael Jackson",
-        "Freddie Mercury",
-        "Bowie"
+        "parque linkin",
+        "Pimientos rojos picantes",
+        "Foo Fighters",
+        "dia verde"
       ],
       "correct": 1,
       "category": "musica",
       "level": "facil"
     },
     {
-      "question": "¿Qué instrumento tiene cuerdas y se toca con dedos o púa? (3)",
+      "question": "¿Qué compositor clásico escribió la \"Sonata claro de luna\"?",
       "answers": [
-        "Guitarra",
-        "Batería",
-        "Trompeta",
-        "Fagot"
+        "Ludwig Van Beethoven",
+        "Jefe Keef",
+        "Wolfgang Amadeo Mozart",
+        "Juan Brahms"
       ],
       "correct": 0,
       "category": "musica",
       "level": "facil"
     },
     {
-      "question": "¿Qué grupo cantaba Bohemian Rhapsody? (3)",
+      "question": "¿Qué streamer de Twitch es el vocalista de Red Vox?",
       "answers": [
-        "ABBA",
-        "Queen",
-        "U2",
-        "Coldplay"
+        "salsa de vinagre",
+        "LIRIK",
+        "refresco",
+        "El baterista de 8 bits"
       ],
-      "correct": 1,
+      "correct": 0,
       "category": "musica",
       "level": "facil"
     },
     {
-      "question": "¿Qué instrumento toca un baterista? (3)",
+      "question": "¿Qué actor ganador del Oscar contó con \"Gold Digger\" de Kanye West?",
       "answers": [
-        "Chelo",
-        "Arpa",
-        "Batería",
-        "Clarinete"
+        "Alec Baldwin",
+        "David Johnson",
+        "Jamie Foxx",
+        "Bruce Willis"
       ],
       "correct": 2,
       "category": "musica",
       "level": "facil"
     },
     {
-      "question": "¿Qué cantante fue líder de Queen? (3)",
+      "question": "¿Qué término describe mejor la conexión de dos secciones de una pieza musical a través de un pasaje de transición?",
       "answers": [
-        "Freddie Mercury",
-        "Bono",
-        "Mick Jagger",
-        "Sting"
-      ],
-      "correct": 0,
-      "category": "musica",
-      "level": "facil"
-    },
-    {
-      "question": "¿Qué artista era conocido como el Rey del Pop? (4)",
-      "answers": [
-        "Prince",
-        "Michael Jackson",
-        "Freddie Mercury",
-        "Bowie"
-      ],
-      "correct": 1,
-      "category": "musica",
-      "level": "facil"
-    },
-    {
-      "question": "¿Qué instrumento tiene cuerdas y se toca con dedos o púa? (4)",
-      "answers": [
-        "Guitarra",
-        "Batería",
-        "Trompeta",
-        "Fagot"
-      ],
-      "correct": 0,
-      "category": "musica",
-      "level": "facil"
-    },
-    {
-      "question": "¿Qué grupo cantaba Bohemian Rhapsody? (4)",
-      "answers": [
-        "ABBA",
-        "Queen",
-        "U2",
-        "Coldplay"
-      ],
-      "correct": 1,
-      "category": "musica",
-      "level": "facil"
-    },
-    {
-      "question": "¿Qué instrumento toca un baterista? (4)",
-      "answers": [
-        "Chelo",
-        "Arpa",
-        "Batería",
-        "Clarinete"
+        "Forma binaria",
+        "capó",
+        "puente",
+        "coda"
       ],
       "correct": 2,
       "category": "musica",
       "level": "facil"
     },
     {
-      "question": "¿Qué cantante fue líder de Queen? (4)",
+      "question": "¿Quién es el líder de la banda 30 Seconds to Mars?",
       "answers": [
-        "Freddie Mercury",
-        "Bono",
-        "Mick Jagger",
-        "Sting"
+        "Jared Leto",
+        "Camino de Gerardo",
+        "Mateo Bellamy",
+        "Mike Shinoda"
       ],
       "correct": 0,
       "category": "musica",
       "level": "facil"
     },
     {
-      "question": "¿Qué artista era conocido como el Rey del Pop? (5)",
+      "question": "¿\"Doctor Jones\", \"Turn Back Time\" y \"Barbie Girl\" fueron números uno en el Reino Unido y para qué grupo de Eurodance?",
       "answers": [
-        "Prince",
-        "Michael Jackson",
-        "Freddie Mercury",
-        "Bowie"
-      ],
-      "correct": 1,
-      "category": "musica",
-      "level": "facil"
-    },
-    {
-      "question": "¿Qué instrumento tiene cuerdas y se toca con dedos o púa? (5)",
-      "answers": [
-        "Guitarra",
-        "Batería",
-        "Trompeta",
-        "Fagot"
+        "aguamarina",
+        "eiffel 65",
+        "¡Faja!",
+        "Vengaboys"
       ],
       "correct": 0,
       "category": "musica",
       "level": "facil"
     },
     {
-      "question": "¿Qué grupo cantaba Bohemian Rhapsody? (5)",
+      "question": "¿Cuántos álbumes de estudio ha lanzado el dúo Daft Punk?",
       "answers": [
-        "ABBA",
-        "Queen",
-        "U2",
-        "Coldplay"
+        "4",
+        "5",
+        "1",
+        "2"
       ],
-      "correct": 1,
+      "correct": 0,
       "category": "musica",
       "level": "facil"
     },
     {
-      "question": "¿Qué instrumento toca un baterista? (5)",
+      "question": "El DJ sueco Tim Bergling, que produjo canciones como \"Levels\" y \"Wake Me Up\", ¿bajo qué alias es más conocido?",
       "answers": [
-        "Chelo",
-        "Arpa",
-        "Batería",
-        "Clarinete"
+        "alesso",
+        "Skrilex",
+        "avicii",
+        "deadmau5"
       ],
       "correct": 2,
       "category": "musica",
       "level": "facil"
     },
     {
-      "question": "¿Qué cantante fue líder de Queen? (5)",
+      "question": "¿Qué balada estadounidense de los años 70 se refirió al accidente aéreo de 1959 como \"el día en que murió la música\"?",
       "answers": [
-        "Freddie Mercury",
-        "Bono",
-        "Mick Jagger",
-        "Sting"
-      ],
-      "correct": 0,
-      "category": "musica",
-      "level": "facil"
-    },
-    {
-      "question": "¿Qué artista era conocido como el Rey del Pop? (6)",
-      "answers": [
-        "Prince",
-        "Michael Jackson",
-        "Freddie Mercury",
-        "Bowie"
-      ],
-      "correct": 1,
-      "category": "musica",
-      "level": "facil"
-    },
-    {
-      "question": "¿Qué instrumento tiene cuerdas y se toca con dedos o púa? (6)",
-      "answers": [
-        "Guitarra",
-        "Batería",
-        "Trompeta",
-        "Fagot"
-      ],
-      "correct": 0,
-      "category": "musica",
-      "level": "facil"
-    },
-    {
-      "question": "¿Qué grupo cantaba Bohemian Rhapsody? (6)",
-      "answers": [
-        "ABBA",
-        "Queen",
-        "U2",
-        "Coldplay"
-      ],
-      "correct": 1,
-      "category": "musica",
-      "level": "facil"
-    },
-    {
-      "question": "¿Qué instrumento toca un baterista? (6)",
-      "answers": [
-        "Chelo",
-        "Arpa",
-        "Batería",
-        "Clarinete"
+        "lluvia de kentucky",
+        "Suicidio del rock'n'roll",
+        "pastel americano",
+        "Siempre te amaré"
       ],
       "correct": 2,
       "category": "musica",
       "level": "facil"
     },
     {
-      "question": "¿Qué cantante fue líder de Queen? (6)",
+      "question": "¿Cuál de los siguientes no es un álbum de estudio de la banda Pink Floyd?",
       "answers": [
-        "Freddie Mercury",
-        "Bono",
-        "Mick Jagger",
-        "Sting"
+        "Imágenes en movimiento",
+        "Ojalá estuvieras aquí",
+        "animales",
+        "El lado oscuro de la luna"
       ],
       "correct": 0,
       "category": "musica",
       "level": "facil"
     },
     {
-      "question": "¿Qué artista era conocido como el Rey del Pop? (7)",
+      "question": "¿Cuál de estos NO se considera un instrumento de viento de madera?",
       "answers": [
-        "Prince",
-        "Michael Jackson",
-        "Freddie Mercury",
-        "Bowie"
-      ],
-      "correct": 1,
-      "category": "musica",
-      "level": "facil"
-    },
-    {
-      "question": "¿Qué instrumento tiene cuerdas y se toca con dedos o púa? (7)",
-      "answers": [
-        "Guitarra",
-        "Batería",
-        "Trompeta",
-        "Fagot"
+        "trombón",
+        "clarinete",
+        "Oboe",
+        "fagot"
       ],
       "correct": 0,
       "category": "musica",
       "level": "facil"
     },
     {
-      "question": "¿Qué grupo cantaba Bohemian Rhapsody? (7)",
+      "question": "¿Qué álbum de los Beatles NO incluye a ninguno de los miembros de la banda en su portada?",
       "answers": [
-        "ABBA",
-        "Queen",
-        "U2",
-        "Coldplay"
+        "Los Beatles (Álbum Blanco)",
+        "Tour Mágico y Misterio",
+        "Camino de la Abadía",
+        "alma de goma"
+      ],
+      "correct": 0,
+      "category": "musica",
+      "level": "facil"
+    },
+    {
+      "question": "¿Quién interpretó \"Tomé una pastilla en Ibiza\"?",
+      "answers": [
+        "Mike Posner",
+        "Robbie Williams",
+        "avicii",
+        "Harry estilos"
+      ],
+      "correct": 0,
+      "category": "musica",
+      "level": "facil"
+    },
+    {
+      "question": "¿Quién es el cantante principal de la banda Coldplay?",
+      "answers": [
+        "Chris Wallace",
+        "cris martin",
+        "Chris Connelly",
+        "Chris Isaac"
       ],
       "correct": 1,
       "category": "musica",
       "level": "facil"
     },
     {
-      "question": "¿Qué instrumento toca un baterista? (7)",
+      "question": "¿Quién escribió el éxito de Sinead O`Connor 'Nothing Compares 2 U'?",
       "answers": [
-        "Chelo",
-        "Arpa",
-        "Batería",
-        "Clarinete"
+        "Príncipe",
+        "michael jackson",
+        "camafeo",
+        "rick james"
+      ],
+      "correct": 0,
+      "category": "musica",
+      "level": "facil"
+    },
+    {
+      "question": "¿Quién tuvo un éxito en 1983 con la canción 'África'?",
+      "answers": [
+        "viaje",
+        "Dan acero",
+        "totó",
+        "extranjero"
       ],
       "correct": 2,
       "category": "musica",
       "level": "facil"
     },
     {
-      "question": "¿Qué cantante fue líder de Queen? (7)",
+      "question": "¿Qué rapero famoso aparece en el sencillo de 2015 de Jack Ü (Skrillex y Diplo) llamado \"Febreze\"?",
       "answers": [
-        "Freddie Mercury",
-        "Bono",
-        "Mick Jagger",
-        "Sting"
-      ],
-      "correct": 0,
-      "category": "musica",
-      "level": "facil"
-    },
-    {
-      "question": "¿Qué artista era conocido como el Rey del Pop? (8)",
-      "answers": [
-        "Prince",
-        "Michael Jackson",
-        "Freddie Mercury",
-        "Bowie"
-      ],
-      "correct": 1,
-      "category": "musica",
-      "level": "facil"
-    },
-    {
-      "question": "¿Qué instrumento tiene cuerdas y se toca con dedos o púa? (8)",
-      "answers": [
-        "Guitarra",
-        "Batería",
-        "Trompeta",
-        "Fagot"
-      ],
-      "correct": 0,
-      "category": "musica",
-      "level": "facil"
-    },
-    {
-      "question": "¿Qué grupo cantaba Bohemian Rhapsody? (8)",
-      "answers": [
-        "ABBA",
-        "Queen",
-        "U2",
-        "Coldplay"
-      ],
-      "correct": 1,
-      "category": "musica",
-      "level": "facil"
-    },
-    {
-      "question": "¿Qué instrumento toca un baterista? (8)",
-      "answers": [
-        "Chelo",
-        "Arpa",
-        "Batería",
-        "Clarinete"
+        "Kendrick Lamar",
+        "Futuro",
+        "2 cadenas",
+        "primicia gordo"
       ],
       "correct": 2,
       "category": "musica",
       "level": "facil"
     },
     {
-      "question": "¿Qué cantante fue líder de Queen? (8)",
+      "question": "¿\"Hallelujah\" es una canción escrita por qué artista canadiense?",
       "answers": [
-        "Freddie Mercury",
-        "Bono",
-        "Mick Jagger",
-        "Sting"
+        "Leonardo Cohen",
+        "Justin Bieber",
+        "Ryan Letourneau",
+        "Kory Lefkowits"
       ],
       "correct": 0,
       "category": "musica",
       "level": "facil"
     },
     {
-      "question": "¿Qué artista era conocido como el Rey del Pop? (9)",
+      "question": "\"Algunas personas me llaman el vaquero espacial\" ¿es la primera línea de qué canción?",
       "answers": [
-        "Prince",
-        "Michael Jackson",
-        "Freddie Mercury",
-        "Bowie"
-      ],
-      "correct": 1,
-      "category": "musica",
-      "level": "facil"
-    },
-    {
-      "question": "¿Qué instrumento tiene cuerdas y se toca con dedos o púa? (9)",
-      "answers": [
-        "Guitarra",
-        "Batería",
-        "Trompeta",
-        "Fagot"
+        "el comodín",
+        "Toma el dinero y corre",
+        "fandango",
+        "Vuela como un águila"
       ],
       "correct": 0,
       "category": "musica",
       "level": "facil"
     },
     {
-      "question": "¿Qué grupo cantaba Bohemian Rhapsody? (9)",
+      "question": "¿Cuál de estas canciones de Skrillex presenta a Fatman Scoop como artista paralelo?",
       "answers": [
-        "ABBA",
-        "Queen",
-        "U2",
-        "Coldplay"
+        "recreo",
+        "Rock N Roll (te llevará a la montaña)",
+        "Monstruos aterradores y duendes agradables",
+        "Todo se vale en el amor y Brostep"
       ],
-      "correct": 1,
+      "correct": 0,
       "category": "musica",
       "level": "facil"
     },
     {
-      "question": "¿Qué instrumento toca un baterista? (9)",
+      "question": "¿Qué álbum lanzó Bon Iver en 2016?",
       "answers": [
-        "Chelo",
-        "Arpa",
-        "Batería",
-        "Clarinete"
+        "Bon Iver, Bon Iver",
+        "Banco de Sangre EP",
+        "22, un millón",
+        "Para Emma, hace siempre"
       ],
       "correct": 2,
       "category": "musica",
       "level": "facil"
     },
     {
-      "question": "¿Qué cantante fue líder de Queen? (9)",
+      "question": "¿Qué banda lanzó canciones como \"Rio\", \"Girls on Film\" y \"The Reflex\"?",
       "answers": [
-        "Freddie Mercury",
-        "Bono",
-        "Mick Jagger",
-        "Sting"
-      ],
-      "correct": 0,
-      "category": "musica",
-      "level": "facil"
-    },
-    {
-      "question": "¿Qué artista era conocido como el Rey del Pop? (10)",
-      "answers": [
-        "Prince",
-        "Michael Jackson",
-        "Freddie Mercury",
-        "Bowie"
+        "Modo Depeche",
+        "Durán Durán",
+        "Nuevo orden",
+        "La cura"
       ],
       "correct": 1,
       "category": "musica",
       "level": "facil"
     },
     {
-      "question": "¿Qué instrumento tiene cuerdas y se toca con dedos o púa? (10)",
+      "question": "Las cuatro cuerdas de un violín son la cuerda G, la cuerda D, la cuerda A y...",
       "answers": [
-        "Guitarra",
-        "Batería",
-        "Trompeta",
-        "Fagot"
-      ],
-      "correct": 0,
-      "category": "musica",
-      "level": "facil"
-    },
-    {
-      "question": "¿Qué grupo cantaba Bohemian Rhapsody? (10)",
-      "answers": [
-        "ABBA",
-        "Queen",
-        "U2",
-        "Coldplay"
+        "cuerda si",
+        "cuerda mi",
+        "cuerda do",
+        "cuerda fa"
       ],
       "correct": 1,
       "category": "musica",
       "level": "facil"
     },
     {
-      "question": "¿Qué instrumento toca un baterista? (10)",
+      "question": "¿La canción de Rush \"YYZ\" deriva su nombre del código de identificación del aeropuerto IATA para qué ciudad?",
       "answers": [
-        "Chelo",
-        "Arpa",
-        "Batería",
-        "Clarinete"
+        "Calgary",
+        "toronto",
+        "vancouver",
+        "Ottawa"
+      ],
+      "correct": 1,
+      "category": "musica",
+      "level": "facil"
+    },
+    {
+      "question": "¿Cuántas cuerdas hay en un violonchelo?",
+      "answers": [
+        "5",
+        "8",
+        "6",
+        "4"
+      ],
+      "correct": 3,
+      "category": "musica",
+      "level": "facil"
+    },
+    {
+      "question": "¿De quién son los álbumes \"Back in Black\" y \"Ballbreaker\"?",
+      "answers": [
+        "doncella de hierro",
+        "metalica",
+        "CA/CC",
+        "Sábado negro"
       ],
       "correct": 2,
       "category": "musica",
       "level": "facil"
     },
     {
-      "question": "¿Qué cantante fue líder de Queen? (10)",
+      "question": "¿Qué personaje de Disney canta la canción \"Un sueño es un deseo que hace tu corazón\"?",
       "answers": [
-        "Freddie Mercury",
-        "Bono",
-        "Mick Jagger",
-        "Sting"
+        "Blancanieves",
+        "Cenicienta",
+        "Bella",
+        "Pocahontas"
+      ],
+      "correct": 1,
+      "category": "musica",
+      "level": "facil"
+    },
+    {
+      "question": "¿Cómo se llama el álbum lanzado en 2014 por la banda estadounidense Maroon 5?",
+      "answers": [
+        "III",
+        "V",
+        "IV",
+        "x"
+      ],
+      "correct": 1,
+      "category": "musica",
+      "level": "facil"
+    },
+    {
+      "question": "¿De qué país es originario el grupo Rammstein?",
+      "answers": [
+        "armenia",
+        "austria",
+        "Alemania",
+        "Bélgica"
+      ],
+      "correct": 2,
+      "category": "musica",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué álbum de Led Zeppelin contiene \"Stairway to Heaven\"?",
+      "answers": [
+        "Graffiti físico",
+        "Led Zeppelin IV",
+        "Led Zeppelin III",
+        "Casas del Santo"
+      ],
+      "correct": 1,
+      "category": "musica",
+      "level": "facil"
+    },
+    {
+      "question": "¿De qué álbum es la canción de Red Hot Chili Pepper \"Give It Away\"?",
+      "answers": [
+        "Magik sexual del azúcar en la sangre",
+        "Un minuto caliente",
+        "Por cierto",
+        "Estadio Arcadio"
       ],
       "correct": 0,
+      "category": "musica",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué instrumento de metal tiene el tono más bajo en una orquesta?",
+      "answers": [
+        "tuba",
+        "saxofón",
+        "trombón",
+        "trompeta"
+      ],
+      "correct": 0,
+      "category": "musica",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué miembro de Foo Fighters fue anteriormente el baterista de Nirvana?",
+      "answers": [
+        "Nat Mendel",
+        "David Grohl",
+        "Taylor Hawkins",
+        "Chris Shiflett"
+      ],
+      "correct": 1,
+      "category": "musica",
+      "level": "facil"
+    },
+    {
+      "question": "¿Cuál de las siguientes canciones interpretó Elton John tras el fallecimiento de la princesa Diane?",
+      "answers": [
+        "Chica de la isla",
+        "tu cancion",
+        "Velas en el viento",
+        "Supongo que por eso lo llaman blues"
+      ],
+      "correct": 2,
+      "category": "musica",
+      "level": "facil"
+    },
+    {
+      "question": "Sting, el vocalista principal de The Police, ¿qué instrumento toca principalmente?",
+      "answers": [
+        "tambores",
+        "Bajo",
+        "guitarra",
+        "Teclados"
+      ],
+      "correct": 1,
+      "category": "musica",
+      "level": "facil"
+    },
+    {
+      "question": "La \"invasión británica\" fue un fenómeno cultural en la música donde las boy bands británicas se hicieron populares en los EE. UU. ¿En qué década?",
+      "answers": [
+        "40's",
+        "años 60",
+        "30's",
+        "años 50"
+      ],
+      "correct": 1,
+      "category": "musica",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué álbum lanzaron The Lumineers en 2016?",
+      "answers": [
+        "los lumineers",
+        "invierno",
+        "cleopatra",
+        "Pistas del ático"
+      ],
+      "correct": 2,
+      "category": "musica",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué álbum colaborativo lanzaron Kanye West y Jay-Z en 2011?",
+      "answers": [
+        "¡Qué momento para estar vivo!",
+        "Asuntos pendientes",
+        "Mira el trono",
+        "Parientes lejanos"
+      ],
+      "correct": 2,
+      "category": "musica",
+      "level": "facil"
+    },
+    {
+      "question": "¿Cuál de estas canciones NO hizo el grupo \"Men At Work\"?",
+      "answers": [
+        "Abajo",
+        "es un error",
+        "Danza de seguridad",
+        "¿Quién puede ser ahora?"
+      ],
+      "correct": 2,
+      "category": "musica",
+      "level": "facil"
+    },
+    {
+      "question": "¿Cómo se llama el exitoso sencillo del DJ finlandés Darude lanzado en octubre de 1999?",
+      "answers": [
+        "siroco",
+        "Jamsin",
+        "Diablo de polvo",
+        "tormenta de arena"
+      ],
+      "correct": 3,
+      "category": "musica",
+      "level": "facil"
+    },
+    {
+      "question": "En una orquesta, ¿cuál es el miembro más bajo de la familia de los metales?",
+      "answers": [
+        "trombón",
+        "tuba",
+        "fagot",
+        "contrabajo"
+      ],
+      "correct": 1,
+      "category": "musica",
+      "level": "facil"
+    },
+    {
+      "question": "¿Cuál fue el álbum más vendido del 2015?",
+      "answers": [
+        "Fetty Wap, Fetty Wap",
+        "Justin Bieber, Propósito",
+        "Taylor Swift, 1989",
+        "Adela, 25 años"
+      ],
+      "correct": 3,
+      "category": "musica",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué músico de reggae canadiense tuvo un éxito en 1993 con la canción 'Informer'?",
+      "answers": [
+        "granizo",
+        "Lluvia",
+        "nieve",
+        "aguanieve"
+      ],
+      "correct": 2,
       "category": "musica",
       "level": "facil"
     }
   ],
   "ninos": [
     {
-      "question": "¿Qué color mezclan rojo y amarillo normalmente?",
+      "question": "¿Quién interpretó a Han Solo en la serie de películas principal de Star Wars?",
       "answers": [
-        "Verde",
-        "Naranja",
-        "Morado",
-        "Azul"
+        "Alec Guinness",
+        "Harrison Ford",
+        "Marcos Hamill",
+        "Peter Cushing"
       ],
       "correct": 1,
       "category": "ninos",
       "level": "facil"
     },
     {
-      "question": "¿Qué animal suele vivir en una granja y da leche?",
+      "question": "¿Quién interpreta al personaje de Po en las películas de Kung Fu Panda?",
       "answers": [
-        "Vaca",
-        "León",
-        "Lobo",
-        "Tigre"
+        "McConahey Ramsés",
+        "Mirana Jonnes",
+        "Jack negro",
+        "Jim Petersson"
       ],
-      "correct": 0,
+      "correct": 2,
       "category": "ninos",
       "level": "facil"
     },
     {
-      "question": "¿Qué se apaga por la noche en muchos cuartos?",
+      "question": "¿En qué estado de Estados Unidos se desarrolla principalmente la película de 1996 'Fargo'?",
       "answers": [
-        "La cama",
-        "La luz",
-        "La ventana",
-        "La puerta"
-      ],
-      "correct": 1,
-      "category": "ninos",
-      "level": "facil"
-    },
-    {
-      "question": "¿Qué usamos para peinarnos?",
-      "answers": [
-        "Peine",
-        "Llave",
-        "Regla",
-        "Taza"
-      ],
-      "correct": 0,
-      "category": "ninos",
-      "level": "facil"
-    },
-    {
-      "question": "¿Qué objeto usamos para saber la hora?",
-      "answers": [
-        "Reloj",
-        "Plato",
-        "Mochila",
-        "Manta"
-      ],
-      "correct": 0,
-      "category": "ninos",
-      "level": "facil"
-    },
-    {
-      "question": "¿Qué color mezclan rojo y amarillo normalmente? (2)",
-      "answers": [
-        "Verde",
-        "Naranja",
-        "Morado",
-        "Azul"
+        "Dakota del Sur",
+        "minnesota",
+        "Wisconsin",
+        "Dakota del Norte"
       ],
       "correct": 1,
       "category": "ninos",
       "level": "facil"
     },
     {
-      "question": "¿Qué animal suele vivir en una granja y da leche? (2)",
+      "question": "¿Qué película ha sido considerada por la crítica como la mejor película de todos los tiempos?",
       "answers": [
-        "Vaca",
-        "León",
-        "Lobo",
-        "Tigre"
+        "Ciudadano Kane",
+        "avatar",
+        "El Padrino Parte II",
+        "La habitación"
       ],
       "correct": 0,
       "category": "ninos",
       "level": "facil"
     },
     {
-      "question": "¿Qué se apaga por la noche en muchos cuartos? (2)",
+      "question": "¿Cuándo se estrenó la película 'Con Air'?",
       "answers": [
-        "La cama",
-        "La luz",
-        "La ventana",
-        "La puerta"
+        "1990",
+        "1997",
+        "1999",
+        "1985"
       ],
       "correct": 1,
       "category": "ninos",
       "level": "facil"
     },
     {
-      "question": "¿Qué usamos para peinarnos? (2)",
+      "question": "En la película \"Spaceballs\", ¿qué intentan robar las Spaceballs del planeta Druidia?",
       "answers": [
-        "Peine",
-        "Llave",
-        "Regla",
-        "Taza"
+        "princesa estrella solitaria",
+        "El Schwartz",
+        "aire",
+        "albóndigas"
+      ],
+      "correct": 2,
+      "category": "ninos",
+      "level": "facil"
+    },
+    {
+      "question": "¿Cuál fue el primer monstruo que apareció junto a Godzilla?",
+      "answers": [
+        "Anguirus",
+        "Rey Ghidora",
+        "motra",
+        "rey kong"
       ],
       "correct": 0,
       "category": "ninos",
       "level": "facil"
     },
     {
-      "question": "¿Qué objeto usamos para saber la hora? (2)",
+      "question": "¿En qué país europeo se desarrolla principalmente la película de 2002 \"28 días después\"?",
       "answers": [
-        "Reloj",
-        "Plato",
-        "Mochila",
-        "Manta"
+        "Reino Unido",
+        "Francia",
+        "Italia",
+        "Alemania"
       ],
       "correct": 0,
       "category": "ninos",
       "level": "facil"
     },
     {
-      "question": "¿Qué color mezclan rojo y amarillo normalmente? (3)",
+      "question": "¿Qué actriz bailó el twist con John Travolta en 'Pulp Fiction'?",
       "answers": [
-        "Verde",
-        "Naranja",
-        "Morado",
-        "Azul"
+        "Pamela Grier",
+        "Brígida Fonda",
+        "Uma Thurman",
+        "Kathy Griffin"
+      ],
+      "correct": 2,
+      "category": "ninos",
+      "level": "facil"
+    },
+    {
+      "question": "En la película de Super Mario Bros. (2023), ¿quién interpreta a Toad?",
+      "answers": [
+        "Seth Rogan",
+        "día de charlie",
+        "Keegan-Michael Key",
+        "Jack negro"
+      ],
+      "correct": 2,
+      "category": "ninos",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué película incluye un espíritu gigante parecido a un conejito que tiene poderes mágicos, incluido el cultivo de árboles?",
+      "answers": [
+        "mi vecino totoro",
+        "Alicia en el país de las maravillas",
+        "El ascenso de los guardianes",
+        "salto"
+      ],
+      "correct": 0,
+      "category": "ninos",
+      "level": "facil"
+    },
+    {
+      "question": "¿En qué película Humphrey Bogart dice la famosa frase: \"Aquí te estoy mirando, chico\"?",
+      "answers": [
+        "El halcón maltés",
+        "Casablanca",
+        "El Tesoro de la Sierra Madre",
+        "Ciudadano Kane"
       ],
       "correct": 1,
       "category": "ninos",
       "level": "facil"
     },
     {
-      "question": "¿Qué animal suele vivir en una granja y da leche? (3)",
+      "question": "¿Cuál de los siguientes actores solo ha estado una vez en una película dirigida por Quentin Tarantino?",
       "answers": [
-        "Vaca",
-        "León",
-        "Lobo",
-        "Tigre"
+        "Juan Travolta",
+        "Harvey Keitel",
+        "Samuel Jackson",
+        "cristóbal vals"
       ],
       "correct": 0,
       "category": "ninos",
       "level": "facil"
     },
     {
-      "question": "¿Qué se apaga por la noche en muchos cuartos? (3)",
+      "question": "En Avengers: Infinity War, ¿dónde estaba ubicada la Piedra del Alma?",
       "answers": [
-        "La cama",
-        "La luz",
-        "La ventana",
-        "La puerta"
+        "xandar",
+        "No sé dónde",
+        "Vormir",
+        "Asgard"
+      ],
+      "correct": 2,
+      "category": "ninos",
+      "level": "facil"
+    },
+    {
+      "question": "¿A qué villano de Batman es conocido por haber expresado Mark Hamill?",
+      "answers": [
+        "silencio",
+        "el comodín",
+        "Perdición",
+        "dos caras"
       ],
       "correct": 1,
       "category": "ninos",
       "level": "facil"
     },
     {
-      "question": "¿Qué usamos para peinarnos? (3)",
+      "question": "En la película Gremlins, ¿a partir de qué hora del día no debes alimentar a Mogwai?",
       "answers": [
-        "Peine",
-        "Llave",
-        "Regla",
-        "Taza"
-      ],
-      "correct": 0,
-      "category": "ninos",
-      "level": "facil"
-    },
-    {
-      "question": "¿Qué objeto usamos para saber la hora? (3)",
-      "answers": [
-        "Reloj",
-        "Plato",
-        "Mochila",
-        "Manta"
-      ],
-      "correct": 0,
-      "category": "ninos",
-      "level": "facil"
-    },
-    {
-      "question": "¿Qué color mezclan rojo y amarillo normalmente? (4)",
-      "answers": [
-        "Verde",
-        "Naranja",
-        "Morado",
-        "Azul"
+        "tarde",
+        "medianoche",
+        "tarde",
+        "mañana"
       ],
       "correct": 1,
       "category": "ninos",
       "level": "facil"
     },
     {
-      "question": "¿Qué animal suele vivir en una granja y da leche? (4)",
+      "question": "¿Qué nombre le puso Tom Hanks a su compañero de voleibol en la película `Náufrago`?",
       "answers": [
-        "Vaca",
-        "León",
-        "Lobo",
-        "Tigre"
-      ],
-      "correct": 0,
-      "category": "ninos",
-      "level": "facil"
-    },
-    {
-      "question": "¿Qué se apaga por la noche en muchos cuartos? (4)",
-      "answers": [
-        "La cama",
-        "La luz",
-        "La ventana",
-        "La puerta"
+        "billy",
+        "wilson",
+        "jones",
+        "viernes"
       ],
       "correct": 1,
       "category": "ninos",
       "level": "facil"
     },
     {
-      "question": "¿Qué usamos para peinarnos? (4)",
+      "question": "¿Qué película animada fue la primera en presentar a una celebridad como actor de doblaje?",
       "answers": [
-        "Peine",
-        "Llave",
-        "Regla",
-        "Taza"
+        "aladino",
+        "historia del juguete",
+        "James y el melocotón gigante",
+        "El jorobado de Notre Dame"
       ],
       "correct": 0,
       "category": "ninos",
       "level": "facil"
     },
     {
-      "question": "¿Qué objeto usamos para saber la hora? (4)",
+      "question": "En \"Mean Girls\", ¿quién tiene pechos que avisan cuando está lloviendo?",
       "answers": [
-        "Reloj",
-        "Plato",
-        "Mochila",
-        "Manta"
+        "garza cady",
+        "Janice Ian",
+        "Karen Smith",
+        "Gretchen Weiners"
+      ],
+      "correct": 2,
+      "category": "ninos",
+      "level": "facil"
+    },
+    {
+      "question": "¿Cuál de los siguientes no es el nombre de una \"Chica Bond\"?",
+      "answers": [
+        "Vanessa Kensington",
+        "maria buenas noches",
+        "Pamela Bouvier",
+        "Wai Lin"
       ],
       "correct": 0,
       "category": "ninos",
       "level": "facil"
     },
     {
-      "question": "¿Qué color mezclan rojo y amarillo normalmente? (5)",
+      "question": "¿Cuál de estos actores NO ha interpretado a Spiderman en el cine?",
       "answers": [
-        "Verde",
-        "Naranja",
-        "Morado",
-        "Azul"
+        "andres garfield",
+        "miguel cera",
+        "Tom Holanda",
+        "Tobey Maguire"
       ],
       "correct": 1,
       "category": "ninos",
       "level": "facil"
     },
     {
-      "question": "¿Qué animal suele vivir en una granja y da leche? (5)",
+      "question": "¿Cuál de estas películas NO se estrenó en 1996?",
       "answers": [
-        "Vaca",
-        "León",
-        "Lobo",
-        "Tigre"
+        "gladiador",
+        "Día de la Independencia",
+        "la roca",
+        "Misión: Imposible"
       ],
       "correct": 0,
       "category": "ninos",
       "level": "facil"
     },
     {
-      "question": "¿Qué se apaga por la noche en muchos cuartos? (5)",
+      "question": "En \"Jurassic World\", ¿cómo se llama el dinosaurio que es un híbrido genético?",
       "answers": [
-        "La cama",
-        "La luz",
-        "La ventana",
-        "La puerta"
+        "Pteranodon",
+        "Indominus Rex",
+        "Tiranosaurio Rex",
+        "mosasaurio"
       ],
       "correct": 1,
       "category": "ninos",
       "level": "facil"
     },
     {
-      "question": "¿Qué usamos para peinarnos? (5)",
+      "question": "Max Schreck, un famoso actor de cine mudo alemán, interpreta a un famoso monstruo ¿en qué película de 1922?",
       "answers": [
-        "Peine",
-        "Llave",
-        "Regla",
-        "Taza"
-      ],
-      "correct": 0,
-      "category": "ninos",
-      "level": "facil"
-    },
-    {
-      "question": "¿Qué objeto usamos para saber la hora? (5)",
-      "answers": [
-        "Reloj",
-        "Plato",
-        "Mochila",
-        "Manta"
-      ],
-      "correct": 0,
-      "category": "ninos",
-      "level": "facil"
-    },
-    {
-      "question": "¿Qué color mezclan rojo y amarillo normalmente? (6)",
-      "answers": [
-        "Verde",
-        "Naranja",
-        "Morado",
-        "Azul"
+        "frankenstein",
+        "Nosferatu",
+        "El jinete sin cabeza",
+        "haxan"
       ],
       "correct": 1,
       "category": "ninos",
       "level": "facil"
     },
     {
-      "question": "¿Qué animal suele vivir en una granja y da leche? (6)",
+      "question": "¿Quién interpretó a la protagonista femenina en la película \"King Kong\" de 1933?",
       "answers": [
-        "Vaca",
-        "León",
-        "Lobo",
-        "Tigre"
+        "Fay Wray",
+        "Vivian Leigh",
+        "Mae West",
+        "Juan Harlow"
       ],
       "correct": 0,
       "category": "ninos",
       "level": "facil"
     },
     {
-      "question": "¿Qué se apaga por la noche en muchos cuartos? (6)",
+      "question": "¿Quién interpretó a Thanos en Vengadores: Infinity War y Vengadores: End Game?",
       "answers": [
-        "La cama",
-        "La luz",
-        "La ventana",
-        "La puerta"
+        "Adam Sandler",
+        "jose brolin",
+        "Tom Hiddleston",
+        "Sean Gunn"
       ],
       "correct": 1,
       "category": "ninos",
       "level": "facil"
     },
     {
-      "question": "¿Qué usamos para peinarnos? (6)",
+      "question": "En la película \"Balto\" de 1995, ¿quiénes son los cómplices de Steele?",
       "answers": [
-        "Peine",
-        "Llave",
-        "Regla",
-        "Taza"
+        "Nuk, Yak y Zumaque",
+        "Jenna, Sylvie y Dixie",
+        "Kaltag, Nikki y estrella",
+        "Dusty, Kirby y Ralph"
       ],
-      "correct": 0,
+      "correct": 2,
       "category": "ninos",
       "level": "facil"
     },
     {
-      "question": "¿Qué objeto usamos para saber la hora? (6)",
+      "question": "En la película de 2012, \"The Lorax\", ¿quién es el antagonista?",
       "answers": [
-        "Reloj",
-        "Plato",
-        "Mochila",
-        "Manta"
-      ],
-      "correct": 0,
-      "category": "ninos",
-      "level": "facil"
-    },
-    {
-      "question": "¿Qué color mezclan rojo y amarillo normalmente? (7)",
-      "answers": [
-        "Verde",
-        "Naranja",
-        "Morado",
-        "Azul"
+        "Ted Wiggins",
+        "Aloysius O'Hare",
+        "El Once-Ler",
+        "Norma Grammy"
       ],
       "correct": 1,
       "category": "ninos",
       "level": "facil"
     },
     {
-      "question": "¿Qué animal suele vivir en una granja y da leche? (7)",
+      "question": "¿Cuál de estos actores NO aparece en la película de 1998 \"Salvando al soldado Ryan\"?",
       "answers": [
-        "Vaca",
-        "León",
-        "Lobo",
-        "Tigre"
+        "Ralph Fiennes",
+        "Vin Diésel",
+        "Matt Damon",
+        "Tom Hanks"
       ],
       "correct": 0,
       "category": "ninos",
       "level": "facil"
     },
     {
-      "question": "¿Qué se apaga por la noche en muchos cuartos? (7)",
+      "question": "En la película de 1992 \"Army of Darkness\", ¿qué nombre le da Ash a su escopeta de dos cañones?",
       "answers": [
-        "La cama",
-        "La luz",
-        "La ventana",
-        "La puerta"
+        "rama explosiva",
+        "palo de auge",
+        "palo de floración",
+        "Chump de 2 bombas"
       ],
       "correct": 1,
       "category": "ninos",
       "level": "facil"
     },
     {
-      "question": "¿Qué usamos para peinarnos? (7)",
+      "question": "¿Qué película protagonizada por Bruce Willis contiene la frase \"Veo gente muerta\"?",
       "answers": [
-        "Peine",
-        "Llave",
-        "Regla",
-        "Taza"
-      ],
-      "correct": 0,
-      "category": "ninos",
-      "level": "facil"
-    },
-    {
-      "question": "¿Qué objeto usamos para saber la hora? (7)",
-      "answers": [
-        "Reloj",
-        "Plato",
-        "Mochila",
-        "Manta"
-      ],
-      "correct": 0,
-      "category": "ninos",
-      "level": "facil"
-    },
-    {
-      "question": "¿Qué color mezclan rojo y amarillo normalmente? (8)",
-      "answers": [
-        "Verde",
-        "Naranja",
-        "Morado",
-        "Azul"
+        "El quinto elemento",
+        "El sexto sentido",
+        "Armagedón",
+        "Morir duro"
       ],
       "correct": 1,
       "category": "ninos",
       "level": "facil"
     },
     {
-      "question": "¿Qué animal suele vivir en una granja y da leche? (8)",
+      "question": "¿Quién queda congelado al final de la película \"Goldeneye\"?",
       "answers": [
-        "Vaca",
-        "León",
-        "Lobo",
-        "Tigre"
+        "Natalia Simonova",
+        "James Bond",
+        "Alec Travelyan",
+        "Borís Grishenko"
       ],
-      "correct": 0,
+      "correct": 3,
       "category": "ninos",
       "level": "facil"
     },
     {
-      "question": "¿Qué se apaga por la noche en muchos cuartos? (8)",
+      "question": "¿Quién es el protagonista de la película de 2002 \"Kung Pow! Enter the Fist\"?",
       "answers": [
-        "La cama",
-        "La luz",
-        "La ventana",
-        "La puerta"
-      ],
-      "correct": 1,
-      "category": "ninos",
-      "level": "facil"
-    },
-    {
-      "question": "¿Qué usamos para peinarnos? (8)",
-      "answers": [
-        "Peine",
-        "Llave",
-        "Regla",
-        "Taza"
-      ],
-      "correct": 0,
-      "category": "ninos",
-      "level": "facil"
-    },
-    {
-      "question": "¿Qué objeto usamos para saber la hora? (8)",
-      "answers": [
-        "Reloj",
-        "Plato",
-        "Mochila",
-        "Manta"
-      ],
-      "correct": 0,
-      "category": "ninos",
-      "level": "facil"
-    },
-    {
-      "question": "¿Qué color mezclan rojo y amarillo normalmente? (9)",
-      "answers": [
-        "Verde",
-        "Naranja",
-        "Morado",
-        "Azul"
+        "Maestro Tang",
+        "Elegido",
+        "Rey Dragón",
+        "mono de hierro"
       ],
       "correct": 1,
       "category": "ninos",
       "level": "facil"
     },
     {
-      "question": "¿Qué animal suele vivir en una granja y da leche? (9)",
+      "question": "¿Quién dirigió \"E.T. el Extraterrestre\" (1982)?",
       "answers": [
-        "Vaca",
-        "León",
-        "Lobo",
-        "Tigre"
+        "Steven Spielberg",
+        "Stanley Kubrick",
+        "James Cameron",
+        "Tim Burton"
       ],
       "correct": 0,
       "category": "ninos",
       "level": "facil"
     },
     {
-      "question": "¿Qué se apaga por la noche en muchos cuartos? (9)",
+      "question": "¿Quién interpreta a Alice en las películas de Resident Evil?",
       "answers": [
-        "La cama",
-        "La luz",
-        "La ventana",
-        "La puerta"
+        "Kim Demp",
+        "Milla Jovovich",
+        "Milla Johnson",
+        "Madison Derpe"
       ],
       "correct": 1,
       "category": "ninos",
       "level": "facil"
     },
     {
-      "question": "¿Qué usamos para peinarnos? (9)",
+      "question": "¿Las tiendas 7-Eleven se convirtieron temporalmente en Kwik E-marts para promover el estreno de qué película?",
       "answers": [
-        "Peine",
-        "Llave",
-        "Regla",
-        "Taza"
+        "shrek tercero",
+        "El hombre araña 3",
+        "La película de los Simpson",
+        "pisto"
+      ],
+      "correct": 2,
+      "category": "ninos",
+      "level": "facil"
+    },
+    {
+      "question": "Esta película contiene la cita: \"Siento la necesidad... ¡la necesidad de velocidad!\".",
+      "answers": [
+        "Cóctel",
+        "El color del dinero",
+        "Pistola superior",
+        "Días de trueno"
+      ],
+      "correct": 2,
+      "category": "ninos",
+      "level": "facil"
+    },
+    {
+      "question": "En Big Hero 6, ¿de qué ciudad ficticia es Big Hero 6?",
+      "answers": [
+        "San Francisco",
+        "Tokysisco",
+        "San Tokio",
+        "Sankyo"
       ],
       "correct": 0,
       "category": "ninos",
       "level": "facil"
     },
     {
-      "question": "¿Qué objeto usamos para saber la hora? (9)",
+      "question": "¿Cuál fue el título de la primera película de Bond, estrenada en 1962?",
       "answers": [
-        "Reloj",
-        "Plato",
-        "Mochila",
-        "Manta"
+        "dedo de oro",
+        "bola de trueno",
+        "doctor no",
+        "Desde Rusia con amor"
+      ],
+      "correct": 2,
+      "category": "ninos",
+      "level": "facil"
+    },
+    {
+      "question": "Esta película contiene la cita: \"Nadie arrincona a Baby\".",
+      "answers": [
+        "Tres hombres y un bebé",
+        "Día libre de Ferris Bueller",
+        "baile sucio",
+        "Bonita en rosa"
+      ],
+      "correct": 2,
+      "category": "ninos",
+      "level": "facil"
+    },
+    {
+      "question": "¿Quién dirigió las películas de Kill Bill?",
+      "answers": [
+        "Quentin Tarantino",
+        "Stanley Kubrick",
+        "David Lean",
+        "Arnold Schwarzenegger"
       ],
       "correct": 0,
       "category": "ninos",
       "level": "facil"
     },
     {
-      "question": "¿Qué color mezclan rojo y amarillo normalmente? (10)",
+      "question": "¿Qué película estrenada en 2016 presenta a Superman y Batman peleando?",
       "answers": [
-        "Verde",
-        "Naranja",
-        "Morado",
-        "Azul"
+        "Batman v Superman: Superapocalipsis",
+        "Batman v Superman: El amanecer de la justicia",
+        "Batman v Superman: El negro del caballero",
+        "Batman v Superman: Caída del Caballero"
       ],
       "correct": 1,
       "category": "ninos",
       "level": "facil"
     },
     {
-      "question": "¿Qué animal suele vivir en una granja y da leche? (10)",
+      "question": "¿Quién dirigió la película de 2017 \"La forma del agua\"?",
       "answers": [
-        "Vaca",
-        "León",
-        "Lobo",
-        "Tigre"
+        "guillermo del toro",
+        "James Cameron",
+        "Martín Scorsese",
+        "Steven Spielberg"
       ],
       "correct": 0,
       "category": "ninos",
       "level": "facil"
     },
     {
-      "question": "¿Qué se apaga por la noche en muchos cuartos? (10)",
+      "question": "En la película \"V de Vendetta\", ¿cuál es la fecha que el justiciero enmascarado \"V\" insta a la gente a recordar?",
       "answers": [
-        "La cama",
-        "La luz",
-        "La ventana",
-        "La puerta"
+        "6 de noviembre",
+        "4 de noviembre",
+        "5 de noviembre",
+        "5 de septiembre"
+      ],
+      "correct": 2,
+      "category": "ninos",
+      "level": "facil"
+    },
+    {
+      "question": "En la película \"Blade Runner\", ¿cuál es el término utilizado para los androides con apariencia humana?",
+      "answers": [
+        "Replicantes",
+        "trabajos de piel",
+        "Sintéticos",
+        "cylones"
+      ],
+      "correct": 0,
+      "category": "ninos",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué raza de perro era Marley en la película \"Marley & Me\" (2008)?",
+      "answers": [
+        "shiba-inu",
+        "perro perdiguero de oro",
+        "Perro perdiguero de Labrador",
+        "dálmata"
+      ],
+      "correct": 2,
+      "category": "ninos",
+      "level": "facil"
+    },
+    {
+      "question": "Esta película contiene la cita: \"Houston, tenemos un problema\".",
+      "answers": [
+        "abandonado",
+        "Lo correcto",
+        "Capricornio uno",
+        "Apolo 13"
+      ],
+      "correct": 3,
+      "category": "ninos",
+      "level": "facil"
+    },
+    {
+      "question": "¿Cuál fue la primera película de James Bond?",
+      "answers": [
+        "dedo de oro",
+        "doctor no",
+        "bola de trueno",
+        "Desde Rusia con amor"
       ],
       "correct": 1,
       "category": "ninos",
       "level": "facil"
     },
     {
-      "question": "¿Qué usamos para peinarnos? (10)",
+      "question": "En la película de 1986 \"The Wraith\", ¿qué concept car se utiliza para el Turbo Interceptor?",
       "answers": [
-        "Peine",
-        "Llave",
-        "Regla",
-        "Taza"
+        "Pájaro de fuego de General Motors",
+        "Pontiac Banshee",
+        "esquivar cabeza de cobre",
+        "Esquivar M4S"
       ],
-      "correct": 0,
+      "correct": 3,
       "category": "ninos",
       "level": "facil"
     },
     {
-      "question": "¿Qué objeto usamos para saber la hora? (10)",
+      "question": "¿En qué cultura se basa la película animada de Disney de 2016 'Moana'?",
       "answers": [
-        "Reloj",
-        "Plato",
-        "Mochila",
-        "Manta"
+        "polinesio",
+        "japonés",
+        "nativo americano",
+        "nórdico"
       ],
       "correct": 0,
       "category": "ninos",
