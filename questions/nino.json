@@ -121,7 +121,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué usamos para dormir? (3) [en clase 11]",
+      "question": "¿Qué usamos para dormir? (3)",
       "answers": [
         "Cama",
         "Mesa",
@@ -133,7 +133,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué te pones en los pies? (3) [durante un viaje 12]",
+      "question": "¿Qué te pones en los pies? (3)",
       "answers": [
         "Zapatos",
         "Gorros",
@@ -145,7 +145,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Cuántos dedos hay en una mano? (3) [en una conversación 13]",
+      "question": "¿Cuántos dedos hay en una mano? (3)",
       "answers": [
         "3",
         "4",
@@ -157,7 +157,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué bebida sale del grifo? (3) [en un concurso 14]",
+      "question": "¿Qué bebida sale del grifo? (3)",
       "answers": [
         "Agua",
         "Zumo",
@@ -169,7 +169,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué día viene después del lunes? (3) [en cultura general 15]",
+      "question": "¿Qué día viene después del lunes? (3)",
       "answers": [
         "Martes",
         "Viernes",
@@ -181,7 +181,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué usamos para dormir? (4) [para niños curiosos 16]",
+      "question": "¿Qué usamos para dormir? (4)",
       "answers": [
         "Cama",
         "Mesa",
@@ -193,7 +193,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué te pones en los pies? (4) [en un juego 17]",
+      "question": "¿Qué te pones en los pies? (4)",
       "answers": [
         "Zapatos",
         "Gorros",
@@ -205,7 +205,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Cuántos dedos hay en una mano? (4) [en una ronda rápida 18]",
+      "question": "¿Cuántos dedos hay en una mano? (4)",
       "answers": [
         "3",
         "4",
@@ -217,7 +217,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué bebida sale del grifo? (4) [en una pista 19]",
+      "question": "¿Qué bebida sale del grifo? (4)",
       "answers": [
         "Agua",
         "Zumo",
@@ -229,7 +229,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué día viene después del lunes? (4) [como dato curioso 20]",
+      "question": "¿Qué día viene después del lunes? (4)",
       "answers": [
         "Martes",
         "Viernes",
@@ -241,7 +241,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué usamos para dormir? (5) [en clase 21]",
+      "question": "¿Qué usamos para dormir? (5)",
       "answers": [
         "Cama",
         "Mesa",
@@ -253,7 +253,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué te pones en los pies? (5) [durante un viaje 22]",
+      "question": "¿Qué te pones en los pies? (5)",
       "answers": [
         "Zapatos",
         "Gorros",
@@ -265,7 +265,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Cuántos dedos hay en una mano? (5) [en una conversación 23]",
+      "question": "¿Cuántos dedos hay en una mano? (5)",
       "answers": [
         "3",
         "4",
@@ -277,7 +277,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué bebida sale del grifo? (5) [en un concurso 24]",
+      "question": "¿Qué bebida sale del grifo? (5)",
       "answers": [
         "Agua",
         "Zumo",
@@ -289,7 +289,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué día viene después del lunes? (5) [en cultura general 25]",
+      "question": "¿Qué día viene después del lunes? (5)",
       "answers": [
         "Martes",
         "Viernes",
@@ -301,7 +301,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué usamos para dormir? (6) [para niños curiosos 26]",
+      "question": "¿Qué usamos para dormir? (6)",
       "answers": [
         "Cama",
         "Mesa",
@@ -313,7 +313,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué te pones en los pies? (6) [en un juego 27]",
+      "question": "¿Qué te pones en los pies? (6)",
       "answers": [
         "Zapatos",
         "Gorros",
@@ -325,7 +325,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Cuántos dedos hay en una mano? (6) [en una ronda rápida 28]",
+      "question": "¿Cuántos dedos hay en una mano? (6)",
       "answers": [
         "3",
         "4",
@@ -337,7 +337,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué bebida sale del grifo? (6) [en una pista 29]",
+      "question": "¿Qué bebida sale del grifo? (6)",
       "answers": [
         "Agua",
         "Zumo",
@@ -349,7 +349,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué día viene después del lunes? (6) [como dato curioso 30]",
+      "question": "¿Qué día viene después del lunes? (6)",
       "answers": [
         "Martes",
         "Viernes",
@@ -361,7 +361,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué usamos para dormir? (7) [en clase 31]",
+      "question": "¿Qué usamos para dormir? (7)",
       "answers": [
         "Cama",
         "Mesa",
@@ -373,7 +373,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué te pones en los pies? (7) [durante un viaje 32]",
+      "question": "¿Qué te pones en los pies? (7)",
       "answers": [
         "Zapatos",
         "Gorros",
@@ -385,7 +385,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Cuántos dedos hay en una mano? (7) [en una conversación 33]",
+      "question": "¿Cuántos dedos hay en una mano? (7)",
       "answers": [
         "3",
         "4",
@@ -397,7 +397,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué bebida sale del grifo? (7) [en un concurso 34]",
+      "question": "¿Qué bebida sale del grifo? (7)",
       "answers": [
         "Agua",
         "Zumo",
@@ -409,7 +409,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué día viene después del lunes? (7) [en cultura general 35]",
+      "question": "¿Qué día viene después del lunes? (7)",
       "answers": [
         "Martes",
         "Viernes",
@@ -421,7 +421,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué usamos para dormir? (8) [para niños curiosos 36]",
+      "question": "¿Qué usamos para dormir? (8)",
       "answers": [
         "Cama",
         "Mesa",
@@ -433,7 +433,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué te pones en los pies? (8) [en un juego 37]",
+      "question": "¿Qué te pones en los pies? (8)",
       "answers": [
         "Zapatos",
         "Gorros",
@@ -445,7 +445,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Cuántos dedos hay en una mano? (8) [en una ronda rápida 38]",
+      "question": "¿Cuántos dedos hay en una mano? (8)",
       "answers": [
         "3",
         "4",
@@ -457,7 +457,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué bebida sale del grifo? (8) [en una pista 39]",
+      "question": "¿Qué bebida sale del grifo? (8)",
       "answers": [
         "Agua",
         "Zumo",
@@ -469,7 +469,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué día viene después del lunes? (8) [como dato curioso 40]",
+      "question": "¿Qué día viene después del lunes? (8)",
       "answers": [
         "Martes",
         "Viernes",
@@ -481,7 +481,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué usamos para dormir? (9) [en clase 41]",
+      "question": "¿Qué usamos para dormir? (9)",
       "answers": [
         "Cama",
         "Mesa",
@@ -493,7 +493,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué te pones en los pies? (9) [durante un viaje 42]",
+      "question": "¿Qué te pones en los pies? (9)",
       "answers": [
         "Zapatos",
         "Gorros",
@@ -505,7 +505,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Cuántos dedos hay en una mano? (9) [en una conversación 43]",
+      "question": "¿Cuántos dedos hay en una mano? (9)",
       "answers": [
         "3",
         "4",
@@ -517,7 +517,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué bebida sale del grifo? (9) [en un concurso 44]",
+      "question": "¿Qué bebida sale del grifo? (9)",
       "answers": [
         "Agua",
         "Zumo",
@@ -529,7 +529,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué día viene después del lunes? (9) [en cultura general 45]",
+      "question": "¿Qué día viene después del lunes? (9)",
       "answers": [
         "Martes",
         "Viernes",
@@ -541,7 +541,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué usamos para dormir? (10) [para niños curiosos 46]",
+      "question": "¿Qué usamos para dormir? (10)",
       "answers": [
         "Cama",
         "Mesa",
@@ -553,7 +553,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué te pones en los pies? (10) [en un juego 47]",
+      "question": "¿Qué te pones en los pies? (10)",
       "answers": [
         "Zapatos",
         "Gorros",
@@ -565,7 +565,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Cuántos dedos hay en una mano? (10) [en una ronda rápida 48]",
+      "question": "¿Cuántos dedos hay en una mano? (10)",
       "answers": [
         "3",
         "4",
@@ -577,7 +577,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué bebida sale del grifo? (10) [en una pista 49]",
+      "question": "¿Qué bebida sale del grifo? (10)",
       "answers": [
         "Agua",
         "Zumo",
@@ -589,7 +589,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué día viene después del lunes? (10) [como dato curioso 50]",
+      "question": "¿Qué día viene después del lunes? (10)",
       "answers": [
         "Martes",
         "Viernes",
@@ -723,7 +723,7 @@
       "level": "nino"
     },
     {
-      "question": "¿En qué planeta vivimos? (3) [en clase 11]",
+      "question": "¿En qué planeta vivimos? (3)",
       "answers": [
         "Marte",
         "Tierra",
@@ -735,7 +735,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué vemos por la noche en el cielo? (3) [durante un viaje 12]",
+      "question": "¿Qué vemos por la noche en el cielo? (3)",
       "answers": [
         "Sol",
         "Estrellas",
@@ -747,7 +747,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Dónde viven los peces? (3) [en una conversación 13]",
+      "question": "¿Dónde viven los peces? (3)",
       "answers": [
         "En el cielo",
         "En el agua",
@@ -759,7 +759,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué cae cuando llueve? (3) [en un concurso 14]",
+      "question": "¿Qué cae cuando llueve? (3)",
       "answers": [
         "Arena",
         "Agua",
@@ -771,7 +771,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué sale por la mañana? (3) [en cultura general 15]",
+      "question": "¿Qué sale por la mañana? (3)",
       "answers": [
         "La Luna",
         "El Sol",
@@ -783,7 +783,7 @@
       "level": "nino"
     },
     {
-      "question": "¿En qué planeta vivimos? (4) [para niños curiosos 16]",
+      "question": "¿En qué planeta vivimos? (4)",
       "answers": [
         "Marte",
         "Tierra",
@@ -795,7 +795,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué vemos por la noche en el cielo? (4) [en un juego 17]",
+      "question": "¿Qué vemos por la noche en el cielo? (4)",
       "answers": [
         "Sol",
         "Estrellas",
@@ -807,7 +807,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Dónde viven los peces? (4) [en una ronda rápida 18]",
+      "question": "¿Dónde viven los peces? (4)",
       "answers": [
         "En el cielo",
         "En el agua",
@@ -819,7 +819,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué cae cuando llueve? (4) [en una pista 19]",
+      "question": "¿Qué cae cuando llueve? (4)",
       "answers": [
         "Arena",
         "Agua",
@@ -831,7 +831,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué sale por la mañana? (4) [como dato curioso 20]",
+      "question": "¿Qué sale por la mañana? (4)",
       "answers": [
         "La Luna",
         "El Sol",
@@ -843,7 +843,7 @@
       "level": "nino"
     },
     {
-      "question": "¿En qué planeta vivimos? (5) [en clase 21]",
+      "question": "¿En qué planeta vivimos? (5)",
       "answers": [
         "Marte",
         "Tierra",
@@ -855,7 +855,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué vemos por la noche en el cielo? (5) [durante un viaje 22]",
+      "question": "¿Qué vemos por la noche en el cielo? (5)",
       "answers": [
         "Sol",
         "Estrellas",
@@ -867,7 +867,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Dónde viven los peces? (5) [en una conversación 23]",
+      "question": "¿Dónde viven los peces? (5)",
       "answers": [
         "En el cielo",
         "En el agua",
@@ -879,7 +879,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué cae cuando llueve? (5) [en un concurso 24]",
+      "question": "¿Qué cae cuando llueve? (5)",
       "answers": [
         "Arena",
         "Agua",
@@ -891,7 +891,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué sale por la mañana? (5) [en cultura general 25]",
+      "question": "¿Qué sale por la mañana? (5)",
       "answers": [
         "La Luna",
         "El Sol",
@@ -903,7 +903,7 @@
       "level": "nino"
     },
     {
-      "question": "¿En qué planeta vivimos? (6) [para niños curiosos 26]",
+      "question": "¿En qué planeta vivimos? (6)",
       "answers": [
         "Marte",
         "Tierra",
@@ -915,7 +915,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué vemos por la noche en el cielo? (6) [en un juego 27]",
+      "question": "¿Qué vemos por la noche en el cielo? (6)",
       "answers": [
         "Sol",
         "Estrellas",
@@ -927,7 +927,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Dónde viven los peces? (6) [en una ronda rápida 28]",
+      "question": "¿Dónde viven los peces? (6)",
       "answers": [
         "En el cielo",
         "En el agua",
@@ -939,7 +939,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué cae cuando llueve? (6) [en una pista 29]",
+      "question": "¿Qué cae cuando llueve? (6)",
       "answers": [
         "Arena",
         "Agua",
@@ -951,7 +951,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué sale por la mañana? (6) [como dato curioso 30]",
+      "question": "¿Qué sale por la mañana? (6)",
       "answers": [
         "La Luna",
         "El Sol",
@@ -963,7 +963,7 @@
       "level": "nino"
     },
     {
-      "question": "¿En qué planeta vivimos? (7) [en clase 31]",
+      "question": "¿En qué planeta vivimos? (7)",
       "answers": [
         "Marte",
         "Tierra",
@@ -975,7 +975,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué vemos por la noche en el cielo? (7) [durante un viaje 32]",
+      "question": "¿Qué vemos por la noche en el cielo? (7)",
       "answers": [
         "Sol",
         "Estrellas",
@@ -987,7 +987,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Dónde viven los peces? (7) [en una conversación 33]",
+      "question": "¿Dónde viven los peces? (7)",
       "answers": [
         "En el cielo",
         "En el agua",
@@ -999,7 +999,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué cae cuando llueve? (7) [en un concurso 34]",
+      "question": "¿Qué cae cuando llueve? (7)",
       "answers": [
         "Arena",
         "Agua",
@@ -1011,7 +1011,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué sale por la mañana? (7) [en cultura general 35]",
+      "question": "¿Qué sale por la mañana? (7)",
       "answers": [
         "La Luna",
         "El Sol",
@@ -1023,7 +1023,7 @@
       "level": "nino"
     },
     {
-      "question": "¿En qué planeta vivimos? (8) [para niños curiosos 36]",
+      "question": "¿En qué planeta vivimos? (8)",
       "answers": [
         "Marte",
         "Tierra",
@@ -1035,7 +1035,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué vemos por la noche en el cielo? (8) [en un juego 37]",
+      "question": "¿Qué vemos por la noche en el cielo? (8)",
       "answers": [
         "Sol",
         "Estrellas",
@@ -1047,7 +1047,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Dónde viven los peces? (8) [en una ronda rápida 38]",
+      "question": "¿Dónde viven los peces? (8)",
       "answers": [
         "En el cielo",
         "En el agua",
@@ -1059,7 +1059,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué cae cuando llueve? (8) [en una pista 39]",
+      "question": "¿Qué cae cuando llueve? (8)",
       "answers": [
         "Arena",
         "Agua",
@@ -1071,7 +1071,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué sale por la mañana? (8) [como dato curioso 40]",
+      "question": "¿Qué sale por la mañana? (8)",
       "answers": [
         "La Luna",
         "El Sol",
@@ -1083,7 +1083,7 @@
       "level": "nino"
     },
     {
-      "question": "¿En qué planeta vivimos? (9) [en clase 41]",
+      "question": "¿En qué planeta vivimos? (9)",
       "answers": [
         "Marte",
         "Tierra",
@@ -1095,7 +1095,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué vemos por la noche en el cielo? (9) [durante un viaje 42]",
+      "question": "¿Qué vemos por la noche en el cielo? (9)",
       "answers": [
         "Sol",
         "Estrellas",
@@ -1107,7 +1107,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Dónde viven los peces? (9) [en una conversación 43]",
+      "question": "¿Dónde viven los peces? (9)",
       "answers": [
         "En el cielo",
         "En el agua",
@@ -1119,7 +1119,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué cae cuando llueve? (9) [en un concurso 44]",
+      "question": "¿Qué cae cuando llueve? (9)",
       "answers": [
         "Arena",
         "Agua",
@@ -1131,7 +1131,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué sale por la mañana? (9) [en cultura general 45]",
+      "question": "¿Qué sale por la mañana? (9)",
       "answers": [
         "La Luna",
         "El Sol",
@@ -1143,7 +1143,7 @@
       "level": "nino"
     },
     {
-      "question": "¿En qué planeta vivimos? (10) [para niños curiosos 46]",
+      "question": "¿En qué planeta vivimos? (10)",
       "answers": [
         "Marte",
         "Tierra",
@@ -1155,7 +1155,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué vemos por la noche en el cielo? (10) [en un juego 47]",
+      "question": "¿Qué vemos por la noche en el cielo? (10)",
       "answers": [
         "Sol",
         "Estrellas",
@@ -1167,7 +1167,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Dónde viven los peces? (10) [en una ronda rápida 48]",
+      "question": "¿Dónde viven los peces? (10)",
       "answers": [
         "En el cielo",
         "En el agua",
@@ -1179,7 +1179,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué cae cuando llueve? (10) [en una pista 49]",
+      "question": "¿Qué cae cuando llueve? (10)",
       "answers": [
         "Arena",
         "Agua",
@@ -1191,7 +1191,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué sale por la mañana? (10) [como dato curioso 50]",
+      "question": "¿Qué sale por la mañana? (10)",
       "answers": [
         "La Luna",
         "El Sol",
@@ -1325,7 +1325,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué necesitas para respirar? (3) [en clase 11]",
+      "question": "¿Qué necesitas para respirar? (3)",
       "answers": [
         "Arena",
         "Agua",
@@ -1337,7 +1337,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué da luz y calor durante el día? (3) [durante un viaje 12]",
+      "question": "¿Qué da luz y calor durante el día? (3)",
       "answers": [
         "La Luna",
         "El Sol",
@@ -1349,7 +1349,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué parte del cuerpo usamos para ver? (3) [en una conversación 13]",
+      "question": "¿Qué parte del cuerpo usamos para ver? (3)",
       "answers": [
         "Ojos",
         "Rodillas",
@@ -1361,7 +1361,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué animal puede volar entre estos? (3) [en un concurso 14]",
+      "question": "¿Qué animal puede volar entre estos? (3)",
       "answers": [
         "Perro",
         "Pájaro",
@@ -1373,7 +1373,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué pasa con el agua en el congelador? (3) [en cultura general 15]",
+      "question": "¿Qué pasa con el agua en el congelador? (3)",
       "answers": [
         "Se calienta",
         "Se convierte en hielo",
@@ -1385,7 +1385,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué necesitas para respirar? (4) [para niños curiosos 16]",
+      "question": "¿Qué necesitas para respirar? (4)",
       "answers": [
         "Arena",
         "Agua",
@@ -1397,7 +1397,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué da luz y calor durante el día? (4) [en un juego 17]",
+      "question": "¿Qué da luz y calor durante el día? (4)",
       "answers": [
         "La Luna",
         "El Sol",
@@ -1409,7 +1409,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué parte del cuerpo usamos para ver? (4) [en una ronda rápida 18]",
+      "question": "¿Qué parte del cuerpo usamos para ver? (4)",
       "answers": [
         "Ojos",
         "Rodillas",
@@ -1421,7 +1421,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué animal puede volar entre estos? (4) [en una pista 19]",
+      "question": "¿Qué animal puede volar entre estos? (4)",
       "answers": [
         "Perro",
         "Pájaro",
@@ -1433,7 +1433,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué pasa con el agua en el congelador? (4) [como dato curioso 20]",
+      "question": "¿Qué pasa con el agua en el congelador? (4)",
       "answers": [
         "Se calienta",
         "Se convierte en hielo",
@@ -1445,7 +1445,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué necesitas para respirar? (5) [en clase 21]",
+      "question": "¿Qué necesitas para respirar? (5)",
       "answers": [
         "Arena",
         "Agua",
@@ -1457,7 +1457,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué da luz y calor durante el día? (5) [durante un viaje 22]",
+      "question": "¿Qué da luz y calor durante el día? (5)",
       "answers": [
         "La Luna",
         "El Sol",
@@ -1469,7 +1469,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué parte del cuerpo usamos para ver? (5) [en una conversación 23]",
+      "question": "¿Qué parte del cuerpo usamos para ver? (5)",
       "answers": [
         "Ojos",
         "Rodillas",
@@ -1481,7 +1481,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué animal puede volar entre estos? (5) [en un concurso 24]",
+      "question": "¿Qué animal puede volar entre estos? (5)",
       "answers": [
         "Perro",
         "Pájaro",
@@ -1493,7 +1493,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué pasa con el agua en el congelador? (5) [en cultura general 25]",
+      "question": "¿Qué pasa con el agua en el congelador? (5)",
       "answers": [
         "Se calienta",
         "Se convierte en hielo",
@@ -1505,7 +1505,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué necesitas para respirar? (6) [para niños curiosos 26]",
+      "question": "¿Qué necesitas para respirar? (6)",
       "answers": [
         "Arena",
         "Agua",
@@ -1517,7 +1517,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué da luz y calor durante el día? (6) [en un juego 27]",
+      "question": "¿Qué da luz y calor durante el día? (6)",
       "answers": [
         "La Luna",
         "El Sol",
@@ -1529,7 +1529,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué parte del cuerpo usamos para ver? (6) [en una ronda rápida 28]",
+      "question": "¿Qué parte del cuerpo usamos para ver? (6)",
       "answers": [
         "Ojos",
         "Rodillas",
@@ -1541,7 +1541,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué animal puede volar entre estos? (6) [en una pista 29]",
+      "question": "¿Qué animal puede volar entre estos? (6)",
       "answers": [
         "Perro",
         "Pájaro",
@@ -1553,7 +1553,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué pasa con el agua en el congelador? (6) [como dato curioso 30]",
+      "question": "¿Qué pasa con el agua en el congelador? (6)",
       "answers": [
         "Se calienta",
         "Se convierte en hielo",
@@ -1565,7 +1565,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué necesitas para respirar? (7) [en clase 31]",
+      "question": "¿Qué necesitas para respirar? (7)",
       "answers": [
         "Arena",
         "Agua",
@@ -1577,7 +1577,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué da luz y calor durante el día? (7) [durante un viaje 32]",
+      "question": "¿Qué da luz y calor durante el día? (7)",
       "answers": [
         "La Luna",
         "El Sol",
@@ -1589,7 +1589,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué parte del cuerpo usamos para ver? (7) [en una conversación 33]",
+      "question": "¿Qué parte del cuerpo usamos para ver? (7)",
       "answers": [
         "Ojos",
         "Rodillas",
@@ -1601,7 +1601,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué animal puede volar entre estos? (7) [en un concurso 34]",
+      "question": "¿Qué animal puede volar entre estos? (7)",
       "answers": [
         "Perro",
         "Pájaro",
@@ -1613,7 +1613,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué pasa con el agua en el congelador? (7) [en cultura general 35]",
+      "question": "¿Qué pasa con el agua en el congelador? (7)",
       "answers": [
         "Se calienta",
         "Se convierte en hielo",
@@ -1625,7 +1625,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué necesitas para respirar? (8) [para niños curiosos 36]",
+      "question": "¿Qué necesitas para respirar? (8)",
       "answers": [
         "Arena",
         "Agua",
@@ -1637,7 +1637,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué da luz y calor durante el día? (8) [en un juego 37]",
+      "question": "¿Qué da luz y calor durante el día? (8)",
       "answers": [
         "La Luna",
         "El Sol",
@@ -1649,7 +1649,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué parte del cuerpo usamos para ver? (8) [en una ronda rápida 38]",
+      "question": "¿Qué parte del cuerpo usamos para ver? (8)",
       "answers": [
         "Ojos",
         "Rodillas",
@@ -1661,7 +1661,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué animal puede volar entre estos? (8) [en una pista 39]",
+      "question": "¿Qué animal puede volar entre estos? (8)",
       "answers": [
         "Perro",
         "Pájaro",
@@ -1673,7 +1673,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué pasa con el agua en el congelador? (8) [como dato curioso 40]",
+      "question": "¿Qué pasa con el agua en el congelador? (8)",
       "answers": [
         "Se calienta",
         "Se convierte en hielo",
@@ -1685,7 +1685,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué necesitas para respirar? (9) [en clase 41]",
+      "question": "¿Qué necesitas para respirar? (9)",
       "answers": [
         "Arena",
         "Agua",
@@ -1697,7 +1697,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué da luz y calor durante el día? (9) [durante un viaje 42]",
+      "question": "¿Qué da luz y calor durante el día? (9)",
       "answers": [
         "La Luna",
         "El Sol",
@@ -1709,7 +1709,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué parte del cuerpo usamos para ver? (9) [en una conversación 43]",
+      "question": "¿Qué parte del cuerpo usamos para ver? (9)",
       "answers": [
         "Ojos",
         "Rodillas",
@@ -1721,7 +1721,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué animal puede volar entre estos? (9) [en un concurso 44]",
+      "question": "¿Qué animal puede volar entre estos? (9)",
       "answers": [
         "Perro",
         "Pájaro",
@@ -1733,7 +1733,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué pasa con el agua en el congelador? (9) [en cultura general 45]",
+      "question": "¿Qué pasa con el agua en el congelador? (9)",
       "answers": [
         "Se calienta",
         "Se convierte en hielo",
@@ -1745,7 +1745,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué necesitas para respirar? (10) [para niños curiosos 46]",
+      "question": "¿Qué necesitas para respirar? (10)",
       "answers": [
         "Arena",
         "Agua",
@@ -1757,7 +1757,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué da luz y calor durante el día? (10) [en un juego 47]",
+      "question": "¿Qué da luz y calor durante el día? (10)",
       "answers": [
         "La Luna",
         "El Sol",
@@ -1769,7 +1769,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué parte del cuerpo usamos para ver? (10) [en una ronda rápida 48]",
+      "question": "¿Qué parte del cuerpo usamos para ver? (10)",
       "answers": [
         "Ojos",
         "Rodillas",
@@ -1781,7 +1781,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué animal puede volar entre estos? (10) [en una pista 49]",
+      "question": "¿Qué animal puede volar entre estos? (10)",
       "answers": [
         "Perro",
         "Pájaro",
@@ -1793,7 +1793,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué pasa con el agua en el congelador? (10) [como dato curioso 50]",
+      "question": "¿Qué pasa con el agua en el congelador? (10)",
       "answers": [
         "Se calienta",
         "Se convierte en hielo",
@@ -1927,7 +1927,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué construyeron los egipcios? (3) [en clase 11]",
+      "question": "¿Qué construyeron los egipcios? (3)",
       "answers": [
         "Pirámides",
         "Semáforos",
@@ -1939,7 +1939,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Quiénes usaban coronas de rey hace mucho tiempo? (3) [durante un viaje 12]",
+      "question": "¿Quiénes usaban coronas de rey hace mucho tiempo? (3)",
       "answers": [
         "Reyes y reinas",
         "Solo cocineros",
@@ -1951,7 +1951,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Dónde vivían los romanos antiguos? (3) [en una conversación 13]",
+      "question": "¿Dónde vivían los romanos antiguos? (3)",
       "answers": [
         "Roma",
         "Tokio",
@@ -1963,7 +1963,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué usaban los caballeros para protegerse? (3) [en un concurso 14]",
+      "question": "¿Qué usaban los caballeros para protegerse? (3)",
       "answers": [
         "Armadura",
         "Pijama",
@@ -1975,7 +1975,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué viajero llegó a América en 1492? (3) [en cultura general 15]",
+      "question": "¿Qué viajero llegó a América en 1492? (3)",
       "answers": [
         "Colón",
         "Einstein",
@@ -1987,7 +1987,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué construyeron los egipcios? (4) [para niños curiosos 16]",
+      "question": "¿Qué construyeron los egipcios? (4)",
       "answers": [
         "Pirámides",
         "Semáforos",
@@ -1999,7 +1999,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Quiénes usaban coronas de rey hace mucho tiempo? (4) [en un juego 17]",
+      "question": "¿Quiénes usaban coronas de rey hace mucho tiempo? (4)",
       "answers": [
         "Reyes y reinas",
         "Solo cocineros",
@@ -2011,7 +2011,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Dónde vivían los romanos antiguos? (4) [en una ronda rápida 18]",
+      "question": "¿Dónde vivían los romanos antiguos? (4)",
       "answers": [
         "Roma",
         "Tokio",
@@ -2023,7 +2023,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué usaban los caballeros para protegerse? (4) [en una pista 19]",
+      "question": "¿Qué usaban los caballeros para protegerse? (4)",
       "answers": [
         "Armadura",
         "Pijama",
@@ -2035,7 +2035,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué viajero llegó a América en 1492? (4) [como dato curioso 20]",
+      "question": "¿Qué viajero llegó a América en 1492? (4)",
       "answers": [
         "Colón",
         "Einstein",
@@ -2047,7 +2047,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué construyeron los egipcios? (5) [en clase 21]",
+      "question": "¿Qué construyeron los egipcios? (5)",
       "answers": [
         "Pirámides",
         "Semáforos",
@@ -2059,7 +2059,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Quiénes usaban coronas de rey hace mucho tiempo? (5) [durante un viaje 22]",
+      "question": "¿Quiénes usaban coronas de rey hace mucho tiempo? (5)",
       "answers": [
         "Reyes y reinas",
         "Solo cocineros",
@@ -2071,7 +2071,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Dónde vivían los romanos antiguos? (5) [en una conversación 23]",
+      "question": "¿Dónde vivían los romanos antiguos? (5)",
       "answers": [
         "Roma",
         "Tokio",
@@ -2083,7 +2083,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué usaban los caballeros para protegerse? (5) [en un concurso 24]",
+      "question": "¿Qué usaban los caballeros para protegerse? (5)",
       "answers": [
         "Armadura",
         "Pijama",
@@ -2095,7 +2095,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué viajero llegó a América en 1492? (5) [en cultura general 25]",
+      "question": "¿Qué viajero llegó a América en 1492? (5)",
       "answers": [
         "Colón",
         "Einstein",
@@ -2107,7 +2107,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué construyeron los egipcios? (6) [para niños curiosos 26]",
+      "question": "¿Qué construyeron los egipcios? (6)",
       "answers": [
         "Pirámides",
         "Semáforos",
@@ -2119,7 +2119,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Quiénes usaban coronas de rey hace mucho tiempo? (6) [en un juego 27]",
+      "question": "¿Quiénes usaban coronas de rey hace mucho tiempo? (6)",
       "answers": [
         "Reyes y reinas",
         "Solo cocineros",
@@ -2131,7 +2131,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Dónde vivían los romanos antiguos? (6) [en una ronda rápida 28]",
+      "question": "¿Dónde vivían los romanos antiguos? (6)",
       "answers": [
         "Roma",
         "Tokio",
@@ -2143,7 +2143,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué usaban los caballeros para protegerse? (6) [en una pista 29]",
+      "question": "¿Qué usaban los caballeros para protegerse? (6)",
       "answers": [
         "Armadura",
         "Pijama",
@@ -2155,7 +2155,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué viajero llegó a América en 1492? (6) [como dato curioso 30]",
+      "question": "¿Qué viajero llegó a América en 1492? (6)",
       "answers": [
         "Colón",
         "Einstein",
@@ -2167,7 +2167,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué construyeron los egipcios? (7) [en clase 31]",
+      "question": "¿Qué construyeron los egipcios? (7)",
       "answers": [
         "Pirámides",
         "Semáforos",
@@ -2179,7 +2179,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Quiénes usaban coronas de rey hace mucho tiempo? (7) [durante un viaje 32]",
+      "question": "¿Quiénes usaban coronas de rey hace mucho tiempo? (7)",
       "answers": [
         "Reyes y reinas",
         "Solo cocineros",
@@ -2191,7 +2191,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Dónde vivían los romanos antiguos? (7) [en una conversación 33]",
+      "question": "¿Dónde vivían los romanos antiguos? (7)",
       "answers": [
         "Roma",
         "Tokio",
@@ -2203,7 +2203,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué usaban los caballeros para protegerse? (7) [en un concurso 34]",
+      "question": "¿Qué usaban los caballeros para protegerse? (7)",
       "answers": [
         "Armadura",
         "Pijama",
@@ -2215,7 +2215,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué viajero llegó a América en 1492? (7) [en cultura general 35]",
+      "question": "¿Qué viajero llegó a América en 1492? (7)",
       "answers": [
         "Colón",
         "Einstein",
@@ -2227,7 +2227,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué construyeron los egipcios? (8) [para niños curiosos 36]",
+      "question": "¿Qué construyeron los egipcios? (8)",
       "answers": [
         "Pirámides",
         "Semáforos",
@@ -2239,7 +2239,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Quiénes usaban coronas de rey hace mucho tiempo? (8) [en un juego 37]",
+      "question": "¿Quiénes usaban coronas de rey hace mucho tiempo? (8)",
       "answers": [
         "Reyes y reinas",
         "Solo cocineros",
@@ -2251,7 +2251,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Dónde vivían los romanos antiguos? (8) [en una ronda rápida 38]",
+      "question": "¿Dónde vivían los romanos antiguos? (8)",
       "answers": [
         "Roma",
         "Tokio",
@@ -2263,7 +2263,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué usaban los caballeros para protegerse? (8) [en una pista 39]",
+      "question": "¿Qué usaban los caballeros para protegerse? (8)",
       "answers": [
         "Armadura",
         "Pijama",
@@ -2275,7 +2275,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué viajero llegó a América en 1492? (8) [como dato curioso 40]",
+      "question": "¿Qué viajero llegó a América en 1492? (8)",
       "answers": [
         "Colón",
         "Einstein",
@@ -2287,7 +2287,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué construyeron los egipcios? (9) [en clase 41]",
+      "question": "¿Qué construyeron los egipcios? (9)",
       "answers": [
         "Pirámides",
         "Semáforos",
@@ -2299,7 +2299,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Quiénes usaban coronas de rey hace mucho tiempo? (9) [durante un viaje 42]",
+      "question": "¿Quiénes usaban coronas de rey hace mucho tiempo? (9)",
       "answers": [
         "Reyes y reinas",
         "Solo cocineros",
@@ -2311,7 +2311,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Dónde vivían los romanos antiguos? (9) [en una conversación 43]",
+      "question": "¿Dónde vivían los romanos antiguos? (9)",
       "answers": [
         "Roma",
         "Tokio",
@@ -2323,7 +2323,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué usaban los caballeros para protegerse? (9) [en un concurso 44]",
+      "question": "¿Qué usaban los caballeros para protegerse? (9)",
       "answers": [
         "Armadura",
         "Pijama",
@@ -2335,7 +2335,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué viajero llegó a América en 1492? (9) [en cultura general 45]",
+      "question": "¿Qué viajero llegó a América en 1492? (9)",
       "answers": [
         "Colón",
         "Einstein",
@@ -2347,7 +2347,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué construyeron los egipcios? (10) [para niños curiosos 46]",
+      "question": "¿Qué construyeron los egipcios? (10)",
       "answers": [
         "Pirámides",
         "Semáforos",
@@ -2359,7 +2359,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Quiénes usaban coronas de rey hace mucho tiempo? (10) [en un juego 47]",
+      "question": "¿Quiénes usaban coronas de rey hace mucho tiempo? (10)",
       "answers": [
         "Reyes y reinas",
         "Solo cocineros",
@@ -2371,7 +2371,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Dónde vivían los romanos antiguos? (10) [en una ronda rápida 48]",
+      "question": "¿Dónde vivían los romanos antiguos? (10)",
       "answers": [
         "Roma",
         "Tokio",
@@ -2383,7 +2383,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué usaban los caballeros para protegerse? (10) [en una pista 49]",
+      "question": "¿Qué usaban los caballeros para protegerse? (10)",
       "answers": [
         "Armadura",
         "Pijama",
@@ -2395,7 +2395,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué viajero llegó a América en 1492? (10) [como dato curioso 50]",
+      "question": "¿Qué viajero llegó a América en 1492? (10)",
       "answers": [
         "Colón",
         "Einstein",
@@ -2529,7 +2529,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Cómo se llama el vaquero de Toy Story? (3) [en clase 11]",
+      "question": "¿Cómo se llama el vaquero de Toy Story? (3)",
       "answers": [
         "Woody",
         "Buzz",
@@ -2541,7 +2541,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué personaje vive en una piña debajo del mar? (3) [durante un viaje 12]",
+      "question": "¿Qué personaje vive en una piña debajo del mar? (3)",
       "answers": [
         "Mickey",
         "Bob Esponja",
@@ -2553,7 +2553,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué princesa pierde un zapato de cristal? (3) [en una conversación 13]",
+      "question": "¿Qué princesa pierde un zapato de cristal? (3)",
       "answers": [
         "Ariel",
         "Cenicienta",
@@ -2565,7 +2565,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué ogro es verde y famoso? (3) [en un concurso 14]",
+      "question": "¿Qué ogro es verde y famoso? (3)",
       "answers": [
         "Shrek",
         "Simba",
@@ -2577,7 +2577,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué pez pequeño busca su papá en una película? (3) [en cultura general 15]",
+      "question": "¿Qué pez pequeño busca su papá en una película? (3)",
       "answers": [
         "Dory",
         "Nemo",
@@ -2589,7 +2589,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Cómo se llama el vaquero de Toy Story? (4) [para niños curiosos 16]",
+      "question": "¿Cómo se llama el vaquero de Toy Story? (4)",
       "answers": [
         "Woody",
         "Buzz",
@@ -2601,7 +2601,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué personaje vive en una piña debajo del mar? (4) [en un juego 17]",
+      "question": "¿Qué personaje vive en una piña debajo del mar? (4)",
       "answers": [
         "Mickey",
         "Bob Esponja",
@@ -2613,7 +2613,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué princesa pierde un zapato de cristal? (4) [en una ronda rápida 18]",
+      "question": "¿Qué princesa pierde un zapato de cristal? (4)",
       "answers": [
         "Ariel",
         "Cenicienta",
@@ -2625,7 +2625,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué ogro es verde y famoso? (4) [en una pista 19]",
+      "question": "¿Qué ogro es verde y famoso? (4)",
       "answers": [
         "Shrek",
         "Simba",
@@ -2637,7 +2637,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué pez pequeño busca su papá en una película? (4) [como dato curioso 20]",
+      "question": "¿Qué pez pequeño busca su papá en una película? (4)",
       "answers": [
         "Dory",
         "Nemo",
@@ -2649,7 +2649,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Cómo se llama el vaquero de Toy Story? (5) [en clase 21]",
+      "question": "¿Cómo se llama el vaquero de Toy Story? (5)",
       "answers": [
         "Woody",
         "Buzz",
@@ -2661,7 +2661,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué personaje vive en una piña debajo del mar? (5) [durante un viaje 22]",
+      "question": "¿Qué personaje vive en una piña debajo del mar? (5)",
       "answers": [
         "Mickey",
         "Bob Esponja",
@@ -2673,7 +2673,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué princesa pierde un zapato de cristal? (5) [en una conversación 23]",
+      "question": "¿Qué princesa pierde un zapato de cristal? (5)",
       "answers": [
         "Ariel",
         "Cenicienta",
@@ -2685,7 +2685,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué ogro es verde y famoso? (5) [en un concurso 24]",
+      "question": "¿Qué ogro es verde y famoso? (5)",
       "answers": [
         "Shrek",
         "Simba",
@@ -2697,7 +2697,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué pez pequeño busca su papá en una película? (5) [en cultura general 25]",
+      "question": "¿Qué pez pequeño busca su papá en una película? (5)",
       "answers": [
         "Dory",
         "Nemo",
@@ -2709,7 +2709,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Cómo se llama el vaquero de Toy Story? (6) [para niños curiosos 26]",
+      "question": "¿Cómo se llama el vaquero de Toy Story? (6)",
       "answers": [
         "Woody",
         "Buzz",
@@ -2721,7 +2721,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué personaje vive en una piña debajo del mar? (6) [en un juego 27]",
+      "question": "¿Qué personaje vive en una piña debajo del mar? (6)",
       "answers": [
         "Mickey",
         "Bob Esponja",
@@ -2733,7 +2733,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué princesa pierde un zapato de cristal? (6) [en una ronda rápida 28]",
+      "question": "¿Qué princesa pierde un zapato de cristal? (6)",
       "answers": [
         "Ariel",
         "Cenicienta",
@@ -2745,7 +2745,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué ogro es verde y famoso? (6) [en una pista 29]",
+      "question": "¿Qué ogro es verde y famoso? (6)",
       "answers": [
         "Shrek",
         "Simba",
@@ -2757,7 +2757,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué pez pequeño busca su papá en una película? (6) [como dato curioso 30]",
+      "question": "¿Qué pez pequeño busca su papá en una película? (6)",
       "answers": [
         "Dory",
         "Nemo",
@@ -2769,7 +2769,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Cómo se llama el vaquero de Toy Story? (7) [en clase 31]",
+      "question": "¿Cómo se llama el vaquero de Toy Story? (7)",
       "answers": [
         "Woody",
         "Buzz",
@@ -2781,7 +2781,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué personaje vive en una piña debajo del mar? (7) [durante un viaje 32]",
+      "question": "¿Qué personaje vive en una piña debajo del mar? (7)",
       "answers": [
         "Mickey",
         "Bob Esponja",
@@ -2793,7 +2793,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué princesa pierde un zapato de cristal? (7) [en una conversación 33]",
+      "question": "¿Qué princesa pierde un zapato de cristal? (7)",
       "answers": [
         "Ariel",
         "Cenicienta",
@@ -2805,7 +2805,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué ogro es verde y famoso? (7) [en un concurso 34]",
+      "question": "¿Qué ogro es verde y famoso? (7)",
       "answers": [
         "Shrek",
         "Simba",
@@ -2817,7 +2817,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué pez pequeño busca su papá en una película? (7) [en cultura general 35]",
+      "question": "¿Qué pez pequeño busca su papá en una película? (7)",
       "answers": [
         "Dory",
         "Nemo",
@@ -2829,7 +2829,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Cómo se llama el vaquero de Toy Story? (8) [para niños curiosos 36]",
+      "question": "¿Cómo se llama el vaquero de Toy Story? (8)",
       "answers": [
         "Woody",
         "Buzz",
@@ -2841,7 +2841,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué personaje vive en una piña debajo del mar? (8) [en un juego 37]",
+      "question": "¿Qué personaje vive en una piña debajo del mar? (8)",
       "answers": [
         "Mickey",
         "Bob Esponja",
@@ -2853,7 +2853,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué princesa pierde un zapato de cristal? (8) [en una ronda rápida 38]",
+      "question": "¿Qué princesa pierde un zapato de cristal? (8)",
       "answers": [
         "Ariel",
         "Cenicienta",
@@ -2865,7 +2865,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué ogro es verde y famoso? (8) [en una pista 39]",
+      "question": "¿Qué ogro es verde y famoso? (8)",
       "answers": [
         "Shrek",
         "Simba",
@@ -2877,7 +2877,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué pez pequeño busca su papá en una película? (8) [como dato curioso 40]",
+      "question": "¿Qué pez pequeño busca su papá en una película? (8)",
       "answers": [
         "Dory",
         "Nemo",
@@ -2889,7 +2889,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Cómo se llama el vaquero de Toy Story? (9) [en clase 41]",
+      "question": "¿Cómo se llama el vaquero de Toy Story? (9)",
       "answers": [
         "Woody",
         "Buzz",
@@ -2901,7 +2901,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué personaje vive en una piña debajo del mar? (9) [durante un viaje 42]",
+      "question": "¿Qué personaje vive en una piña debajo del mar? (9)",
       "answers": [
         "Mickey",
         "Bob Esponja",
@@ -2913,7 +2913,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué princesa pierde un zapato de cristal? (9) [en una conversación 43]",
+      "question": "¿Qué princesa pierde un zapato de cristal? (9)",
       "answers": [
         "Ariel",
         "Cenicienta",
@@ -2925,7 +2925,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué ogro es verde y famoso? (9) [en un concurso 44]",
+      "question": "¿Qué ogro es verde y famoso? (9)",
       "answers": [
         "Shrek",
         "Simba",
@@ -2937,7 +2937,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué pez pequeño busca su papá en una película? (9) [en cultura general 45]",
+      "question": "¿Qué pez pequeño busca su papá en una película? (9)",
       "answers": [
         "Dory",
         "Nemo",
@@ -2949,7 +2949,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Cómo se llama el vaquero de Toy Story? (10) [para niños curiosos 46]",
+      "question": "¿Cómo se llama el vaquero de Toy Story? (10)",
       "answers": [
         "Woody",
         "Buzz",
@@ -2961,7 +2961,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué personaje vive en una piña debajo del mar? (10) [en un juego 47]",
+      "question": "¿Qué personaje vive en una piña debajo del mar? (10)",
       "answers": [
         "Mickey",
         "Bob Esponja",
@@ -2973,7 +2973,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué princesa pierde un zapato de cristal? (10) [en una ronda rápida 48]",
+      "question": "¿Qué princesa pierde un zapato de cristal? (10)",
       "answers": [
         "Ariel",
         "Cenicienta",
@@ -2985,7 +2985,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué ogro es verde y famoso? (10) [en una pista 49]",
+      "question": "¿Qué ogro es verde y famoso? (10)",
       "answers": [
         "Shrek",
         "Simba",
@@ -2997,7 +2997,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué pez pequeño busca su papá en una película? (10) [como dato curioso 50]",
+      "question": "¿Qué pez pequeño busca su papá en una película? (10)",
       "answers": [
         "Dory",
         "Nemo",
@@ -3131,7 +3131,7 @@
       "level": "nino"
     },
     {
-      "question": "¿En qué deporte se meten goles? (3) [en clase 11]",
+      "question": "¿En qué deporte se meten goles? (3)",
       "answers": [
         "Fútbol",
         "Ajedrez",
@@ -3143,7 +3143,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué deporte se juega en una piscina? (3) [durante un viaje 12]",
+      "question": "¿Qué deporte se juega en una piscina? (3)",
       "answers": [
         "Baloncesto",
         "Natación",
@@ -3155,7 +3155,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué usamos para chutar en fútbol? (3) [en una conversación 13]",
+      "question": "¿Qué usamos para chutar en fútbol? (3)",
       "answers": [
         "La mano",
         "El pie",
@@ -3167,7 +3167,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué deporte usa una bicicleta? (3) [en un concurso 14]",
+      "question": "¿Qué deporte usa una bicicleta? (3)",
       "answers": [
         "Ciclismo",
         "Boxeo",
@@ -3179,7 +3179,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué se encesta en baloncesto? (3) [en cultura general 15]",
+      "question": "¿Qué se encesta en baloncesto? (3)",
       "answers": [
         "Pelota",
         "Disco",
@@ -3191,7 +3191,7 @@
       "level": "nino"
     },
     {
-      "question": "¿En qué deporte se meten goles? (4) [para niños curiosos 16]",
+      "question": "¿En qué deporte se meten goles? (4)",
       "answers": [
         "Fútbol",
         "Ajedrez",
@@ -3203,7 +3203,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué deporte se juega en una piscina? (4) [en un juego 17]",
+      "question": "¿Qué deporte se juega en una piscina? (4)",
       "answers": [
         "Baloncesto",
         "Natación",
@@ -3215,7 +3215,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué usamos para chutar en fútbol? (4) [en una ronda rápida 18]",
+      "question": "¿Qué usamos para chutar en fútbol? (4)",
       "answers": [
         "La mano",
         "El pie",
@@ -3227,7 +3227,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué deporte usa una bicicleta? (4) [en una pista 19]",
+      "question": "¿Qué deporte usa una bicicleta? (4)",
       "answers": [
         "Ciclismo",
         "Boxeo",
@@ -3239,7 +3239,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué se encesta en baloncesto? (4) [como dato curioso 20]",
+      "question": "¿Qué se encesta en baloncesto? (4)",
       "answers": [
         "Pelota",
         "Disco",
@@ -3251,7 +3251,7 @@
       "level": "nino"
     },
     {
-      "question": "¿En qué deporte se meten goles? (5) [en clase 21]",
+      "question": "¿En qué deporte se meten goles? (5)",
       "answers": [
         "Fútbol",
         "Ajedrez",
@@ -3263,7 +3263,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué deporte se juega en una piscina? (5) [durante un viaje 22]",
+      "question": "¿Qué deporte se juega en una piscina? (5)",
       "answers": [
         "Baloncesto",
         "Natación",
@@ -3275,7 +3275,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué usamos para chutar en fútbol? (5) [en una conversación 23]",
+      "question": "¿Qué usamos para chutar en fútbol? (5)",
       "answers": [
         "La mano",
         "El pie",
@@ -3287,7 +3287,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué deporte usa una bicicleta? (5) [en un concurso 24]",
+      "question": "¿Qué deporte usa una bicicleta? (5)",
       "answers": [
         "Ciclismo",
         "Boxeo",
@@ -3299,7 +3299,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué se encesta en baloncesto? (5) [en cultura general 25]",
+      "question": "¿Qué se encesta en baloncesto? (5)",
       "answers": [
         "Pelota",
         "Disco",
@@ -3311,7 +3311,7 @@
       "level": "nino"
     },
     {
-      "question": "¿En qué deporte se meten goles? (6) [para niños curiosos 26]",
+      "question": "¿En qué deporte se meten goles? (6)",
       "answers": [
         "Fútbol",
         "Ajedrez",
@@ -3323,7 +3323,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué deporte se juega en una piscina? (6) [en un juego 27]",
+      "question": "¿Qué deporte se juega en una piscina? (6)",
       "answers": [
         "Baloncesto",
         "Natación",
@@ -3335,7 +3335,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué usamos para chutar en fútbol? (6) [en una ronda rápida 28]",
+      "question": "¿Qué usamos para chutar en fútbol? (6)",
       "answers": [
         "La mano",
         "El pie",
@@ -3347,7 +3347,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué deporte usa una bicicleta? (6) [en una pista 29]",
+      "question": "¿Qué deporte usa una bicicleta? (6)",
       "answers": [
         "Ciclismo",
         "Boxeo",
@@ -3359,7 +3359,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué se encesta en baloncesto? (6) [como dato curioso 30]",
+      "question": "¿Qué se encesta en baloncesto? (6)",
       "answers": [
         "Pelota",
         "Disco",
@@ -3371,7 +3371,7 @@
       "level": "nino"
     },
     {
-      "question": "¿En qué deporte se meten goles? (7) [en clase 31]",
+      "question": "¿En qué deporte se meten goles? (7)",
       "answers": [
         "Fútbol",
         "Ajedrez",
@@ -3383,7 +3383,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué deporte se juega en una piscina? (7) [durante un viaje 32]",
+      "question": "¿Qué deporte se juega en una piscina? (7)",
       "answers": [
         "Baloncesto",
         "Natación",
@@ -3395,7 +3395,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué usamos para chutar en fútbol? (7) [en una conversación 33]",
+      "question": "¿Qué usamos para chutar en fútbol? (7)",
       "answers": [
         "La mano",
         "El pie",
@@ -3407,7 +3407,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué deporte usa una bicicleta? (7) [en un concurso 34]",
+      "question": "¿Qué deporte usa una bicicleta? (7)",
       "answers": [
         "Ciclismo",
         "Boxeo",
@@ -3419,7 +3419,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué se encesta en baloncesto? (7) [en cultura general 35]",
+      "question": "¿Qué se encesta en baloncesto? (7)",
       "answers": [
         "Pelota",
         "Disco",
@@ -3431,7 +3431,7 @@
       "level": "nino"
     },
     {
-      "question": "¿En qué deporte se meten goles? (8) [para niños curiosos 36]",
+      "question": "¿En qué deporte se meten goles? (8)",
       "answers": [
         "Fútbol",
         "Ajedrez",
@@ -3443,7 +3443,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué deporte se juega en una piscina? (8) [en un juego 37]",
+      "question": "¿Qué deporte se juega en una piscina? (8)",
       "answers": [
         "Baloncesto",
         "Natación",
@@ -3455,7 +3455,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué usamos para chutar en fútbol? (8) [en una ronda rápida 38]",
+      "question": "¿Qué usamos para chutar en fútbol? (8)",
       "answers": [
         "La mano",
         "El pie",
@@ -3467,7 +3467,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué deporte usa una bicicleta? (8) [en una pista 39]",
+      "question": "¿Qué deporte usa una bicicleta? (8)",
       "answers": [
         "Ciclismo",
         "Boxeo",
@@ -3479,7 +3479,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué se encesta en baloncesto? (8) [como dato curioso 40]",
+      "question": "¿Qué se encesta en baloncesto? (8)",
       "answers": [
         "Pelota",
         "Disco",
@@ -3491,7 +3491,7 @@
       "level": "nino"
     },
     {
-      "question": "¿En qué deporte se meten goles? (9) [en clase 41]",
+      "question": "¿En qué deporte se meten goles? (9)",
       "answers": [
         "Fútbol",
         "Ajedrez",
@@ -3503,7 +3503,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué deporte se juega en una piscina? (9) [durante un viaje 42]",
+      "question": "¿Qué deporte se juega en una piscina? (9)",
       "answers": [
         "Baloncesto",
         "Natación",
@@ -3515,7 +3515,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué usamos para chutar en fútbol? (9) [en una conversación 43]",
+      "question": "¿Qué usamos para chutar en fútbol? (9)",
       "answers": [
         "La mano",
         "El pie",
@@ -3527,7 +3527,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué deporte usa una bicicleta? (9) [en un concurso 44]",
+      "question": "¿Qué deporte usa una bicicleta? (9)",
       "answers": [
         "Ciclismo",
         "Boxeo",
@@ -3539,7 +3539,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué se encesta en baloncesto? (9) [en cultura general 45]",
+      "question": "¿Qué se encesta en baloncesto? (9)",
       "answers": [
         "Pelota",
         "Disco",
@@ -3551,7 +3551,7 @@
       "level": "nino"
     },
     {
-      "question": "¿En qué deporte se meten goles? (10) [para niños curiosos 46]",
+      "question": "¿En qué deporte se meten goles? (10)",
       "answers": [
         "Fútbol",
         "Ajedrez",
@@ -3563,7 +3563,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué deporte se juega en una piscina? (10) [en un juego 47]",
+      "question": "¿Qué deporte se juega en una piscina? (10)",
       "answers": [
         "Baloncesto",
         "Natación",
@@ -3575,7 +3575,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué usamos para chutar en fútbol? (10) [en una ronda rápida 48]",
+      "question": "¿Qué usamos para chutar en fútbol? (10)",
       "answers": [
         "La mano",
         "El pie",
@@ -3587,7 +3587,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué deporte usa una bicicleta? (10) [en una pista 49]",
+      "question": "¿Qué deporte usa una bicicleta? (10)",
       "answers": [
         "Ciclismo",
         "Boxeo",
@@ -3599,7 +3599,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué se encesta en baloncesto? (10) [como dato curioso 50]",
+      "question": "¿Qué se encesta en baloncesto? (10)",
       "answers": [
         "Pelota",
         "Disco",
@@ -3733,7 +3733,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué instrumento tiene teclas blancas y negras? (3) [en clase 11]",
+      "question": "¿Qué instrumento tiene teclas blancas y negras? (3)",
       "answers": [
         "Piano",
         "Violín",
@@ -3745,7 +3745,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué hace un cantante? (3) [durante un viaje 12]",
+      "question": "¿Qué hace un cantante? (3)",
       "answers": [
         "Pintar",
         "Cantar",
@@ -3757,7 +3757,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué usamos para escuchar música? (3) [en una conversación 13]",
+      "question": "¿Qué usamos para escuchar música? (3)",
       "answers": [
         "Auriculares",
         "Martillo",
@@ -3769,7 +3769,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué instrumento se golpea con baquetas? (3) [en un concurso 14]",
+      "question": "¿Qué instrumento se golpea con baquetas? (3)",
       "answers": [
         "Batería",
         "Guitarra",
@@ -3781,7 +3781,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué instrumento tiene cuerdas? (3) [en cultura general 15]",
+      "question": "¿Qué instrumento tiene cuerdas? (3)",
       "answers": [
         "Guitarra",
         "Tambor",
@@ -3793,7 +3793,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué instrumento tiene teclas blancas y negras? (4) [para niños curiosos 16]",
+      "question": "¿Qué instrumento tiene teclas blancas y negras? (4)",
       "answers": [
         "Piano",
         "Violín",
@@ -3805,7 +3805,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué hace un cantante? (4) [en un juego 17]",
+      "question": "¿Qué hace un cantante? (4)",
       "answers": [
         "Pintar",
         "Cantar",
@@ -3817,7 +3817,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué usamos para escuchar música? (4) [en una ronda rápida 18]",
+      "question": "¿Qué usamos para escuchar música? (4)",
       "answers": [
         "Auriculares",
         "Martillo",
@@ -3829,7 +3829,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué instrumento se golpea con baquetas? (4) [en una pista 19]",
+      "question": "¿Qué instrumento se golpea con baquetas? (4)",
       "answers": [
         "Batería",
         "Guitarra",
@@ -3841,7 +3841,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué instrumento tiene cuerdas? (4) [como dato curioso 20]",
+      "question": "¿Qué instrumento tiene cuerdas? (4)",
       "answers": [
         "Guitarra",
         "Tambor",
@@ -3853,7 +3853,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué instrumento tiene teclas blancas y negras? (5) [en clase 21]",
+      "question": "¿Qué instrumento tiene teclas blancas y negras? (5)",
       "answers": [
         "Piano",
         "Violín",
@@ -3865,7 +3865,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué hace un cantante? (5) [durante un viaje 22]",
+      "question": "¿Qué hace un cantante? (5)",
       "answers": [
         "Pintar",
         "Cantar",
@@ -3877,7 +3877,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué usamos para escuchar música? (5) [en una conversación 23]",
+      "question": "¿Qué usamos para escuchar música? (5)",
       "answers": [
         "Auriculares",
         "Martillo",
@@ -3889,7 +3889,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué instrumento se golpea con baquetas? (5) [en un concurso 24]",
+      "question": "¿Qué instrumento se golpea con baquetas? (5)",
       "answers": [
         "Batería",
         "Guitarra",
@@ -3901,7 +3901,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué instrumento tiene cuerdas? (5) [en cultura general 25]",
+      "question": "¿Qué instrumento tiene cuerdas? (5)",
       "answers": [
         "Guitarra",
         "Tambor",
@@ -3913,7 +3913,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué instrumento tiene teclas blancas y negras? (6) [para niños curiosos 26]",
+      "question": "¿Qué instrumento tiene teclas blancas y negras? (6)",
       "answers": [
         "Piano",
         "Violín",
@@ -3925,7 +3925,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué hace un cantante? (6) [en un juego 27]",
+      "question": "¿Qué hace un cantante? (6)",
       "answers": [
         "Pintar",
         "Cantar",
@@ -3937,7 +3937,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué usamos para escuchar música? (6) [en una ronda rápida 28]",
+      "question": "¿Qué usamos para escuchar música? (6)",
       "answers": [
         "Auriculares",
         "Martillo",
@@ -3949,7 +3949,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué instrumento se golpea con baquetas? (6) [en una pista 29]",
+      "question": "¿Qué instrumento se golpea con baquetas? (6)",
       "answers": [
         "Batería",
         "Guitarra",
@@ -3961,7 +3961,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué instrumento tiene cuerdas? (6) [como dato curioso 30]",
+      "question": "¿Qué instrumento tiene cuerdas? (6)",
       "answers": [
         "Guitarra",
         "Tambor",
@@ -3973,7 +3973,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué instrumento tiene teclas blancas y negras? (7) [en clase 31]",
+      "question": "¿Qué instrumento tiene teclas blancas y negras? (7)",
       "answers": [
         "Piano",
         "Violín",
@@ -3985,7 +3985,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué hace un cantante? (7) [durante un viaje 32]",
+      "question": "¿Qué hace un cantante? (7)",
       "answers": [
         "Pintar",
         "Cantar",
@@ -3997,7 +3997,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué usamos para escuchar música? (7) [en una conversación 33]",
+      "question": "¿Qué usamos para escuchar música? (7)",
       "answers": [
         "Auriculares",
         "Martillo",
@@ -4009,7 +4009,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué instrumento se golpea con baquetas? (7) [en un concurso 34]",
+      "question": "¿Qué instrumento se golpea con baquetas? (7)",
       "answers": [
         "Batería",
         "Guitarra",
@@ -4021,7 +4021,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué instrumento tiene cuerdas? (7) [en cultura general 35]",
+      "question": "¿Qué instrumento tiene cuerdas? (7)",
       "answers": [
         "Guitarra",
         "Tambor",
@@ -4033,7 +4033,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué instrumento tiene teclas blancas y negras? (8) [para niños curiosos 36]",
+      "question": "¿Qué instrumento tiene teclas blancas y negras? (8)",
       "answers": [
         "Piano",
         "Violín",
@@ -4045,7 +4045,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué hace un cantante? (8) [en un juego 37]",
+      "question": "¿Qué hace un cantante? (8)",
       "answers": [
         "Pintar",
         "Cantar",
@@ -4057,7 +4057,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué usamos para escuchar música? (8) [en una ronda rápida 38]",
+      "question": "¿Qué usamos para escuchar música? (8)",
       "answers": [
         "Auriculares",
         "Martillo",
@@ -4069,7 +4069,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué instrumento se golpea con baquetas? (8) [en una pista 39]",
+      "question": "¿Qué instrumento se golpea con baquetas? (8)",
       "answers": [
         "Batería",
         "Guitarra",
@@ -4081,7 +4081,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué instrumento tiene cuerdas? (8) [como dato curioso 40]",
+      "question": "¿Qué instrumento tiene cuerdas? (8)",
       "answers": [
         "Guitarra",
         "Tambor",
@@ -4093,7 +4093,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué instrumento tiene teclas blancas y negras? (9) [en clase 41]",
+      "question": "¿Qué instrumento tiene teclas blancas y negras? (9)",
       "answers": [
         "Piano",
         "Violín",
@@ -4105,7 +4105,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué hace un cantante? (9) [durante un viaje 42]",
+      "question": "¿Qué hace un cantante? (9)",
       "answers": [
         "Pintar",
         "Cantar",
@@ -4117,7 +4117,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué usamos para escuchar música? (9) [en una conversación 43]",
+      "question": "¿Qué usamos para escuchar música? (9)",
       "answers": [
         "Auriculares",
         "Martillo",
@@ -4129,7 +4129,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué instrumento se golpea con baquetas? (9) [en un concurso 44]",
+      "question": "¿Qué instrumento se golpea con baquetas? (9)",
       "answers": [
         "Batería",
         "Guitarra",
@@ -4141,7 +4141,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué instrumento tiene cuerdas? (9) [en cultura general 45]",
+      "question": "¿Qué instrumento tiene cuerdas? (9)",
       "answers": [
         "Guitarra",
         "Tambor",
@@ -4153,7 +4153,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué instrumento tiene teclas blancas y negras? (10) [para niños curiosos 46]",
+      "question": "¿Qué instrumento tiene teclas blancas y negras? (10)",
       "answers": [
         "Piano",
         "Violín",
@@ -4165,7 +4165,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué hace un cantante? (10) [en un juego 47]",
+      "question": "¿Qué hace un cantante? (10)",
       "answers": [
         "Pintar",
         "Cantar",
@@ -4177,7 +4177,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué usamos para escuchar música? (10) [en una ronda rápida 48]",
+      "question": "¿Qué usamos para escuchar música? (10)",
       "answers": [
         "Auriculares",
         "Martillo",
@@ -4189,7 +4189,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué instrumento se golpea con baquetas? (10) [en una pista 49]",
+      "question": "¿Qué instrumento se golpea con baquetas? (10)",
       "answers": [
         "Batería",
         "Guitarra",
@@ -4201,7 +4201,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué instrumento tiene cuerdas? (10) [como dato curioso 50]",
+      "question": "¿Qué instrumento tiene cuerdas? (10)",
       "answers": [
         "Guitarra",
         "Tambor",
@@ -4335,7 +4335,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué animal pone huevos y dice cacarear? (3) [en clase 11]",
+      "question": "¿Qué animal pone huevos y dice cacarear? (3)",
       "answers": [
         "Gallo",
         "Gallina",
@@ -4347,7 +4347,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué usamos para escribir en una pizarra? (3) [durante un viaje 12]",
+      "question": "¿Qué usamos para escribir en una pizarra? (3)",
       "answers": [
         "Tiza",
         "Tenedor",
@@ -4359,7 +4359,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué vehículo vuela por el cielo? (3) [en una conversación 13]",
+      "question": "¿Qué vehículo vuela por el cielo? (3)",
       "answers": [
         "Barco",
         "Avión",
@@ -4371,7 +4371,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué parte del cuerpo usamos para escuchar? (3) [en un concurso 14]",
+      "question": "¿Qué parte del cuerpo usamos para escuchar? (3)",
       "answers": [
         "Orejas",
         "Rodillas",
@@ -4383,7 +4383,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué llevamos para no mojarnos cuando llueve? (3) [en cultura general 15]",
+      "question": "¿Qué llevamos para no mojarnos cuando llueve? (3)",
       "answers": [
         "Paraguas",
         "Sartén",
@@ -4395,7 +4395,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué animal pone huevos y dice cacarear? (4) [para niños curiosos 16]",
+      "question": "¿Qué animal pone huevos y dice cacarear? (4)",
       "answers": [
         "Gallo",
         "Gallina",
@@ -4407,7 +4407,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué usamos para escribir en una pizarra? (4) [en un juego 17]",
+      "question": "¿Qué usamos para escribir en una pizarra? (4)",
       "answers": [
         "Tiza",
         "Tenedor",
@@ -4419,7 +4419,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué vehículo vuela por el cielo? (4) [en una ronda rápida 18]",
+      "question": "¿Qué vehículo vuela por el cielo? (4)",
       "answers": [
         "Barco",
         "Avión",
@@ -4431,7 +4431,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué parte del cuerpo usamos para escuchar? (4) [en una pista 19]",
+      "question": "¿Qué parte del cuerpo usamos para escuchar? (4)",
       "answers": [
         "Orejas",
         "Rodillas",
@@ -4443,7 +4443,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué llevamos para no mojarnos cuando llueve? (4) [como dato curioso 20]",
+      "question": "¿Qué llevamos para no mojarnos cuando llueve? (4)",
       "answers": [
         "Paraguas",
         "Sartén",
@@ -4455,7 +4455,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué animal pone huevos y dice cacarear? (5) [en clase 21]",
+      "question": "¿Qué animal pone huevos y dice cacarear? (5)",
       "answers": [
         "Gallo",
         "Gallina",
@@ -4467,7 +4467,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué usamos para escribir en una pizarra? (5) [durante un viaje 22]",
+      "question": "¿Qué usamos para escribir en una pizarra? (5)",
       "answers": [
         "Tiza",
         "Tenedor",
@@ -4479,7 +4479,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué vehículo vuela por el cielo? (5) [en una conversación 23]",
+      "question": "¿Qué vehículo vuela por el cielo? (5)",
       "answers": [
         "Barco",
         "Avión",
@@ -4491,7 +4491,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué parte del cuerpo usamos para escuchar? (5) [en un concurso 24]",
+      "question": "¿Qué parte del cuerpo usamos para escuchar? (5)",
       "answers": [
         "Orejas",
         "Rodillas",
@@ -4503,7 +4503,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué llevamos para no mojarnos cuando llueve? (5) [en cultura general 25]",
+      "question": "¿Qué llevamos para no mojarnos cuando llueve? (5)",
       "answers": [
         "Paraguas",
         "Sartén",
@@ -4515,7 +4515,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué animal pone huevos y dice cacarear? (6) [para niños curiosos 26]",
+      "question": "¿Qué animal pone huevos y dice cacarear? (6)",
       "answers": [
         "Gallo",
         "Gallina",
@@ -4527,7 +4527,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué usamos para escribir en una pizarra? (6) [en un juego 27]",
+      "question": "¿Qué usamos para escribir en una pizarra? (6)",
       "answers": [
         "Tiza",
         "Tenedor",
@@ -4539,7 +4539,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué vehículo vuela por el cielo? (6) [en una ronda rápida 28]",
+      "question": "¿Qué vehículo vuela por el cielo? (6)",
       "answers": [
         "Barco",
         "Avión",
@@ -4551,7 +4551,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué parte del cuerpo usamos para escuchar? (6) [en una pista 29]",
+      "question": "¿Qué parte del cuerpo usamos para escuchar? (6)",
       "answers": [
         "Orejas",
         "Rodillas",
@@ -4563,7 +4563,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué llevamos para no mojarnos cuando llueve? (6) [como dato curioso 30]",
+      "question": "¿Qué llevamos para no mojarnos cuando llueve? (6)",
       "answers": [
         "Paraguas",
         "Sartén",
@@ -4575,7 +4575,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué animal pone huevos y dice cacarear? (7) [en clase 31]",
+      "question": "¿Qué animal pone huevos y dice cacarear? (7)",
       "answers": [
         "Gallo",
         "Gallina",
@@ -4587,7 +4587,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué usamos para escribir en una pizarra? (7) [durante un viaje 32]",
+      "question": "¿Qué usamos para escribir en una pizarra? (7)",
       "answers": [
         "Tiza",
         "Tenedor",
@@ -4599,7 +4599,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué vehículo vuela por el cielo? (7) [en una conversación 33]",
+      "question": "¿Qué vehículo vuela por el cielo? (7)",
       "answers": [
         "Barco",
         "Avión",
@@ -4611,7 +4611,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué parte del cuerpo usamos para escuchar? (7) [en un concurso 34]",
+      "question": "¿Qué parte del cuerpo usamos para escuchar? (7)",
       "answers": [
         "Orejas",
         "Rodillas",
@@ -4623,7 +4623,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué llevamos para no mojarnos cuando llueve? (7) [en cultura general 35]",
+      "question": "¿Qué llevamos para no mojarnos cuando llueve? (7)",
       "answers": [
         "Paraguas",
         "Sartén",
@@ -4635,7 +4635,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué animal pone huevos y dice cacarear? (8) [para niños curiosos 36]",
+      "question": "¿Qué animal pone huevos y dice cacarear? (8)",
       "answers": [
         "Gallo",
         "Gallina",
@@ -4647,7 +4647,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué usamos para escribir en una pizarra? (8) [en un juego 37]",
+      "question": "¿Qué usamos para escribir en una pizarra? (8)",
       "answers": [
         "Tiza",
         "Tenedor",
@@ -4659,7 +4659,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué vehículo vuela por el cielo? (8) [en una ronda rápida 38]",
+      "question": "¿Qué vehículo vuela por el cielo? (8)",
       "answers": [
         "Barco",
         "Avión",
@@ -4671,7 +4671,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué parte del cuerpo usamos para escuchar? (8) [en una pista 39]",
+      "question": "¿Qué parte del cuerpo usamos para escuchar? (8)",
       "answers": [
         "Orejas",
         "Rodillas",
@@ -4683,7 +4683,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué llevamos para no mojarnos cuando llueve? (8) [como dato curioso 40]",
+      "question": "¿Qué llevamos para no mojarnos cuando llueve? (8)",
       "answers": [
         "Paraguas",
         "Sartén",
@@ -4695,7 +4695,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué animal pone huevos y dice cacarear? (9) [en clase 41]",
+      "question": "¿Qué animal pone huevos y dice cacarear? (9)",
       "answers": [
         "Gallo",
         "Gallina",
@@ -4707,7 +4707,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué usamos para escribir en una pizarra? (9) [durante un viaje 42]",
+      "question": "¿Qué usamos para escribir en una pizarra? (9)",
       "answers": [
         "Tiza",
         "Tenedor",
@@ -4719,7 +4719,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué vehículo vuela por el cielo? (9) [en una conversación 43]",
+      "question": "¿Qué vehículo vuela por el cielo? (9)",
       "answers": [
         "Barco",
         "Avión",
@@ -4731,7 +4731,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué parte del cuerpo usamos para escuchar? (9) [en un concurso 44]",
+      "question": "¿Qué parte del cuerpo usamos para escuchar? (9)",
       "answers": [
         "Orejas",
         "Rodillas",
@@ -4743,7 +4743,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué llevamos para no mojarnos cuando llueve? (9) [en cultura general 45]",
+      "question": "¿Qué llevamos para no mojarnos cuando llueve? (9)",
       "answers": [
         "Paraguas",
         "Sartén",
@@ -4755,7 +4755,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué animal pone huevos y dice cacarear? (10) [para niños curiosos 46]",
+      "question": "¿Qué animal pone huevos y dice cacarear? (10)",
       "answers": [
         "Gallo",
         "Gallina",
@@ -4767,7 +4767,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué usamos para escribir en una pizarra? (10) [en un juego 47]",
+      "question": "¿Qué usamos para escribir en una pizarra? (10)",
       "answers": [
         "Tiza",
         "Tenedor",
@@ -4779,7 +4779,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué vehículo vuela por el cielo? (10) [en una ronda rápida 48]",
+      "question": "¿Qué vehículo vuela por el cielo? (10)",
       "answers": [
         "Barco",
         "Avión",
@@ -4791,7 +4791,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué parte del cuerpo usamos para escuchar? (10) [en una pista 49]",
+      "question": "¿Qué parte del cuerpo usamos para escuchar? (10)",
       "answers": [
         "Orejas",
         "Rodillas",
@@ -4803,7 +4803,7 @@
       "level": "nino"
     },
     {
-      "question": "¿Qué llevamos para no mojarnos cuando llueve? (10) [como dato curioso 50]",
+      "question": "¿Qué llevamos para no mojarnos cuando llueve? (10)",
       "answers": [
         "Paraguas",
         "Sartén",

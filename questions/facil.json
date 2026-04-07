@@ -121,7 +121,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Cuántos meses tiene un año? (3) [en clase 11]",
+      "question": "¿Cuántos meses tiene un año? (3)",
       "answers": [
         "10",
         "11",
@@ -133,7 +133,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué idioma se habla principalmente en España? (3) [durante un viaje 12]",
+      "question": "¿Qué idioma se habla principalmente en España? (3)",
       "answers": [
         "Portugués",
         "Español",
@@ -145,7 +145,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Cuántos días tiene una semana? (3) [en una conversación 13]",
+      "question": "¿Cuántos días tiene una semana? (3)",
       "answers": [
         "5",
         "6",
@@ -157,7 +157,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué moneda se usa en España? (3) [en un concurso 14]",
+      "question": "¿Qué moneda se usa en España? (3)",
       "answers": [
         "Dólar",
         "Euro",
@@ -169,7 +169,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Cuántas horas tiene un día? (3) [en cultura general 15]",
+      "question": "¿Cuántas horas tiene un día? (3)",
       "answers": [
         "12",
         "18",
@@ -181,7 +181,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Cuántos meses tiene un año? (4) [para niños curiosos 16]",
+      "question": "¿Cuántos meses tiene un año? (4)",
       "answers": [
         "10",
         "11",
@@ -193,7 +193,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué idioma se habla principalmente en España? (4) [en un juego 17]",
+      "question": "¿Qué idioma se habla principalmente en España? (4)",
       "answers": [
         "Portugués",
         "Español",
@@ -205,7 +205,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Cuántos días tiene una semana? (4) [en una ronda rápida 18]",
+      "question": "¿Cuántos días tiene una semana? (4)",
       "answers": [
         "5",
         "6",
@@ -217,7 +217,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué moneda se usa en España? (4) [en una pista 19]",
+      "question": "¿Qué moneda se usa en España? (4)",
       "answers": [
         "Dólar",
         "Euro",
@@ -229,7 +229,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Cuántas horas tiene un día? (4) [como dato curioso 20]",
+      "question": "¿Cuántas horas tiene un día? (4)",
       "answers": [
         "12",
         "18",
@@ -241,7 +241,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Cuántos meses tiene un año? (5) [en clase 21]",
+      "question": "¿Cuántos meses tiene un año? (5)",
       "answers": [
         "10",
         "11",
@@ -253,7 +253,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué idioma se habla principalmente en España? (5) [durante un viaje 22]",
+      "question": "¿Qué idioma se habla principalmente en España? (5)",
       "answers": [
         "Portugués",
         "Español",
@@ -265,7 +265,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Cuántos días tiene una semana? (5) [en una conversación 23]",
+      "question": "¿Cuántos días tiene una semana? (5)",
       "answers": [
         "5",
         "6",
@@ -277,7 +277,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué moneda se usa en España? (5) [en un concurso 24]",
+      "question": "¿Qué moneda se usa en España? (5)",
       "answers": [
         "Dólar",
         "Euro",
@@ -289,7 +289,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Cuántas horas tiene un día? (5) [en cultura general 25]",
+      "question": "¿Cuántas horas tiene un día? (5)",
       "answers": [
         "12",
         "18",
@@ -301,7 +301,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Cuántos meses tiene un año? (6) [para niños curiosos 26]",
+      "question": "¿Cuántos meses tiene un año? (6)",
       "answers": [
         "10",
         "11",
@@ -313,7 +313,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué idioma se habla principalmente en España? (6) [en un juego 27]",
+      "question": "¿Qué idioma se habla principalmente en España? (6)",
       "answers": [
         "Portugués",
         "Español",
@@ -325,7 +325,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Cuántos días tiene una semana? (6) [en una ronda rápida 28]",
+      "question": "¿Cuántos días tiene una semana? (6)",
       "answers": [
         "5",
         "6",
@@ -337,7 +337,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué moneda se usa en España? (6) [en una pista 29]",
+      "question": "¿Qué moneda se usa en España? (6)",
       "answers": [
         "Dólar",
         "Euro",
@@ -349,7 +349,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Cuántas horas tiene un día? (6) [como dato curioso 30]",
+      "question": "¿Cuántas horas tiene un día? (6)",
       "answers": [
         "12",
         "18",
@@ -361,7 +361,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Cuántos meses tiene un año? (7) [en clase 31]",
+      "question": "¿Cuántos meses tiene un año? (7)",
       "answers": [
         "10",
         "11",
@@ -373,7 +373,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué idioma se habla principalmente en España? (7) [durante un viaje 32]",
+      "question": "¿Qué idioma se habla principalmente en España? (7)",
       "answers": [
         "Portugués",
         "Español",
@@ -385,7 +385,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Cuántos días tiene una semana? (7) [en una conversación 33]",
+      "question": "¿Cuántos días tiene una semana? (7)",
       "answers": [
         "5",
         "6",
@@ -397,7 +397,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué moneda se usa en España? (7) [en un concurso 34]",
+      "question": "¿Qué moneda se usa en España? (7)",
       "answers": [
         "Dólar",
         "Euro",
@@ -409,7 +409,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Cuántas horas tiene un día? (7) [en cultura general 35]",
+      "question": "¿Cuántas horas tiene un día? (7)",
       "answers": [
         "12",
         "18",
@@ -421,7 +421,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Cuántos meses tiene un año? (8) [para niños curiosos 36]",
+      "question": "¿Cuántos meses tiene un año? (8)",
       "answers": [
         "10",
         "11",
@@ -433,7 +433,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué idioma se habla principalmente en España? (8) [en un juego 37]",
+      "question": "¿Qué idioma se habla principalmente en España? (8)",
       "answers": [
         "Portugués",
         "Español",
@@ -445,7 +445,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Cuántos días tiene una semana? (8) [en una ronda rápida 38]",
+      "question": "¿Cuántos días tiene una semana? (8)",
       "answers": [
         "5",
         "6",
@@ -457,7 +457,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué moneda se usa en España? (8) [en una pista 39]",
+      "question": "¿Qué moneda se usa en España? (8)",
       "answers": [
         "Dólar",
         "Euro",
@@ -469,7 +469,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Cuántas horas tiene un día? (8) [como dato curioso 40]",
+      "question": "¿Cuántas horas tiene un día? (8)",
       "answers": [
         "12",
         "18",
@@ -481,7 +481,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Cuántos meses tiene un año? (9) [en clase 41]",
+      "question": "¿Cuántos meses tiene un año? (9)",
       "answers": [
         "10",
         "11",
@@ -493,7 +493,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué idioma se habla principalmente en España? (9) [durante un viaje 42]",
+      "question": "¿Qué idioma se habla principalmente en España? (9)",
       "answers": [
         "Portugués",
         "Español",
@@ -505,7 +505,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Cuántos días tiene una semana? (9) [en una conversación 43]",
+      "question": "¿Cuántos días tiene una semana? (9)",
       "answers": [
         "5",
         "6",
@@ -517,7 +517,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué moneda se usa en España? (9) [en un concurso 44]",
+      "question": "¿Qué moneda se usa en España? (9)",
       "answers": [
         "Dólar",
         "Euro",
@@ -529,7 +529,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Cuántas horas tiene un día? (9) [en cultura general 45]",
+      "question": "¿Cuántas horas tiene un día? (9)",
       "answers": [
         "12",
         "18",
@@ -541,7 +541,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Cuántos meses tiene un año? (10) [para niños curiosos 46]",
+      "question": "¿Cuántos meses tiene un año? (10)",
       "answers": [
         "10",
         "11",
@@ -553,7 +553,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué idioma se habla principalmente en España? (10) [en un juego 47]",
+      "question": "¿Qué idioma se habla principalmente en España? (10)",
       "answers": [
         "Portugués",
         "Español",
@@ -565,7 +565,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Cuántos días tiene una semana? (10) [en una ronda rápida 48]",
+      "question": "¿Cuántos días tiene una semana? (10)",
       "answers": [
         "5",
         "6",
@@ -577,7 +577,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué moneda se usa en España? (10) [en una pista 49]",
+      "question": "¿Qué moneda se usa en España? (10)",
       "answers": [
         "Dólar",
         "Euro",
@@ -589,7 +589,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Cuántas horas tiene un día? (10) [como dato curioso 50]",
+      "question": "¿Cuántas horas tiene un día? (10)",
       "answers": [
         "12",
         "18",
@@ -723,7 +723,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Cuál es la capital de España? (3) [en clase 11]",
+      "question": "¿Cuál es la capital de España? (3)",
       "answers": [
         "Madrid",
         "Barcelona",
@@ -735,7 +735,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Cuál es la capital de Francia? (3) [durante un viaje 12]",
+      "question": "¿Cuál es la capital de Francia? (3)",
       "answers": [
         "Roma",
         "París",
@@ -747,7 +747,7 @@
       "level": "facil"
     },
     {
-      "question": "¿En qué continente está Japón? (3) [en una conversación 13]",
+      "question": "¿En qué continente está Japón? (3)",
       "answers": [
         "Europa",
         "Asia",
@@ -759,7 +759,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué océano está al oeste de América? (3) [en un concurso 14]",
+      "question": "¿Qué océano está al oeste de América? (3)",
       "answers": [
         "Índico",
         "Pacífico",
@@ -771,7 +771,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué ciudad es famosa por la Torre Eiffel? (3) [en cultura general 15]",
+      "question": "¿Qué ciudad es famosa por la Torre Eiffel? (3)",
       "answers": [
         "Roma",
         "París",
@@ -783,7 +783,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Cuál es la capital de España? (4) [para niños curiosos 16]",
+      "question": "¿Cuál es la capital de España? (4)",
       "answers": [
         "Madrid",
         "Barcelona",
@@ -795,7 +795,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Cuál es la capital de Francia? (4) [en un juego 17]",
+      "question": "¿Cuál es la capital de Francia? (4)",
       "answers": [
         "Roma",
         "París",
@@ -807,7 +807,7 @@
       "level": "facil"
     },
     {
-      "question": "¿En qué continente está Japón? (4) [en una ronda rápida 18]",
+      "question": "¿En qué continente está Japón? (4)",
       "answers": [
         "Europa",
         "Asia",
@@ -819,7 +819,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué océano está al oeste de América? (4) [en una pista 19]",
+      "question": "¿Qué océano está al oeste de América? (4)",
       "answers": [
         "Índico",
         "Pacífico",
@@ -831,7 +831,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué ciudad es famosa por la Torre Eiffel? (4) [como dato curioso 20]",
+      "question": "¿Qué ciudad es famosa por la Torre Eiffel? (4)",
       "answers": [
         "Roma",
         "París",
@@ -843,7 +843,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Cuál es la capital de España? (5) [en clase 21]",
+      "question": "¿Cuál es la capital de España? (5)",
       "answers": [
         "Madrid",
         "Barcelona",
@@ -855,7 +855,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Cuál es la capital de Francia? (5) [durante un viaje 22]",
+      "question": "¿Cuál es la capital de Francia? (5)",
       "answers": [
         "Roma",
         "París",
@@ -867,7 +867,7 @@
       "level": "facil"
     },
     {
-      "question": "¿En qué continente está Japón? (5) [en una conversación 23]",
+      "question": "¿En qué continente está Japón? (5)",
       "answers": [
         "Europa",
         "Asia",
@@ -879,7 +879,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué océano está al oeste de América? (5) [en un concurso 24]",
+      "question": "¿Qué océano está al oeste de América? (5)",
       "answers": [
         "Índico",
         "Pacífico",
@@ -891,7 +891,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué ciudad es famosa por la Torre Eiffel? (5) [en cultura general 25]",
+      "question": "¿Qué ciudad es famosa por la Torre Eiffel? (5)",
       "answers": [
         "Roma",
         "París",
@@ -903,7 +903,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Cuál es la capital de España? (6) [para niños curiosos 26]",
+      "question": "¿Cuál es la capital de España? (6)",
       "answers": [
         "Madrid",
         "Barcelona",
@@ -915,7 +915,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Cuál es la capital de Francia? (6) [en un juego 27]",
+      "question": "¿Cuál es la capital de Francia? (6)",
       "answers": [
         "Roma",
         "París",
@@ -927,7 +927,7 @@
       "level": "facil"
     },
     {
-      "question": "¿En qué continente está Japón? (6) [en una ronda rápida 28]",
+      "question": "¿En qué continente está Japón? (6)",
       "answers": [
         "Europa",
         "Asia",
@@ -939,7 +939,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué océano está al oeste de América? (6) [en una pista 29]",
+      "question": "¿Qué océano está al oeste de América? (6)",
       "answers": [
         "Índico",
         "Pacífico",
@@ -951,7 +951,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué ciudad es famosa por la Torre Eiffel? (6) [como dato curioso 30]",
+      "question": "¿Qué ciudad es famosa por la Torre Eiffel? (6)",
       "answers": [
         "Roma",
         "París",
@@ -963,7 +963,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Cuál es la capital de España? (7) [en clase 31]",
+      "question": "¿Cuál es la capital de España? (7)",
       "answers": [
         "Madrid",
         "Barcelona",
@@ -975,7 +975,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Cuál es la capital de Francia? (7) [durante un viaje 32]",
+      "question": "¿Cuál es la capital de Francia? (7)",
       "answers": [
         "Roma",
         "París",
@@ -987,7 +987,7 @@
       "level": "facil"
     },
     {
-      "question": "¿En qué continente está Japón? (7) [en una conversación 33]",
+      "question": "¿En qué continente está Japón? (7)",
       "answers": [
         "Europa",
         "Asia",
@@ -999,7 +999,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué océano está al oeste de América? (7) [en un concurso 34]",
+      "question": "¿Qué océano está al oeste de América? (7)",
       "answers": [
         "Índico",
         "Pacífico",
@@ -1011,7 +1011,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué ciudad es famosa por la Torre Eiffel? (7) [en cultura general 35]",
+      "question": "¿Qué ciudad es famosa por la Torre Eiffel? (7)",
       "answers": [
         "Roma",
         "París",
@@ -1023,7 +1023,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Cuál es la capital de España? (8) [para niños curiosos 36]",
+      "question": "¿Cuál es la capital de España? (8)",
       "answers": [
         "Madrid",
         "Barcelona",
@@ -1035,7 +1035,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Cuál es la capital de Francia? (8) [en un juego 37]",
+      "question": "¿Cuál es la capital de Francia? (8)",
       "answers": [
         "Roma",
         "París",
@@ -1047,7 +1047,7 @@
       "level": "facil"
     },
     {
-      "question": "¿En qué continente está Japón? (8) [en una ronda rápida 38]",
+      "question": "¿En qué continente está Japón? (8)",
       "answers": [
         "Europa",
         "Asia",
@@ -1059,7 +1059,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué océano está al oeste de América? (8) [en una pista 39]",
+      "question": "¿Qué océano está al oeste de América? (8)",
       "answers": [
         "Índico",
         "Pacífico",
@@ -1071,7 +1071,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué ciudad es famosa por la Torre Eiffel? (8) [como dato curioso 40]",
+      "question": "¿Qué ciudad es famosa por la Torre Eiffel? (8)",
       "answers": [
         "Roma",
         "París",
@@ -1083,7 +1083,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Cuál es la capital de España? (9) [en clase 41]",
+      "question": "¿Cuál es la capital de España? (9)",
       "answers": [
         "Madrid",
         "Barcelona",
@@ -1095,7 +1095,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Cuál es la capital de Francia? (9) [durante un viaje 42]",
+      "question": "¿Cuál es la capital de Francia? (9)",
       "answers": [
         "Roma",
         "París",
@@ -1107,7 +1107,7 @@
       "level": "facil"
     },
     {
-      "question": "¿En qué continente está Japón? (9) [en una conversación 43]",
+      "question": "¿En qué continente está Japón? (9)",
       "answers": [
         "Europa",
         "Asia",
@@ -1119,7 +1119,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué océano está al oeste de América? (9) [en un concurso 44]",
+      "question": "¿Qué océano está al oeste de América? (9)",
       "answers": [
         "Índico",
         "Pacífico",
@@ -1131,7 +1131,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué ciudad es famosa por la Torre Eiffel? (9) [en cultura general 45]",
+      "question": "¿Qué ciudad es famosa por la Torre Eiffel? (9)",
       "answers": [
         "Roma",
         "París",
@@ -1143,7 +1143,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Cuál es la capital de España? (10) [para niños curiosos 46]",
+      "question": "¿Cuál es la capital de España? (10)",
       "answers": [
         "Madrid",
         "Barcelona",
@@ -1155,7 +1155,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Cuál es la capital de Francia? (10) [en un juego 47]",
+      "question": "¿Cuál es la capital de Francia? (10)",
       "answers": [
         "Roma",
         "París",
@@ -1167,7 +1167,7 @@
       "level": "facil"
     },
     {
-      "question": "¿En qué continente está Japón? (10) [en una ronda rápida 48]",
+      "question": "¿En qué continente está Japón? (10)",
       "answers": [
         "Europa",
         "Asia",
@@ -1179,7 +1179,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué océano está al oeste de América? (10) [en una pista 49]",
+      "question": "¿Qué océano está al oeste de América? (10)",
       "answers": [
         "Índico",
         "Pacífico",
@@ -1191,7 +1191,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué ciudad es famosa por la Torre Eiffel? (10) [como dato curioso 50]",
+      "question": "¿Qué ciudad es famosa por la Torre Eiffel? (10)",
       "answers": [
         "Roma",
         "París",
@@ -1325,7 +1325,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué planeta es conocido como el planeta rojo? (3) [en clase 11]",
+      "question": "¿Qué planeta es conocido como el planeta rojo? (3)",
       "answers": [
         "Venus",
         "Marte",
@@ -1337,7 +1337,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Cuál es el estado sólido del agua? (3) [durante un viaje 12]",
+      "question": "¿Cuál es el estado sólido del agua? (3)",
       "answers": [
         "Humo",
         "Vapor",
@@ -1349,7 +1349,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué parte de la planta está bajo tierra? (3) [en una conversación 13]",
+      "question": "¿Qué parte de la planta está bajo tierra? (3)",
       "answers": [
         "Flor",
         "Raíz",
@@ -1361,7 +1361,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Cuál es el astro que da luz a la Tierra? (3) [en un concurso 14]",
+      "question": "¿Cuál es el astro que da luz a la Tierra? (3)",
       "answers": [
         "Sol",
         "Luna",
@@ -1373,7 +1373,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Cuál de estos animales es mamífero? (3) [en cultura general 15]",
+      "question": "¿Cuál de estos animales es mamífero? (3)",
       "answers": [
         "Tiburón",
         "Delfín",
@@ -1385,7 +1385,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué planeta es conocido como el planeta rojo? (4) [para niños curiosos 16]",
+      "question": "¿Qué planeta es conocido como el planeta rojo? (4)",
       "answers": [
         "Venus",
         "Marte",
@@ -1397,7 +1397,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Cuál es el estado sólido del agua? (4) [en un juego 17]",
+      "question": "¿Cuál es el estado sólido del agua? (4)",
       "answers": [
         "Humo",
         "Vapor",
@@ -1409,7 +1409,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué parte de la planta está bajo tierra? (4) [en una ronda rápida 18]",
+      "question": "¿Qué parte de la planta está bajo tierra? (4)",
       "answers": [
         "Flor",
         "Raíz",
@@ -1421,7 +1421,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Cuál es el astro que da luz a la Tierra? (4) [en una pista 19]",
+      "question": "¿Cuál es el astro que da luz a la Tierra? (4)",
       "answers": [
         "Sol",
         "Luna",
@@ -1433,7 +1433,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Cuál de estos animales es mamífero? (4) [como dato curioso 20]",
+      "question": "¿Cuál de estos animales es mamífero? (4)",
       "answers": [
         "Tiburón",
         "Delfín",
@@ -1445,7 +1445,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué planeta es conocido como el planeta rojo? (5) [en clase 21]",
+      "question": "¿Qué planeta es conocido como el planeta rojo? (5)",
       "answers": [
         "Venus",
         "Marte",
@@ -1457,7 +1457,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Cuál es el estado sólido del agua? (5) [durante un viaje 22]",
+      "question": "¿Cuál es el estado sólido del agua? (5)",
       "answers": [
         "Humo",
         "Vapor",
@@ -1469,7 +1469,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué parte de la planta está bajo tierra? (5) [en una conversación 23]",
+      "question": "¿Qué parte de la planta está bajo tierra? (5)",
       "answers": [
         "Flor",
         "Raíz",
@@ -1481,7 +1481,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Cuál es el astro que da luz a la Tierra? (5) [en un concurso 24]",
+      "question": "¿Cuál es el astro que da luz a la Tierra? (5)",
       "answers": [
         "Sol",
         "Luna",
@@ -1493,7 +1493,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Cuál de estos animales es mamífero? (5) [en cultura general 25]",
+      "question": "¿Cuál de estos animales es mamífero? (5)",
       "answers": [
         "Tiburón",
         "Delfín",
@@ -1505,7 +1505,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué planeta es conocido como el planeta rojo? (6) [para niños curiosos 26]",
+      "question": "¿Qué planeta es conocido como el planeta rojo? (6)",
       "answers": [
         "Venus",
         "Marte",
@@ -1517,7 +1517,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Cuál es el estado sólido del agua? (6) [en un juego 27]",
+      "question": "¿Cuál es el estado sólido del agua? (6)",
       "answers": [
         "Humo",
         "Vapor",
@@ -1529,7 +1529,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué parte de la planta está bajo tierra? (6) [en una ronda rápida 28]",
+      "question": "¿Qué parte de la planta está bajo tierra? (6)",
       "answers": [
         "Flor",
         "Raíz",
@@ -1541,7 +1541,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Cuál es el astro que da luz a la Tierra? (6) [en una pista 29]",
+      "question": "¿Cuál es el astro que da luz a la Tierra? (6)",
       "answers": [
         "Sol",
         "Luna",
@@ -1553,7 +1553,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Cuál de estos animales es mamífero? (6) [como dato curioso 30]",
+      "question": "¿Cuál de estos animales es mamífero? (6)",
       "answers": [
         "Tiburón",
         "Delfín",
@@ -1565,7 +1565,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué planeta es conocido como el planeta rojo? (7) [en clase 31]",
+      "question": "¿Qué planeta es conocido como el planeta rojo? (7)",
       "answers": [
         "Venus",
         "Marte",
@@ -1577,7 +1577,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Cuál es el estado sólido del agua? (7) [durante un viaje 32]",
+      "question": "¿Cuál es el estado sólido del agua? (7)",
       "answers": [
         "Humo",
         "Vapor",
@@ -1589,7 +1589,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué parte de la planta está bajo tierra? (7) [en una conversación 33]",
+      "question": "¿Qué parte de la planta está bajo tierra? (7)",
       "answers": [
         "Flor",
         "Raíz",
@@ -1601,7 +1601,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Cuál es el astro que da luz a la Tierra? (7) [en un concurso 34]",
+      "question": "¿Cuál es el astro que da luz a la Tierra? (7)",
       "answers": [
         "Sol",
         "Luna",
@@ -1613,7 +1613,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Cuál de estos animales es mamífero? (7) [en cultura general 35]",
+      "question": "¿Cuál de estos animales es mamífero? (7)",
       "answers": [
         "Tiburón",
         "Delfín",
@@ -1625,7 +1625,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué planeta es conocido como el planeta rojo? (8) [para niños curiosos 36]",
+      "question": "¿Qué planeta es conocido como el planeta rojo? (8)",
       "answers": [
         "Venus",
         "Marte",
@@ -1637,7 +1637,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Cuál es el estado sólido del agua? (8) [en un juego 37]",
+      "question": "¿Cuál es el estado sólido del agua? (8)",
       "answers": [
         "Humo",
         "Vapor",
@@ -1649,7 +1649,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué parte de la planta está bajo tierra? (8) [en una ronda rápida 38]",
+      "question": "¿Qué parte de la planta está bajo tierra? (8)",
       "answers": [
         "Flor",
         "Raíz",
@@ -1661,7 +1661,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Cuál es el astro que da luz a la Tierra? (8) [en una pista 39]",
+      "question": "¿Cuál es el astro que da luz a la Tierra? (8)",
       "answers": [
         "Sol",
         "Luna",
@@ -1673,7 +1673,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Cuál de estos animales es mamífero? (8) [como dato curioso 40]",
+      "question": "¿Cuál de estos animales es mamífero? (8)",
       "answers": [
         "Tiburón",
         "Delfín",
@@ -1685,7 +1685,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué planeta es conocido como el planeta rojo? (9) [en clase 41]",
+      "question": "¿Qué planeta es conocido como el planeta rojo? (9)",
       "answers": [
         "Venus",
         "Marte",
@@ -1697,7 +1697,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Cuál es el estado sólido del agua? (9) [durante un viaje 42]",
+      "question": "¿Cuál es el estado sólido del agua? (9)",
       "answers": [
         "Humo",
         "Vapor",
@@ -1709,7 +1709,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué parte de la planta está bajo tierra? (9) [en una conversación 43]",
+      "question": "¿Qué parte de la planta está bajo tierra? (9)",
       "answers": [
         "Flor",
         "Raíz",
@@ -1721,7 +1721,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Cuál es el astro que da luz a la Tierra? (9) [en un concurso 44]",
+      "question": "¿Cuál es el astro que da luz a la Tierra? (9)",
       "answers": [
         "Sol",
         "Luna",
@@ -1733,7 +1733,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Cuál de estos animales es mamífero? (9) [en cultura general 45]",
+      "question": "¿Cuál de estos animales es mamífero? (9)",
       "answers": [
         "Tiburón",
         "Delfín",
@@ -1745,7 +1745,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué planeta es conocido como el planeta rojo? (10) [para niños curiosos 46]",
+      "question": "¿Qué planeta es conocido como el planeta rojo? (10)",
       "answers": [
         "Venus",
         "Marte",
@@ -1757,7 +1757,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Cuál es el estado sólido del agua? (10) [en un juego 47]",
+      "question": "¿Cuál es el estado sólido del agua? (10)",
       "answers": [
         "Humo",
         "Vapor",
@@ -1769,7 +1769,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué parte de la planta está bajo tierra? (10) [en una ronda rápida 48]",
+      "question": "¿Qué parte de la planta está bajo tierra? (10)",
       "answers": [
         "Flor",
         "Raíz",
@@ -1781,7 +1781,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Cuál es el astro que da luz a la Tierra? (10) [en una pista 49]",
+      "question": "¿Cuál es el astro que da luz a la Tierra? (10)",
       "answers": [
         "Sol",
         "Luna",
@@ -1793,7 +1793,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Cuál de estos animales es mamífero? (10) [como dato curioso 50]",
+      "question": "¿Cuál de estos animales es mamífero? (10)",
       "answers": [
         "Tiburón",
         "Delfín",
@@ -1927,7 +1927,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué construyeron los egipcios famosos por su tamaño? (3) [en clase 11]",
+      "question": "¿Qué construyeron los egipcios famosos por su tamaño? (3)",
       "answers": [
         "Pirámides",
         "Rascacielos",
@@ -1939,7 +1939,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Quién llegó a América en 1492? (3) [durante un viaje 12]",
+      "question": "¿Quién llegó a América en 1492? (3)",
       "answers": [
         "Marco Polo",
         "Colón",
@@ -1951,7 +1951,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué civilización vivía en Roma antigua? (3) [en una conversación 13]",
+      "question": "¿Qué civilización vivía en Roma antigua? (3)",
       "answers": [
         "Romana",
         "Inca",
@@ -1963,7 +1963,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué monumento está en China y es muy largo? (3) [en un concurso 14]",
+      "question": "¿Qué monumento está en China y es muy largo? (3)",
       "answers": [
         "Muralla China",
         "Big Ben",
@@ -1975,7 +1975,7 @@
       "level": "facil"
     },
     {
-      "question": "¿En qué país estaban los faraones? (3) [en cultura general 15]",
+      "question": "¿En qué país estaban los faraones? (3)",
       "answers": [
         "Grecia",
         "Egipto",
@@ -1987,7 +1987,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué construyeron los egipcios famosos por su tamaño? (4) [para niños curiosos 16]",
+      "question": "¿Qué construyeron los egipcios famosos por su tamaño? (4)",
       "answers": [
         "Pirámides",
         "Rascacielos",
@@ -1999,7 +1999,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Quién llegó a América en 1492? (4) [en un juego 17]",
+      "question": "¿Quién llegó a América en 1492? (4)",
       "answers": [
         "Marco Polo",
         "Colón",
@@ -2011,7 +2011,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué civilización vivía en Roma antigua? (4) [en una ronda rápida 18]",
+      "question": "¿Qué civilización vivía en Roma antigua? (4)",
       "answers": [
         "Romana",
         "Inca",
@@ -2023,7 +2023,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué monumento está en China y es muy largo? (4) [en una pista 19]",
+      "question": "¿Qué monumento está en China y es muy largo? (4)",
       "answers": [
         "Muralla China",
         "Big Ben",
@@ -2035,7 +2035,7 @@
       "level": "facil"
     },
     {
-      "question": "¿En qué país estaban los faraones? (4) [como dato curioso 20]",
+      "question": "¿En qué país estaban los faraones? (4)",
       "answers": [
         "Grecia",
         "Egipto",
@@ -2047,7 +2047,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué construyeron los egipcios famosos por su tamaño? (5) [en clase 21]",
+      "question": "¿Qué construyeron los egipcios famosos por su tamaño? (5)",
       "answers": [
         "Pirámides",
         "Rascacielos",
@@ -2059,7 +2059,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Quién llegó a América en 1492? (5) [durante un viaje 22]",
+      "question": "¿Quién llegó a América en 1492? (5)",
       "answers": [
         "Marco Polo",
         "Colón",
@@ -2071,7 +2071,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué civilización vivía en Roma antigua? (5) [en una conversación 23]",
+      "question": "¿Qué civilización vivía en Roma antigua? (5)",
       "answers": [
         "Romana",
         "Inca",
@@ -2083,7 +2083,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué monumento está en China y es muy largo? (5) [en un concurso 24]",
+      "question": "¿Qué monumento está en China y es muy largo? (5)",
       "answers": [
         "Muralla China",
         "Big Ben",
@@ -2095,7 +2095,7 @@
       "level": "facil"
     },
     {
-      "question": "¿En qué país estaban los faraones? (5) [en cultura general 25]",
+      "question": "¿En qué país estaban los faraones? (5)",
       "answers": [
         "Grecia",
         "Egipto",
@@ -2107,7 +2107,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué construyeron los egipcios famosos por su tamaño? (6) [para niños curiosos 26]",
+      "question": "¿Qué construyeron los egipcios famosos por su tamaño? (6)",
       "answers": [
         "Pirámides",
         "Rascacielos",
@@ -2119,7 +2119,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Quién llegó a América en 1492? (6) [en un juego 27]",
+      "question": "¿Quién llegó a América en 1492? (6)",
       "answers": [
         "Marco Polo",
         "Colón",
@@ -2131,7 +2131,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué civilización vivía en Roma antigua? (6) [en una ronda rápida 28]",
+      "question": "¿Qué civilización vivía en Roma antigua? (6)",
       "answers": [
         "Romana",
         "Inca",
@@ -2143,7 +2143,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué monumento está en China y es muy largo? (6) [en una pista 29]",
+      "question": "¿Qué monumento está en China y es muy largo? (6)",
       "answers": [
         "Muralla China",
         "Big Ben",
@@ -2155,7 +2155,7 @@
       "level": "facil"
     },
     {
-      "question": "¿En qué país estaban los faraones? (6) [como dato curioso 30]",
+      "question": "¿En qué país estaban los faraones? (6)",
       "answers": [
         "Grecia",
         "Egipto",
@@ -2167,7 +2167,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué construyeron los egipcios famosos por su tamaño? (7) [en clase 31]",
+      "question": "¿Qué construyeron los egipcios famosos por su tamaño? (7)",
       "answers": [
         "Pirámides",
         "Rascacielos",
@@ -2179,7 +2179,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Quién llegó a América en 1492? (7) [durante un viaje 32]",
+      "question": "¿Quién llegó a América en 1492? (7)",
       "answers": [
         "Marco Polo",
         "Colón",
@@ -2191,7 +2191,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué civilización vivía en Roma antigua? (7) [en una conversación 33]",
+      "question": "¿Qué civilización vivía en Roma antigua? (7)",
       "answers": [
         "Romana",
         "Inca",
@@ -2203,7 +2203,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué monumento está en China y es muy largo? (7) [en un concurso 34]",
+      "question": "¿Qué monumento está en China y es muy largo? (7)",
       "answers": [
         "Muralla China",
         "Big Ben",
@@ -2215,7 +2215,7 @@
       "level": "facil"
     },
     {
-      "question": "¿En qué país estaban los faraones? (7) [en cultura general 35]",
+      "question": "¿En qué país estaban los faraones? (7)",
       "answers": [
         "Grecia",
         "Egipto",
@@ -2227,7 +2227,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué construyeron los egipcios famosos por su tamaño? (8) [para niños curiosos 36]",
+      "question": "¿Qué construyeron los egipcios famosos por su tamaño? (8)",
       "answers": [
         "Pirámides",
         "Rascacielos",
@@ -2239,7 +2239,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Quién llegó a América en 1492? (8) [en un juego 37]",
+      "question": "¿Quién llegó a América en 1492? (8)",
       "answers": [
         "Marco Polo",
         "Colón",
@@ -2251,7 +2251,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué civilización vivía en Roma antigua? (8) [en una ronda rápida 38]",
+      "question": "¿Qué civilización vivía en Roma antigua? (8)",
       "answers": [
         "Romana",
         "Inca",
@@ -2263,7 +2263,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué monumento está en China y es muy largo? (8) [en una pista 39]",
+      "question": "¿Qué monumento está en China y es muy largo? (8)",
       "answers": [
         "Muralla China",
         "Big Ben",
@@ -2275,7 +2275,7 @@
       "level": "facil"
     },
     {
-      "question": "¿En qué país estaban los faraones? (8) [como dato curioso 40]",
+      "question": "¿En qué país estaban los faraones? (8)",
       "answers": [
         "Grecia",
         "Egipto",
@@ -2287,7 +2287,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué construyeron los egipcios famosos por su tamaño? (9) [en clase 41]",
+      "question": "¿Qué construyeron los egipcios famosos por su tamaño? (9)",
       "answers": [
         "Pirámides",
         "Rascacielos",
@@ -2299,7 +2299,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Quién llegó a América en 1492? (9) [durante un viaje 42]",
+      "question": "¿Quién llegó a América en 1492? (9)",
       "answers": [
         "Marco Polo",
         "Colón",
@@ -2311,7 +2311,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué civilización vivía en Roma antigua? (9) [en una conversación 43]",
+      "question": "¿Qué civilización vivía en Roma antigua? (9)",
       "answers": [
         "Romana",
         "Inca",
@@ -2323,7 +2323,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué monumento está en China y es muy largo? (9) [en un concurso 44]",
+      "question": "¿Qué monumento está en China y es muy largo? (9)",
       "answers": [
         "Muralla China",
         "Big Ben",
@@ -2335,7 +2335,7 @@
       "level": "facil"
     },
     {
-      "question": "¿En qué país estaban los faraones? (9) [en cultura general 45]",
+      "question": "¿En qué país estaban los faraones? (9)",
       "answers": [
         "Grecia",
         "Egipto",
@@ -2347,7 +2347,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué construyeron los egipcios famosos por su tamaño? (10) [para niños curiosos 46]",
+      "question": "¿Qué construyeron los egipcios famosos por su tamaño? (10)",
       "answers": [
         "Pirámides",
         "Rascacielos",
@@ -2359,7 +2359,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Quién llegó a América en 1492? (10) [en un juego 47]",
+      "question": "¿Quién llegó a América en 1492? (10)",
       "answers": [
         "Marco Polo",
         "Colón",
@@ -2371,7 +2371,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué civilización vivía en Roma antigua? (10) [en una ronda rápida 48]",
+      "question": "¿Qué civilización vivía en Roma antigua? (10)",
       "answers": [
         "Romana",
         "Inca",
@@ -2383,7 +2383,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué monumento está en China y es muy largo? (10) [en una pista 49]",
+      "question": "¿Qué monumento está en China y es muy largo? (10)",
       "answers": [
         "Muralla China",
         "Big Ben",
@@ -2395,7 +2395,7 @@
       "level": "facil"
     },
     {
-      "question": "¿En qué país estaban los faraones? (10) [como dato curioso 50]",
+      "question": "¿En qué país estaban los faraones? (10)",
       "answers": [
         "Grecia",
         "Egipto",
@@ -2529,7 +2529,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué superhéroe lleva un escudo con estrella? (3) [en clase 11]",
+      "question": "¿Qué superhéroe lleva un escudo con estrella? (3)",
       "answers": [
         "Batman",
         "Iron Man",
@@ -2541,7 +2541,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué película tiene un pez llamado Nemo? (3) [durante un viaje 12]",
+      "question": "¿Qué película tiene un pez llamado Nemo? (3)",
       "answers": [
         "Coco",
         "Cars",
@@ -2553,7 +2553,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué estudio creó a Mickey Mouse? (3) [en una conversación 13]",
+      "question": "¿Qué estudio creó a Mickey Mouse? (3)",
       "answers": [
         "Pixar",
         "DreamWorks",
@@ -2565,7 +2565,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué personaje de Star Wars respira con máscara negra? (3) [en un concurso 14]",
+      "question": "¿Qué personaje de Star Wars respira con máscara negra? (3)",
       "answers": [
         "Yoda",
         "Darth Vader",
@@ -2577,7 +2577,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué juguete espacial acompaña a Woody? (3) [en cultura general 15]",
+      "question": "¿Qué juguete espacial acompaña a Woody? (3)",
       "answers": [
         "Buzz Lightyear",
         "Forky",
@@ -2589,7 +2589,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué superhéroe lleva un escudo con estrella? (4) [para niños curiosos 16]",
+      "question": "¿Qué superhéroe lleva un escudo con estrella? (4)",
       "answers": [
         "Batman",
         "Iron Man",
@@ -2601,7 +2601,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué película tiene un pez llamado Nemo? (4) [en un juego 17]",
+      "question": "¿Qué película tiene un pez llamado Nemo? (4)",
       "answers": [
         "Coco",
         "Cars",
@@ -2613,7 +2613,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué estudio creó a Mickey Mouse? (4) [en una ronda rápida 18]",
+      "question": "¿Qué estudio creó a Mickey Mouse? (4)",
       "answers": [
         "Pixar",
         "DreamWorks",
@@ -2625,7 +2625,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué personaje de Star Wars respira con máscara negra? (4) [en una pista 19]",
+      "question": "¿Qué personaje de Star Wars respira con máscara negra? (4)",
       "answers": [
         "Yoda",
         "Darth Vader",
@@ -2637,7 +2637,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué juguete espacial acompaña a Woody? (4) [como dato curioso 20]",
+      "question": "¿Qué juguete espacial acompaña a Woody? (4)",
       "answers": [
         "Buzz Lightyear",
         "Forky",
@@ -2649,7 +2649,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué superhéroe lleva un escudo con estrella? (5) [en clase 21]",
+      "question": "¿Qué superhéroe lleva un escudo con estrella? (5)",
       "answers": [
         "Batman",
         "Iron Man",
@@ -2661,7 +2661,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué película tiene un pez llamado Nemo? (5) [durante un viaje 22]",
+      "question": "¿Qué película tiene un pez llamado Nemo? (5)",
       "answers": [
         "Coco",
         "Cars",
@@ -2673,7 +2673,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué estudio creó a Mickey Mouse? (5) [en una conversación 23]",
+      "question": "¿Qué estudio creó a Mickey Mouse? (5)",
       "answers": [
         "Pixar",
         "DreamWorks",
@@ -2685,7 +2685,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué personaje de Star Wars respira con máscara negra? (5) [en un concurso 24]",
+      "question": "¿Qué personaje de Star Wars respira con máscara negra? (5)",
       "answers": [
         "Yoda",
         "Darth Vader",
@@ -2697,7 +2697,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué juguete espacial acompaña a Woody? (5) [en cultura general 25]",
+      "question": "¿Qué juguete espacial acompaña a Woody? (5)",
       "answers": [
         "Buzz Lightyear",
         "Forky",
@@ -2709,7 +2709,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué superhéroe lleva un escudo con estrella? (6) [para niños curiosos 26]",
+      "question": "¿Qué superhéroe lleva un escudo con estrella? (6)",
       "answers": [
         "Batman",
         "Iron Man",
@@ -2721,7 +2721,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué película tiene un pez llamado Nemo? (6) [en un juego 27]",
+      "question": "¿Qué película tiene un pez llamado Nemo? (6)",
       "answers": [
         "Coco",
         "Cars",
@@ -2733,7 +2733,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué estudio creó a Mickey Mouse? (6) [en una ronda rápida 28]",
+      "question": "¿Qué estudio creó a Mickey Mouse? (6)",
       "answers": [
         "Pixar",
         "DreamWorks",
@@ -2745,7 +2745,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué personaje de Star Wars respira con máscara negra? (6) [en una pista 29]",
+      "question": "¿Qué personaje de Star Wars respira con máscara negra? (6)",
       "answers": [
         "Yoda",
         "Darth Vader",
@@ -2757,7 +2757,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué juguete espacial acompaña a Woody? (6) [como dato curioso 30]",
+      "question": "¿Qué juguete espacial acompaña a Woody? (6)",
       "answers": [
         "Buzz Lightyear",
         "Forky",
@@ -2769,7 +2769,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué superhéroe lleva un escudo con estrella? (7) [en clase 31]",
+      "question": "¿Qué superhéroe lleva un escudo con estrella? (7)",
       "answers": [
         "Batman",
         "Iron Man",
@@ -2781,7 +2781,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué película tiene un pez llamado Nemo? (7) [durante un viaje 32]",
+      "question": "¿Qué película tiene un pez llamado Nemo? (7)",
       "answers": [
         "Coco",
         "Cars",
@@ -2793,7 +2793,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué estudio creó a Mickey Mouse? (7) [en una conversación 33]",
+      "question": "¿Qué estudio creó a Mickey Mouse? (7)",
       "answers": [
         "Pixar",
         "DreamWorks",
@@ -2805,7 +2805,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué personaje de Star Wars respira con máscara negra? (7) [en un concurso 34]",
+      "question": "¿Qué personaje de Star Wars respira con máscara negra? (7)",
       "answers": [
         "Yoda",
         "Darth Vader",
@@ -2817,7 +2817,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué juguete espacial acompaña a Woody? (7) [en cultura general 35]",
+      "question": "¿Qué juguete espacial acompaña a Woody? (7)",
       "answers": [
         "Buzz Lightyear",
         "Forky",
@@ -2829,7 +2829,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué superhéroe lleva un escudo con estrella? (8) [para niños curiosos 36]",
+      "question": "¿Qué superhéroe lleva un escudo con estrella? (8)",
       "answers": [
         "Batman",
         "Iron Man",
@@ -2841,7 +2841,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué película tiene un pez llamado Nemo? (8) [en un juego 37]",
+      "question": "¿Qué película tiene un pez llamado Nemo? (8)",
       "answers": [
         "Coco",
         "Cars",
@@ -2853,7 +2853,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué estudio creó a Mickey Mouse? (8) [en una ronda rápida 38]",
+      "question": "¿Qué estudio creó a Mickey Mouse? (8)",
       "answers": [
         "Pixar",
         "DreamWorks",
@@ -2865,7 +2865,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué personaje de Star Wars respira con máscara negra? (8) [en una pista 39]",
+      "question": "¿Qué personaje de Star Wars respira con máscara negra? (8)",
       "answers": [
         "Yoda",
         "Darth Vader",
@@ -2877,7 +2877,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué juguete espacial acompaña a Woody? (8) [como dato curioso 40]",
+      "question": "¿Qué juguete espacial acompaña a Woody? (8)",
       "answers": [
         "Buzz Lightyear",
         "Forky",
@@ -2889,7 +2889,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué superhéroe lleva un escudo con estrella? (9) [en clase 41]",
+      "question": "¿Qué superhéroe lleva un escudo con estrella? (9)",
       "answers": [
         "Batman",
         "Iron Man",
@@ -2901,7 +2901,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué película tiene un pez llamado Nemo? (9) [durante un viaje 42]",
+      "question": "¿Qué película tiene un pez llamado Nemo? (9)",
       "answers": [
         "Coco",
         "Cars",
@@ -2913,7 +2913,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué estudio creó a Mickey Mouse? (9) [en una conversación 43]",
+      "question": "¿Qué estudio creó a Mickey Mouse? (9)",
       "answers": [
         "Pixar",
         "DreamWorks",
@@ -2925,7 +2925,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué personaje de Star Wars respira con máscara negra? (9) [en un concurso 44]",
+      "question": "¿Qué personaje de Star Wars respira con máscara negra? (9)",
       "answers": [
         "Yoda",
         "Darth Vader",
@@ -2937,7 +2937,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué juguete espacial acompaña a Woody? (9) [en cultura general 45]",
+      "question": "¿Qué juguete espacial acompaña a Woody? (9)",
       "answers": [
         "Buzz Lightyear",
         "Forky",
@@ -2949,7 +2949,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué superhéroe lleva un escudo con estrella? (10) [para niños curiosos 46]",
+      "question": "¿Qué superhéroe lleva un escudo con estrella? (10)",
       "answers": [
         "Batman",
         "Iron Man",
@@ -2961,7 +2961,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué película tiene un pez llamado Nemo? (10) [en un juego 47]",
+      "question": "¿Qué película tiene un pez llamado Nemo? (10)",
       "answers": [
         "Coco",
         "Cars",
@@ -2973,7 +2973,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué estudio creó a Mickey Mouse? (10) [en una ronda rápida 48]",
+      "question": "¿Qué estudio creó a Mickey Mouse? (10)",
       "answers": [
         "Pixar",
         "DreamWorks",
@@ -2985,7 +2985,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué personaje de Star Wars respira con máscara negra? (10) [en una pista 49]",
+      "question": "¿Qué personaje de Star Wars respira con máscara negra? (10)",
       "answers": [
         "Yoda",
         "Darth Vader",
@@ -2997,7 +2997,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué juguete espacial acompaña a Woody? (10) [como dato curioso 50]",
+      "question": "¿Qué juguete espacial acompaña a Woody? (10)",
       "answers": [
         "Buzz Lightyear",
         "Forky",
@@ -3131,7 +3131,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué deporte juega Rafa Nadal? (3) [en clase 11]",
+      "question": "¿Qué deporte juega Rafa Nadal? (3)",
       "answers": [
         "Fútbol",
         "Tenis",
@@ -3143,7 +3143,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Dónde se marcan goles? (3) [durante un viaje 12]",
+      "question": "¿Dónde se marcan goles? (3)",
       "answers": [
         "Fútbol",
         "Ajedrez",
@@ -3155,7 +3155,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué deporte usa una pelota de baloncesto? (3) [en una conversación 13]",
+      "question": "¿Qué deporte usa una pelota de baloncesto? (3)",
       "answers": [
         "Tenis",
         "Golf",
@@ -3167,7 +3167,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué se necesita para nadar en piscina? (3) [en un concurso 14]",
+      "question": "¿Qué se necesita para nadar en piscina? (3)",
       "answers": [
         "Casco",
         "Bañador",
@@ -3179,7 +3179,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué deporte practican los pilotos de MotoGP? (3) [en cultura general 15]",
+      "question": "¿Qué deporte practican los pilotos de MotoGP? (3)",
       "answers": [
         "Automovilismo",
         "Motociclismo",
@@ -3191,7 +3191,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué deporte juega Rafa Nadal? (4) [para niños curiosos 16]",
+      "question": "¿Qué deporte juega Rafa Nadal? (4)",
       "answers": [
         "Fútbol",
         "Tenis",
@@ -3203,7 +3203,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Dónde se marcan goles? (4) [en un juego 17]",
+      "question": "¿Dónde se marcan goles? (4)",
       "answers": [
         "Fútbol",
         "Ajedrez",
@@ -3215,7 +3215,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué deporte usa una pelota de baloncesto? (4) [en una ronda rápida 18]",
+      "question": "¿Qué deporte usa una pelota de baloncesto? (4)",
       "answers": [
         "Tenis",
         "Golf",
@@ -3227,7 +3227,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué se necesita para nadar en piscina? (4) [en una pista 19]",
+      "question": "¿Qué se necesita para nadar en piscina? (4)",
       "answers": [
         "Casco",
         "Bañador",
@@ -3239,7 +3239,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué deporte practican los pilotos de MotoGP? (4) [como dato curioso 20]",
+      "question": "¿Qué deporte practican los pilotos de MotoGP? (4)",
       "answers": [
         "Automovilismo",
         "Motociclismo",
@@ -3251,7 +3251,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué deporte juega Rafa Nadal? (5) [en clase 21]",
+      "question": "¿Qué deporte juega Rafa Nadal? (5)",
       "answers": [
         "Fútbol",
         "Tenis",
@@ -3263,7 +3263,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Dónde se marcan goles? (5) [durante un viaje 22]",
+      "question": "¿Dónde se marcan goles? (5)",
       "answers": [
         "Fútbol",
         "Ajedrez",
@@ -3275,7 +3275,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué deporte usa una pelota de baloncesto? (5) [en una conversación 23]",
+      "question": "¿Qué deporte usa una pelota de baloncesto? (5)",
       "answers": [
         "Tenis",
         "Golf",
@@ -3287,7 +3287,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué se necesita para nadar en piscina? (5) [en un concurso 24]",
+      "question": "¿Qué se necesita para nadar en piscina? (5)",
       "answers": [
         "Casco",
         "Bañador",
@@ -3299,7 +3299,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué deporte practican los pilotos de MotoGP? (5) [en cultura general 25]",
+      "question": "¿Qué deporte practican los pilotos de MotoGP? (5)",
       "answers": [
         "Automovilismo",
         "Motociclismo",
@@ -3311,7 +3311,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué deporte juega Rafa Nadal? (6) [para niños curiosos 26]",
+      "question": "¿Qué deporte juega Rafa Nadal? (6)",
       "answers": [
         "Fútbol",
         "Tenis",
@@ -3323,7 +3323,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Dónde se marcan goles? (6) [en un juego 27]",
+      "question": "¿Dónde se marcan goles? (6)",
       "answers": [
         "Fútbol",
         "Ajedrez",
@@ -3335,7 +3335,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué deporte usa una pelota de baloncesto? (6) [en una ronda rápida 28]",
+      "question": "¿Qué deporte usa una pelota de baloncesto? (6)",
       "answers": [
         "Tenis",
         "Golf",
@@ -3347,7 +3347,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué se necesita para nadar en piscina? (6) [en una pista 29]",
+      "question": "¿Qué se necesita para nadar en piscina? (6)",
       "answers": [
         "Casco",
         "Bañador",
@@ -3359,7 +3359,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué deporte practican los pilotos de MotoGP? (6) [como dato curioso 30]",
+      "question": "¿Qué deporte practican los pilotos de MotoGP? (6)",
       "answers": [
         "Automovilismo",
         "Motociclismo",
@@ -3371,7 +3371,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué deporte juega Rafa Nadal? (7) [en clase 31]",
+      "question": "¿Qué deporte juega Rafa Nadal? (7)",
       "answers": [
         "Fútbol",
         "Tenis",
@@ -3383,7 +3383,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Dónde se marcan goles? (7) [durante un viaje 32]",
+      "question": "¿Dónde se marcan goles? (7)",
       "answers": [
         "Fútbol",
         "Ajedrez",
@@ -3395,7 +3395,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué deporte usa una pelota de baloncesto? (7) [en una conversación 33]",
+      "question": "¿Qué deporte usa una pelota de baloncesto? (7)",
       "answers": [
         "Tenis",
         "Golf",
@@ -3407,7 +3407,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué se necesita para nadar en piscina? (7) [en un concurso 34]",
+      "question": "¿Qué se necesita para nadar en piscina? (7)",
       "answers": [
         "Casco",
         "Bañador",
@@ -3419,7 +3419,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué deporte practican los pilotos de MotoGP? (7) [en cultura general 35]",
+      "question": "¿Qué deporte practican los pilotos de MotoGP? (7)",
       "answers": [
         "Automovilismo",
         "Motociclismo",
@@ -3431,7 +3431,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué deporte juega Rafa Nadal? (8) [para niños curiosos 36]",
+      "question": "¿Qué deporte juega Rafa Nadal? (8)",
       "answers": [
         "Fútbol",
         "Tenis",
@@ -3443,7 +3443,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Dónde se marcan goles? (8) [en un juego 37]",
+      "question": "¿Dónde se marcan goles? (8)",
       "answers": [
         "Fútbol",
         "Ajedrez",
@@ -3455,7 +3455,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué deporte usa una pelota de baloncesto? (8) [en una ronda rápida 38]",
+      "question": "¿Qué deporte usa una pelota de baloncesto? (8)",
       "answers": [
         "Tenis",
         "Golf",
@@ -3467,7 +3467,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué se necesita para nadar en piscina? (8) [en una pista 39]",
+      "question": "¿Qué se necesita para nadar en piscina? (8)",
       "answers": [
         "Casco",
         "Bañador",
@@ -3479,7 +3479,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué deporte practican los pilotos de MotoGP? (8) [como dato curioso 40]",
+      "question": "¿Qué deporte practican los pilotos de MotoGP? (8)",
       "answers": [
         "Automovilismo",
         "Motociclismo",
@@ -3491,7 +3491,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué deporte juega Rafa Nadal? (9) [en clase 41]",
+      "question": "¿Qué deporte juega Rafa Nadal? (9)",
       "answers": [
         "Fútbol",
         "Tenis",
@@ -3503,7 +3503,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Dónde se marcan goles? (9) [durante un viaje 42]",
+      "question": "¿Dónde se marcan goles? (9)",
       "answers": [
         "Fútbol",
         "Ajedrez",
@@ -3515,7 +3515,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué deporte usa una pelota de baloncesto? (9) [en una conversación 43]",
+      "question": "¿Qué deporte usa una pelota de baloncesto? (9)",
       "answers": [
         "Tenis",
         "Golf",
@@ -3527,7 +3527,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué se necesita para nadar en piscina? (9) [en un concurso 44]",
+      "question": "¿Qué se necesita para nadar en piscina? (9)",
       "answers": [
         "Casco",
         "Bañador",
@@ -3539,7 +3539,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué deporte practican los pilotos de MotoGP? (9) [en cultura general 45]",
+      "question": "¿Qué deporte practican los pilotos de MotoGP? (9)",
       "answers": [
         "Automovilismo",
         "Motociclismo",
@@ -3551,7 +3551,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué deporte juega Rafa Nadal? (10) [para niños curiosos 46]",
+      "question": "¿Qué deporte juega Rafa Nadal? (10)",
       "answers": [
         "Fútbol",
         "Tenis",
@@ -3563,7 +3563,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Dónde se marcan goles? (10) [en un juego 47]",
+      "question": "¿Dónde se marcan goles? (10)",
       "answers": [
         "Fútbol",
         "Ajedrez",
@@ -3575,7 +3575,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué deporte usa una pelota de baloncesto? (10) [en una ronda rápida 48]",
+      "question": "¿Qué deporte usa una pelota de baloncesto? (10)",
       "answers": [
         "Tenis",
         "Golf",
@@ -3587,7 +3587,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué se necesita para nadar en piscina? (10) [en una pista 49]",
+      "question": "¿Qué se necesita para nadar en piscina? (10)",
       "answers": [
         "Casco",
         "Bañador",
@@ -3599,7 +3599,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué deporte practican los pilotos de MotoGP? (10) [como dato curioso 50]",
+      "question": "¿Qué deporte practican los pilotos de MotoGP? (10)",
       "answers": [
         "Automovilismo",
         "Motociclismo",
@@ -3733,7 +3733,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué artista era conocido como el Rey del Pop? (3) [en clase 11]",
+      "question": "¿Qué artista era conocido como el Rey del Pop? (3)",
       "answers": [
         "Prince",
         "Michael Jackson",
@@ -3745,7 +3745,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué instrumento tiene cuerdas y se toca con dedos o púa? (3) [durante un viaje 12]",
+      "question": "¿Qué instrumento tiene cuerdas y se toca con dedos o púa? (3)",
       "answers": [
         "Guitarra",
         "Batería",
@@ -3757,7 +3757,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué grupo cantaba Bohemian Rhapsody? (3) [en una conversación 13]",
+      "question": "¿Qué grupo cantaba Bohemian Rhapsody? (3)",
       "answers": [
         "ABBA",
         "Queen",
@@ -3769,7 +3769,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué instrumento toca un baterista? (3) [en un concurso 14]",
+      "question": "¿Qué instrumento toca un baterista? (3)",
       "answers": [
         "Chelo",
         "Arpa",
@@ -3781,7 +3781,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué cantante fue líder de Queen? (3) [en cultura general 15]",
+      "question": "¿Qué cantante fue líder de Queen? (3)",
       "answers": [
         "Freddie Mercury",
         "Bono",
@@ -3793,7 +3793,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué artista era conocido como el Rey del Pop? (4) [para niños curiosos 16]",
+      "question": "¿Qué artista era conocido como el Rey del Pop? (4)",
       "answers": [
         "Prince",
         "Michael Jackson",
@@ -3805,7 +3805,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué instrumento tiene cuerdas y se toca con dedos o púa? (4) [en un juego 17]",
+      "question": "¿Qué instrumento tiene cuerdas y se toca con dedos o púa? (4)",
       "answers": [
         "Guitarra",
         "Batería",
@@ -3817,7 +3817,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué grupo cantaba Bohemian Rhapsody? (4) [en una ronda rápida 18]",
+      "question": "¿Qué grupo cantaba Bohemian Rhapsody? (4)",
       "answers": [
         "ABBA",
         "Queen",
@@ -3829,7 +3829,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué instrumento toca un baterista? (4) [en una pista 19]",
+      "question": "¿Qué instrumento toca un baterista? (4)",
       "answers": [
         "Chelo",
         "Arpa",
@@ -3841,7 +3841,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué cantante fue líder de Queen? (4) [como dato curioso 20]",
+      "question": "¿Qué cantante fue líder de Queen? (4)",
       "answers": [
         "Freddie Mercury",
         "Bono",
@@ -3853,7 +3853,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué artista era conocido como el Rey del Pop? (5) [en clase 21]",
+      "question": "¿Qué artista era conocido como el Rey del Pop? (5)",
       "answers": [
         "Prince",
         "Michael Jackson",
@@ -3865,7 +3865,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué instrumento tiene cuerdas y se toca con dedos o púa? (5) [durante un viaje 22]",
+      "question": "¿Qué instrumento tiene cuerdas y se toca con dedos o púa? (5)",
       "answers": [
         "Guitarra",
         "Batería",
@@ -3877,7 +3877,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué grupo cantaba Bohemian Rhapsody? (5) [en una conversación 23]",
+      "question": "¿Qué grupo cantaba Bohemian Rhapsody? (5)",
       "answers": [
         "ABBA",
         "Queen",
@@ -3889,7 +3889,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué instrumento toca un baterista? (5) [en un concurso 24]",
+      "question": "¿Qué instrumento toca un baterista? (5)",
       "answers": [
         "Chelo",
         "Arpa",
@@ -3901,7 +3901,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué cantante fue líder de Queen? (5) [en cultura general 25]",
+      "question": "¿Qué cantante fue líder de Queen? (5)",
       "answers": [
         "Freddie Mercury",
         "Bono",
@@ -3913,7 +3913,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué artista era conocido como el Rey del Pop? (6) [para niños curiosos 26]",
+      "question": "¿Qué artista era conocido como el Rey del Pop? (6)",
       "answers": [
         "Prince",
         "Michael Jackson",
@@ -3925,7 +3925,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué instrumento tiene cuerdas y se toca con dedos o púa? (6) [en un juego 27]",
+      "question": "¿Qué instrumento tiene cuerdas y se toca con dedos o púa? (6)",
       "answers": [
         "Guitarra",
         "Batería",
@@ -3937,7 +3937,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué grupo cantaba Bohemian Rhapsody? (6) [en una ronda rápida 28]",
+      "question": "¿Qué grupo cantaba Bohemian Rhapsody? (6)",
       "answers": [
         "ABBA",
         "Queen",
@@ -3949,7 +3949,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué instrumento toca un baterista? (6) [en una pista 29]",
+      "question": "¿Qué instrumento toca un baterista? (6)",
       "answers": [
         "Chelo",
         "Arpa",
@@ -3961,7 +3961,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué cantante fue líder de Queen? (6) [como dato curioso 30]",
+      "question": "¿Qué cantante fue líder de Queen? (6)",
       "answers": [
         "Freddie Mercury",
         "Bono",
@@ -3973,7 +3973,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué artista era conocido como el Rey del Pop? (7) [en clase 31]",
+      "question": "¿Qué artista era conocido como el Rey del Pop? (7)",
       "answers": [
         "Prince",
         "Michael Jackson",
@@ -3985,7 +3985,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué instrumento tiene cuerdas y se toca con dedos o púa? (7) [durante un viaje 32]",
+      "question": "¿Qué instrumento tiene cuerdas y se toca con dedos o púa? (7)",
       "answers": [
         "Guitarra",
         "Batería",
@@ -3997,7 +3997,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué grupo cantaba Bohemian Rhapsody? (7) [en una conversación 33]",
+      "question": "¿Qué grupo cantaba Bohemian Rhapsody? (7)",
       "answers": [
         "ABBA",
         "Queen",
@@ -4009,7 +4009,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué instrumento toca un baterista? (7) [en un concurso 34]",
+      "question": "¿Qué instrumento toca un baterista? (7)",
       "answers": [
         "Chelo",
         "Arpa",
@@ -4021,7 +4021,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué cantante fue líder de Queen? (7) [en cultura general 35]",
+      "question": "¿Qué cantante fue líder de Queen? (7)",
       "answers": [
         "Freddie Mercury",
         "Bono",
@@ -4033,7 +4033,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué artista era conocido como el Rey del Pop? (8) [para niños curiosos 36]",
+      "question": "¿Qué artista era conocido como el Rey del Pop? (8)",
       "answers": [
         "Prince",
         "Michael Jackson",
@@ -4045,7 +4045,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué instrumento tiene cuerdas y se toca con dedos o púa? (8) [en un juego 37]",
+      "question": "¿Qué instrumento tiene cuerdas y se toca con dedos o púa? (8)",
       "answers": [
         "Guitarra",
         "Batería",
@@ -4057,7 +4057,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué grupo cantaba Bohemian Rhapsody? (8) [en una ronda rápida 38]",
+      "question": "¿Qué grupo cantaba Bohemian Rhapsody? (8)",
       "answers": [
         "ABBA",
         "Queen",
@@ -4069,7 +4069,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué instrumento toca un baterista? (8) [en una pista 39]",
+      "question": "¿Qué instrumento toca un baterista? (8)",
       "answers": [
         "Chelo",
         "Arpa",
@@ -4081,7 +4081,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué cantante fue líder de Queen? (8) [como dato curioso 40]",
+      "question": "¿Qué cantante fue líder de Queen? (8)",
       "answers": [
         "Freddie Mercury",
         "Bono",
@@ -4093,7 +4093,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué artista era conocido como el Rey del Pop? (9) [en clase 41]",
+      "question": "¿Qué artista era conocido como el Rey del Pop? (9)",
       "answers": [
         "Prince",
         "Michael Jackson",
@@ -4105,7 +4105,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué instrumento tiene cuerdas y se toca con dedos o púa? (9) [durante un viaje 42]",
+      "question": "¿Qué instrumento tiene cuerdas y se toca con dedos o púa? (9)",
       "answers": [
         "Guitarra",
         "Batería",
@@ -4117,7 +4117,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué grupo cantaba Bohemian Rhapsody? (9) [en una conversación 43]",
+      "question": "¿Qué grupo cantaba Bohemian Rhapsody? (9)",
       "answers": [
         "ABBA",
         "Queen",
@@ -4129,7 +4129,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué instrumento toca un baterista? (9) [en un concurso 44]",
+      "question": "¿Qué instrumento toca un baterista? (9)",
       "answers": [
         "Chelo",
         "Arpa",
@@ -4141,7 +4141,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué cantante fue líder de Queen? (9) [en cultura general 45]",
+      "question": "¿Qué cantante fue líder de Queen? (9)",
       "answers": [
         "Freddie Mercury",
         "Bono",
@@ -4153,7 +4153,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué artista era conocido como el Rey del Pop? (10) [para niños curiosos 46]",
+      "question": "¿Qué artista era conocido como el Rey del Pop? (10)",
       "answers": [
         "Prince",
         "Michael Jackson",
@@ -4165,7 +4165,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué instrumento tiene cuerdas y se toca con dedos o púa? (10) [en un juego 47]",
+      "question": "¿Qué instrumento tiene cuerdas y se toca con dedos o púa? (10)",
       "answers": [
         "Guitarra",
         "Batería",
@@ -4177,7 +4177,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué grupo cantaba Bohemian Rhapsody? (10) [en una ronda rápida 48]",
+      "question": "¿Qué grupo cantaba Bohemian Rhapsody? (10)",
       "answers": [
         "ABBA",
         "Queen",
@@ -4189,7 +4189,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué instrumento toca un baterista? (10) [en una pista 49]",
+      "question": "¿Qué instrumento toca un baterista? (10)",
       "answers": [
         "Chelo",
         "Arpa",
@@ -4201,7 +4201,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué cantante fue líder de Queen? (10) [como dato curioso 50]",
+      "question": "¿Qué cantante fue líder de Queen? (10)",
       "answers": [
         "Freddie Mercury",
         "Bono",
@@ -4335,7 +4335,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué color mezclan rojo y amarillo normalmente? (3) [en clase 11]",
+      "question": "¿Qué color mezclan rojo y amarillo normalmente? (3)",
       "answers": [
         "Verde",
         "Naranja",
@@ -4347,7 +4347,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué animal suele vivir en una granja y da leche? (3) [durante un viaje 12]",
+      "question": "¿Qué animal suele vivir en una granja y da leche? (3)",
       "answers": [
         "Vaca",
         "León",
@@ -4359,7 +4359,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué se apaga por la noche en muchos cuartos? (3) [en una conversación 13]",
+      "question": "¿Qué se apaga por la noche en muchos cuartos? (3)",
       "answers": [
         "La cama",
         "La luz",
@@ -4371,7 +4371,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué usamos para peinarnos? (3) [en un concurso 14]",
+      "question": "¿Qué usamos para peinarnos? (3)",
       "answers": [
         "Peine",
         "Llave",
@@ -4383,7 +4383,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué objeto usamos para saber la hora? (3) [en cultura general 15]",
+      "question": "¿Qué objeto usamos para saber la hora? (3)",
       "answers": [
         "Reloj",
         "Plato",
@@ -4395,7 +4395,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué color mezclan rojo y amarillo normalmente? (4) [para niños curiosos 16]",
+      "question": "¿Qué color mezclan rojo y amarillo normalmente? (4)",
       "answers": [
         "Verde",
         "Naranja",
@@ -4407,7 +4407,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué animal suele vivir en una granja y da leche? (4) [en un juego 17]",
+      "question": "¿Qué animal suele vivir en una granja y da leche? (4)",
       "answers": [
         "Vaca",
         "León",
@@ -4419,7 +4419,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué se apaga por la noche en muchos cuartos? (4) [en una ronda rápida 18]",
+      "question": "¿Qué se apaga por la noche en muchos cuartos? (4)",
       "answers": [
         "La cama",
         "La luz",
@@ -4431,7 +4431,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué usamos para peinarnos? (4) [en una pista 19]",
+      "question": "¿Qué usamos para peinarnos? (4)",
       "answers": [
         "Peine",
         "Llave",
@@ -4443,7 +4443,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué objeto usamos para saber la hora? (4) [como dato curioso 20]",
+      "question": "¿Qué objeto usamos para saber la hora? (4)",
       "answers": [
         "Reloj",
         "Plato",
@@ -4455,7 +4455,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué color mezclan rojo y amarillo normalmente? (5) [en clase 21]",
+      "question": "¿Qué color mezclan rojo y amarillo normalmente? (5)",
       "answers": [
         "Verde",
         "Naranja",
@@ -4467,7 +4467,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué animal suele vivir en una granja y da leche? (5) [durante un viaje 22]",
+      "question": "¿Qué animal suele vivir en una granja y da leche? (5)",
       "answers": [
         "Vaca",
         "León",
@@ -4479,7 +4479,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué se apaga por la noche en muchos cuartos? (5) [en una conversación 23]",
+      "question": "¿Qué se apaga por la noche en muchos cuartos? (5)",
       "answers": [
         "La cama",
         "La luz",
@@ -4491,7 +4491,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué usamos para peinarnos? (5) [en un concurso 24]",
+      "question": "¿Qué usamos para peinarnos? (5)",
       "answers": [
         "Peine",
         "Llave",
@@ -4503,7 +4503,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué objeto usamos para saber la hora? (5) [en cultura general 25]",
+      "question": "¿Qué objeto usamos para saber la hora? (5)",
       "answers": [
         "Reloj",
         "Plato",
@@ -4515,7 +4515,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué color mezclan rojo y amarillo normalmente? (6) [para niños curiosos 26]",
+      "question": "¿Qué color mezclan rojo y amarillo normalmente? (6)",
       "answers": [
         "Verde",
         "Naranja",
@@ -4527,7 +4527,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué animal suele vivir en una granja y da leche? (6) [en un juego 27]",
+      "question": "¿Qué animal suele vivir en una granja y da leche? (6)",
       "answers": [
         "Vaca",
         "León",
@@ -4539,7 +4539,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué se apaga por la noche en muchos cuartos? (6) [en una ronda rápida 28]",
+      "question": "¿Qué se apaga por la noche en muchos cuartos? (6)",
       "answers": [
         "La cama",
         "La luz",
@@ -4551,7 +4551,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué usamos para peinarnos? (6) [en una pista 29]",
+      "question": "¿Qué usamos para peinarnos? (6)",
       "answers": [
         "Peine",
         "Llave",
@@ -4563,7 +4563,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué objeto usamos para saber la hora? (6) [como dato curioso 30]",
+      "question": "¿Qué objeto usamos para saber la hora? (6)",
       "answers": [
         "Reloj",
         "Plato",
@@ -4575,7 +4575,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué color mezclan rojo y amarillo normalmente? (7) [en clase 31]",
+      "question": "¿Qué color mezclan rojo y amarillo normalmente? (7)",
       "answers": [
         "Verde",
         "Naranja",
@@ -4587,7 +4587,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué animal suele vivir en una granja y da leche? (7) [durante un viaje 32]",
+      "question": "¿Qué animal suele vivir en una granja y da leche? (7)",
       "answers": [
         "Vaca",
         "León",
@@ -4599,7 +4599,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué se apaga por la noche en muchos cuartos? (7) [en una conversación 33]",
+      "question": "¿Qué se apaga por la noche en muchos cuartos? (7)",
       "answers": [
         "La cama",
         "La luz",
@@ -4611,7 +4611,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué usamos para peinarnos? (7) [en un concurso 34]",
+      "question": "¿Qué usamos para peinarnos? (7)",
       "answers": [
         "Peine",
         "Llave",
@@ -4623,7 +4623,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué objeto usamos para saber la hora? (7) [en cultura general 35]",
+      "question": "¿Qué objeto usamos para saber la hora? (7)",
       "answers": [
         "Reloj",
         "Plato",
@@ -4635,7 +4635,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué color mezclan rojo y amarillo normalmente? (8) [para niños curiosos 36]",
+      "question": "¿Qué color mezclan rojo y amarillo normalmente? (8)",
       "answers": [
         "Verde",
         "Naranja",
@@ -4647,7 +4647,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué animal suele vivir en una granja y da leche? (8) [en un juego 37]",
+      "question": "¿Qué animal suele vivir en una granja y da leche? (8)",
       "answers": [
         "Vaca",
         "León",
@@ -4659,7 +4659,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué se apaga por la noche en muchos cuartos? (8) [en una ronda rápida 38]",
+      "question": "¿Qué se apaga por la noche en muchos cuartos? (8)",
       "answers": [
         "La cama",
         "La luz",
@@ -4671,7 +4671,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué usamos para peinarnos? (8) [en una pista 39]",
+      "question": "¿Qué usamos para peinarnos? (8)",
       "answers": [
         "Peine",
         "Llave",
@@ -4683,7 +4683,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué objeto usamos para saber la hora? (8) [como dato curioso 40]",
+      "question": "¿Qué objeto usamos para saber la hora? (8)",
       "answers": [
         "Reloj",
         "Plato",
@@ -4695,7 +4695,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué color mezclan rojo y amarillo normalmente? (9) [en clase 41]",
+      "question": "¿Qué color mezclan rojo y amarillo normalmente? (9)",
       "answers": [
         "Verde",
         "Naranja",
@@ -4707,7 +4707,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué animal suele vivir en una granja y da leche? (9) [durante un viaje 42]",
+      "question": "¿Qué animal suele vivir en una granja y da leche? (9)",
       "answers": [
         "Vaca",
         "León",
@@ -4719,7 +4719,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué se apaga por la noche en muchos cuartos? (9) [en una conversación 43]",
+      "question": "¿Qué se apaga por la noche en muchos cuartos? (9)",
       "answers": [
         "La cama",
         "La luz",
@@ -4731,7 +4731,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué usamos para peinarnos? (9) [en un concurso 44]",
+      "question": "¿Qué usamos para peinarnos? (9)",
       "answers": [
         "Peine",
         "Llave",
@@ -4743,7 +4743,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué objeto usamos para saber la hora? (9) [en cultura general 45]",
+      "question": "¿Qué objeto usamos para saber la hora? (9)",
       "answers": [
         "Reloj",
         "Plato",
@@ -4755,7 +4755,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué color mezclan rojo y amarillo normalmente? (10) [para niños curiosos 46]",
+      "question": "¿Qué color mezclan rojo y amarillo normalmente? (10)",
       "answers": [
         "Verde",
         "Naranja",
@@ -4767,7 +4767,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué animal suele vivir en una granja y da leche? (10) [en un juego 47]",
+      "question": "¿Qué animal suele vivir en una granja y da leche? (10)",
       "answers": [
         "Vaca",
         "León",
@@ -4779,7 +4779,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué se apaga por la noche en muchos cuartos? (10) [en una ronda rápida 48]",
+      "question": "¿Qué se apaga por la noche en muchos cuartos? (10)",
       "answers": [
         "La cama",
         "La luz",
@@ -4791,7 +4791,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué usamos para peinarnos? (10) [en una pista 49]",
+      "question": "¿Qué usamos para peinarnos? (10)",
       "answers": [
         "Peine",
         "Llave",
@@ -4803,7 +4803,7 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué objeto usamos para saber la hora? (10) [como dato curioso 50]",
+      "question": "¿Qué objeto usamos para saber la hora? (10)",
       "answers": [
         "Reloj",
         "Plato",
