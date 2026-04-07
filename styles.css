@@ -208,11 +208,12 @@ body {
 
 .question-panel {
   grid-template-rows: auto auto minmax(0,1fr);
+  gap: 10px;
 }
 
 .question-top {
   display: grid;
-  gap: 10px;
+  gap: 8px;
 }
 
 .question-meta {
@@ -222,7 +223,7 @@ body {
 }
 
 .compact-meta {
-  grid-template-columns: repeat(4, max-content);
+  grid-template-columns: repeat(2, max-content);
   align-items: center;
 }
 
@@ -254,7 +255,7 @@ body {
 }
 
 .question-text {
-  font-size: clamp(1.6rem, 2.6vw, 3.2rem);
+  font-size: clamp(1.35rem, 2.15vw, 2.7rem);
   line-height: 1.08;
   letter-spacing: -.03em;
   display: flex;
@@ -266,8 +267,8 @@ body {
 }
 
 .answer-btn {
-  min-height: 84px;
-  padding: 14px 18px;
+  min-height: 72px;
+  padding: 12px 16px;
   display: flex;
   align-items: center;
   gap: 14px;
@@ -404,9 +405,9 @@ body {
   .level-btn__title { font-size: 1.25rem; }
   .category-chip { min-height: 62px; padding: 12px; font-size: .98rem; }
   .ghost-btn, .primary-btn { min-height: 50px; padding: 12px 16px; }
-  .question-text { font-size: clamp(1.25rem, 2vw, 2rem); }
-  .answers-grid--fit { gap: 10px; }
-  .answer-btn { min-height: 72px; padding: 12px 16px; font-size: clamp(1rem, 1.25vw, 1.25rem); }
+  .question-text { font-size: clamp(1.05rem, 1.65vw, 1.6rem); }
+  .answers-grid--fit { gap: 8px; }
+  .answer-btn { min-height: 62px; padding: 10px 14px; font-size: clamp(.95rem, 1.05vw, 1.1rem); }
   .answer-key { width: 40px; height: 40px; }
 }
 

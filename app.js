@@ -243,13 +243,10 @@ function renderQuestionScreen() {
     return;
   }
 
-  const category = categoryById(q.category);
   screen.innerHTML = `
     <section class="panel question-panel">
       <div class="question-top">
         <div class="question-meta compact-meta">
-          <span>${LEVELS[state.level].label}</span>
-          <span>${category.icon} ${category.label}</span>
           <span>${state.index + 1} / ${state.questions.length}</span>
           <span>${state.score} pts</span>
         </div>
