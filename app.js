@@ -1,8 +1,8 @@
 const LEVELS = {
-  nino: { label: "Niño", rounds: 12 },
-  facil: { label: "Fácil", rounds: 12 },
-  medio: { label: "Medio", rounds: 14 },
-  dificil: { label: "Difícil", rounds: 16 },
+  nino: { label: "Niño", defaultRounds: 12 },
+  facil: { label: "Fácil", defaultRounds: 12 },
+  medio: { label: "Medio", defaultRounds: 14 },
+  dificil: { label: "Difícil", defaultRounds: 16 },
 };
 
 const CATEGORIES = [
@@ -20,6 +20,7 @@ const CATEGORIES = [
 const OPTIONS = {
   timerEnabled: true,
   timerSeconds: 20,
+  questionCount: 12,
 };
 
 const state = {
@@ -94,7 +95,7 @@ function resetGame(level, category) {
   state.index = 0;
   state.score = 0;
   state.locked = false;
-  const rounds = LEVELS[level].rounds;
+  const rounds = Number(OPTIONS.questionCount) || LEVELS[level].defaultRounds;
   const pool = state.bank.filter((q) => q.level === level && (category === "mix" || q.category === category));
   state.questions = shuffle(pool, Date.now()).slice(0, rounds);
 }
@@ -200,19 +201,21 @@ function renderOptionsScreen() {
     <section class="panel stage-panel stage-panel--options">
       <div class="stage-head compact">
         <div>
-          <div class="section-title">Configuración</div>
           <h2>Opciones</h2>
         </div>
       </div>
       <div class="options-grid">
-        <label class="option-card">
+        <label class="option-card option-card--stacked">
           <span>Temporizador</span>
           <input type="checkbox" id="timerEnabled" ${OPTIONS.timerEnabled ? "checked" : ""} />
-        </label>
-        <label class="option-card">
-          <span>Segundos por pregunta</span>
           <select id="timerSeconds">
             ${[10, 15, 20, 25, 30, 40].map((s) => `<option value="${s}" ${OPTIONS.timerSeconds === s ? "selected" : ""}>${s} segundos</option>`).join("")}
+          </select>
+        </label>
+        <label class="option-card option-card--stacked">
+          <span>Preguntas por partida</span>
+          <select id="questionCount">
+            ${[8, 10, 12, 14, 16, 20].map((n) => `<option value="${n}" ${OPTIONS.questionCount === n ? "selected" : ""}>${n} preguntas</option>`).join("")}
           </select>
         </label>
       </div>
@@ -230,6 +233,7 @@ function renderOptionsScreen() {
   document.getElementById("saveOptionsBtn").addEventListener("click", () => {
     OPTIONS.timerEnabled = document.getElementById("timerEnabled").checked;
     OPTIONS.timerSeconds = Number(document.getElementById("timerSeconds").value);
+    OPTIONS.questionCount = Number(document.getElementById("questionCount").value);
     state.screen = "difficulty";
     render();
   });
@@ -305,7 +309,7 @@ function renderEndScreen() {
       <div class="summary-grid">
         <div class="summary-card"><strong>${LEVELS[state.level].label}</strong><span>Dificultad</span></div>
         <div class="summary-card"><strong>${category.label}</strong><span>Tema</span></div>
-        <div class="summary-card"><strong>${OPTIONS.timerEnabled ? `${OPTIONS.timerSeconds}s` : "Sin tiempo"}</strong><span>Temporizador</span></div>
+        <div class="summary-card"><strong>${OPTIONS.questionCount}</strong><span>Preguntas</span></div>
       </div>
       <div class="actions-row">
         <button class="primary-btn" id="playAgainBtn">Repetir</button>

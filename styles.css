@@ -332,16 +332,24 @@ body {
   color: var(--muted);
 }
 
-.option-card {
+ .option-card {
   display: grid;
   gap: 12px;
   font-weight: 800;
   align-content: start;
 }
 
+.option-card--stacked {
+  grid-template-rows: auto auto auto;
+}
+
 .option-card input[type="checkbox"] {
   width: 28px;
   height: 28px;
+}
+
+.option-card--stacked input[type="checkbox"] {
+  justify-self: start;
 }
 
 .option-card select {
