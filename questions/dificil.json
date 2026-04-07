@@ -1,0 +1,4818 @@
+{
+  "general": [
+    {
+      "question": "¿Qué número romano representa el 50?",
+      "answers": [
+        "X",
+        "L",
+        "C",
+        "V"
+      ],
+      "correct": 1,
+      "category": "general",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Cuántos grados tiene un ángulo llano?",
+      "answers": [
+        "90",
+        "120",
+        "180",
+        "360"
+      ],
+      "correct": 2,
+      "category": "general",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Quién escribió Sherlock Holmes?",
+      "answers": [
+        "Agatha Christie",
+        "Arthur Conan Doyle",
+        "Jules Verne",
+        "Cervantes"
+      ],
+      "correct": 1,
+      "category": "general",
+      "level": "dificil"
+    },
+    {
+      "question": "¿En qué idioma se escribió originalmente Don Quijote?",
+      "answers": [
+        "Latín",
+        "Castellano",
+        "Catalán",
+        "Italiano"
+      ],
+      "correct": 1,
+      "category": "general",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué figura tiene 10 lados?",
+      "answers": [
+        "Decágono",
+        "Eneágono",
+        "Dodecágono",
+        "Octógono"
+      ],
+      "correct": 0,
+      "category": "general",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué número romano representa el 50? (2)",
+      "answers": [
+        "X",
+        "L",
+        "C",
+        "V"
+      ],
+      "correct": 1,
+      "category": "general",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Cuántos grados tiene un ángulo llano? (2)",
+      "answers": [
+        "90",
+        "120",
+        "180",
+        "360"
+      ],
+      "correct": 2,
+      "category": "general",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Quién escribió Sherlock Holmes? (2)",
+      "answers": [
+        "Agatha Christie",
+        "Arthur Conan Doyle",
+        "Jules Verne",
+        "Cervantes"
+      ],
+      "correct": 1,
+      "category": "general",
+      "level": "dificil"
+    },
+    {
+      "question": "¿En qué idioma se escribió originalmente Don Quijote? (2)",
+      "answers": [
+        "Latín",
+        "Castellano",
+        "Catalán",
+        "Italiano"
+      ],
+      "correct": 1,
+      "category": "general",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué figura tiene 10 lados? (2)",
+      "answers": [
+        "Decágono",
+        "Eneágono",
+        "Dodecágono",
+        "Octógono"
+      ],
+      "correct": 0,
+      "category": "general",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué número romano representa el 50? (3)",
+      "answers": [
+        "X",
+        "L",
+        "C",
+        "V"
+      ],
+      "correct": 1,
+      "category": "general",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Cuántos grados tiene un ángulo llano? (3)",
+      "answers": [
+        "90",
+        "120",
+        "180",
+        "360"
+      ],
+      "correct": 2,
+      "category": "general",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Quién escribió Sherlock Holmes? (3)",
+      "answers": [
+        "Agatha Christie",
+        "Arthur Conan Doyle",
+        "Jules Verne",
+        "Cervantes"
+      ],
+      "correct": 1,
+      "category": "general",
+      "level": "dificil"
+    },
+    {
+      "question": "¿En qué idioma se escribió originalmente Don Quijote? (3)",
+      "answers": [
+        "Latín",
+        "Castellano",
+        "Catalán",
+        "Italiano"
+      ],
+      "correct": 1,
+      "category": "general",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué figura tiene 10 lados? (3)",
+      "answers": [
+        "Decágono",
+        "Eneágono",
+        "Dodecágono",
+        "Octógono"
+      ],
+      "correct": 0,
+      "category": "general",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué número romano representa el 50? (4)",
+      "answers": [
+        "X",
+        "L",
+        "C",
+        "V"
+      ],
+      "correct": 1,
+      "category": "general",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Cuántos grados tiene un ángulo llano? (4)",
+      "answers": [
+        "90",
+        "120",
+        "180",
+        "360"
+      ],
+      "correct": 2,
+      "category": "general",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Quién escribió Sherlock Holmes? (4)",
+      "answers": [
+        "Agatha Christie",
+        "Arthur Conan Doyle",
+        "Jules Verne",
+        "Cervantes"
+      ],
+      "correct": 1,
+      "category": "general",
+      "level": "dificil"
+    },
+    {
+      "question": "¿En qué idioma se escribió originalmente Don Quijote? (4)",
+      "answers": [
+        "Latín",
+        "Castellano",
+        "Catalán",
+        "Italiano"
+      ],
+      "correct": 1,
+      "category": "general",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué figura tiene 10 lados? (4)",
+      "answers": [
+        "Decágono",
+        "Eneágono",
+        "Dodecágono",
+        "Octógono"
+      ],
+      "correct": 0,
+      "category": "general",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué número romano representa el 50? (5)",
+      "answers": [
+        "X",
+        "L",
+        "C",
+        "V"
+      ],
+      "correct": 1,
+      "category": "general",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Cuántos grados tiene un ángulo llano? (5)",
+      "answers": [
+        "90",
+        "120",
+        "180",
+        "360"
+      ],
+      "correct": 2,
+      "category": "general",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Quién escribió Sherlock Holmes? (5)",
+      "answers": [
+        "Agatha Christie",
+        "Arthur Conan Doyle",
+        "Jules Verne",
+        "Cervantes"
+      ],
+      "correct": 1,
+      "category": "general",
+      "level": "dificil"
+    },
+    {
+      "question": "¿En qué idioma se escribió originalmente Don Quijote? (5)",
+      "answers": [
+        "Latín",
+        "Castellano",
+        "Catalán",
+        "Italiano"
+      ],
+      "correct": 1,
+      "category": "general",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué figura tiene 10 lados? (5)",
+      "answers": [
+        "Decágono",
+        "Eneágono",
+        "Dodecágono",
+        "Octógono"
+      ],
+      "correct": 0,
+      "category": "general",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué número romano representa el 50? (6)",
+      "answers": [
+        "X",
+        "L",
+        "C",
+        "V"
+      ],
+      "correct": 1,
+      "category": "general",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Cuántos grados tiene un ángulo llano? (6)",
+      "answers": [
+        "90",
+        "120",
+        "180",
+        "360"
+      ],
+      "correct": 2,
+      "category": "general",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Quién escribió Sherlock Holmes? (6)",
+      "answers": [
+        "Agatha Christie",
+        "Arthur Conan Doyle",
+        "Jules Verne",
+        "Cervantes"
+      ],
+      "correct": 1,
+      "category": "general",
+      "level": "dificil"
+    },
+    {
+      "question": "¿En qué idioma se escribió originalmente Don Quijote? (6)",
+      "answers": [
+        "Latín",
+        "Castellano",
+        "Catalán",
+        "Italiano"
+      ],
+      "correct": 1,
+      "category": "general",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué figura tiene 10 lados? (6)",
+      "answers": [
+        "Decágono",
+        "Eneágono",
+        "Dodecágono",
+        "Octógono"
+      ],
+      "correct": 0,
+      "category": "general",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué número romano representa el 50? (7)",
+      "answers": [
+        "X",
+        "L",
+        "C",
+        "V"
+      ],
+      "correct": 1,
+      "category": "general",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Cuántos grados tiene un ángulo llano? (7)",
+      "answers": [
+        "90",
+        "120",
+        "180",
+        "360"
+      ],
+      "correct": 2,
+      "category": "general",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Quién escribió Sherlock Holmes? (7)",
+      "answers": [
+        "Agatha Christie",
+        "Arthur Conan Doyle",
+        "Jules Verne",
+        "Cervantes"
+      ],
+      "correct": 1,
+      "category": "general",
+      "level": "dificil"
+    },
+    {
+      "question": "¿En qué idioma se escribió originalmente Don Quijote? (7)",
+      "answers": [
+        "Latín",
+        "Castellano",
+        "Catalán",
+        "Italiano"
+      ],
+      "correct": 1,
+      "category": "general",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué figura tiene 10 lados? (7)",
+      "answers": [
+        "Decágono",
+        "Eneágono",
+        "Dodecágono",
+        "Octógono"
+      ],
+      "correct": 0,
+      "category": "general",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué número romano representa el 50? (8)",
+      "answers": [
+        "X",
+        "L",
+        "C",
+        "V"
+      ],
+      "correct": 1,
+      "category": "general",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Cuántos grados tiene un ángulo llano? (8)",
+      "answers": [
+        "90",
+        "120",
+        "180",
+        "360"
+      ],
+      "correct": 2,
+      "category": "general",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Quién escribió Sherlock Holmes? (8)",
+      "answers": [
+        "Agatha Christie",
+        "Arthur Conan Doyle",
+        "Jules Verne",
+        "Cervantes"
+      ],
+      "correct": 1,
+      "category": "general",
+      "level": "dificil"
+    },
+    {
+      "question": "¿En qué idioma se escribió originalmente Don Quijote? (8)",
+      "answers": [
+        "Latín",
+        "Castellano",
+        "Catalán",
+        "Italiano"
+      ],
+      "correct": 1,
+      "category": "general",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué figura tiene 10 lados? (8)",
+      "answers": [
+        "Decágono",
+        "Eneágono",
+        "Dodecágono",
+        "Octógono"
+      ],
+      "correct": 0,
+      "category": "general",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué número romano representa el 50? (9)",
+      "answers": [
+        "X",
+        "L",
+        "C",
+        "V"
+      ],
+      "correct": 1,
+      "category": "general",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Cuántos grados tiene un ángulo llano? (9)",
+      "answers": [
+        "90",
+        "120",
+        "180",
+        "360"
+      ],
+      "correct": 2,
+      "category": "general",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Quién escribió Sherlock Holmes? (9)",
+      "answers": [
+        "Agatha Christie",
+        "Arthur Conan Doyle",
+        "Jules Verne",
+        "Cervantes"
+      ],
+      "correct": 1,
+      "category": "general",
+      "level": "dificil"
+    },
+    {
+      "question": "¿En qué idioma se escribió originalmente Don Quijote? (9)",
+      "answers": [
+        "Latín",
+        "Castellano",
+        "Catalán",
+        "Italiano"
+      ],
+      "correct": 1,
+      "category": "general",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué figura tiene 10 lados? (9)",
+      "answers": [
+        "Decágono",
+        "Eneágono",
+        "Dodecágono",
+        "Octógono"
+      ],
+      "correct": 0,
+      "category": "general",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué número romano representa el 50? (10)",
+      "answers": [
+        "X",
+        "L",
+        "C",
+        "V"
+      ],
+      "correct": 1,
+      "category": "general",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Cuántos grados tiene un ángulo llano? (10)",
+      "answers": [
+        "90",
+        "120",
+        "180",
+        "360"
+      ],
+      "correct": 2,
+      "category": "general",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Quién escribió Sherlock Holmes? (10)",
+      "answers": [
+        "Agatha Christie",
+        "Arthur Conan Doyle",
+        "Jules Verne",
+        "Cervantes"
+      ],
+      "correct": 1,
+      "category": "general",
+      "level": "dificil"
+    },
+    {
+      "question": "¿En qué idioma se escribió originalmente Don Quijote? (10)",
+      "answers": [
+        "Latín",
+        "Castellano",
+        "Catalán",
+        "Italiano"
+      ],
+      "correct": 1,
+      "category": "general",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué figura tiene 10 lados? (10)",
+      "answers": [
+        "Decágono",
+        "Eneágono",
+        "Dodecágono",
+        "Octógono"
+      ],
+      "correct": 0,
+      "category": "general",
+      "level": "dificil"
+    }
+  ],
+  "geografia": [
+    {
+      "question": "¿Cuál es el lago más profundo del mundo?",
+      "answers": [
+        "Victoria",
+        "Baikal",
+        "Superior",
+        "Tanganica"
+      ],
+      "correct": 1,
+      "category": "geografia",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Cuál es la capital de Australia?",
+      "answers": [
+        "Sydney",
+        "Melbourne",
+        "Canberra",
+        "Perth"
+      ],
+      "correct": 2,
+      "category": "geografia",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué desierto ocupa gran parte del norte de África?",
+      "answers": [
+        "Gobi",
+        "Sahara",
+        "Atacama",
+        "Kalahari"
+      ],
+      "correct": 1,
+      "category": "geografia",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué país tiene como capital Ottawa?",
+      "answers": [
+        "Canadá",
+        "Irlanda",
+        "Australia",
+        "Polonia"
+      ],
+      "correct": 0,
+      "category": "geografia",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué océano se encuentra entre África y Australia?",
+      "answers": [
+        "Atlántico",
+        "Pacífico",
+        "Índico",
+        "Ártico"
+      ],
+      "correct": 2,
+      "category": "geografia",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Cuál es el lago más profundo del mundo? (2)",
+      "answers": [
+        "Victoria",
+        "Baikal",
+        "Superior",
+        "Tanganica"
+      ],
+      "correct": 1,
+      "category": "geografia",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Cuál es la capital de Australia? (2)",
+      "answers": [
+        "Sydney",
+        "Melbourne",
+        "Canberra",
+        "Perth"
+      ],
+      "correct": 2,
+      "category": "geografia",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué desierto ocupa gran parte del norte de África? (2)",
+      "answers": [
+        "Gobi",
+        "Sahara",
+        "Atacama",
+        "Kalahari"
+      ],
+      "correct": 1,
+      "category": "geografia",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué país tiene como capital Ottawa? (2)",
+      "answers": [
+        "Canadá",
+        "Irlanda",
+        "Australia",
+        "Polonia"
+      ],
+      "correct": 0,
+      "category": "geografia",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué océano se encuentra entre África y Australia? (2)",
+      "answers": [
+        "Atlántico",
+        "Pacífico",
+        "Índico",
+        "Ártico"
+      ],
+      "correct": 2,
+      "category": "geografia",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Cuál es el lago más profundo del mundo? (3)",
+      "answers": [
+        "Victoria",
+        "Baikal",
+        "Superior",
+        "Tanganica"
+      ],
+      "correct": 1,
+      "category": "geografia",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Cuál es la capital de Australia? (3)",
+      "answers": [
+        "Sydney",
+        "Melbourne",
+        "Canberra",
+        "Perth"
+      ],
+      "correct": 2,
+      "category": "geografia",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué desierto ocupa gran parte del norte de África? (3)",
+      "answers": [
+        "Gobi",
+        "Sahara",
+        "Atacama",
+        "Kalahari"
+      ],
+      "correct": 1,
+      "category": "geografia",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué país tiene como capital Ottawa? (3)",
+      "answers": [
+        "Canadá",
+        "Irlanda",
+        "Australia",
+        "Polonia"
+      ],
+      "correct": 0,
+      "category": "geografia",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué océano se encuentra entre África y Australia? (3)",
+      "answers": [
+        "Atlántico",
+        "Pacífico",
+        "Índico",
+        "Ártico"
+      ],
+      "correct": 2,
+      "category": "geografia",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Cuál es el lago más profundo del mundo? (4)",
+      "answers": [
+        "Victoria",
+        "Baikal",
+        "Superior",
+        "Tanganica"
+      ],
+      "correct": 1,
+      "category": "geografia",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Cuál es la capital de Australia? (4)",
+      "answers": [
+        "Sydney",
+        "Melbourne",
+        "Canberra",
+        "Perth"
+      ],
+      "correct": 2,
+      "category": "geografia",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué desierto ocupa gran parte del norte de África? (4)",
+      "answers": [
+        "Gobi",
+        "Sahara",
+        "Atacama",
+        "Kalahari"
+      ],
+      "correct": 1,
+      "category": "geografia",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué país tiene como capital Ottawa? (4)",
+      "answers": [
+        "Canadá",
+        "Irlanda",
+        "Australia",
+        "Polonia"
+      ],
+      "correct": 0,
+      "category": "geografia",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué océano se encuentra entre África y Australia? (4)",
+      "answers": [
+        "Atlántico",
+        "Pacífico",
+        "Índico",
+        "Ártico"
+      ],
+      "correct": 2,
+      "category": "geografia",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Cuál es el lago más profundo del mundo? (5)",
+      "answers": [
+        "Victoria",
+        "Baikal",
+        "Superior",
+        "Tanganica"
+      ],
+      "correct": 1,
+      "category": "geografia",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Cuál es la capital de Australia? (5)",
+      "answers": [
+        "Sydney",
+        "Melbourne",
+        "Canberra",
+        "Perth"
+      ],
+      "correct": 2,
+      "category": "geografia",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué desierto ocupa gran parte del norte de África? (5)",
+      "answers": [
+        "Gobi",
+        "Sahara",
+        "Atacama",
+        "Kalahari"
+      ],
+      "correct": 1,
+      "category": "geografia",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué país tiene como capital Ottawa? (5)",
+      "answers": [
+        "Canadá",
+        "Irlanda",
+        "Australia",
+        "Polonia"
+      ],
+      "correct": 0,
+      "category": "geografia",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué océano se encuentra entre África y Australia? (5)",
+      "answers": [
+        "Atlántico",
+        "Pacífico",
+        "Índico",
+        "Ártico"
+      ],
+      "correct": 2,
+      "category": "geografia",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Cuál es el lago más profundo del mundo? (6)",
+      "answers": [
+        "Victoria",
+        "Baikal",
+        "Superior",
+        "Tanganica"
+      ],
+      "correct": 1,
+      "category": "geografia",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Cuál es la capital de Australia? (6)",
+      "answers": [
+        "Sydney",
+        "Melbourne",
+        "Canberra",
+        "Perth"
+      ],
+      "correct": 2,
+      "category": "geografia",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué desierto ocupa gran parte del norte de África? (6)",
+      "answers": [
+        "Gobi",
+        "Sahara",
+        "Atacama",
+        "Kalahari"
+      ],
+      "correct": 1,
+      "category": "geografia",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué país tiene como capital Ottawa? (6)",
+      "answers": [
+        "Canadá",
+        "Irlanda",
+        "Australia",
+        "Polonia"
+      ],
+      "correct": 0,
+      "category": "geografia",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué océano se encuentra entre África y Australia? (6)",
+      "answers": [
+        "Atlántico",
+        "Pacífico",
+        "Índico",
+        "Ártico"
+      ],
+      "correct": 2,
+      "category": "geografia",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Cuál es el lago más profundo del mundo? (7)",
+      "answers": [
+        "Victoria",
+        "Baikal",
+        "Superior",
+        "Tanganica"
+      ],
+      "correct": 1,
+      "category": "geografia",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Cuál es la capital de Australia? (7)",
+      "answers": [
+        "Sydney",
+        "Melbourne",
+        "Canberra",
+        "Perth"
+      ],
+      "correct": 2,
+      "category": "geografia",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué desierto ocupa gran parte del norte de África? (7)",
+      "answers": [
+        "Gobi",
+        "Sahara",
+        "Atacama",
+        "Kalahari"
+      ],
+      "correct": 1,
+      "category": "geografia",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué país tiene como capital Ottawa? (7)",
+      "answers": [
+        "Canadá",
+        "Irlanda",
+        "Australia",
+        "Polonia"
+      ],
+      "correct": 0,
+      "category": "geografia",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué océano se encuentra entre África y Australia? (7)",
+      "answers": [
+        "Atlántico",
+        "Pacífico",
+        "Índico",
+        "Ártico"
+      ],
+      "correct": 2,
+      "category": "geografia",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Cuál es el lago más profundo del mundo? (8)",
+      "answers": [
+        "Victoria",
+        "Baikal",
+        "Superior",
+        "Tanganica"
+      ],
+      "correct": 1,
+      "category": "geografia",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Cuál es la capital de Australia? (8)",
+      "answers": [
+        "Sydney",
+        "Melbourne",
+        "Canberra",
+        "Perth"
+      ],
+      "correct": 2,
+      "category": "geografia",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué desierto ocupa gran parte del norte de África? (8)",
+      "answers": [
+        "Gobi",
+        "Sahara",
+        "Atacama",
+        "Kalahari"
+      ],
+      "correct": 1,
+      "category": "geografia",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué país tiene como capital Ottawa? (8)",
+      "answers": [
+        "Canadá",
+        "Irlanda",
+        "Australia",
+        "Polonia"
+      ],
+      "correct": 0,
+      "category": "geografia",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué océano se encuentra entre África y Australia? (8)",
+      "answers": [
+        "Atlántico",
+        "Pacífico",
+        "Índico",
+        "Ártico"
+      ],
+      "correct": 2,
+      "category": "geografia",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Cuál es el lago más profundo del mundo? (9)",
+      "answers": [
+        "Victoria",
+        "Baikal",
+        "Superior",
+        "Tanganica"
+      ],
+      "correct": 1,
+      "category": "geografia",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Cuál es la capital de Australia? (9)",
+      "answers": [
+        "Sydney",
+        "Melbourne",
+        "Canberra",
+        "Perth"
+      ],
+      "correct": 2,
+      "category": "geografia",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué desierto ocupa gran parte del norte de África? (9)",
+      "answers": [
+        "Gobi",
+        "Sahara",
+        "Atacama",
+        "Kalahari"
+      ],
+      "correct": 1,
+      "category": "geografia",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué país tiene como capital Ottawa? (9)",
+      "answers": [
+        "Canadá",
+        "Irlanda",
+        "Australia",
+        "Polonia"
+      ],
+      "correct": 0,
+      "category": "geografia",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué océano se encuentra entre África y Australia? (9)",
+      "answers": [
+        "Atlántico",
+        "Pacífico",
+        "Índico",
+        "Ártico"
+      ],
+      "correct": 2,
+      "category": "geografia",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Cuál es el lago más profundo del mundo? (10)",
+      "answers": [
+        "Victoria",
+        "Baikal",
+        "Superior",
+        "Tanganica"
+      ],
+      "correct": 1,
+      "category": "geografia",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Cuál es la capital de Australia? (10)",
+      "answers": [
+        "Sydney",
+        "Melbourne",
+        "Canberra",
+        "Perth"
+      ],
+      "correct": 2,
+      "category": "geografia",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué desierto ocupa gran parte del norte de África? (10)",
+      "answers": [
+        "Gobi",
+        "Sahara",
+        "Atacama",
+        "Kalahari"
+      ],
+      "correct": 1,
+      "category": "geografia",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué país tiene como capital Ottawa? (10)",
+      "answers": [
+        "Canadá",
+        "Irlanda",
+        "Australia",
+        "Polonia"
+      ],
+      "correct": 0,
+      "category": "geografia",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué océano se encuentra entre África y Australia? (10)",
+      "answers": [
+        "Atlántico",
+        "Pacífico",
+        "Índico",
+        "Ártico"
+      ],
+      "correct": 2,
+      "category": "geografia",
+      "level": "dificil"
+    }
+  ],
+  "ciencia": [
+    {
+      "question": "¿Cuál es el símbolo químico del sodio?",
+      "answers": [
+        "So",
+        "Na",
+        "Sd",
+        "Sn"
+      ],
+      "correct": 1,
+      "category": "ciencia",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué partícula tiene carga negativa?",
+      "answers": [
+        "Protón",
+        "Neutrón",
+        "Electrón",
+        "Positrón"
+      ],
+      "correct": 2,
+      "category": "ciencia",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Quién formuló la teoría de la relatividad?",
+      "answers": [
+        "Newton",
+        "Einstein",
+        "Tesla",
+        "Galileo"
+      ],
+      "correct": 1,
+      "category": "ciencia",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué vitamina se obtiene sobre todo del sol?",
+      "answers": [
+        "A",
+        "B12",
+        "C",
+        "D"
+      ],
+      "correct": 3,
+      "category": "ciencia",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué parte del átomo concentra casi toda su masa?",
+      "answers": [
+        "Órbita",
+        "Núcleo",
+        "Corteza",
+        "Valencia"
+      ],
+      "correct": 1,
+      "category": "ciencia",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Cuál es el símbolo químico del sodio? (2)",
+      "answers": [
+        "So",
+        "Na",
+        "Sd",
+        "Sn"
+      ],
+      "correct": 1,
+      "category": "ciencia",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué partícula tiene carga negativa? (2)",
+      "answers": [
+        "Protón",
+        "Neutrón",
+        "Electrón",
+        "Positrón"
+      ],
+      "correct": 2,
+      "category": "ciencia",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Quién formuló la teoría de la relatividad? (2)",
+      "answers": [
+        "Newton",
+        "Einstein",
+        "Tesla",
+        "Galileo"
+      ],
+      "correct": 1,
+      "category": "ciencia",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué vitamina se obtiene sobre todo del sol? (2)",
+      "answers": [
+        "A",
+        "B12",
+        "C",
+        "D"
+      ],
+      "correct": 3,
+      "category": "ciencia",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué parte del átomo concentra casi toda su masa? (2)",
+      "answers": [
+        "Órbita",
+        "Núcleo",
+        "Corteza",
+        "Valencia"
+      ],
+      "correct": 1,
+      "category": "ciencia",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Cuál es el símbolo químico del sodio? (3)",
+      "answers": [
+        "So",
+        "Na",
+        "Sd",
+        "Sn"
+      ],
+      "correct": 1,
+      "category": "ciencia",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué partícula tiene carga negativa? (3)",
+      "answers": [
+        "Protón",
+        "Neutrón",
+        "Electrón",
+        "Positrón"
+      ],
+      "correct": 2,
+      "category": "ciencia",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Quién formuló la teoría de la relatividad? (3)",
+      "answers": [
+        "Newton",
+        "Einstein",
+        "Tesla",
+        "Galileo"
+      ],
+      "correct": 1,
+      "category": "ciencia",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué vitamina se obtiene sobre todo del sol? (3)",
+      "answers": [
+        "A",
+        "B12",
+        "C",
+        "D"
+      ],
+      "correct": 3,
+      "category": "ciencia",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué parte del átomo concentra casi toda su masa? (3)",
+      "answers": [
+        "Órbita",
+        "Núcleo",
+        "Corteza",
+        "Valencia"
+      ],
+      "correct": 1,
+      "category": "ciencia",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Cuál es el símbolo químico del sodio? (4)",
+      "answers": [
+        "So",
+        "Na",
+        "Sd",
+        "Sn"
+      ],
+      "correct": 1,
+      "category": "ciencia",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué partícula tiene carga negativa? (4)",
+      "answers": [
+        "Protón",
+        "Neutrón",
+        "Electrón",
+        "Positrón"
+      ],
+      "correct": 2,
+      "category": "ciencia",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Quién formuló la teoría de la relatividad? (4)",
+      "answers": [
+        "Newton",
+        "Einstein",
+        "Tesla",
+        "Galileo"
+      ],
+      "correct": 1,
+      "category": "ciencia",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué vitamina se obtiene sobre todo del sol? (4)",
+      "answers": [
+        "A",
+        "B12",
+        "C",
+        "D"
+      ],
+      "correct": 3,
+      "category": "ciencia",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué parte del átomo concentra casi toda su masa? (4)",
+      "answers": [
+        "Órbita",
+        "Núcleo",
+        "Corteza",
+        "Valencia"
+      ],
+      "correct": 1,
+      "category": "ciencia",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Cuál es el símbolo químico del sodio? (5)",
+      "answers": [
+        "So",
+        "Na",
+        "Sd",
+        "Sn"
+      ],
+      "correct": 1,
+      "category": "ciencia",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué partícula tiene carga negativa? (5)",
+      "answers": [
+        "Protón",
+        "Neutrón",
+        "Electrón",
+        "Positrón"
+      ],
+      "correct": 2,
+      "category": "ciencia",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Quién formuló la teoría de la relatividad? (5)",
+      "answers": [
+        "Newton",
+        "Einstein",
+        "Tesla",
+        "Galileo"
+      ],
+      "correct": 1,
+      "category": "ciencia",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué vitamina se obtiene sobre todo del sol? (5)",
+      "answers": [
+        "A",
+        "B12",
+        "C",
+        "D"
+      ],
+      "correct": 3,
+      "category": "ciencia",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué parte del átomo concentra casi toda su masa? (5)",
+      "answers": [
+        "Órbita",
+        "Núcleo",
+        "Corteza",
+        "Valencia"
+      ],
+      "correct": 1,
+      "category": "ciencia",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Cuál es el símbolo químico del sodio? (6)",
+      "answers": [
+        "So",
+        "Na",
+        "Sd",
+        "Sn"
+      ],
+      "correct": 1,
+      "category": "ciencia",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué partícula tiene carga negativa? (6)",
+      "answers": [
+        "Protón",
+        "Neutrón",
+        "Electrón",
+        "Positrón"
+      ],
+      "correct": 2,
+      "category": "ciencia",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Quién formuló la teoría de la relatividad? (6)",
+      "answers": [
+        "Newton",
+        "Einstein",
+        "Tesla",
+        "Galileo"
+      ],
+      "correct": 1,
+      "category": "ciencia",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué vitamina se obtiene sobre todo del sol? (6)",
+      "answers": [
+        "A",
+        "B12",
+        "C",
+        "D"
+      ],
+      "correct": 3,
+      "category": "ciencia",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué parte del átomo concentra casi toda su masa? (6)",
+      "answers": [
+        "Órbita",
+        "Núcleo",
+        "Corteza",
+        "Valencia"
+      ],
+      "correct": 1,
+      "category": "ciencia",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Cuál es el símbolo químico del sodio? (7)",
+      "answers": [
+        "So",
+        "Na",
+        "Sd",
+        "Sn"
+      ],
+      "correct": 1,
+      "category": "ciencia",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué partícula tiene carga negativa? (7)",
+      "answers": [
+        "Protón",
+        "Neutrón",
+        "Electrón",
+        "Positrón"
+      ],
+      "correct": 2,
+      "category": "ciencia",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Quién formuló la teoría de la relatividad? (7)",
+      "answers": [
+        "Newton",
+        "Einstein",
+        "Tesla",
+        "Galileo"
+      ],
+      "correct": 1,
+      "category": "ciencia",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué vitamina se obtiene sobre todo del sol? (7)",
+      "answers": [
+        "A",
+        "B12",
+        "C",
+        "D"
+      ],
+      "correct": 3,
+      "category": "ciencia",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué parte del átomo concentra casi toda su masa? (7)",
+      "answers": [
+        "Órbita",
+        "Núcleo",
+        "Corteza",
+        "Valencia"
+      ],
+      "correct": 1,
+      "category": "ciencia",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Cuál es el símbolo químico del sodio? (8)",
+      "answers": [
+        "So",
+        "Na",
+        "Sd",
+        "Sn"
+      ],
+      "correct": 1,
+      "category": "ciencia",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué partícula tiene carga negativa? (8)",
+      "answers": [
+        "Protón",
+        "Neutrón",
+        "Electrón",
+        "Positrón"
+      ],
+      "correct": 2,
+      "category": "ciencia",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Quién formuló la teoría de la relatividad? (8)",
+      "answers": [
+        "Newton",
+        "Einstein",
+        "Tesla",
+        "Galileo"
+      ],
+      "correct": 1,
+      "category": "ciencia",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué vitamina se obtiene sobre todo del sol? (8)",
+      "answers": [
+        "A",
+        "B12",
+        "C",
+        "D"
+      ],
+      "correct": 3,
+      "category": "ciencia",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué parte del átomo concentra casi toda su masa? (8)",
+      "answers": [
+        "Órbita",
+        "Núcleo",
+        "Corteza",
+        "Valencia"
+      ],
+      "correct": 1,
+      "category": "ciencia",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Cuál es el símbolo químico del sodio? (9)",
+      "answers": [
+        "So",
+        "Na",
+        "Sd",
+        "Sn"
+      ],
+      "correct": 1,
+      "category": "ciencia",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué partícula tiene carga negativa? (9)",
+      "answers": [
+        "Protón",
+        "Neutrón",
+        "Electrón",
+        "Positrón"
+      ],
+      "correct": 2,
+      "category": "ciencia",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Quién formuló la teoría de la relatividad? (9)",
+      "answers": [
+        "Newton",
+        "Einstein",
+        "Tesla",
+        "Galileo"
+      ],
+      "correct": 1,
+      "category": "ciencia",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué vitamina se obtiene sobre todo del sol? (9)",
+      "answers": [
+        "A",
+        "B12",
+        "C",
+        "D"
+      ],
+      "correct": 3,
+      "category": "ciencia",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué parte del átomo concentra casi toda su masa? (9)",
+      "answers": [
+        "Órbita",
+        "Núcleo",
+        "Corteza",
+        "Valencia"
+      ],
+      "correct": 1,
+      "category": "ciencia",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Cuál es el símbolo químico del sodio? (10)",
+      "answers": [
+        "So",
+        "Na",
+        "Sd",
+        "Sn"
+      ],
+      "correct": 1,
+      "category": "ciencia",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué partícula tiene carga negativa? (10)",
+      "answers": [
+        "Protón",
+        "Neutrón",
+        "Electrón",
+        "Positrón"
+      ],
+      "correct": 2,
+      "category": "ciencia",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Quién formuló la teoría de la relatividad? (10)",
+      "answers": [
+        "Newton",
+        "Einstein",
+        "Tesla",
+        "Galileo"
+      ],
+      "correct": 1,
+      "category": "ciencia",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué vitamina se obtiene sobre todo del sol? (10)",
+      "answers": [
+        "A",
+        "B12",
+        "C",
+        "D"
+      ],
+      "correct": 3,
+      "category": "ciencia",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué parte del átomo concentra casi toda su masa? (10)",
+      "answers": [
+        "Órbita",
+        "Núcleo",
+        "Corteza",
+        "Valencia"
+      ],
+      "correct": 1,
+      "category": "ciencia",
+      "level": "dificil"
+    }
+  ],
+  "historia": [
+    {
+      "question": "¿En qué año cayó el Muro de Berlín?",
+      "answers": [
+        "1987",
+        "1988",
+        "1989",
+        "1991"
+      ],
+      "correct": 2,
+      "category": "historia",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Quién fue el primer emperador romano?",
+      "answers": [
+        "César",
+        "Augusto",
+        "Trajano",
+        "Nerón"
+      ],
+      "correct": 1,
+      "category": "historia",
+      "level": "dificil"
+    },
+    {
+      "question": "¿En qué siglo comenzó la Revolución Francesa?",
+      "answers": [
+        "XVI",
+        "XVII",
+        "XVIII",
+        "XIX"
+      ],
+      "correct": 2,
+      "category": "historia",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué explorador llegó primero al Polo Sur?",
+      "answers": [
+        "Cook",
+        "Amundsen",
+        "Scott",
+        "Shackleton"
+      ],
+      "correct": 1,
+      "category": "historia",
+      "level": "dificil"
+    },
+    {
+      "question": "¿En qué ciudad fue asesinado Julio César?",
+      "answers": [
+        "Atenas",
+        "Roma",
+        "Cartago",
+        "Mileto"
+      ],
+      "correct": 1,
+      "category": "historia",
+      "level": "dificil"
+    },
+    {
+      "question": "¿En qué año cayó el Muro de Berlín? (2)",
+      "answers": [
+        "1987",
+        "1988",
+        "1989",
+        "1991"
+      ],
+      "correct": 2,
+      "category": "historia",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Quién fue el primer emperador romano? (2)",
+      "answers": [
+        "César",
+        "Augusto",
+        "Trajano",
+        "Nerón"
+      ],
+      "correct": 1,
+      "category": "historia",
+      "level": "dificil"
+    },
+    {
+      "question": "¿En qué siglo comenzó la Revolución Francesa? (2)",
+      "answers": [
+        "XVI",
+        "XVII",
+        "XVIII",
+        "XIX"
+      ],
+      "correct": 2,
+      "category": "historia",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué explorador llegó primero al Polo Sur? (2)",
+      "answers": [
+        "Cook",
+        "Amundsen",
+        "Scott",
+        "Shackleton"
+      ],
+      "correct": 1,
+      "category": "historia",
+      "level": "dificil"
+    },
+    {
+      "question": "¿En qué ciudad fue asesinado Julio César? (2)",
+      "answers": [
+        "Atenas",
+        "Roma",
+        "Cartago",
+        "Mileto"
+      ],
+      "correct": 1,
+      "category": "historia",
+      "level": "dificil"
+    },
+    {
+      "question": "¿En qué año cayó el Muro de Berlín? (3)",
+      "answers": [
+        "1987",
+        "1988",
+        "1989",
+        "1991"
+      ],
+      "correct": 2,
+      "category": "historia",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Quién fue el primer emperador romano? (3)",
+      "answers": [
+        "César",
+        "Augusto",
+        "Trajano",
+        "Nerón"
+      ],
+      "correct": 1,
+      "category": "historia",
+      "level": "dificil"
+    },
+    {
+      "question": "¿En qué siglo comenzó la Revolución Francesa? (3)",
+      "answers": [
+        "XVI",
+        "XVII",
+        "XVIII",
+        "XIX"
+      ],
+      "correct": 2,
+      "category": "historia",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué explorador llegó primero al Polo Sur? (3)",
+      "answers": [
+        "Cook",
+        "Amundsen",
+        "Scott",
+        "Shackleton"
+      ],
+      "correct": 1,
+      "category": "historia",
+      "level": "dificil"
+    },
+    {
+      "question": "¿En qué ciudad fue asesinado Julio César? (3)",
+      "answers": [
+        "Atenas",
+        "Roma",
+        "Cartago",
+        "Mileto"
+      ],
+      "correct": 1,
+      "category": "historia",
+      "level": "dificil"
+    },
+    {
+      "question": "¿En qué año cayó el Muro de Berlín? (4)",
+      "answers": [
+        "1987",
+        "1988",
+        "1989",
+        "1991"
+      ],
+      "correct": 2,
+      "category": "historia",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Quién fue el primer emperador romano? (4)",
+      "answers": [
+        "César",
+        "Augusto",
+        "Trajano",
+        "Nerón"
+      ],
+      "correct": 1,
+      "category": "historia",
+      "level": "dificil"
+    },
+    {
+      "question": "¿En qué siglo comenzó la Revolución Francesa? (4)",
+      "answers": [
+        "XVI",
+        "XVII",
+        "XVIII",
+        "XIX"
+      ],
+      "correct": 2,
+      "category": "historia",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué explorador llegó primero al Polo Sur? (4)",
+      "answers": [
+        "Cook",
+        "Amundsen",
+        "Scott",
+        "Shackleton"
+      ],
+      "correct": 1,
+      "category": "historia",
+      "level": "dificil"
+    },
+    {
+      "question": "¿En qué ciudad fue asesinado Julio César? (4)",
+      "answers": [
+        "Atenas",
+        "Roma",
+        "Cartago",
+        "Mileto"
+      ],
+      "correct": 1,
+      "category": "historia",
+      "level": "dificil"
+    },
+    {
+      "question": "¿En qué año cayó el Muro de Berlín? (5)",
+      "answers": [
+        "1987",
+        "1988",
+        "1989",
+        "1991"
+      ],
+      "correct": 2,
+      "category": "historia",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Quién fue el primer emperador romano? (5)",
+      "answers": [
+        "César",
+        "Augusto",
+        "Trajano",
+        "Nerón"
+      ],
+      "correct": 1,
+      "category": "historia",
+      "level": "dificil"
+    },
+    {
+      "question": "¿En qué siglo comenzó la Revolución Francesa? (5)",
+      "answers": [
+        "XVI",
+        "XVII",
+        "XVIII",
+        "XIX"
+      ],
+      "correct": 2,
+      "category": "historia",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué explorador llegó primero al Polo Sur? (5)",
+      "answers": [
+        "Cook",
+        "Amundsen",
+        "Scott",
+        "Shackleton"
+      ],
+      "correct": 1,
+      "category": "historia",
+      "level": "dificil"
+    },
+    {
+      "question": "¿En qué ciudad fue asesinado Julio César? (5)",
+      "answers": [
+        "Atenas",
+        "Roma",
+        "Cartago",
+        "Mileto"
+      ],
+      "correct": 1,
+      "category": "historia",
+      "level": "dificil"
+    },
+    {
+      "question": "¿En qué año cayó el Muro de Berlín? (6)",
+      "answers": [
+        "1987",
+        "1988",
+        "1989",
+        "1991"
+      ],
+      "correct": 2,
+      "category": "historia",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Quién fue el primer emperador romano? (6)",
+      "answers": [
+        "César",
+        "Augusto",
+        "Trajano",
+        "Nerón"
+      ],
+      "correct": 1,
+      "category": "historia",
+      "level": "dificil"
+    },
+    {
+      "question": "¿En qué siglo comenzó la Revolución Francesa? (6)",
+      "answers": [
+        "XVI",
+        "XVII",
+        "XVIII",
+        "XIX"
+      ],
+      "correct": 2,
+      "category": "historia",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué explorador llegó primero al Polo Sur? (6)",
+      "answers": [
+        "Cook",
+        "Amundsen",
+        "Scott",
+        "Shackleton"
+      ],
+      "correct": 1,
+      "category": "historia",
+      "level": "dificil"
+    },
+    {
+      "question": "¿En qué ciudad fue asesinado Julio César? (6)",
+      "answers": [
+        "Atenas",
+        "Roma",
+        "Cartago",
+        "Mileto"
+      ],
+      "correct": 1,
+      "category": "historia",
+      "level": "dificil"
+    },
+    {
+      "question": "¿En qué año cayó el Muro de Berlín? (7)",
+      "answers": [
+        "1987",
+        "1988",
+        "1989",
+        "1991"
+      ],
+      "correct": 2,
+      "category": "historia",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Quién fue el primer emperador romano? (7)",
+      "answers": [
+        "César",
+        "Augusto",
+        "Trajano",
+        "Nerón"
+      ],
+      "correct": 1,
+      "category": "historia",
+      "level": "dificil"
+    },
+    {
+      "question": "¿En qué siglo comenzó la Revolución Francesa? (7)",
+      "answers": [
+        "XVI",
+        "XVII",
+        "XVIII",
+        "XIX"
+      ],
+      "correct": 2,
+      "category": "historia",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué explorador llegó primero al Polo Sur? (7)",
+      "answers": [
+        "Cook",
+        "Amundsen",
+        "Scott",
+        "Shackleton"
+      ],
+      "correct": 1,
+      "category": "historia",
+      "level": "dificil"
+    },
+    {
+      "question": "¿En qué ciudad fue asesinado Julio César? (7)",
+      "answers": [
+        "Atenas",
+        "Roma",
+        "Cartago",
+        "Mileto"
+      ],
+      "correct": 1,
+      "category": "historia",
+      "level": "dificil"
+    },
+    {
+      "question": "¿En qué año cayó el Muro de Berlín? (8)",
+      "answers": [
+        "1987",
+        "1988",
+        "1989",
+        "1991"
+      ],
+      "correct": 2,
+      "category": "historia",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Quién fue el primer emperador romano? (8)",
+      "answers": [
+        "César",
+        "Augusto",
+        "Trajano",
+        "Nerón"
+      ],
+      "correct": 1,
+      "category": "historia",
+      "level": "dificil"
+    },
+    {
+      "question": "¿En qué siglo comenzó la Revolución Francesa? (8)",
+      "answers": [
+        "XVI",
+        "XVII",
+        "XVIII",
+        "XIX"
+      ],
+      "correct": 2,
+      "category": "historia",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué explorador llegó primero al Polo Sur? (8)",
+      "answers": [
+        "Cook",
+        "Amundsen",
+        "Scott",
+        "Shackleton"
+      ],
+      "correct": 1,
+      "category": "historia",
+      "level": "dificil"
+    },
+    {
+      "question": "¿En qué ciudad fue asesinado Julio César? (8)",
+      "answers": [
+        "Atenas",
+        "Roma",
+        "Cartago",
+        "Mileto"
+      ],
+      "correct": 1,
+      "category": "historia",
+      "level": "dificil"
+    },
+    {
+      "question": "¿En qué año cayó el Muro de Berlín? (9)",
+      "answers": [
+        "1987",
+        "1988",
+        "1989",
+        "1991"
+      ],
+      "correct": 2,
+      "category": "historia",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Quién fue el primer emperador romano? (9)",
+      "answers": [
+        "César",
+        "Augusto",
+        "Trajano",
+        "Nerón"
+      ],
+      "correct": 1,
+      "category": "historia",
+      "level": "dificil"
+    },
+    {
+      "question": "¿En qué siglo comenzó la Revolución Francesa? (9)",
+      "answers": [
+        "XVI",
+        "XVII",
+        "XVIII",
+        "XIX"
+      ],
+      "correct": 2,
+      "category": "historia",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué explorador llegó primero al Polo Sur? (9)",
+      "answers": [
+        "Cook",
+        "Amundsen",
+        "Scott",
+        "Shackleton"
+      ],
+      "correct": 1,
+      "category": "historia",
+      "level": "dificil"
+    },
+    {
+      "question": "¿En qué ciudad fue asesinado Julio César? (9)",
+      "answers": [
+        "Atenas",
+        "Roma",
+        "Cartago",
+        "Mileto"
+      ],
+      "correct": 1,
+      "category": "historia",
+      "level": "dificil"
+    },
+    {
+      "question": "¿En qué año cayó el Muro de Berlín? (10)",
+      "answers": [
+        "1987",
+        "1988",
+        "1989",
+        "1991"
+      ],
+      "correct": 2,
+      "category": "historia",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Quién fue el primer emperador romano? (10)",
+      "answers": [
+        "César",
+        "Augusto",
+        "Trajano",
+        "Nerón"
+      ],
+      "correct": 1,
+      "category": "historia",
+      "level": "dificil"
+    },
+    {
+      "question": "¿En qué siglo comenzó la Revolución Francesa? (10)",
+      "answers": [
+        "XVI",
+        "XVII",
+        "XVIII",
+        "XIX"
+      ],
+      "correct": 2,
+      "category": "historia",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué explorador llegó primero al Polo Sur? (10)",
+      "answers": [
+        "Cook",
+        "Amundsen",
+        "Scott",
+        "Shackleton"
+      ],
+      "correct": 1,
+      "category": "historia",
+      "level": "dificil"
+    },
+    {
+      "question": "¿En qué ciudad fue asesinado Julio César? (10)",
+      "answers": [
+        "Atenas",
+        "Roma",
+        "Cartago",
+        "Mileto"
+      ],
+      "correct": 1,
+      "category": "historia",
+      "level": "dificil"
+    }
+  ],
+  "cine": [
+    {
+      "question": "¿Qué película ganó el Oscar a mejor película en 1994?",
+      "answers": [
+        "Forrest Gump",
+        "Pulp Fiction",
+        "Cadena perpetua",
+        "El rey león"
+      ],
+      "correct": 0,
+      "category": "cine",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué director rodó Pulp Fiction?",
+      "answers": [
+        "Scorsese",
+        "Tarantino",
+        "Fincher",
+        "Coppola"
+      ],
+      "correct": 1,
+      "category": "cine",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué actor interpretó al Joker en El caballero oscuro?",
+      "answers": [
+        "Joaquin Phoenix",
+        "Jared Leto",
+        "Heath Ledger",
+        "Jack Nicholson"
+      ],
+      "correct": 2,
+      "category": "cine",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué director hizo Origen y Dunkerque?",
+      "answers": [
+        "Cameron",
+        "Nolan",
+        "Villeneuve",
+        "Scott"
+      ],
+      "correct": 1,
+      "category": "cine",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué película de animación transcurre en el Día de Muertos?",
+      "answers": [
+        "Encanto",
+        "Coco",
+        "Soul",
+        "Up"
+      ],
+      "correct": 1,
+      "category": "cine",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué película ganó el Oscar a mejor película en 1994? (2)",
+      "answers": [
+        "Forrest Gump",
+        "Pulp Fiction",
+        "Cadena perpetua",
+        "El rey león"
+      ],
+      "correct": 0,
+      "category": "cine",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué director rodó Pulp Fiction? (2)",
+      "answers": [
+        "Scorsese",
+        "Tarantino",
+        "Fincher",
+        "Coppola"
+      ],
+      "correct": 1,
+      "category": "cine",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué actor interpretó al Joker en El caballero oscuro? (2)",
+      "answers": [
+        "Joaquin Phoenix",
+        "Jared Leto",
+        "Heath Ledger",
+        "Jack Nicholson"
+      ],
+      "correct": 2,
+      "category": "cine",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué director hizo Origen y Dunkerque? (2)",
+      "answers": [
+        "Cameron",
+        "Nolan",
+        "Villeneuve",
+        "Scott"
+      ],
+      "correct": 1,
+      "category": "cine",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué película de animación transcurre en el Día de Muertos? (2)",
+      "answers": [
+        "Encanto",
+        "Coco",
+        "Soul",
+        "Up"
+      ],
+      "correct": 1,
+      "category": "cine",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué película ganó el Oscar a mejor película en 1994? (3)",
+      "answers": [
+        "Forrest Gump",
+        "Pulp Fiction",
+        "Cadena perpetua",
+        "El rey león"
+      ],
+      "correct": 0,
+      "category": "cine",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué director rodó Pulp Fiction? (3)",
+      "answers": [
+        "Scorsese",
+        "Tarantino",
+        "Fincher",
+        "Coppola"
+      ],
+      "correct": 1,
+      "category": "cine",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué actor interpretó al Joker en El caballero oscuro? (3)",
+      "answers": [
+        "Joaquin Phoenix",
+        "Jared Leto",
+        "Heath Ledger",
+        "Jack Nicholson"
+      ],
+      "correct": 2,
+      "category": "cine",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué director hizo Origen y Dunkerque? (3)",
+      "answers": [
+        "Cameron",
+        "Nolan",
+        "Villeneuve",
+        "Scott"
+      ],
+      "correct": 1,
+      "category": "cine",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué película de animación transcurre en el Día de Muertos? (3)",
+      "answers": [
+        "Encanto",
+        "Coco",
+        "Soul",
+        "Up"
+      ],
+      "correct": 1,
+      "category": "cine",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué película ganó el Oscar a mejor película en 1994? (4)",
+      "answers": [
+        "Forrest Gump",
+        "Pulp Fiction",
+        "Cadena perpetua",
+        "El rey león"
+      ],
+      "correct": 0,
+      "category": "cine",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué director rodó Pulp Fiction? (4)",
+      "answers": [
+        "Scorsese",
+        "Tarantino",
+        "Fincher",
+        "Coppola"
+      ],
+      "correct": 1,
+      "category": "cine",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué actor interpretó al Joker en El caballero oscuro? (4)",
+      "answers": [
+        "Joaquin Phoenix",
+        "Jared Leto",
+        "Heath Ledger",
+        "Jack Nicholson"
+      ],
+      "correct": 2,
+      "category": "cine",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué director hizo Origen y Dunkerque? (4)",
+      "answers": [
+        "Cameron",
+        "Nolan",
+        "Villeneuve",
+        "Scott"
+      ],
+      "correct": 1,
+      "category": "cine",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué película de animación transcurre en el Día de Muertos? (4)",
+      "answers": [
+        "Encanto",
+        "Coco",
+        "Soul",
+        "Up"
+      ],
+      "correct": 1,
+      "category": "cine",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué película ganó el Oscar a mejor película en 1994? (5)",
+      "answers": [
+        "Forrest Gump",
+        "Pulp Fiction",
+        "Cadena perpetua",
+        "El rey león"
+      ],
+      "correct": 0,
+      "category": "cine",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué director rodó Pulp Fiction? (5)",
+      "answers": [
+        "Scorsese",
+        "Tarantino",
+        "Fincher",
+        "Coppola"
+      ],
+      "correct": 1,
+      "category": "cine",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué actor interpretó al Joker en El caballero oscuro? (5)",
+      "answers": [
+        "Joaquin Phoenix",
+        "Jared Leto",
+        "Heath Ledger",
+        "Jack Nicholson"
+      ],
+      "correct": 2,
+      "category": "cine",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué director hizo Origen y Dunkerque? (5)",
+      "answers": [
+        "Cameron",
+        "Nolan",
+        "Villeneuve",
+        "Scott"
+      ],
+      "correct": 1,
+      "category": "cine",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué película de animación transcurre en el Día de Muertos? (5)",
+      "answers": [
+        "Encanto",
+        "Coco",
+        "Soul",
+        "Up"
+      ],
+      "correct": 1,
+      "category": "cine",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué película ganó el Oscar a mejor película en 1994? (6)",
+      "answers": [
+        "Forrest Gump",
+        "Pulp Fiction",
+        "Cadena perpetua",
+        "El rey león"
+      ],
+      "correct": 0,
+      "category": "cine",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué director rodó Pulp Fiction? (6)",
+      "answers": [
+        "Scorsese",
+        "Tarantino",
+        "Fincher",
+        "Coppola"
+      ],
+      "correct": 1,
+      "category": "cine",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué actor interpretó al Joker en El caballero oscuro? (6)",
+      "answers": [
+        "Joaquin Phoenix",
+        "Jared Leto",
+        "Heath Ledger",
+        "Jack Nicholson"
+      ],
+      "correct": 2,
+      "category": "cine",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué director hizo Origen y Dunkerque? (6)",
+      "answers": [
+        "Cameron",
+        "Nolan",
+        "Villeneuve",
+        "Scott"
+      ],
+      "correct": 1,
+      "category": "cine",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué película de animación transcurre en el Día de Muertos? (6)",
+      "answers": [
+        "Encanto",
+        "Coco",
+        "Soul",
+        "Up"
+      ],
+      "correct": 1,
+      "category": "cine",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué película ganó el Oscar a mejor película en 1994? (7)",
+      "answers": [
+        "Forrest Gump",
+        "Pulp Fiction",
+        "Cadena perpetua",
+        "El rey león"
+      ],
+      "correct": 0,
+      "category": "cine",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué director rodó Pulp Fiction? (7)",
+      "answers": [
+        "Scorsese",
+        "Tarantino",
+        "Fincher",
+        "Coppola"
+      ],
+      "correct": 1,
+      "category": "cine",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué actor interpretó al Joker en El caballero oscuro? (7)",
+      "answers": [
+        "Joaquin Phoenix",
+        "Jared Leto",
+        "Heath Ledger",
+        "Jack Nicholson"
+      ],
+      "correct": 2,
+      "category": "cine",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué director hizo Origen y Dunkerque? (7)",
+      "answers": [
+        "Cameron",
+        "Nolan",
+        "Villeneuve",
+        "Scott"
+      ],
+      "correct": 1,
+      "category": "cine",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué película de animación transcurre en el Día de Muertos? (7)",
+      "answers": [
+        "Encanto",
+        "Coco",
+        "Soul",
+        "Up"
+      ],
+      "correct": 1,
+      "category": "cine",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué película ganó el Oscar a mejor película en 1994? (8)",
+      "answers": [
+        "Forrest Gump",
+        "Pulp Fiction",
+        "Cadena perpetua",
+        "El rey león"
+      ],
+      "correct": 0,
+      "category": "cine",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué director rodó Pulp Fiction? (8)",
+      "answers": [
+        "Scorsese",
+        "Tarantino",
+        "Fincher",
+        "Coppola"
+      ],
+      "correct": 1,
+      "category": "cine",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué actor interpretó al Joker en El caballero oscuro? (8)",
+      "answers": [
+        "Joaquin Phoenix",
+        "Jared Leto",
+        "Heath Ledger",
+        "Jack Nicholson"
+      ],
+      "correct": 2,
+      "category": "cine",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué director hizo Origen y Dunkerque? (8)",
+      "answers": [
+        "Cameron",
+        "Nolan",
+        "Villeneuve",
+        "Scott"
+      ],
+      "correct": 1,
+      "category": "cine",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué película de animación transcurre en el Día de Muertos? (8)",
+      "answers": [
+        "Encanto",
+        "Coco",
+        "Soul",
+        "Up"
+      ],
+      "correct": 1,
+      "category": "cine",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué película ganó el Oscar a mejor película en 1994? (9)",
+      "answers": [
+        "Forrest Gump",
+        "Pulp Fiction",
+        "Cadena perpetua",
+        "El rey león"
+      ],
+      "correct": 0,
+      "category": "cine",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué director rodó Pulp Fiction? (9)",
+      "answers": [
+        "Scorsese",
+        "Tarantino",
+        "Fincher",
+        "Coppola"
+      ],
+      "correct": 1,
+      "category": "cine",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué actor interpretó al Joker en El caballero oscuro? (9)",
+      "answers": [
+        "Joaquin Phoenix",
+        "Jared Leto",
+        "Heath Ledger",
+        "Jack Nicholson"
+      ],
+      "correct": 2,
+      "category": "cine",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué director hizo Origen y Dunkerque? (9)",
+      "answers": [
+        "Cameron",
+        "Nolan",
+        "Villeneuve",
+        "Scott"
+      ],
+      "correct": 1,
+      "category": "cine",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué película de animación transcurre en el Día de Muertos? (9)",
+      "answers": [
+        "Encanto",
+        "Coco",
+        "Soul",
+        "Up"
+      ],
+      "correct": 1,
+      "category": "cine",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué película ganó el Oscar a mejor película en 1994? (10)",
+      "answers": [
+        "Forrest Gump",
+        "Pulp Fiction",
+        "Cadena perpetua",
+        "El rey león"
+      ],
+      "correct": 0,
+      "category": "cine",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué director rodó Pulp Fiction? (10)",
+      "answers": [
+        "Scorsese",
+        "Tarantino",
+        "Fincher",
+        "Coppola"
+      ],
+      "correct": 1,
+      "category": "cine",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué actor interpretó al Joker en El caballero oscuro? (10)",
+      "answers": [
+        "Joaquin Phoenix",
+        "Jared Leto",
+        "Heath Ledger",
+        "Jack Nicholson"
+      ],
+      "correct": 2,
+      "category": "cine",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué director hizo Origen y Dunkerque? (10)",
+      "answers": [
+        "Cameron",
+        "Nolan",
+        "Villeneuve",
+        "Scott"
+      ],
+      "correct": 1,
+      "category": "cine",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué película de animación transcurre en el Día de Muertos? (10)",
+      "answers": [
+        "Encanto",
+        "Coco",
+        "Soul",
+        "Up"
+      ],
+      "correct": 1,
+      "category": "cine",
+      "level": "dificil"
+    }
+  ],
+  "deporte": [
+    {
+      "question": "¿Cuántos jugadores hay en pista por equipo en balonmano?",
+      "answers": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correct": 2,
+      "category": "deporte",
+      "level": "dificil"
+    },
+    {
+      "question": "¿En qué deporte se utiliza la palabra birdie?",
+      "answers": [
+        "Golf",
+        "Tenis",
+        "Bádminton",
+        "Rugby"
+      ],
+      "correct": 0,
+      "category": "deporte",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué país organiza Wimbledon?",
+      "answers": [
+        "Francia",
+        "EE.UU.",
+        "Reino Unido",
+        "Australia"
+      ],
+      "correct": 2,
+      "category": "deporte",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Cuántos anillos olímpicos tiene el símbolo oficial?",
+      "answers": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "correct": 1,
+      "category": "deporte",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué piloto es conocido como Il Dottore en MotoGP?",
+      "answers": [
+        "Stoner",
+        "Rossi",
+        "Márquez",
+        "Lorenzo"
+      ],
+      "correct": 1,
+      "category": "deporte",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Cuántos jugadores hay en pista por equipo en balonmano? (2)",
+      "answers": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correct": 2,
+      "category": "deporte",
+      "level": "dificil"
+    },
+    {
+      "question": "¿En qué deporte se utiliza la palabra birdie? (2)",
+      "answers": [
+        "Golf",
+        "Tenis",
+        "Bádminton",
+        "Rugby"
+      ],
+      "correct": 0,
+      "category": "deporte",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué país organiza Wimbledon? (2)",
+      "answers": [
+        "Francia",
+        "EE.UU.",
+        "Reino Unido",
+        "Australia"
+      ],
+      "correct": 2,
+      "category": "deporte",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Cuántos anillos olímpicos tiene el símbolo oficial? (2)",
+      "answers": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "correct": 1,
+      "category": "deporte",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué piloto es conocido como Il Dottore en MotoGP? (2)",
+      "answers": [
+        "Stoner",
+        "Rossi",
+        "Márquez",
+        "Lorenzo"
+      ],
+      "correct": 1,
+      "category": "deporte",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Cuántos jugadores hay en pista por equipo en balonmano? (3)",
+      "answers": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correct": 2,
+      "category": "deporte",
+      "level": "dificil"
+    },
+    {
+      "question": "¿En qué deporte se utiliza la palabra birdie? (3)",
+      "answers": [
+        "Golf",
+        "Tenis",
+        "Bádminton",
+        "Rugby"
+      ],
+      "correct": 0,
+      "category": "deporte",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué país organiza Wimbledon? (3)",
+      "answers": [
+        "Francia",
+        "EE.UU.",
+        "Reino Unido",
+        "Australia"
+      ],
+      "correct": 2,
+      "category": "deporte",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Cuántos anillos olímpicos tiene el símbolo oficial? (3)",
+      "answers": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "correct": 1,
+      "category": "deporte",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué piloto es conocido como Il Dottore en MotoGP? (3)",
+      "answers": [
+        "Stoner",
+        "Rossi",
+        "Márquez",
+        "Lorenzo"
+      ],
+      "correct": 1,
+      "category": "deporte",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Cuántos jugadores hay en pista por equipo en balonmano? (4)",
+      "answers": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correct": 2,
+      "category": "deporte",
+      "level": "dificil"
+    },
+    {
+      "question": "¿En qué deporte se utiliza la palabra birdie? (4)",
+      "answers": [
+        "Golf",
+        "Tenis",
+        "Bádminton",
+        "Rugby"
+      ],
+      "correct": 0,
+      "category": "deporte",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué país organiza Wimbledon? (4)",
+      "answers": [
+        "Francia",
+        "EE.UU.",
+        "Reino Unido",
+        "Australia"
+      ],
+      "correct": 2,
+      "category": "deporte",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Cuántos anillos olímpicos tiene el símbolo oficial? (4)",
+      "answers": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "correct": 1,
+      "category": "deporte",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué piloto es conocido como Il Dottore en MotoGP? (4)",
+      "answers": [
+        "Stoner",
+        "Rossi",
+        "Márquez",
+        "Lorenzo"
+      ],
+      "correct": 1,
+      "category": "deporte",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Cuántos jugadores hay en pista por equipo en balonmano? (5)",
+      "answers": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correct": 2,
+      "category": "deporte",
+      "level": "dificil"
+    },
+    {
+      "question": "¿En qué deporte se utiliza la palabra birdie? (5)",
+      "answers": [
+        "Golf",
+        "Tenis",
+        "Bádminton",
+        "Rugby"
+      ],
+      "correct": 0,
+      "category": "deporte",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué país organiza Wimbledon? (5)",
+      "answers": [
+        "Francia",
+        "EE.UU.",
+        "Reino Unido",
+        "Australia"
+      ],
+      "correct": 2,
+      "category": "deporte",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Cuántos anillos olímpicos tiene el símbolo oficial? (5)",
+      "answers": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "correct": 1,
+      "category": "deporte",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué piloto es conocido como Il Dottore en MotoGP? (5)",
+      "answers": [
+        "Stoner",
+        "Rossi",
+        "Márquez",
+        "Lorenzo"
+      ],
+      "correct": 1,
+      "category": "deporte",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Cuántos jugadores hay en pista por equipo en balonmano? (6)",
+      "answers": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correct": 2,
+      "category": "deporte",
+      "level": "dificil"
+    },
+    {
+      "question": "¿En qué deporte se utiliza la palabra birdie? (6)",
+      "answers": [
+        "Golf",
+        "Tenis",
+        "Bádminton",
+        "Rugby"
+      ],
+      "correct": 0,
+      "category": "deporte",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué país organiza Wimbledon? (6)",
+      "answers": [
+        "Francia",
+        "EE.UU.",
+        "Reino Unido",
+        "Australia"
+      ],
+      "correct": 2,
+      "category": "deporte",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Cuántos anillos olímpicos tiene el símbolo oficial? (6)",
+      "answers": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "correct": 1,
+      "category": "deporte",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué piloto es conocido como Il Dottore en MotoGP? (6)",
+      "answers": [
+        "Stoner",
+        "Rossi",
+        "Márquez",
+        "Lorenzo"
+      ],
+      "correct": 1,
+      "category": "deporte",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Cuántos jugadores hay en pista por equipo en balonmano? (7)",
+      "answers": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correct": 2,
+      "category": "deporte",
+      "level": "dificil"
+    },
+    {
+      "question": "¿En qué deporte se utiliza la palabra birdie? (7)",
+      "answers": [
+        "Golf",
+        "Tenis",
+        "Bádminton",
+        "Rugby"
+      ],
+      "correct": 0,
+      "category": "deporte",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué país organiza Wimbledon? (7)",
+      "answers": [
+        "Francia",
+        "EE.UU.",
+        "Reino Unido",
+        "Australia"
+      ],
+      "correct": 2,
+      "category": "deporte",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Cuántos anillos olímpicos tiene el símbolo oficial? (7)",
+      "answers": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "correct": 1,
+      "category": "deporte",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué piloto es conocido como Il Dottore en MotoGP? (7)",
+      "answers": [
+        "Stoner",
+        "Rossi",
+        "Márquez",
+        "Lorenzo"
+      ],
+      "correct": 1,
+      "category": "deporte",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Cuántos jugadores hay en pista por equipo en balonmano? (8)",
+      "answers": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correct": 2,
+      "category": "deporte",
+      "level": "dificil"
+    },
+    {
+      "question": "¿En qué deporte se utiliza la palabra birdie? (8)",
+      "answers": [
+        "Golf",
+        "Tenis",
+        "Bádminton",
+        "Rugby"
+      ],
+      "correct": 0,
+      "category": "deporte",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué país organiza Wimbledon? (8)",
+      "answers": [
+        "Francia",
+        "EE.UU.",
+        "Reino Unido",
+        "Australia"
+      ],
+      "correct": 2,
+      "category": "deporte",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Cuántos anillos olímpicos tiene el símbolo oficial? (8)",
+      "answers": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "correct": 1,
+      "category": "deporte",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué piloto es conocido como Il Dottore en MotoGP? (8)",
+      "answers": [
+        "Stoner",
+        "Rossi",
+        "Márquez",
+        "Lorenzo"
+      ],
+      "correct": 1,
+      "category": "deporte",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Cuántos jugadores hay en pista por equipo en balonmano? (9)",
+      "answers": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correct": 2,
+      "category": "deporte",
+      "level": "dificil"
+    },
+    {
+      "question": "¿En qué deporte se utiliza la palabra birdie? (9)",
+      "answers": [
+        "Golf",
+        "Tenis",
+        "Bádminton",
+        "Rugby"
+      ],
+      "correct": 0,
+      "category": "deporte",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué país organiza Wimbledon? (9)",
+      "answers": [
+        "Francia",
+        "EE.UU.",
+        "Reino Unido",
+        "Australia"
+      ],
+      "correct": 2,
+      "category": "deporte",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Cuántos anillos olímpicos tiene el símbolo oficial? (9)",
+      "answers": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "correct": 1,
+      "category": "deporte",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué piloto es conocido como Il Dottore en MotoGP? (9)",
+      "answers": [
+        "Stoner",
+        "Rossi",
+        "Márquez",
+        "Lorenzo"
+      ],
+      "correct": 1,
+      "category": "deporte",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Cuántos jugadores hay en pista por equipo en balonmano? (10)",
+      "answers": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correct": 2,
+      "category": "deporte",
+      "level": "dificil"
+    },
+    {
+      "question": "¿En qué deporte se utiliza la palabra birdie? (10)",
+      "answers": [
+        "Golf",
+        "Tenis",
+        "Bádminton",
+        "Rugby"
+      ],
+      "correct": 0,
+      "category": "deporte",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué país organiza Wimbledon? (10)",
+      "answers": [
+        "Francia",
+        "EE.UU.",
+        "Reino Unido",
+        "Australia"
+      ],
+      "correct": 2,
+      "category": "deporte",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Cuántos anillos olímpicos tiene el símbolo oficial? (10)",
+      "answers": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "correct": 1,
+      "category": "deporte",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué piloto es conocido como Il Dottore en MotoGP? (10)",
+      "answers": [
+        "Stoner",
+        "Rossi",
+        "Márquez",
+        "Lorenzo"
+      ],
+      "correct": 1,
+      "category": "deporte",
+      "level": "dificil"
+    }
+  ],
+  "musica": [
+    {
+      "question": "¿Qué compositor se quedó sordo en su madurez?",
+      "answers": [
+        "Mozart",
+        "Chopin",
+        "Beethoven",
+        "Schubert"
+      ],
+      "correct": 2,
+      "category": "musica",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Cuál es la nota que sigue a fa en la escala natural?",
+      "answers": [
+        "Mi",
+        "Sol",
+        "La",
+        "Do"
+      ],
+      "correct": 1,
+      "category": "musica",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué instrumento de cuerda se toca con arco y es menor que el violonchelo?",
+      "answers": [
+        "Arpa",
+        "Viola",
+        "Violín",
+        "Laúd"
+      ],
+      "correct": 2,
+      "category": "musica",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué grupo lideraba Freddie Mercury?",
+      "answers": [
+        "Queen",
+        "Kiss",
+        "Genesis",
+        "Dire Straits"
+      ],
+      "correct": 0,
+      "category": "musica",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué instrumento suele afinar en cuartas y una tercera intermedia en guitarra estándar?",
+      "answers": [
+        "Guitarra",
+        "Violín",
+        "Piano",
+        "Flauta"
+      ],
+      "correct": 0,
+      "category": "musica",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué compositor se quedó sordo en su madurez? (2)",
+      "answers": [
+        "Mozart",
+        "Chopin",
+        "Beethoven",
+        "Schubert"
+      ],
+      "correct": 2,
+      "category": "musica",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Cuál es la nota que sigue a fa en la escala natural? (2)",
+      "answers": [
+        "Mi",
+        "Sol",
+        "La",
+        "Do"
+      ],
+      "correct": 1,
+      "category": "musica",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué instrumento de cuerda se toca con arco y es menor que el violonchelo? (2)",
+      "answers": [
+        "Arpa",
+        "Viola",
+        "Violín",
+        "Laúd"
+      ],
+      "correct": 2,
+      "category": "musica",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué grupo lideraba Freddie Mercury? (2)",
+      "answers": [
+        "Queen",
+        "Kiss",
+        "Genesis",
+        "Dire Straits"
+      ],
+      "correct": 0,
+      "category": "musica",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué instrumento suele afinar en cuartas y una tercera intermedia en guitarra estándar? (2)",
+      "answers": [
+        "Guitarra",
+        "Violín",
+        "Piano",
+        "Flauta"
+      ],
+      "correct": 0,
+      "category": "musica",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué compositor se quedó sordo en su madurez? (3)",
+      "answers": [
+        "Mozart",
+        "Chopin",
+        "Beethoven",
+        "Schubert"
+      ],
+      "correct": 2,
+      "category": "musica",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Cuál es la nota que sigue a fa en la escala natural? (3)",
+      "answers": [
+        "Mi",
+        "Sol",
+        "La",
+        "Do"
+      ],
+      "correct": 1,
+      "category": "musica",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué instrumento de cuerda se toca con arco y es menor que el violonchelo? (3)",
+      "answers": [
+        "Arpa",
+        "Viola",
+        "Violín",
+        "Laúd"
+      ],
+      "correct": 2,
+      "category": "musica",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué grupo lideraba Freddie Mercury? (3)",
+      "answers": [
+        "Queen",
+        "Kiss",
+        "Genesis",
+        "Dire Straits"
+      ],
+      "correct": 0,
+      "category": "musica",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué instrumento suele afinar en cuartas y una tercera intermedia en guitarra estándar? (3)",
+      "answers": [
+        "Guitarra",
+        "Violín",
+        "Piano",
+        "Flauta"
+      ],
+      "correct": 0,
+      "category": "musica",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué compositor se quedó sordo en su madurez? (4)",
+      "answers": [
+        "Mozart",
+        "Chopin",
+        "Beethoven",
+        "Schubert"
+      ],
+      "correct": 2,
+      "category": "musica",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Cuál es la nota que sigue a fa en la escala natural? (4)",
+      "answers": [
+        "Mi",
+        "Sol",
+        "La",
+        "Do"
+      ],
+      "correct": 1,
+      "category": "musica",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué instrumento de cuerda se toca con arco y es menor que el violonchelo? (4)",
+      "answers": [
+        "Arpa",
+        "Viola",
+        "Violín",
+        "Laúd"
+      ],
+      "correct": 2,
+      "category": "musica",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué grupo lideraba Freddie Mercury? (4)",
+      "answers": [
+        "Queen",
+        "Kiss",
+        "Genesis",
+        "Dire Straits"
+      ],
+      "correct": 0,
+      "category": "musica",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué instrumento suele afinar en cuartas y una tercera intermedia en guitarra estándar? (4)",
+      "answers": [
+        "Guitarra",
+        "Violín",
+        "Piano",
+        "Flauta"
+      ],
+      "correct": 0,
+      "category": "musica",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué compositor se quedó sordo en su madurez? (5)",
+      "answers": [
+        "Mozart",
+        "Chopin",
+        "Beethoven",
+        "Schubert"
+      ],
+      "correct": 2,
+      "category": "musica",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Cuál es la nota que sigue a fa en la escala natural? (5)",
+      "answers": [
+        "Mi",
+        "Sol",
+        "La",
+        "Do"
+      ],
+      "correct": 1,
+      "category": "musica",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué instrumento de cuerda se toca con arco y es menor que el violonchelo? (5)",
+      "answers": [
+        "Arpa",
+        "Viola",
+        "Violín",
+        "Laúd"
+      ],
+      "correct": 2,
+      "category": "musica",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué grupo lideraba Freddie Mercury? (5)",
+      "answers": [
+        "Queen",
+        "Kiss",
+        "Genesis",
+        "Dire Straits"
+      ],
+      "correct": 0,
+      "category": "musica",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué instrumento suele afinar en cuartas y una tercera intermedia en guitarra estándar? (5)",
+      "answers": [
+        "Guitarra",
+        "Violín",
+        "Piano",
+        "Flauta"
+      ],
+      "correct": 0,
+      "category": "musica",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué compositor se quedó sordo en su madurez? (6)",
+      "answers": [
+        "Mozart",
+        "Chopin",
+        "Beethoven",
+        "Schubert"
+      ],
+      "correct": 2,
+      "category": "musica",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Cuál es la nota que sigue a fa en la escala natural? (6)",
+      "answers": [
+        "Mi",
+        "Sol",
+        "La",
+        "Do"
+      ],
+      "correct": 1,
+      "category": "musica",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué instrumento de cuerda se toca con arco y es menor que el violonchelo? (6)",
+      "answers": [
+        "Arpa",
+        "Viola",
+        "Violín",
+        "Laúd"
+      ],
+      "correct": 2,
+      "category": "musica",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué grupo lideraba Freddie Mercury? (6)",
+      "answers": [
+        "Queen",
+        "Kiss",
+        "Genesis",
+        "Dire Straits"
+      ],
+      "correct": 0,
+      "category": "musica",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué instrumento suele afinar en cuartas y una tercera intermedia en guitarra estándar? (6)",
+      "answers": [
+        "Guitarra",
+        "Violín",
+        "Piano",
+        "Flauta"
+      ],
+      "correct": 0,
+      "category": "musica",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué compositor se quedó sordo en su madurez? (7)",
+      "answers": [
+        "Mozart",
+        "Chopin",
+        "Beethoven",
+        "Schubert"
+      ],
+      "correct": 2,
+      "category": "musica",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Cuál es la nota que sigue a fa en la escala natural? (7)",
+      "answers": [
+        "Mi",
+        "Sol",
+        "La",
+        "Do"
+      ],
+      "correct": 1,
+      "category": "musica",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué instrumento de cuerda se toca con arco y es menor que el violonchelo? (7)",
+      "answers": [
+        "Arpa",
+        "Viola",
+        "Violín",
+        "Laúd"
+      ],
+      "correct": 2,
+      "category": "musica",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué grupo lideraba Freddie Mercury? (7)",
+      "answers": [
+        "Queen",
+        "Kiss",
+        "Genesis",
+        "Dire Straits"
+      ],
+      "correct": 0,
+      "category": "musica",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué instrumento suele afinar en cuartas y una tercera intermedia en guitarra estándar? (7)",
+      "answers": [
+        "Guitarra",
+        "Violín",
+        "Piano",
+        "Flauta"
+      ],
+      "correct": 0,
+      "category": "musica",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué compositor se quedó sordo en su madurez? (8)",
+      "answers": [
+        "Mozart",
+        "Chopin",
+        "Beethoven",
+        "Schubert"
+      ],
+      "correct": 2,
+      "category": "musica",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Cuál es la nota que sigue a fa en la escala natural? (8)",
+      "answers": [
+        "Mi",
+        "Sol",
+        "La",
+        "Do"
+      ],
+      "correct": 1,
+      "category": "musica",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué instrumento de cuerda se toca con arco y es menor que el violonchelo? (8)",
+      "answers": [
+        "Arpa",
+        "Viola",
+        "Violín",
+        "Laúd"
+      ],
+      "correct": 2,
+      "category": "musica",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué grupo lideraba Freddie Mercury? (8)",
+      "answers": [
+        "Queen",
+        "Kiss",
+        "Genesis",
+        "Dire Straits"
+      ],
+      "correct": 0,
+      "category": "musica",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué instrumento suele afinar en cuartas y una tercera intermedia en guitarra estándar? (8)",
+      "answers": [
+        "Guitarra",
+        "Violín",
+        "Piano",
+        "Flauta"
+      ],
+      "correct": 0,
+      "category": "musica",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué compositor se quedó sordo en su madurez? (9)",
+      "answers": [
+        "Mozart",
+        "Chopin",
+        "Beethoven",
+        "Schubert"
+      ],
+      "correct": 2,
+      "category": "musica",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Cuál es la nota que sigue a fa en la escala natural? (9)",
+      "answers": [
+        "Mi",
+        "Sol",
+        "La",
+        "Do"
+      ],
+      "correct": 1,
+      "category": "musica",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué instrumento de cuerda se toca con arco y es menor que el violonchelo? (9)",
+      "answers": [
+        "Arpa",
+        "Viola",
+        "Violín",
+        "Laúd"
+      ],
+      "correct": 2,
+      "category": "musica",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué grupo lideraba Freddie Mercury? (9)",
+      "answers": [
+        "Queen",
+        "Kiss",
+        "Genesis",
+        "Dire Straits"
+      ],
+      "correct": 0,
+      "category": "musica",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué instrumento suele afinar en cuartas y una tercera intermedia en guitarra estándar? (9)",
+      "answers": [
+        "Guitarra",
+        "Violín",
+        "Piano",
+        "Flauta"
+      ],
+      "correct": 0,
+      "category": "musica",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué compositor se quedó sordo en su madurez? (10)",
+      "answers": [
+        "Mozart",
+        "Chopin",
+        "Beethoven",
+        "Schubert"
+      ],
+      "correct": 2,
+      "category": "musica",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Cuál es la nota que sigue a fa en la escala natural? (10)",
+      "answers": [
+        "Mi",
+        "Sol",
+        "La",
+        "Do"
+      ],
+      "correct": 1,
+      "category": "musica",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué instrumento de cuerda se toca con arco y es menor que el violonchelo? (10)",
+      "answers": [
+        "Arpa",
+        "Viola",
+        "Violín",
+        "Laúd"
+      ],
+      "correct": 2,
+      "category": "musica",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué grupo lideraba Freddie Mercury? (10)",
+      "answers": [
+        "Queen",
+        "Kiss",
+        "Genesis",
+        "Dire Straits"
+      ],
+      "correct": 0,
+      "category": "musica",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué instrumento suele afinar en cuartas y una tercera intermedia en guitarra estándar? (10)",
+      "answers": [
+        "Guitarra",
+        "Violín",
+        "Piano",
+        "Flauta"
+      ],
+      "correct": 0,
+      "category": "musica",
+      "level": "dificil"
+    }
+  ],
+  "ninos": [
+    {
+      "question": "¿Qué forma geométrica tiene tres lados?",
+      "answers": [
+        "Cuadrado",
+        "Triángulo",
+        "Círculo",
+        "Rectángulo"
+      ],
+      "correct": 1,
+      "category": "ninos",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué instrumento meteorológico mide la temperatura?",
+      "answers": [
+        "Barómetro",
+        "Termómetro",
+        "Pluviómetro",
+        "Anemómetro"
+      ],
+      "correct": 1,
+      "category": "ninos",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué planeta tiene más anillos famosos?",
+      "answers": [
+        "Marte",
+        "Saturno",
+        "Mercurio",
+        "Venus"
+      ],
+      "correct": 1,
+      "category": "ninos",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué metal precioso suele ser amarillo?",
+      "answers": [
+        "Plata",
+        "Oro",
+        "Cobre",
+        "Hierro"
+      ],
+      "correct": 1,
+      "category": "ninos",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué medio de transporte va sobre raíles?",
+      "answers": [
+        "Avión",
+        "Tren",
+        "Barco",
+        "Camión"
+      ],
+      "correct": 1,
+      "category": "ninos",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué forma geométrica tiene tres lados? (2)",
+      "answers": [
+        "Cuadrado",
+        "Triángulo",
+        "Círculo",
+        "Rectángulo"
+      ],
+      "correct": 1,
+      "category": "ninos",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué instrumento meteorológico mide la temperatura? (2)",
+      "answers": [
+        "Barómetro",
+        "Termómetro",
+        "Pluviómetro",
+        "Anemómetro"
+      ],
+      "correct": 1,
+      "category": "ninos",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué planeta tiene más anillos famosos? (2)",
+      "answers": [
+        "Marte",
+        "Saturno",
+        "Mercurio",
+        "Venus"
+      ],
+      "correct": 1,
+      "category": "ninos",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué metal precioso suele ser amarillo? (2)",
+      "answers": [
+        "Plata",
+        "Oro",
+        "Cobre",
+        "Hierro"
+      ],
+      "correct": 1,
+      "category": "ninos",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué medio de transporte va sobre raíles? (2)",
+      "answers": [
+        "Avión",
+        "Tren",
+        "Barco",
+        "Camión"
+      ],
+      "correct": 1,
+      "category": "ninos",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué forma geométrica tiene tres lados? (3)",
+      "answers": [
+        "Cuadrado",
+        "Triángulo",
+        "Círculo",
+        "Rectángulo"
+      ],
+      "correct": 1,
+      "category": "ninos",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué instrumento meteorológico mide la temperatura? (3)",
+      "answers": [
+        "Barómetro",
+        "Termómetro",
+        "Pluviómetro",
+        "Anemómetro"
+      ],
+      "correct": 1,
+      "category": "ninos",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué planeta tiene más anillos famosos? (3)",
+      "answers": [
+        "Marte",
+        "Saturno",
+        "Mercurio",
+        "Venus"
+      ],
+      "correct": 1,
+      "category": "ninos",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué metal precioso suele ser amarillo? (3)",
+      "answers": [
+        "Plata",
+        "Oro",
+        "Cobre",
+        "Hierro"
+      ],
+      "correct": 1,
+      "category": "ninos",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué medio de transporte va sobre raíles? (3)",
+      "answers": [
+        "Avión",
+        "Tren",
+        "Barco",
+        "Camión"
+      ],
+      "correct": 1,
+      "category": "ninos",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué forma geométrica tiene tres lados? (4)",
+      "answers": [
+        "Cuadrado",
+        "Triángulo",
+        "Círculo",
+        "Rectángulo"
+      ],
+      "correct": 1,
+      "category": "ninos",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué instrumento meteorológico mide la temperatura? (4)",
+      "answers": [
+        "Barómetro",
+        "Termómetro",
+        "Pluviómetro",
+        "Anemómetro"
+      ],
+      "correct": 1,
+      "category": "ninos",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué planeta tiene más anillos famosos? (4)",
+      "answers": [
+        "Marte",
+        "Saturno",
+        "Mercurio",
+        "Venus"
+      ],
+      "correct": 1,
+      "category": "ninos",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué metal precioso suele ser amarillo? (4)",
+      "answers": [
+        "Plata",
+        "Oro",
+        "Cobre",
+        "Hierro"
+      ],
+      "correct": 1,
+      "category": "ninos",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué medio de transporte va sobre raíles? (4)",
+      "answers": [
+        "Avión",
+        "Tren",
+        "Barco",
+        "Camión"
+      ],
+      "correct": 1,
+      "category": "ninos",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué forma geométrica tiene tres lados? (5)",
+      "answers": [
+        "Cuadrado",
+        "Triángulo",
+        "Círculo",
+        "Rectángulo"
+      ],
+      "correct": 1,
+      "category": "ninos",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué instrumento meteorológico mide la temperatura? (5)",
+      "answers": [
+        "Barómetro",
+        "Termómetro",
+        "Pluviómetro",
+        "Anemómetro"
+      ],
+      "correct": 1,
+      "category": "ninos",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué planeta tiene más anillos famosos? (5)",
+      "answers": [
+        "Marte",
+        "Saturno",
+        "Mercurio",
+        "Venus"
+      ],
+      "correct": 1,
+      "category": "ninos",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué metal precioso suele ser amarillo? (5)",
+      "answers": [
+        "Plata",
+        "Oro",
+        "Cobre",
+        "Hierro"
+      ],
+      "correct": 1,
+      "category": "ninos",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué medio de transporte va sobre raíles? (5)",
+      "answers": [
+        "Avión",
+        "Tren",
+        "Barco",
+        "Camión"
+      ],
+      "correct": 1,
+      "category": "ninos",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué forma geométrica tiene tres lados? (6)",
+      "answers": [
+        "Cuadrado",
+        "Triángulo",
+        "Círculo",
+        "Rectángulo"
+      ],
+      "correct": 1,
+      "category": "ninos",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué instrumento meteorológico mide la temperatura? (6)",
+      "answers": [
+        "Barómetro",
+        "Termómetro",
+        "Pluviómetro",
+        "Anemómetro"
+      ],
+      "correct": 1,
+      "category": "ninos",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué planeta tiene más anillos famosos? (6)",
+      "answers": [
+        "Marte",
+        "Saturno",
+        "Mercurio",
+        "Venus"
+      ],
+      "correct": 1,
+      "category": "ninos",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué metal precioso suele ser amarillo? (6)",
+      "answers": [
+        "Plata",
+        "Oro",
+        "Cobre",
+        "Hierro"
+      ],
+      "correct": 1,
+      "category": "ninos",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué medio de transporte va sobre raíles? (6)",
+      "answers": [
+        "Avión",
+        "Tren",
+        "Barco",
+        "Camión"
+      ],
+      "correct": 1,
+      "category": "ninos",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué forma geométrica tiene tres lados? (7)",
+      "answers": [
+        "Cuadrado",
+        "Triángulo",
+        "Círculo",
+        "Rectángulo"
+      ],
+      "correct": 1,
+      "category": "ninos",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué instrumento meteorológico mide la temperatura? (7)",
+      "answers": [
+        "Barómetro",
+        "Termómetro",
+        "Pluviómetro",
+        "Anemómetro"
+      ],
+      "correct": 1,
+      "category": "ninos",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué planeta tiene más anillos famosos? (7)",
+      "answers": [
+        "Marte",
+        "Saturno",
+        "Mercurio",
+        "Venus"
+      ],
+      "correct": 1,
+      "category": "ninos",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué metal precioso suele ser amarillo? (7)",
+      "answers": [
+        "Plata",
+        "Oro",
+        "Cobre",
+        "Hierro"
+      ],
+      "correct": 1,
+      "category": "ninos",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué medio de transporte va sobre raíles? (7)",
+      "answers": [
+        "Avión",
+        "Tren",
+        "Barco",
+        "Camión"
+      ],
+      "correct": 1,
+      "category": "ninos",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué forma geométrica tiene tres lados? (8)",
+      "answers": [
+        "Cuadrado",
+        "Triángulo",
+        "Círculo",
+        "Rectángulo"
+      ],
+      "correct": 1,
+      "category": "ninos",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué instrumento meteorológico mide la temperatura? (8)",
+      "answers": [
+        "Barómetro",
+        "Termómetro",
+        "Pluviómetro",
+        "Anemómetro"
+      ],
+      "correct": 1,
+      "category": "ninos",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué planeta tiene más anillos famosos? (8)",
+      "answers": [
+        "Marte",
+        "Saturno",
+        "Mercurio",
+        "Venus"
+      ],
+      "correct": 1,
+      "category": "ninos",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué metal precioso suele ser amarillo? (8)",
+      "answers": [
+        "Plata",
+        "Oro",
+        "Cobre",
+        "Hierro"
+      ],
+      "correct": 1,
+      "category": "ninos",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué medio de transporte va sobre raíles? (8)",
+      "answers": [
+        "Avión",
+        "Tren",
+        "Barco",
+        "Camión"
+      ],
+      "correct": 1,
+      "category": "ninos",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué forma geométrica tiene tres lados? (9)",
+      "answers": [
+        "Cuadrado",
+        "Triángulo",
+        "Círculo",
+        "Rectángulo"
+      ],
+      "correct": 1,
+      "category": "ninos",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué instrumento meteorológico mide la temperatura? (9)",
+      "answers": [
+        "Barómetro",
+        "Termómetro",
+        "Pluviómetro",
+        "Anemómetro"
+      ],
+      "correct": 1,
+      "category": "ninos",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué planeta tiene más anillos famosos? (9)",
+      "answers": [
+        "Marte",
+        "Saturno",
+        "Mercurio",
+        "Venus"
+      ],
+      "correct": 1,
+      "category": "ninos",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué metal precioso suele ser amarillo? (9)",
+      "answers": [
+        "Plata",
+        "Oro",
+        "Cobre",
+        "Hierro"
+      ],
+      "correct": 1,
+      "category": "ninos",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué medio de transporte va sobre raíles? (9)",
+      "answers": [
+        "Avión",
+        "Tren",
+        "Barco",
+        "Camión"
+      ],
+      "correct": 1,
+      "category": "ninos",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué forma geométrica tiene tres lados? (10)",
+      "answers": [
+        "Cuadrado",
+        "Triángulo",
+        "Círculo",
+        "Rectángulo"
+      ],
+      "correct": 1,
+      "category": "ninos",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué instrumento meteorológico mide la temperatura? (10)",
+      "answers": [
+        "Barómetro",
+        "Termómetro",
+        "Pluviómetro",
+        "Anemómetro"
+      ],
+      "correct": 1,
+      "category": "ninos",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué planeta tiene más anillos famosos? (10)",
+      "answers": [
+        "Marte",
+        "Saturno",
+        "Mercurio",
+        "Venus"
+      ],
+      "correct": 1,
+      "category": "ninos",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué metal precioso suele ser amarillo? (10)",
+      "answers": [
+        "Plata",
+        "Oro",
+        "Cobre",
+        "Hierro"
+      ],
+      "correct": 1,
+      "category": "ninos",
+      "level": "dificil"
+    },
+    {
+      "question": "¿Qué medio de transporte va sobre raíles? (10)",
+      "answers": [
+        "Avión",
+        "Tren",
+        "Barco",
+        "Camión"
+      ],
+      "correct": 1,
+      "category": "ninos",
+      "level": "dificil"
+    }
+  ]
+}

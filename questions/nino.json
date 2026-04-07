@@ -1,0 +1,4818 @@
+{
+  "general": [
+    {
+      "question": "¿Qué usamos para dormir?",
+      "answers": [
+        "Cama",
+        "Mesa",
+        "Silla",
+        "Ventana"
+      ],
+      "correct": 0,
+      "category": "general",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué te pones en los pies?",
+      "answers": [
+        "Zapatos",
+        "Gorros",
+        "Pulseras",
+        "Bufandas"
+      ],
+      "correct": 0,
+      "category": "general",
+      "level": "nino"
+    },
+    {
+      "question": "¿Cuántos dedos hay en una mano?",
+      "answers": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correct": 2,
+      "category": "general",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué bebida sale del grifo?",
+      "answers": [
+        "Agua",
+        "Zumo",
+        "Leche",
+        "Chocolate"
+      ],
+      "correct": 0,
+      "category": "general",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué día viene después del lunes?",
+      "answers": [
+        "Martes",
+        "Viernes",
+        "Domingo",
+        "Jueves"
+      ],
+      "correct": 0,
+      "category": "general",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué usamos para dormir? (2)",
+      "answers": [
+        "Cama",
+        "Mesa",
+        "Silla",
+        "Ventana"
+      ],
+      "correct": 0,
+      "category": "general",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué te pones en los pies? (2)",
+      "answers": [
+        "Zapatos",
+        "Gorros",
+        "Pulseras",
+        "Bufandas"
+      ],
+      "correct": 0,
+      "category": "general",
+      "level": "nino"
+    },
+    {
+      "question": "¿Cuántos dedos hay en una mano? (2)",
+      "answers": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correct": 2,
+      "category": "general",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué bebida sale del grifo? (2)",
+      "answers": [
+        "Agua",
+        "Zumo",
+        "Leche",
+        "Chocolate"
+      ],
+      "correct": 0,
+      "category": "general",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué día viene después del lunes? (2)",
+      "answers": [
+        "Martes",
+        "Viernes",
+        "Domingo",
+        "Jueves"
+      ],
+      "correct": 0,
+      "category": "general",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué usamos para dormir? (3)",
+      "answers": [
+        "Cama",
+        "Mesa",
+        "Silla",
+        "Ventana"
+      ],
+      "correct": 0,
+      "category": "general",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué te pones en los pies? (3)",
+      "answers": [
+        "Zapatos",
+        "Gorros",
+        "Pulseras",
+        "Bufandas"
+      ],
+      "correct": 0,
+      "category": "general",
+      "level": "nino"
+    },
+    {
+      "question": "¿Cuántos dedos hay en una mano? (3)",
+      "answers": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correct": 2,
+      "category": "general",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué bebida sale del grifo? (3)",
+      "answers": [
+        "Agua",
+        "Zumo",
+        "Leche",
+        "Chocolate"
+      ],
+      "correct": 0,
+      "category": "general",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué día viene después del lunes? (3)",
+      "answers": [
+        "Martes",
+        "Viernes",
+        "Domingo",
+        "Jueves"
+      ],
+      "correct": 0,
+      "category": "general",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué usamos para dormir? (4)",
+      "answers": [
+        "Cama",
+        "Mesa",
+        "Silla",
+        "Ventana"
+      ],
+      "correct": 0,
+      "category": "general",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué te pones en los pies? (4)",
+      "answers": [
+        "Zapatos",
+        "Gorros",
+        "Pulseras",
+        "Bufandas"
+      ],
+      "correct": 0,
+      "category": "general",
+      "level": "nino"
+    },
+    {
+      "question": "¿Cuántos dedos hay en una mano? (4)",
+      "answers": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correct": 2,
+      "category": "general",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué bebida sale del grifo? (4)",
+      "answers": [
+        "Agua",
+        "Zumo",
+        "Leche",
+        "Chocolate"
+      ],
+      "correct": 0,
+      "category": "general",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué día viene después del lunes? (4)",
+      "answers": [
+        "Martes",
+        "Viernes",
+        "Domingo",
+        "Jueves"
+      ],
+      "correct": 0,
+      "category": "general",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué usamos para dormir? (5)",
+      "answers": [
+        "Cama",
+        "Mesa",
+        "Silla",
+        "Ventana"
+      ],
+      "correct": 0,
+      "category": "general",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué te pones en los pies? (5)",
+      "answers": [
+        "Zapatos",
+        "Gorros",
+        "Pulseras",
+        "Bufandas"
+      ],
+      "correct": 0,
+      "category": "general",
+      "level": "nino"
+    },
+    {
+      "question": "¿Cuántos dedos hay en una mano? (5)",
+      "answers": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correct": 2,
+      "category": "general",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué bebida sale del grifo? (5)",
+      "answers": [
+        "Agua",
+        "Zumo",
+        "Leche",
+        "Chocolate"
+      ],
+      "correct": 0,
+      "category": "general",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué día viene después del lunes? (5)",
+      "answers": [
+        "Martes",
+        "Viernes",
+        "Domingo",
+        "Jueves"
+      ],
+      "correct": 0,
+      "category": "general",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué usamos para dormir? (6)",
+      "answers": [
+        "Cama",
+        "Mesa",
+        "Silla",
+        "Ventana"
+      ],
+      "correct": 0,
+      "category": "general",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué te pones en los pies? (6)",
+      "answers": [
+        "Zapatos",
+        "Gorros",
+        "Pulseras",
+        "Bufandas"
+      ],
+      "correct": 0,
+      "category": "general",
+      "level": "nino"
+    },
+    {
+      "question": "¿Cuántos dedos hay en una mano? (6)",
+      "answers": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correct": 2,
+      "category": "general",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué bebida sale del grifo? (6)",
+      "answers": [
+        "Agua",
+        "Zumo",
+        "Leche",
+        "Chocolate"
+      ],
+      "correct": 0,
+      "category": "general",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué día viene después del lunes? (6)",
+      "answers": [
+        "Martes",
+        "Viernes",
+        "Domingo",
+        "Jueves"
+      ],
+      "correct": 0,
+      "category": "general",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué usamos para dormir? (7)",
+      "answers": [
+        "Cama",
+        "Mesa",
+        "Silla",
+        "Ventana"
+      ],
+      "correct": 0,
+      "category": "general",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué te pones en los pies? (7)",
+      "answers": [
+        "Zapatos",
+        "Gorros",
+        "Pulseras",
+        "Bufandas"
+      ],
+      "correct": 0,
+      "category": "general",
+      "level": "nino"
+    },
+    {
+      "question": "¿Cuántos dedos hay en una mano? (7)",
+      "answers": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correct": 2,
+      "category": "general",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué bebida sale del grifo? (7)",
+      "answers": [
+        "Agua",
+        "Zumo",
+        "Leche",
+        "Chocolate"
+      ],
+      "correct": 0,
+      "category": "general",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué día viene después del lunes? (7)",
+      "answers": [
+        "Martes",
+        "Viernes",
+        "Domingo",
+        "Jueves"
+      ],
+      "correct": 0,
+      "category": "general",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué usamos para dormir? (8)",
+      "answers": [
+        "Cama",
+        "Mesa",
+        "Silla",
+        "Ventana"
+      ],
+      "correct": 0,
+      "category": "general",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué te pones en los pies? (8)",
+      "answers": [
+        "Zapatos",
+        "Gorros",
+        "Pulseras",
+        "Bufandas"
+      ],
+      "correct": 0,
+      "category": "general",
+      "level": "nino"
+    },
+    {
+      "question": "¿Cuántos dedos hay en una mano? (8)",
+      "answers": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correct": 2,
+      "category": "general",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué bebida sale del grifo? (8)",
+      "answers": [
+        "Agua",
+        "Zumo",
+        "Leche",
+        "Chocolate"
+      ],
+      "correct": 0,
+      "category": "general",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué día viene después del lunes? (8)",
+      "answers": [
+        "Martes",
+        "Viernes",
+        "Domingo",
+        "Jueves"
+      ],
+      "correct": 0,
+      "category": "general",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué usamos para dormir? (9)",
+      "answers": [
+        "Cama",
+        "Mesa",
+        "Silla",
+        "Ventana"
+      ],
+      "correct": 0,
+      "category": "general",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué te pones en los pies? (9)",
+      "answers": [
+        "Zapatos",
+        "Gorros",
+        "Pulseras",
+        "Bufandas"
+      ],
+      "correct": 0,
+      "category": "general",
+      "level": "nino"
+    },
+    {
+      "question": "¿Cuántos dedos hay en una mano? (9)",
+      "answers": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correct": 2,
+      "category": "general",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué bebida sale del grifo? (9)",
+      "answers": [
+        "Agua",
+        "Zumo",
+        "Leche",
+        "Chocolate"
+      ],
+      "correct": 0,
+      "category": "general",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué día viene después del lunes? (9)",
+      "answers": [
+        "Martes",
+        "Viernes",
+        "Domingo",
+        "Jueves"
+      ],
+      "correct": 0,
+      "category": "general",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué usamos para dormir? (10)",
+      "answers": [
+        "Cama",
+        "Mesa",
+        "Silla",
+        "Ventana"
+      ],
+      "correct": 0,
+      "category": "general",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué te pones en los pies? (10)",
+      "answers": [
+        "Zapatos",
+        "Gorros",
+        "Pulseras",
+        "Bufandas"
+      ],
+      "correct": 0,
+      "category": "general",
+      "level": "nino"
+    },
+    {
+      "question": "¿Cuántos dedos hay en una mano? (10)",
+      "answers": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correct": 2,
+      "category": "general",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué bebida sale del grifo? (10)",
+      "answers": [
+        "Agua",
+        "Zumo",
+        "Leche",
+        "Chocolate"
+      ],
+      "correct": 0,
+      "category": "general",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué día viene después del lunes? (10)",
+      "answers": [
+        "Martes",
+        "Viernes",
+        "Domingo",
+        "Jueves"
+      ],
+      "correct": 0,
+      "category": "general",
+      "level": "nino"
+    }
+  ],
+  "geografia": [
+    {
+      "question": "¿En qué planeta vivimos?",
+      "answers": [
+        "Marte",
+        "Tierra",
+        "Venus",
+        "Júpiter"
+      ],
+      "correct": 1,
+      "category": "geografia",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué vemos por la noche en el cielo?",
+      "answers": [
+        "Sol",
+        "Estrellas",
+        "Nubes negras siempre",
+        "Arcoíris"
+      ],
+      "correct": 1,
+      "category": "geografia",
+      "level": "nino"
+    },
+    {
+      "question": "¿Dónde viven los peces?",
+      "answers": [
+        "En el cielo",
+        "En el agua",
+        "En los árboles",
+        "En cuevas"
+      ],
+      "correct": 1,
+      "category": "geografia",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué cae cuando llueve?",
+      "answers": [
+        "Arena",
+        "Agua",
+        "Hojas",
+        "Piedras"
+      ],
+      "correct": 1,
+      "category": "geografia",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué sale por la mañana?",
+      "answers": [
+        "La Luna",
+        "El Sol",
+        "La nieve",
+        "Un tren"
+      ],
+      "correct": 1,
+      "category": "geografia",
+      "level": "nino"
+    },
+    {
+      "question": "¿En qué planeta vivimos? (2)",
+      "answers": [
+        "Marte",
+        "Tierra",
+        "Venus",
+        "Júpiter"
+      ],
+      "correct": 1,
+      "category": "geografia",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué vemos por la noche en el cielo? (2)",
+      "answers": [
+        "Sol",
+        "Estrellas",
+        "Nubes negras siempre",
+        "Arcoíris"
+      ],
+      "correct": 1,
+      "category": "geografia",
+      "level": "nino"
+    },
+    {
+      "question": "¿Dónde viven los peces? (2)",
+      "answers": [
+        "En el cielo",
+        "En el agua",
+        "En los árboles",
+        "En cuevas"
+      ],
+      "correct": 1,
+      "category": "geografia",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué cae cuando llueve? (2)",
+      "answers": [
+        "Arena",
+        "Agua",
+        "Hojas",
+        "Piedras"
+      ],
+      "correct": 1,
+      "category": "geografia",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué sale por la mañana? (2)",
+      "answers": [
+        "La Luna",
+        "El Sol",
+        "La nieve",
+        "Un tren"
+      ],
+      "correct": 1,
+      "category": "geografia",
+      "level": "nino"
+    },
+    {
+      "question": "¿En qué planeta vivimos? (3)",
+      "answers": [
+        "Marte",
+        "Tierra",
+        "Venus",
+        "Júpiter"
+      ],
+      "correct": 1,
+      "category": "geografia",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué vemos por la noche en el cielo? (3)",
+      "answers": [
+        "Sol",
+        "Estrellas",
+        "Nubes negras siempre",
+        "Arcoíris"
+      ],
+      "correct": 1,
+      "category": "geografia",
+      "level": "nino"
+    },
+    {
+      "question": "¿Dónde viven los peces? (3)",
+      "answers": [
+        "En el cielo",
+        "En el agua",
+        "En los árboles",
+        "En cuevas"
+      ],
+      "correct": 1,
+      "category": "geografia",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué cae cuando llueve? (3)",
+      "answers": [
+        "Arena",
+        "Agua",
+        "Hojas",
+        "Piedras"
+      ],
+      "correct": 1,
+      "category": "geografia",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué sale por la mañana? (3)",
+      "answers": [
+        "La Luna",
+        "El Sol",
+        "La nieve",
+        "Un tren"
+      ],
+      "correct": 1,
+      "category": "geografia",
+      "level": "nino"
+    },
+    {
+      "question": "¿En qué planeta vivimos? (4)",
+      "answers": [
+        "Marte",
+        "Tierra",
+        "Venus",
+        "Júpiter"
+      ],
+      "correct": 1,
+      "category": "geografia",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué vemos por la noche en el cielo? (4)",
+      "answers": [
+        "Sol",
+        "Estrellas",
+        "Nubes negras siempre",
+        "Arcoíris"
+      ],
+      "correct": 1,
+      "category": "geografia",
+      "level": "nino"
+    },
+    {
+      "question": "¿Dónde viven los peces? (4)",
+      "answers": [
+        "En el cielo",
+        "En el agua",
+        "En los árboles",
+        "En cuevas"
+      ],
+      "correct": 1,
+      "category": "geografia",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué cae cuando llueve? (4)",
+      "answers": [
+        "Arena",
+        "Agua",
+        "Hojas",
+        "Piedras"
+      ],
+      "correct": 1,
+      "category": "geografia",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué sale por la mañana? (4)",
+      "answers": [
+        "La Luna",
+        "El Sol",
+        "La nieve",
+        "Un tren"
+      ],
+      "correct": 1,
+      "category": "geografia",
+      "level": "nino"
+    },
+    {
+      "question": "¿En qué planeta vivimos? (5)",
+      "answers": [
+        "Marte",
+        "Tierra",
+        "Venus",
+        "Júpiter"
+      ],
+      "correct": 1,
+      "category": "geografia",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué vemos por la noche en el cielo? (5)",
+      "answers": [
+        "Sol",
+        "Estrellas",
+        "Nubes negras siempre",
+        "Arcoíris"
+      ],
+      "correct": 1,
+      "category": "geografia",
+      "level": "nino"
+    },
+    {
+      "question": "¿Dónde viven los peces? (5)",
+      "answers": [
+        "En el cielo",
+        "En el agua",
+        "En los árboles",
+        "En cuevas"
+      ],
+      "correct": 1,
+      "category": "geografia",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué cae cuando llueve? (5)",
+      "answers": [
+        "Arena",
+        "Agua",
+        "Hojas",
+        "Piedras"
+      ],
+      "correct": 1,
+      "category": "geografia",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué sale por la mañana? (5)",
+      "answers": [
+        "La Luna",
+        "El Sol",
+        "La nieve",
+        "Un tren"
+      ],
+      "correct": 1,
+      "category": "geografia",
+      "level": "nino"
+    },
+    {
+      "question": "¿En qué planeta vivimos? (6)",
+      "answers": [
+        "Marte",
+        "Tierra",
+        "Venus",
+        "Júpiter"
+      ],
+      "correct": 1,
+      "category": "geografia",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué vemos por la noche en el cielo? (6)",
+      "answers": [
+        "Sol",
+        "Estrellas",
+        "Nubes negras siempre",
+        "Arcoíris"
+      ],
+      "correct": 1,
+      "category": "geografia",
+      "level": "nino"
+    },
+    {
+      "question": "¿Dónde viven los peces? (6)",
+      "answers": [
+        "En el cielo",
+        "En el agua",
+        "En los árboles",
+        "En cuevas"
+      ],
+      "correct": 1,
+      "category": "geografia",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué cae cuando llueve? (6)",
+      "answers": [
+        "Arena",
+        "Agua",
+        "Hojas",
+        "Piedras"
+      ],
+      "correct": 1,
+      "category": "geografia",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué sale por la mañana? (6)",
+      "answers": [
+        "La Luna",
+        "El Sol",
+        "La nieve",
+        "Un tren"
+      ],
+      "correct": 1,
+      "category": "geografia",
+      "level": "nino"
+    },
+    {
+      "question": "¿En qué planeta vivimos? (7)",
+      "answers": [
+        "Marte",
+        "Tierra",
+        "Venus",
+        "Júpiter"
+      ],
+      "correct": 1,
+      "category": "geografia",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué vemos por la noche en el cielo? (7)",
+      "answers": [
+        "Sol",
+        "Estrellas",
+        "Nubes negras siempre",
+        "Arcoíris"
+      ],
+      "correct": 1,
+      "category": "geografia",
+      "level": "nino"
+    },
+    {
+      "question": "¿Dónde viven los peces? (7)",
+      "answers": [
+        "En el cielo",
+        "En el agua",
+        "En los árboles",
+        "En cuevas"
+      ],
+      "correct": 1,
+      "category": "geografia",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué cae cuando llueve? (7)",
+      "answers": [
+        "Arena",
+        "Agua",
+        "Hojas",
+        "Piedras"
+      ],
+      "correct": 1,
+      "category": "geografia",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué sale por la mañana? (7)",
+      "answers": [
+        "La Luna",
+        "El Sol",
+        "La nieve",
+        "Un tren"
+      ],
+      "correct": 1,
+      "category": "geografia",
+      "level": "nino"
+    },
+    {
+      "question": "¿En qué planeta vivimos? (8)",
+      "answers": [
+        "Marte",
+        "Tierra",
+        "Venus",
+        "Júpiter"
+      ],
+      "correct": 1,
+      "category": "geografia",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué vemos por la noche en el cielo? (8)",
+      "answers": [
+        "Sol",
+        "Estrellas",
+        "Nubes negras siempre",
+        "Arcoíris"
+      ],
+      "correct": 1,
+      "category": "geografia",
+      "level": "nino"
+    },
+    {
+      "question": "¿Dónde viven los peces? (8)",
+      "answers": [
+        "En el cielo",
+        "En el agua",
+        "En los árboles",
+        "En cuevas"
+      ],
+      "correct": 1,
+      "category": "geografia",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué cae cuando llueve? (8)",
+      "answers": [
+        "Arena",
+        "Agua",
+        "Hojas",
+        "Piedras"
+      ],
+      "correct": 1,
+      "category": "geografia",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué sale por la mañana? (8)",
+      "answers": [
+        "La Luna",
+        "El Sol",
+        "La nieve",
+        "Un tren"
+      ],
+      "correct": 1,
+      "category": "geografia",
+      "level": "nino"
+    },
+    {
+      "question": "¿En qué planeta vivimos? (9)",
+      "answers": [
+        "Marte",
+        "Tierra",
+        "Venus",
+        "Júpiter"
+      ],
+      "correct": 1,
+      "category": "geografia",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué vemos por la noche en el cielo? (9)",
+      "answers": [
+        "Sol",
+        "Estrellas",
+        "Nubes negras siempre",
+        "Arcoíris"
+      ],
+      "correct": 1,
+      "category": "geografia",
+      "level": "nino"
+    },
+    {
+      "question": "¿Dónde viven los peces? (9)",
+      "answers": [
+        "En el cielo",
+        "En el agua",
+        "En los árboles",
+        "En cuevas"
+      ],
+      "correct": 1,
+      "category": "geografia",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué cae cuando llueve? (9)",
+      "answers": [
+        "Arena",
+        "Agua",
+        "Hojas",
+        "Piedras"
+      ],
+      "correct": 1,
+      "category": "geografia",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué sale por la mañana? (9)",
+      "answers": [
+        "La Luna",
+        "El Sol",
+        "La nieve",
+        "Un tren"
+      ],
+      "correct": 1,
+      "category": "geografia",
+      "level": "nino"
+    },
+    {
+      "question": "¿En qué planeta vivimos? (10)",
+      "answers": [
+        "Marte",
+        "Tierra",
+        "Venus",
+        "Júpiter"
+      ],
+      "correct": 1,
+      "category": "geografia",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué vemos por la noche en el cielo? (10)",
+      "answers": [
+        "Sol",
+        "Estrellas",
+        "Nubes negras siempre",
+        "Arcoíris"
+      ],
+      "correct": 1,
+      "category": "geografia",
+      "level": "nino"
+    },
+    {
+      "question": "¿Dónde viven los peces? (10)",
+      "answers": [
+        "En el cielo",
+        "En el agua",
+        "En los árboles",
+        "En cuevas"
+      ],
+      "correct": 1,
+      "category": "geografia",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué cae cuando llueve? (10)",
+      "answers": [
+        "Arena",
+        "Agua",
+        "Hojas",
+        "Piedras"
+      ],
+      "correct": 1,
+      "category": "geografia",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué sale por la mañana? (10)",
+      "answers": [
+        "La Luna",
+        "El Sol",
+        "La nieve",
+        "Un tren"
+      ],
+      "correct": 1,
+      "category": "geografia",
+      "level": "nino"
+    }
+  ],
+  "ciencia": [
+    {
+      "question": "¿Qué necesitas para respirar?",
+      "answers": [
+        "Arena",
+        "Agua",
+        "Oxígeno",
+        "Madera"
+      ],
+      "correct": 2,
+      "category": "ciencia",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué da luz y calor durante el día?",
+      "answers": [
+        "La Luna",
+        "El Sol",
+        "Un planeta",
+        "La nieve"
+      ],
+      "correct": 1,
+      "category": "ciencia",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué parte del cuerpo usamos para ver?",
+      "answers": [
+        "Ojos",
+        "Rodillas",
+        "Codos",
+        "Dedos"
+      ],
+      "correct": 0,
+      "category": "ciencia",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué animal puede volar entre estos?",
+      "answers": [
+        "Perro",
+        "Pájaro",
+        "Caballo",
+        "Pez"
+      ],
+      "correct": 1,
+      "category": "ciencia",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué pasa con el agua en el congelador?",
+      "answers": [
+        "Se calienta",
+        "Se convierte en hielo",
+        "Desaparece",
+        "Se vuelve humo"
+      ],
+      "correct": 1,
+      "category": "ciencia",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué necesitas para respirar? (2)",
+      "answers": [
+        "Arena",
+        "Agua",
+        "Oxígeno",
+        "Madera"
+      ],
+      "correct": 2,
+      "category": "ciencia",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué da luz y calor durante el día? (2)",
+      "answers": [
+        "La Luna",
+        "El Sol",
+        "Un planeta",
+        "La nieve"
+      ],
+      "correct": 1,
+      "category": "ciencia",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué parte del cuerpo usamos para ver? (2)",
+      "answers": [
+        "Ojos",
+        "Rodillas",
+        "Codos",
+        "Dedos"
+      ],
+      "correct": 0,
+      "category": "ciencia",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué animal puede volar entre estos? (2)",
+      "answers": [
+        "Perro",
+        "Pájaro",
+        "Caballo",
+        "Pez"
+      ],
+      "correct": 1,
+      "category": "ciencia",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué pasa con el agua en el congelador? (2)",
+      "answers": [
+        "Se calienta",
+        "Se convierte en hielo",
+        "Desaparece",
+        "Se vuelve humo"
+      ],
+      "correct": 1,
+      "category": "ciencia",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué necesitas para respirar? (3)",
+      "answers": [
+        "Arena",
+        "Agua",
+        "Oxígeno",
+        "Madera"
+      ],
+      "correct": 2,
+      "category": "ciencia",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué da luz y calor durante el día? (3)",
+      "answers": [
+        "La Luna",
+        "El Sol",
+        "Un planeta",
+        "La nieve"
+      ],
+      "correct": 1,
+      "category": "ciencia",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué parte del cuerpo usamos para ver? (3)",
+      "answers": [
+        "Ojos",
+        "Rodillas",
+        "Codos",
+        "Dedos"
+      ],
+      "correct": 0,
+      "category": "ciencia",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué animal puede volar entre estos? (3)",
+      "answers": [
+        "Perro",
+        "Pájaro",
+        "Caballo",
+        "Pez"
+      ],
+      "correct": 1,
+      "category": "ciencia",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué pasa con el agua en el congelador? (3)",
+      "answers": [
+        "Se calienta",
+        "Se convierte en hielo",
+        "Desaparece",
+        "Se vuelve humo"
+      ],
+      "correct": 1,
+      "category": "ciencia",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué necesitas para respirar? (4)",
+      "answers": [
+        "Arena",
+        "Agua",
+        "Oxígeno",
+        "Madera"
+      ],
+      "correct": 2,
+      "category": "ciencia",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué da luz y calor durante el día? (4)",
+      "answers": [
+        "La Luna",
+        "El Sol",
+        "Un planeta",
+        "La nieve"
+      ],
+      "correct": 1,
+      "category": "ciencia",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué parte del cuerpo usamos para ver? (4)",
+      "answers": [
+        "Ojos",
+        "Rodillas",
+        "Codos",
+        "Dedos"
+      ],
+      "correct": 0,
+      "category": "ciencia",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué animal puede volar entre estos? (4)",
+      "answers": [
+        "Perro",
+        "Pájaro",
+        "Caballo",
+        "Pez"
+      ],
+      "correct": 1,
+      "category": "ciencia",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué pasa con el agua en el congelador? (4)",
+      "answers": [
+        "Se calienta",
+        "Se convierte en hielo",
+        "Desaparece",
+        "Se vuelve humo"
+      ],
+      "correct": 1,
+      "category": "ciencia",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué necesitas para respirar? (5)",
+      "answers": [
+        "Arena",
+        "Agua",
+        "Oxígeno",
+        "Madera"
+      ],
+      "correct": 2,
+      "category": "ciencia",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué da luz y calor durante el día? (5)",
+      "answers": [
+        "La Luna",
+        "El Sol",
+        "Un planeta",
+        "La nieve"
+      ],
+      "correct": 1,
+      "category": "ciencia",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué parte del cuerpo usamos para ver? (5)",
+      "answers": [
+        "Ojos",
+        "Rodillas",
+        "Codos",
+        "Dedos"
+      ],
+      "correct": 0,
+      "category": "ciencia",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué animal puede volar entre estos? (5)",
+      "answers": [
+        "Perro",
+        "Pájaro",
+        "Caballo",
+        "Pez"
+      ],
+      "correct": 1,
+      "category": "ciencia",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué pasa con el agua en el congelador? (5)",
+      "answers": [
+        "Se calienta",
+        "Se convierte en hielo",
+        "Desaparece",
+        "Se vuelve humo"
+      ],
+      "correct": 1,
+      "category": "ciencia",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué necesitas para respirar? (6)",
+      "answers": [
+        "Arena",
+        "Agua",
+        "Oxígeno",
+        "Madera"
+      ],
+      "correct": 2,
+      "category": "ciencia",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué da luz y calor durante el día? (6)",
+      "answers": [
+        "La Luna",
+        "El Sol",
+        "Un planeta",
+        "La nieve"
+      ],
+      "correct": 1,
+      "category": "ciencia",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué parte del cuerpo usamos para ver? (6)",
+      "answers": [
+        "Ojos",
+        "Rodillas",
+        "Codos",
+        "Dedos"
+      ],
+      "correct": 0,
+      "category": "ciencia",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué animal puede volar entre estos? (6)",
+      "answers": [
+        "Perro",
+        "Pájaro",
+        "Caballo",
+        "Pez"
+      ],
+      "correct": 1,
+      "category": "ciencia",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué pasa con el agua en el congelador? (6)",
+      "answers": [
+        "Se calienta",
+        "Se convierte en hielo",
+        "Desaparece",
+        "Se vuelve humo"
+      ],
+      "correct": 1,
+      "category": "ciencia",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué necesitas para respirar? (7)",
+      "answers": [
+        "Arena",
+        "Agua",
+        "Oxígeno",
+        "Madera"
+      ],
+      "correct": 2,
+      "category": "ciencia",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué da luz y calor durante el día? (7)",
+      "answers": [
+        "La Luna",
+        "El Sol",
+        "Un planeta",
+        "La nieve"
+      ],
+      "correct": 1,
+      "category": "ciencia",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué parte del cuerpo usamos para ver? (7)",
+      "answers": [
+        "Ojos",
+        "Rodillas",
+        "Codos",
+        "Dedos"
+      ],
+      "correct": 0,
+      "category": "ciencia",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué animal puede volar entre estos? (7)",
+      "answers": [
+        "Perro",
+        "Pájaro",
+        "Caballo",
+        "Pez"
+      ],
+      "correct": 1,
+      "category": "ciencia",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué pasa con el agua en el congelador? (7)",
+      "answers": [
+        "Se calienta",
+        "Se convierte en hielo",
+        "Desaparece",
+        "Se vuelve humo"
+      ],
+      "correct": 1,
+      "category": "ciencia",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué necesitas para respirar? (8)",
+      "answers": [
+        "Arena",
+        "Agua",
+        "Oxígeno",
+        "Madera"
+      ],
+      "correct": 2,
+      "category": "ciencia",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué da luz y calor durante el día? (8)",
+      "answers": [
+        "La Luna",
+        "El Sol",
+        "Un planeta",
+        "La nieve"
+      ],
+      "correct": 1,
+      "category": "ciencia",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué parte del cuerpo usamos para ver? (8)",
+      "answers": [
+        "Ojos",
+        "Rodillas",
+        "Codos",
+        "Dedos"
+      ],
+      "correct": 0,
+      "category": "ciencia",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué animal puede volar entre estos? (8)",
+      "answers": [
+        "Perro",
+        "Pájaro",
+        "Caballo",
+        "Pez"
+      ],
+      "correct": 1,
+      "category": "ciencia",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué pasa con el agua en el congelador? (8)",
+      "answers": [
+        "Se calienta",
+        "Se convierte en hielo",
+        "Desaparece",
+        "Se vuelve humo"
+      ],
+      "correct": 1,
+      "category": "ciencia",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué necesitas para respirar? (9)",
+      "answers": [
+        "Arena",
+        "Agua",
+        "Oxígeno",
+        "Madera"
+      ],
+      "correct": 2,
+      "category": "ciencia",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué da luz y calor durante el día? (9)",
+      "answers": [
+        "La Luna",
+        "El Sol",
+        "Un planeta",
+        "La nieve"
+      ],
+      "correct": 1,
+      "category": "ciencia",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué parte del cuerpo usamos para ver? (9)",
+      "answers": [
+        "Ojos",
+        "Rodillas",
+        "Codos",
+        "Dedos"
+      ],
+      "correct": 0,
+      "category": "ciencia",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué animal puede volar entre estos? (9)",
+      "answers": [
+        "Perro",
+        "Pájaro",
+        "Caballo",
+        "Pez"
+      ],
+      "correct": 1,
+      "category": "ciencia",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué pasa con el agua en el congelador? (9)",
+      "answers": [
+        "Se calienta",
+        "Se convierte en hielo",
+        "Desaparece",
+        "Se vuelve humo"
+      ],
+      "correct": 1,
+      "category": "ciencia",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué necesitas para respirar? (10)",
+      "answers": [
+        "Arena",
+        "Agua",
+        "Oxígeno",
+        "Madera"
+      ],
+      "correct": 2,
+      "category": "ciencia",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué da luz y calor durante el día? (10)",
+      "answers": [
+        "La Luna",
+        "El Sol",
+        "Un planeta",
+        "La nieve"
+      ],
+      "correct": 1,
+      "category": "ciencia",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué parte del cuerpo usamos para ver? (10)",
+      "answers": [
+        "Ojos",
+        "Rodillas",
+        "Codos",
+        "Dedos"
+      ],
+      "correct": 0,
+      "category": "ciencia",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué animal puede volar entre estos? (10)",
+      "answers": [
+        "Perro",
+        "Pájaro",
+        "Caballo",
+        "Pez"
+      ],
+      "correct": 1,
+      "category": "ciencia",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué pasa con el agua en el congelador? (10)",
+      "answers": [
+        "Se calienta",
+        "Se convierte en hielo",
+        "Desaparece",
+        "Se vuelve humo"
+      ],
+      "correct": 1,
+      "category": "ciencia",
+      "level": "nino"
+    }
+  ],
+  "historia": [
+    {
+      "question": "¿Qué construyeron los egipcios?",
+      "answers": [
+        "Pirámides",
+        "Semáforos",
+        "Aviones",
+        "Castillos de cristal"
+      ],
+      "correct": 0,
+      "category": "historia",
+      "level": "nino"
+    },
+    {
+      "question": "¿Quiénes usaban coronas de rey hace mucho tiempo?",
+      "answers": [
+        "Reyes y reinas",
+        "Solo cocineros",
+        "Pilotos",
+        "Buzos"
+      ],
+      "correct": 0,
+      "category": "historia",
+      "level": "nino"
+    },
+    {
+      "question": "¿Dónde vivían los romanos antiguos?",
+      "answers": [
+        "Roma",
+        "Tokio",
+        "Nueva York",
+        "Santiago"
+      ],
+      "correct": 0,
+      "category": "historia",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué usaban los caballeros para protegerse?",
+      "answers": [
+        "Armadura",
+        "Pijama",
+        "Bañador",
+        "Mochila"
+      ],
+      "correct": 0,
+      "category": "historia",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué viajero llegó a América en 1492?",
+      "answers": [
+        "Colón",
+        "Einstein",
+        "Mozart",
+        "Picasso"
+      ],
+      "correct": 0,
+      "category": "historia",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué construyeron los egipcios? (2)",
+      "answers": [
+        "Pirámides",
+        "Semáforos",
+        "Aviones",
+        "Castillos de cristal"
+      ],
+      "correct": 0,
+      "category": "historia",
+      "level": "nino"
+    },
+    {
+      "question": "¿Quiénes usaban coronas de rey hace mucho tiempo? (2)",
+      "answers": [
+        "Reyes y reinas",
+        "Solo cocineros",
+        "Pilotos",
+        "Buzos"
+      ],
+      "correct": 0,
+      "category": "historia",
+      "level": "nino"
+    },
+    {
+      "question": "¿Dónde vivían los romanos antiguos? (2)",
+      "answers": [
+        "Roma",
+        "Tokio",
+        "Nueva York",
+        "Santiago"
+      ],
+      "correct": 0,
+      "category": "historia",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué usaban los caballeros para protegerse? (2)",
+      "answers": [
+        "Armadura",
+        "Pijama",
+        "Bañador",
+        "Mochila"
+      ],
+      "correct": 0,
+      "category": "historia",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué viajero llegó a América en 1492? (2)",
+      "answers": [
+        "Colón",
+        "Einstein",
+        "Mozart",
+        "Picasso"
+      ],
+      "correct": 0,
+      "category": "historia",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué construyeron los egipcios? (3)",
+      "answers": [
+        "Pirámides",
+        "Semáforos",
+        "Aviones",
+        "Castillos de cristal"
+      ],
+      "correct": 0,
+      "category": "historia",
+      "level": "nino"
+    },
+    {
+      "question": "¿Quiénes usaban coronas de rey hace mucho tiempo? (3)",
+      "answers": [
+        "Reyes y reinas",
+        "Solo cocineros",
+        "Pilotos",
+        "Buzos"
+      ],
+      "correct": 0,
+      "category": "historia",
+      "level": "nino"
+    },
+    {
+      "question": "¿Dónde vivían los romanos antiguos? (3)",
+      "answers": [
+        "Roma",
+        "Tokio",
+        "Nueva York",
+        "Santiago"
+      ],
+      "correct": 0,
+      "category": "historia",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué usaban los caballeros para protegerse? (3)",
+      "answers": [
+        "Armadura",
+        "Pijama",
+        "Bañador",
+        "Mochila"
+      ],
+      "correct": 0,
+      "category": "historia",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué viajero llegó a América en 1492? (3)",
+      "answers": [
+        "Colón",
+        "Einstein",
+        "Mozart",
+        "Picasso"
+      ],
+      "correct": 0,
+      "category": "historia",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué construyeron los egipcios? (4)",
+      "answers": [
+        "Pirámides",
+        "Semáforos",
+        "Aviones",
+        "Castillos de cristal"
+      ],
+      "correct": 0,
+      "category": "historia",
+      "level": "nino"
+    },
+    {
+      "question": "¿Quiénes usaban coronas de rey hace mucho tiempo? (4)",
+      "answers": [
+        "Reyes y reinas",
+        "Solo cocineros",
+        "Pilotos",
+        "Buzos"
+      ],
+      "correct": 0,
+      "category": "historia",
+      "level": "nino"
+    },
+    {
+      "question": "¿Dónde vivían los romanos antiguos? (4)",
+      "answers": [
+        "Roma",
+        "Tokio",
+        "Nueva York",
+        "Santiago"
+      ],
+      "correct": 0,
+      "category": "historia",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué usaban los caballeros para protegerse? (4)",
+      "answers": [
+        "Armadura",
+        "Pijama",
+        "Bañador",
+        "Mochila"
+      ],
+      "correct": 0,
+      "category": "historia",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué viajero llegó a América en 1492? (4)",
+      "answers": [
+        "Colón",
+        "Einstein",
+        "Mozart",
+        "Picasso"
+      ],
+      "correct": 0,
+      "category": "historia",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué construyeron los egipcios? (5)",
+      "answers": [
+        "Pirámides",
+        "Semáforos",
+        "Aviones",
+        "Castillos de cristal"
+      ],
+      "correct": 0,
+      "category": "historia",
+      "level": "nino"
+    },
+    {
+      "question": "¿Quiénes usaban coronas de rey hace mucho tiempo? (5)",
+      "answers": [
+        "Reyes y reinas",
+        "Solo cocineros",
+        "Pilotos",
+        "Buzos"
+      ],
+      "correct": 0,
+      "category": "historia",
+      "level": "nino"
+    },
+    {
+      "question": "¿Dónde vivían los romanos antiguos? (5)",
+      "answers": [
+        "Roma",
+        "Tokio",
+        "Nueva York",
+        "Santiago"
+      ],
+      "correct": 0,
+      "category": "historia",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué usaban los caballeros para protegerse? (5)",
+      "answers": [
+        "Armadura",
+        "Pijama",
+        "Bañador",
+        "Mochila"
+      ],
+      "correct": 0,
+      "category": "historia",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué viajero llegó a América en 1492? (5)",
+      "answers": [
+        "Colón",
+        "Einstein",
+        "Mozart",
+        "Picasso"
+      ],
+      "correct": 0,
+      "category": "historia",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué construyeron los egipcios? (6)",
+      "answers": [
+        "Pirámides",
+        "Semáforos",
+        "Aviones",
+        "Castillos de cristal"
+      ],
+      "correct": 0,
+      "category": "historia",
+      "level": "nino"
+    },
+    {
+      "question": "¿Quiénes usaban coronas de rey hace mucho tiempo? (6)",
+      "answers": [
+        "Reyes y reinas",
+        "Solo cocineros",
+        "Pilotos",
+        "Buzos"
+      ],
+      "correct": 0,
+      "category": "historia",
+      "level": "nino"
+    },
+    {
+      "question": "¿Dónde vivían los romanos antiguos? (6)",
+      "answers": [
+        "Roma",
+        "Tokio",
+        "Nueva York",
+        "Santiago"
+      ],
+      "correct": 0,
+      "category": "historia",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué usaban los caballeros para protegerse? (6)",
+      "answers": [
+        "Armadura",
+        "Pijama",
+        "Bañador",
+        "Mochila"
+      ],
+      "correct": 0,
+      "category": "historia",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué viajero llegó a América en 1492? (6)",
+      "answers": [
+        "Colón",
+        "Einstein",
+        "Mozart",
+        "Picasso"
+      ],
+      "correct": 0,
+      "category": "historia",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué construyeron los egipcios? (7)",
+      "answers": [
+        "Pirámides",
+        "Semáforos",
+        "Aviones",
+        "Castillos de cristal"
+      ],
+      "correct": 0,
+      "category": "historia",
+      "level": "nino"
+    },
+    {
+      "question": "¿Quiénes usaban coronas de rey hace mucho tiempo? (7)",
+      "answers": [
+        "Reyes y reinas",
+        "Solo cocineros",
+        "Pilotos",
+        "Buzos"
+      ],
+      "correct": 0,
+      "category": "historia",
+      "level": "nino"
+    },
+    {
+      "question": "¿Dónde vivían los romanos antiguos? (7)",
+      "answers": [
+        "Roma",
+        "Tokio",
+        "Nueva York",
+        "Santiago"
+      ],
+      "correct": 0,
+      "category": "historia",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué usaban los caballeros para protegerse? (7)",
+      "answers": [
+        "Armadura",
+        "Pijama",
+        "Bañador",
+        "Mochila"
+      ],
+      "correct": 0,
+      "category": "historia",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué viajero llegó a América en 1492? (7)",
+      "answers": [
+        "Colón",
+        "Einstein",
+        "Mozart",
+        "Picasso"
+      ],
+      "correct": 0,
+      "category": "historia",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué construyeron los egipcios? (8)",
+      "answers": [
+        "Pirámides",
+        "Semáforos",
+        "Aviones",
+        "Castillos de cristal"
+      ],
+      "correct": 0,
+      "category": "historia",
+      "level": "nino"
+    },
+    {
+      "question": "¿Quiénes usaban coronas de rey hace mucho tiempo? (8)",
+      "answers": [
+        "Reyes y reinas",
+        "Solo cocineros",
+        "Pilotos",
+        "Buzos"
+      ],
+      "correct": 0,
+      "category": "historia",
+      "level": "nino"
+    },
+    {
+      "question": "¿Dónde vivían los romanos antiguos? (8)",
+      "answers": [
+        "Roma",
+        "Tokio",
+        "Nueva York",
+        "Santiago"
+      ],
+      "correct": 0,
+      "category": "historia",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué usaban los caballeros para protegerse? (8)",
+      "answers": [
+        "Armadura",
+        "Pijama",
+        "Bañador",
+        "Mochila"
+      ],
+      "correct": 0,
+      "category": "historia",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué viajero llegó a América en 1492? (8)",
+      "answers": [
+        "Colón",
+        "Einstein",
+        "Mozart",
+        "Picasso"
+      ],
+      "correct": 0,
+      "category": "historia",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué construyeron los egipcios? (9)",
+      "answers": [
+        "Pirámides",
+        "Semáforos",
+        "Aviones",
+        "Castillos de cristal"
+      ],
+      "correct": 0,
+      "category": "historia",
+      "level": "nino"
+    },
+    {
+      "question": "¿Quiénes usaban coronas de rey hace mucho tiempo? (9)",
+      "answers": [
+        "Reyes y reinas",
+        "Solo cocineros",
+        "Pilotos",
+        "Buzos"
+      ],
+      "correct": 0,
+      "category": "historia",
+      "level": "nino"
+    },
+    {
+      "question": "¿Dónde vivían los romanos antiguos? (9)",
+      "answers": [
+        "Roma",
+        "Tokio",
+        "Nueva York",
+        "Santiago"
+      ],
+      "correct": 0,
+      "category": "historia",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué usaban los caballeros para protegerse? (9)",
+      "answers": [
+        "Armadura",
+        "Pijama",
+        "Bañador",
+        "Mochila"
+      ],
+      "correct": 0,
+      "category": "historia",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué viajero llegó a América en 1492? (9)",
+      "answers": [
+        "Colón",
+        "Einstein",
+        "Mozart",
+        "Picasso"
+      ],
+      "correct": 0,
+      "category": "historia",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué construyeron los egipcios? (10)",
+      "answers": [
+        "Pirámides",
+        "Semáforos",
+        "Aviones",
+        "Castillos de cristal"
+      ],
+      "correct": 0,
+      "category": "historia",
+      "level": "nino"
+    },
+    {
+      "question": "¿Quiénes usaban coronas de rey hace mucho tiempo? (10)",
+      "answers": [
+        "Reyes y reinas",
+        "Solo cocineros",
+        "Pilotos",
+        "Buzos"
+      ],
+      "correct": 0,
+      "category": "historia",
+      "level": "nino"
+    },
+    {
+      "question": "¿Dónde vivían los romanos antiguos? (10)",
+      "answers": [
+        "Roma",
+        "Tokio",
+        "Nueva York",
+        "Santiago"
+      ],
+      "correct": 0,
+      "category": "historia",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué usaban los caballeros para protegerse? (10)",
+      "answers": [
+        "Armadura",
+        "Pijama",
+        "Bañador",
+        "Mochila"
+      ],
+      "correct": 0,
+      "category": "historia",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué viajero llegó a América en 1492? (10)",
+      "answers": [
+        "Colón",
+        "Einstein",
+        "Mozart",
+        "Picasso"
+      ],
+      "correct": 0,
+      "category": "historia",
+      "level": "nino"
+    }
+  ],
+  "cine": [
+    {
+      "question": "¿Cómo se llama el vaquero de Toy Story?",
+      "answers": [
+        "Woody",
+        "Buzz",
+        "Andy",
+        "Rex"
+      ],
+      "correct": 0,
+      "category": "cine",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué personaje vive en una piña debajo del mar?",
+      "answers": [
+        "Mickey",
+        "Bob Esponja",
+        "Shrek",
+        "Olaf"
+      ],
+      "correct": 1,
+      "category": "cine",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué princesa pierde un zapato de cristal?",
+      "answers": [
+        "Ariel",
+        "Cenicienta",
+        "Bella",
+        "Elsa"
+      ],
+      "correct": 1,
+      "category": "cine",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué ogro es verde y famoso?",
+      "answers": [
+        "Shrek",
+        "Simba",
+        "Gru",
+        "Sonic"
+      ],
+      "correct": 0,
+      "category": "cine",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué pez pequeño busca su papá en una película?",
+      "answers": [
+        "Dory",
+        "Nemo",
+        "Flounder",
+        "Marlin"
+      ],
+      "correct": 1,
+      "category": "cine",
+      "level": "nino"
+    },
+    {
+      "question": "¿Cómo se llama el vaquero de Toy Story? (2)",
+      "answers": [
+        "Woody",
+        "Buzz",
+        "Andy",
+        "Rex"
+      ],
+      "correct": 0,
+      "category": "cine",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué personaje vive en una piña debajo del mar? (2)",
+      "answers": [
+        "Mickey",
+        "Bob Esponja",
+        "Shrek",
+        "Olaf"
+      ],
+      "correct": 1,
+      "category": "cine",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué princesa pierde un zapato de cristal? (2)",
+      "answers": [
+        "Ariel",
+        "Cenicienta",
+        "Bella",
+        "Elsa"
+      ],
+      "correct": 1,
+      "category": "cine",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué ogro es verde y famoso? (2)",
+      "answers": [
+        "Shrek",
+        "Simba",
+        "Gru",
+        "Sonic"
+      ],
+      "correct": 0,
+      "category": "cine",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué pez pequeño busca su papá en una película? (2)",
+      "answers": [
+        "Dory",
+        "Nemo",
+        "Flounder",
+        "Marlin"
+      ],
+      "correct": 1,
+      "category": "cine",
+      "level": "nino"
+    },
+    {
+      "question": "¿Cómo se llama el vaquero de Toy Story? (3)",
+      "answers": [
+        "Woody",
+        "Buzz",
+        "Andy",
+        "Rex"
+      ],
+      "correct": 0,
+      "category": "cine",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué personaje vive en una piña debajo del mar? (3)",
+      "answers": [
+        "Mickey",
+        "Bob Esponja",
+        "Shrek",
+        "Olaf"
+      ],
+      "correct": 1,
+      "category": "cine",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué princesa pierde un zapato de cristal? (3)",
+      "answers": [
+        "Ariel",
+        "Cenicienta",
+        "Bella",
+        "Elsa"
+      ],
+      "correct": 1,
+      "category": "cine",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué ogro es verde y famoso? (3)",
+      "answers": [
+        "Shrek",
+        "Simba",
+        "Gru",
+        "Sonic"
+      ],
+      "correct": 0,
+      "category": "cine",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué pez pequeño busca su papá en una película? (3)",
+      "answers": [
+        "Dory",
+        "Nemo",
+        "Flounder",
+        "Marlin"
+      ],
+      "correct": 1,
+      "category": "cine",
+      "level": "nino"
+    },
+    {
+      "question": "¿Cómo se llama el vaquero de Toy Story? (4)",
+      "answers": [
+        "Woody",
+        "Buzz",
+        "Andy",
+        "Rex"
+      ],
+      "correct": 0,
+      "category": "cine",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué personaje vive en una piña debajo del mar? (4)",
+      "answers": [
+        "Mickey",
+        "Bob Esponja",
+        "Shrek",
+        "Olaf"
+      ],
+      "correct": 1,
+      "category": "cine",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué princesa pierde un zapato de cristal? (4)",
+      "answers": [
+        "Ariel",
+        "Cenicienta",
+        "Bella",
+        "Elsa"
+      ],
+      "correct": 1,
+      "category": "cine",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué ogro es verde y famoso? (4)",
+      "answers": [
+        "Shrek",
+        "Simba",
+        "Gru",
+        "Sonic"
+      ],
+      "correct": 0,
+      "category": "cine",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué pez pequeño busca su papá en una película? (4)",
+      "answers": [
+        "Dory",
+        "Nemo",
+        "Flounder",
+        "Marlin"
+      ],
+      "correct": 1,
+      "category": "cine",
+      "level": "nino"
+    },
+    {
+      "question": "¿Cómo se llama el vaquero de Toy Story? (5)",
+      "answers": [
+        "Woody",
+        "Buzz",
+        "Andy",
+        "Rex"
+      ],
+      "correct": 0,
+      "category": "cine",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué personaje vive en una piña debajo del mar? (5)",
+      "answers": [
+        "Mickey",
+        "Bob Esponja",
+        "Shrek",
+        "Olaf"
+      ],
+      "correct": 1,
+      "category": "cine",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué princesa pierde un zapato de cristal? (5)",
+      "answers": [
+        "Ariel",
+        "Cenicienta",
+        "Bella",
+        "Elsa"
+      ],
+      "correct": 1,
+      "category": "cine",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué ogro es verde y famoso? (5)",
+      "answers": [
+        "Shrek",
+        "Simba",
+        "Gru",
+        "Sonic"
+      ],
+      "correct": 0,
+      "category": "cine",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué pez pequeño busca su papá en una película? (5)",
+      "answers": [
+        "Dory",
+        "Nemo",
+        "Flounder",
+        "Marlin"
+      ],
+      "correct": 1,
+      "category": "cine",
+      "level": "nino"
+    },
+    {
+      "question": "¿Cómo se llama el vaquero de Toy Story? (6)",
+      "answers": [
+        "Woody",
+        "Buzz",
+        "Andy",
+        "Rex"
+      ],
+      "correct": 0,
+      "category": "cine",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué personaje vive en una piña debajo del mar? (6)",
+      "answers": [
+        "Mickey",
+        "Bob Esponja",
+        "Shrek",
+        "Olaf"
+      ],
+      "correct": 1,
+      "category": "cine",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué princesa pierde un zapato de cristal? (6)",
+      "answers": [
+        "Ariel",
+        "Cenicienta",
+        "Bella",
+        "Elsa"
+      ],
+      "correct": 1,
+      "category": "cine",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué ogro es verde y famoso? (6)",
+      "answers": [
+        "Shrek",
+        "Simba",
+        "Gru",
+        "Sonic"
+      ],
+      "correct": 0,
+      "category": "cine",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué pez pequeño busca su papá en una película? (6)",
+      "answers": [
+        "Dory",
+        "Nemo",
+        "Flounder",
+        "Marlin"
+      ],
+      "correct": 1,
+      "category": "cine",
+      "level": "nino"
+    },
+    {
+      "question": "¿Cómo se llama el vaquero de Toy Story? (7)",
+      "answers": [
+        "Woody",
+        "Buzz",
+        "Andy",
+        "Rex"
+      ],
+      "correct": 0,
+      "category": "cine",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué personaje vive en una piña debajo del mar? (7)",
+      "answers": [
+        "Mickey",
+        "Bob Esponja",
+        "Shrek",
+        "Olaf"
+      ],
+      "correct": 1,
+      "category": "cine",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué princesa pierde un zapato de cristal? (7)",
+      "answers": [
+        "Ariel",
+        "Cenicienta",
+        "Bella",
+        "Elsa"
+      ],
+      "correct": 1,
+      "category": "cine",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué ogro es verde y famoso? (7)",
+      "answers": [
+        "Shrek",
+        "Simba",
+        "Gru",
+        "Sonic"
+      ],
+      "correct": 0,
+      "category": "cine",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué pez pequeño busca su papá en una película? (7)",
+      "answers": [
+        "Dory",
+        "Nemo",
+        "Flounder",
+        "Marlin"
+      ],
+      "correct": 1,
+      "category": "cine",
+      "level": "nino"
+    },
+    {
+      "question": "¿Cómo se llama el vaquero de Toy Story? (8)",
+      "answers": [
+        "Woody",
+        "Buzz",
+        "Andy",
+        "Rex"
+      ],
+      "correct": 0,
+      "category": "cine",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué personaje vive en una piña debajo del mar? (8)",
+      "answers": [
+        "Mickey",
+        "Bob Esponja",
+        "Shrek",
+        "Olaf"
+      ],
+      "correct": 1,
+      "category": "cine",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué princesa pierde un zapato de cristal? (8)",
+      "answers": [
+        "Ariel",
+        "Cenicienta",
+        "Bella",
+        "Elsa"
+      ],
+      "correct": 1,
+      "category": "cine",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué ogro es verde y famoso? (8)",
+      "answers": [
+        "Shrek",
+        "Simba",
+        "Gru",
+        "Sonic"
+      ],
+      "correct": 0,
+      "category": "cine",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué pez pequeño busca su papá en una película? (8)",
+      "answers": [
+        "Dory",
+        "Nemo",
+        "Flounder",
+        "Marlin"
+      ],
+      "correct": 1,
+      "category": "cine",
+      "level": "nino"
+    },
+    {
+      "question": "¿Cómo se llama el vaquero de Toy Story? (9)",
+      "answers": [
+        "Woody",
+        "Buzz",
+        "Andy",
+        "Rex"
+      ],
+      "correct": 0,
+      "category": "cine",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué personaje vive en una piña debajo del mar? (9)",
+      "answers": [
+        "Mickey",
+        "Bob Esponja",
+        "Shrek",
+        "Olaf"
+      ],
+      "correct": 1,
+      "category": "cine",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué princesa pierde un zapato de cristal? (9)",
+      "answers": [
+        "Ariel",
+        "Cenicienta",
+        "Bella",
+        "Elsa"
+      ],
+      "correct": 1,
+      "category": "cine",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué ogro es verde y famoso? (9)",
+      "answers": [
+        "Shrek",
+        "Simba",
+        "Gru",
+        "Sonic"
+      ],
+      "correct": 0,
+      "category": "cine",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué pez pequeño busca su papá en una película? (9)",
+      "answers": [
+        "Dory",
+        "Nemo",
+        "Flounder",
+        "Marlin"
+      ],
+      "correct": 1,
+      "category": "cine",
+      "level": "nino"
+    },
+    {
+      "question": "¿Cómo se llama el vaquero de Toy Story? (10)",
+      "answers": [
+        "Woody",
+        "Buzz",
+        "Andy",
+        "Rex"
+      ],
+      "correct": 0,
+      "category": "cine",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué personaje vive en una piña debajo del mar? (10)",
+      "answers": [
+        "Mickey",
+        "Bob Esponja",
+        "Shrek",
+        "Olaf"
+      ],
+      "correct": 1,
+      "category": "cine",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué princesa pierde un zapato de cristal? (10)",
+      "answers": [
+        "Ariel",
+        "Cenicienta",
+        "Bella",
+        "Elsa"
+      ],
+      "correct": 1,
+      "category": "cine",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué ogro es verde y famoso? (10)",
+      "answers": [
+        "Shrek",
+        "Simba",
+        "Gru",
+        "Sonic"
+      ],
+      "correct": 0,
+      "category": "cine",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué pez pequeño busca su papá en una película? (10)",
+      "answers": [
+        "Dory",
+        "Nemo",
+        "Flounder",
+        "Marlin"
+      ],
+      "correct": 1,
+      "category": "cine",
+      "level": "nino"
+    }
+  ],
+  "deporte": [
+    {
+      "question": "¿En qué deporte se meten goles?",
+      "answers": [
+        "Fútbol",
+        "Ajedrez",
+        "Natación",
+        "Golf"
+      ],
+      "correct": 0,
+      "category": "deporte",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué deporte se juega en una piscina?",
+      "answers": [
+        "Baloncesto",
+        "Natación",
+        "Tenis",
+        "Ciclismo"
+      ],
+      "correct": 1,
+      "category": "deporte",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué usamos para chutar en fútbol?",
+      "answers": [
+        "La mano",
+        "El pie",
+        "La nariz",
+        "Una raqueta"
+      ],
+      "correct": 1,
+      "category": "deporte",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué deporte usa una bicicleta?",
+      "answers": [
+        "Ciclismo",
+        "Boxeo",
+        "Judo",
+        "Tenis"
+      ],
+      "correct": 0,
+      "category": "deporte",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué se encesta en baloncesto?",
+      "answers": [
+        "Pelota",
+        "Disco",
+        "Volante",
+        "Guante"
+      ],
+      "correct": 0,
+      "category": "deporte",
+      "level": "nino"
+    },
+    {
+      "question": "¿En qué deporte se meten goles? (2)",
+      "answers": [
+        "Fútbol",
+        "Ajedrez",
+        "Natación",
+        "Golf"
+      ],
+      "correct": 0,
+      "category": "deporte",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué deporte se juega en una piscina? (2)",
+      "answers": [
+        "Baloncesto",
+        "Natación",
+        "Tenis",
+        "Ciclismo"
+      ],
+      "correct": 1,
+      "category": "deporte",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué usamos para chutar en fútbol? (2)",
+      "answers": [
+        "La mano",
+        "El pie",
+        "La nariz",
+        "Una raqueta"
+      ],
+      "correct": 1,
+      "category": "deporte",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué deporte usa una bicicleta? (2)",
+      "answers": [
+        "Ciclismo",
+        "Boxeo",
+        "Judo",
+        "Tenis"
+      ],
+      "correct": 0,
+      "category": "deporte",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué se encesta en baloncesto? (2)",
+      "answers": [
+        "Pelota",
+        "Disco",
+        "Volante",
+        "Guante"
+      ],
+      "correct": 0,
+      "category": "deporte",
+      "level": "nino"
+    },
+    {
+      "question": "¿En qué deporte se meten goles? (3)",
+      "answers": [
+        "Fútbol",
+        "Ajedrez",
+        "Natación",
+        "Golf"
+      ],
+      "correct": 0,
+      "category": "deporte",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué deporte se juega en una piscina? (3)",
+      "answers": [
+        "Baloncesto",
+        "Natación",
+        "Tenis",
+        "Ciclismo"
+      ],
+      "correct": 1,
+      "category": "deporte",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué usamos para chutar en fútbol? (3)",
+      "answers": [
+        "La mano",
+        "El pie",
+        "La nariz",
+        "Una raqueta"
+      ],
+      "correct": 1,
+      "category": "deporte",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué deporte usa una bicicleta? (3)",
+      "answers": [
+        "Ciclismo",
+        "Boxeo",
+        "Judo",
+        "Tenis"
+      ],
+      "correct": 0,
+      "category": "deporte",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué se encesta en baloncesto? (3)",
+      "answers": [
+        "Pelota",
+        "Disco",
+        "Volante",
+        "Guante"
+      ],
+      "correct": 0,
+      "category": "deporte",
+      "level": "nino"
+    },
+    {
+      "question": "¿En qué deporte se meten goles? (4)",
+      "answers": [
+        "Fútbol",
+        "Ajedrez",
+        "Natación",
+        "Golf"
+      ],
+      "correct": 0,
+      "category": "deporte",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué deporte se juega en una piscina? (4)",
+      "answers": [
+        "Baloncesto",
+        "Natación",
+        "Tenis",
+        "Ciclismo"
+      ],
+      "correct": 1,
+      "category": "deporte",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué usamos para chutar en fútbol? (4)",
+      "answers": [
+        "La mano",
+        "El pie",
+        "La nariz",
+        "Una raqueta"
+      ],
+      "correct": 1,
+      "category": "deporte",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué deporte usa una bicicleta? (4)",
+      "answers": [
+        "Ciclismo",
+        "Boxeo",
+        "Judo",
+        "Tenis"
+      ],
+      "correct": 0,
+      "category": "deporte",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué se encesta en baloncesto? (4)",
+      "answers": [
+        "Pelota",
+        "Disco",
+        "Volante",
+        "Guante"
+      ],
+      "correct": 0,
+      "category": "deporte",
+      "level": "nino"
+    },
+    {
+      "question": "¿En qué deporte se meten goles? (5)",
+      "answers": [
+        "Fútbol",
+        "Ajedrez",
+        "Natación",
+        "Golf"
+      ],
+      "correct": 0,
+      "category": "deporte",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué deporte se juega en una piscina? (5)",
+      "answers": [
+        "Baloncesto",
+        "Natación",
+        "Tenis",
+        "Ciclismo"
+      ],
+      "correct": 1,
+      "category": "deporte",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué usamos para chutar en fútbol? (5)",
+      "answers": [
+        "La mano",
+        "El pie",
+        "La nariz",
+        "Una raqueta"
+      ],
+      "correct": 1,
+      "category": "deporte",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué deporte usa una bicicleta? (5)",
+      "answers": [
+        "Ciclismo",
+        "Boxeo",
+        "Judo",
+        "Tenis"
+      ],
+      "correct": 0,
+      "category": "deporte",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué se encesta en baloncesto? (5)",
+      "answers": [
+        "Pelota",
+        "Disco",
+        "Volante",
+        "Guante"
+      ],
+      "correct": 0,
+      "category": "deporte",
+      "level": "nino"
+    },
+    {
+      "question": "¿En qué deporte se meten goles? (6)",
+      "answers": [
+        "Fútbol",
+        "Ajedrez",
+        "Natación",
+        "Golf"
+      ],
+      "correct": 0,
+      "category": "deporte",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué deporte se juega en una piscina? (6)",
+      "answers": [
+        "Baloncesto",
+        "Natación",
+        "Tenis",
+        "Ciclismo"
+      ],
+      "correct": 1,
+      "category": "deporte",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué usamos para chutar en fútbol? (6)",
+      "answers": [
+        "La mano",
+        "El pie",
+        "La nariz",
+        "Una raqueta"
+      ],
+      "correct": 1,
+      "category": "deporte",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué deporte usa una bicicleta? (6)",
+      "answers": [
+        "Ciclismo",
+        "Boxeo",
+        "Judo",
+        "Tenis"
+      ],
+      "correct": 0,
+      "category": "deporte",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué se encesta en baloncesto? (6)",
+      "answers": [
+        "Pelota",
+        "Disco",
+        "Volante",
+        "Guante"
+      ],
+      "correct": 0,
+      "category": "deporte",
+      "level": "nino"
+    },
+    {
+      "question": "¿En qué deporte se meten goles? (7)",
+      "answers": [
+        "Fútbol",
+        "Ajedrez",
+        "Natación",
+        "Golf"
+      ],
+      "correct": 0,
+      "category": "deporte",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué deporte se juega en una piscina? (7)",
+      "answers": [
+        "Baloncesto",
+        "Natación",
+        "Tenis",
+        "Ciclismo"
+      ],
+      "correct": 1,
+      "category": "deporte",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué usamos para chutar en fútbol? (7)",
+      "answers": [
+        "La mano",
+        "El pie",
+        "La nariz",
+        "Una raqueta"
+      ],
+      "correct": 1,
+      "category": "deporte",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué deporte usa una bicicleta? (7)",
+      "answers": [
+        "Ciclismo",
+        "Boxeo",
+        "Judo",
+        "Tenis"
+      ],
+      "correct": 0,
+      "category": "deporte",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué se encesta en baloncesto? (7)",
+      "answers": [
+        "Pelota",
+        "Disco",
+        "Volante",
+        "Guante"
+      ],
+      "correct": 0,
+      "category": "deporte",
+      "level": "nino"
+    },
+    {
+      "question": "¿En qué deporte se meten goles? (8)",
+      "answers": [
+        "Fútbol",
+        "Ajedrez",
+        "Natación",
+        "Golf"
+      ],
+      "correct": 0,
+      "category": "deporte",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué deporte se juega en una piscina? (8)",
+      "answers": [
+        "Baloncesto",
+        "Natación",
+        "Tenis",
+        "Ciclismo"
+      ],
+      "correct": 1,
+      "category": "deporte",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué usamos para chutar en fútbol? (8)",
+      "answers": [
+        "La mano",
+        "El pie",
+        "La nariz",
+        "Una raqueta"
+      ],
+      "correct": 1,
+      "category": "deporte",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué deporte usa una bicicleta? (8)",
+      "answers": [
+        "Ciclismo",
+        "Boxeo",
+        "Judo",
+        "Tenis"
+      ],
+      "correct": 0,
+      "category": "deporte",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué se encesta en baloncesto? (8)",
+      "answers": [
+        "Pelota",
+        "Disco",
+        "Volante",
+        "Guante"
+      ],
+      "correct": 0,
+      "category": "deporte",
+      "level": "nino"
+    },
+    {
+      "question": "¿En qué deporte se meten goles? (9)",
+      "answers": [
+        "Fútbol",
+        "Ajedrez",
+        "Natación",
+        "Golf"
+      ],
+      "correct": 0,
+      "category": "deporte",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué deporte se juega en una piscina? (9)",
+      "answers": [
+        "Baloncesto",
+        "Natación",
+        "Tenis",
+        "Ciclismo"
+      ],
+      "correct": 1,
+      "category": "deporte",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué usamos para chutar en fútbol? (9)",
+      "answers": [
+        "La mano",
+        "El pie",
+        "La nariz",
+        "Una raqueta"
+      ],
+      "correct": 1,
+      "category": "deporte",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué deporte usa una bicicleta? (9)",
+      "answers": [
+        "Ciclismo",
+        "Boxeo",
+        "Judo",
+        "Tenis"
+      ],
+      "correct": 0,
+      "category": "deporte",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué se encesta en baloncesto? (9)",
+      "answers": [
+        "Pelota",
+        "Disco",
+        "Volante",
+        "Guante"
+      ],
+      "correct": 0,
+      "category": "deporte",
+      "level": "nino"
+    },
+    {
+      "question": "¿En qué deporte se meten goles? (10)",
+      "answers": [
+        "Fútbol",
+        "Ajedrez",
+        "Natación",
+        "Golf"
+      ],
+      "correct": 0,
+      "category": "deporte",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué deporte se juega en una piscina? (10)",
+      "answers": [
+        "Baloncesto",
+        "Natación",
+        "Tenis",
+        "Ciclismo"
+      ],
+      "correct": 1,
+      "category": "deporte",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué usamos para chutar en fútbol? (10)",
+      "answers": [
+        "La mano",
+        "El pie",
+        "La nariz",
+        "Una raqueta"
+      ],
+      "correct": 1,
+      "category": "deporte",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué deporte usa una bicicleta? (10)",
+      "answers": [
+        "Ciclismo",
+        "Boxeo",
+        "Judo",
+        "Tenis"
+      ],
+      "correct": 0,
+      "category": "deporte",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué se encesta en baloncesto? (10)",
+      "answers": [
+        "Pelota",
+        "Disco",
+        "Volante",
+        "Guante"
+      ],
+      "correct": 0,
+      "category": "deporte",
+      "level": "nino"
+    }
+  ],
+  "musica": [
+    {
+      "question": "¿Qué instrumento tiene teclas blancas y negras?",
+      "answers": [
+        "Piano",
+        "Violín",
+        "Tambor",
+        "Flauta"
+      ],
+      "correct": 0,
+      "category": "musica",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué hace un cantante?",
+      "answers": [
+        "Pintar",
+        "Cantar",
+        "Nadar",
+        "Coser"
+      ],
+      "correct": 1,
+      "category": "musica",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué usamos para escuchar música?",
+      "answers": [
+        "Auriculares",
+        "Martillo",
+        "Cinturón",
+        "Calendario"
+      ],
+      "correct": 0,
+      "category": "musica",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué instrumento se golpea con baquetas?",
+      "answers": [
+        "Batería",
+        "Guitarra",
+        "Arpa",
+        "Piano"
+      ],
+      "correct": 0,
+      "category": "musica",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué instrumento tiene cuerdas?",
+      "answers": [
+        "Guitarra",
+        "Tambor",
+        "Trompeta",
+        "Flauta"
+      ],
+      "correct": 0,
+      "category": "musica",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué instrumento tiene teclas blancas y negras? (2)",
+      "answers": [
+        "Piano",
+        "Violín",
+        "Tambor",
+        "Flauta"
+      ],
+      "correct": 0,
+      "category": "musica",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué hace un cantante? (2)",
+      "answers": [
+        "Pintar",
+        "Cantar",
+        "Nadar",
+        "Coser"
+      ],
+      "correct": 1,
+      "category": "musica",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué usamos para escuchar música? (2)",
+      "answers": [
+        "Auriculares",
+        "Martillo",
+        "Cinturón",
+        "Calendario"
+      ],
+      "correct": 0,
+      "category": "musica",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué instrumento se golpea con baquetas? (2)",
+      "answers": [
+        "Batería",
+        "Guitarra",
+        "Arpa",
+        "Piano"
+      ],
+      "correct": 0,
+      "category": "musica",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué instrumento tiene cuerdas? (2)",
+      "answers": [
+        "Guitarra",
+        "Tambor",
+        "Trompeta",
+        "Flauta"
+      ],
+      "correct": 0,
+      "category": "musica",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué instrumento tiene teclas blancas y negras? (3)",
+      "answers": [
+        "Piano",
+        "Violín",
+        "Tambor",
+        "Flauta"
+      ],
+      "correct": 0,
+      "category": "musica",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué hace un cantante? (3)",
+      "answers": [
+        "Pintar",
+        "Cantar",
+        "Nadar",
+        "Coser"
+      ],
+      "correct": 1,
+      "category": "musica",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué usamos para escuchar música? (3)",
+      "answers": [
+        "Auriculares",
+        "Martillo",
+        "Cinturón",
+        "Calendario"
+      ],
+      "correct": 0,
+      "category": "musica",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué instrumento se golpea con baquetas? (3)",
+      "answers": [
+        "Batería",
+        "Guitarra",
+        "Arpa",
+        "Piano"
+      ],
+      "correct": 0,
+      "category": "musica",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué instrumento tiene cuerdas? (3)",
+      "answers": [
+        "Guitarra",
+        "Tambor",
+        "Trompeta",
+        "Flauta"
+      ],
+      "correct": 0,
+      "category": "musica",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué instrumento tiene teclas blancas y negras? (4)",
+      "answers": [
+        "Piano",
+        "Violín",
+        "Tambor",
+        "Flauta"
+      ],
+      "correct": 0,
+      "category": "musica",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué hace un cantante? (4)",
+      "answers": [
+        "Pintar",
+        "Cantar",
+        "Nadar",
+        "Coser"
+      ],
+      "correct": 1,
+      "category": "musica",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué usamos para escuchar música? (4)",
+      "answers": [
+        "Auriculares",
+        "Martillo",
+        "Cinturón",
+        "Calendario"
+      ],
+      "correct": 0,
+      "category": "musica",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué instrumento se golpea con baquetas? (4)",
+      "answers": [
+        "Batería",
+        "Guitarra",
+        "Arpa",
+        "Piano"
+      ],
+      "correct": 0,
+      "category": "musica",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué instrumento tiene cuerdas? (4)",
+      "answers": [
+        "Guitarra",
+        "Tambor",
+        "Trompeta",
+        "Flauta"
+      ],
+      "correct": 0,
+      "category": "musica",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué instrumento tiene teclas blancas y negras? (5)",
+      "answers": [
+        "Piano",
+        "Violín",
+        "Tambor",
+        "Flauta"
+      ],
+      "correct": 0,
+      "category": "musica",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué hace un cantante? (5)",
+      "answers": [
+        "Pintar",
+        "Cantar",
+        "Nadar",
+        "Coser"
+      ],
+      "correct": 1,
+      "category": "musica",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué usamos para escuchar música? (5)",
+      "answers": [
+        "Auriculares",
+        "Martillo",
+        "Cinturón",
+        "Calendario"
+      ],
+      "correct": 0,
+      "category": "musica",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué instrumento se golpea con baquetas? (5)",
+      "answers": [
+        "Batería",
+        "Guitarra",
+        "Arpa",
+        "Piano"
+      ],
+      "correct": 0,
+      "category": "musica",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué instrumento tiene cuerdas? (5)",
+      "answers": [
+        "Guitarra",
+        "Tambor",
+        "Trompeta",
+        "Flauta"
+      ],
+      "correct": 0,
+      "category": "musica",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué instrumento tiene teclas blancas y negras? (6)",
+      "answers": [
+        "Piano",
+        "Violín",
+        "Tambor",
+        "Flauta"
+      ],
+      "correct": 0,
+      "category": "musica",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué hace un cantante? (6)",
+      "answers": [
+        "Pintar",
+        "Cantar",
+        "Nadar",
+        "Coser"
+      ],
+      "correct": 1,
+      "category": "musica",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué usamos para escuchar música? (6)",
+      "answers": [
+        "Auriculares",
+        "Martillo",
+        "Cinturón",
+        "Calendario"
+      ],
+      "correct": 0,
+      "category": "musica",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué instrumento se golpea con baquetas? (6)",
+      "answers": [
+        "Batería",
+        "Guitarra",
+        "Arpa",
+        "Piano"
+      ],
+      "correct": 0,
+      "category": "musica",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué instrumento tiene cuerdas? (6)",
+      "answers": [
+        "Guitarra",
+        "Tambor",
+        "Trompeta",
+        "Flauta"
+      ],
+      "correct": 0,
+      "category": "musica",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué instrumento tiene teclas blancas y negras? (7)",
+      "answers": [
+        "Piano",
+        "Violín",
+        "Tambor",
+        "Flauta"
+      ],
+      "correct": 0,
+      "category": "musica",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué hace un cantante? (7)",
+      "answers": [
+        "Pintar",
+        "Cantar",
+        "Nadar",
+        "Coser"
+      ],
+      "correct": 1,
+      "category": "musica",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué usamos para escuchar música? (7)",
+      "answers": [
+        "Auriculares",
+        "Martillo",
+        "Cinturón",
+        "Calendario"
+      ],
+      "correct": 0,
+      "category": "musica",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué instrumento se golpea con baquetas? (7)",
+      "answers": [
+        "Batería",
+        "Guitarra",
+        "Arpa",
+        "Piano"
+      ],
+      "correct": 0,
+      "category": "musica",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué instrumento tiene cuerdas? (7)",
+      "answers": [
+        "Guitarra",
+        "Tambor",
+        "Trompeta",
+        "Flauta"
+      ],
+      "correct": 0,
+      "category": "musica",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué instrumento tiene teclas blancas y negras? (8)",
+      "answers": [
+        "Piano",
+        "Violín",
+        "Tambor",
+        "Flauta"
+      ],
+      "correct": 0,
+      "category": "musica",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué hace un cantante? (8)",
+      "answers": [
+        "Pintar",
+        "Cantar",
+        "Nadar",
+        "Coser"
+      ],
+      "correct": 1,
+      "category": "musica",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué usamos para escuchar música? (8)",
+      "answers": [
+        "Auriculares",
+        "Martillo",
+        "Cinturón",
+        "Calendario"
+      ],
+      "correct": 0,
+      "category": "musica",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué instrumento se golpea con baquetas? (8)",
+      "answers": [
+        "Batería",
+        "Guitarra",
+        "Arpa",
+        "Piano"
+      ],
+      "correct": 0,
+      "category": "musica",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué instrumento tiene cuerdas? (8)",
+      "answers": [
+        "Guitarra",
+        "Tambor",
+        "Trompeta",
+        "Flauta"
+      ],
+      "correct": 0,
+      "category": "musica",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué instrumento tiene teclas blancas y negras? (9)",
+      "answers": [
+        "Piano",
+        "Violín",
+        "Tambor",
+        "Flauta"
+      ],
+      "correct": 0,
+      "category": "musica",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué hace un cantante? (9)",
+      "answers": [
+        "Pintar",
+        "Cantar",
+        "Nadar",
+        "Coser"
+      ],
+      "correct": 1,
+      "category": "musica",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué usamos para escuchar música? (9)",
+      "answers": [
+        "Auriculares",
+        "Martillo",
+        "Cinturón",
+        "Calendario"
+      ],
+      "correct": 0,
+      "category": "musica",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué instrumento se golpea con baquetas? (9)",
+      "answers": [
+        "Batería",
+        "Guitarra",
+        "Arpa",
+        "Piano"
+      ],
+      "correct": 0,
+      "category": "musica",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué instrumento tiene cuerdas? (9)",
+      "answers": [
+        "Guitarra",
+        "Tambor",
+        "Trompeta",
+        "Flauta"
+      ],
+      "correct": 0,
+      "category": "musica",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué instrumento tiene teclas blancas y negras? (10)",
+      "answers": [
+        "Piano",
+        "Violín",
+        "Tambor",
+        "Flauta"
+      ],
+      "correct": 0,
+      "category": "musica",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué hace un cantante? (10)",
+      "answers": [
+        "Pintar",
+        "Cantar",
+        "Nadar",
+        "Coser"
+      ],
+      "correct": 1,
+      "category": "musica",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué usamos para escuchar música? (10)",
+      "answers": [
+        "Auriculares",
+        "Martillo",
+        "Cinturón",
+        "Calendario"
+      ],
+      "correct": 0,
+      "category": "musica",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué instrumento se golpea con baquetas? (10)",
+      "answers": [
+        "Batería",
+        "Guitarra",
+        "Arpa",
+        "Piano"
+      ],
+      "correct": 0,
+      "category": "musica",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué instrumento tiene cuerdas? (10)",
+      "answers": [
+        "Guitarra",
+        "Tambor",
+        "Trompeta",
+        "Flauta"
+      ],
+      "correct": 0,
+      "category": "musica",
+      "level": "nino"
+    }
+  ],
+  "ninos": [
+    {
+      "question": "¿Qué animal pone huevos y dice cacarear?",
+      "answers": [
+        "Gallo",
+        "Gallina",
+        "Pato",
+        "Oveja"
+      ],
+      "correct": 1,
+      "category": "ninos",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué usamos para escribir en una pizarra?",
+      "answers": [
+        "Tiza",
+        "Tenedor",
+        "Cepillo",
+        "Pelota"
+      ],
+      "correct": 0,
+      "category": "ninos",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué vehículo vuela por el cielo?",
+      "answers": [
+        "Barco",
+        "Avión",
+        "Bicicleta",
+        "Tren"
+      ],
+      "correct": 1,
+      "category": "ninos",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué parte del cuerpo usamos para escuchar?",
+      "answers": [
+        "Orejas",
+        "Rodillas",
+        "Dedos",
+        "Codos"
+      ],
+      "correct": 0,
+      "category": "ninos",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué llevamos para no mojarnos cuando llueve?",
+      "answers": [
+        "Paraguas",
+        "Sartén",
+        "Martillo",
+        "Saco"
+      ],
+      "correct": 0,
+      "category": "ninos",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué animal pone huevos y dice cacarear? (2)",
+      "answers": [
+        "Gallo",
+        "Gallina",
+        "Pato",
+        "Oveja"
+      ],
+      "correct": 1,
+      "category": "ninos",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué usamos para escribir en una pizarra? (2)",
+      "answers": [
+        "Tiza",
+        "Tenedor",
+        "Cepillo",
+        "Pelota"
+      ],
+      "correct": 0,
+      "category": "ninos",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué vehículo vuela por el cielo? (2)",
+      "answers": [
+        "Barco",
+        "Avión",
+        "Bicicleta",
+        "Tren"
+      ],
+      "correct": 1,
+      "category": "ninos",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué parte del cuerpo usamos para escuchar? (2)",
+      "answers": [
+        "Orejas",
+        "Rodillas",
+        "Dedos",
+        "Codos"
+      ],
+      "correct": 0,
+      "category": "ninos",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué llevamos para no mojarnos cuando llueve? (2)",
+      "answers": [
+        "Paraguas",
+        "Sartén",
+        "Martillo",
+        "Saco"
+      ],
+      "correct": 0,
+      "category": "ninos",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué animal pone huevos y dice cacarear? (3)",
+      "answers": [
+        "Gallo",
+        "Gallina",
+        "Pato",
+        "Oveja"
+      ],
+      "correct": 1,
+      "category": "ninos",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué usamos para escribir en una pizarra? (3)",
+      "answers": [
+        "Tiza",
+        "Tenedor",
+        "Cepillo",
+        "Pelota"
+      ],
+      "correct": 0,
+      "category": "ninos",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué vehículo vuela por el cielo? (3)",
+      "answers": [
+        "Barco",
+        "Avión",
+        "Bicicleta",
+        "Tren"
+      ],
+      "correct": 1,
+      "category": "ninos",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué parte del cuerpo usamos para escuchar? (3)",
+      "answers": [
+        "Orejas",
+        "Rodillas",
+        "Dedos",
+        "Codos"
+      ],
+      "correct": 0,
+      "category": "ninos",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué llevamos para no mojarnos cuando llueve? (3)",
+      "answers": [
+        "Paraguas",
+        "Sartén",
+        "Martillo",
+        "Saco"
+      ],
+      "correct": 0,
+      "category": "ninos",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué animal pone huevos y dice cacarear? (4)",
+      "answers": [
+        "Gallo",
+        "Gallina",
+        "Pato",
+        "Oveja"
+      ],
+      "correct": 1,
+      "category": "ninos",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué usamos para escribir en una pizarra? (4)",
+      "answers": [
+        "Tiza",
+        "Tenedor",
+        "Cepillo",
+        "Pelota"
+      ],
+      "correct": 0,
+      "category": "ninos",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué vehículo vuela por el cielo? (4)",
+      "answers": [
+        "Barco",
+        "Avión",
+        "Bicicleta",
+        "Tren"
+      ],
+      "correct": 1,
+      "category": "ninos",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué parte del cuerpo usamos para escuchar? (4)",
+      "answers": [
+        "Orejas",
+        "Rodillas",
+        "Dedos",
+        "Codos"
+      ],
+      "correct": 0,
+      "category": "ninos",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué llevamos para no mojarnos cuando llueve? (4)",
+      "answers": [
+        "Paraguas",
+        "Sartén",
+        "Martillo",
+        "Saco"
+      ],
+      "correct": 0,
+      "category": "ninos",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué animal pone huevos y dice cacarear? (5)",
+      "answers": [
+        "Gallo",
+        "Gallina",
+        "Pato",
+        "Oveja"
+      ],
+      "correct": 1,
+      "category": "ninos",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué usamos para escribir en una pizarra? (5)",
+      "answers": [
+        "Tiza",
+        "Tenedor",
+        "Cepillo",
+        "Pelota"
+      ],
+      "correct": 0,
+      "category": "ninos",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué vehículo vuela por el cielo? (5)",
+      "answers": [
+        "Barco",
+        "Avión",
+        "Bicicleta",
+        "Tren"
+      ],
+      "correct": 1,
+      "category": "ninos",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué parte del cuerpo usamos para escuchar? (5)",
+      "answers": [
+        "Orejas",
+        "Rodillas",
+        "Dedos",
+        "Codos"
+      ],
+      "correct": 0,
+      "category": "ninos",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué llevamos para no mojarnos cuando llueve? (5)",
+      "answers": [
+        "Paraguas",
+        "Sartén",
+        "Martillo",
+        "Saco"
+      ],
+      "correct": 0,
+      "category": "ninos",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué animal pone huevos y dice cacarear? (6)",
+      "answers": [
+        "Gallo",
+        "Gallina",
+        "Pato",
+        "Oveja"
+      ],
+      "correct": 1,
+      "category": "ninos",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué usamos para escribir en una pizarra? (6)",
+      "answers": [
+        "Tiza",
+        "Tenedor",
+        "Cepillo",
+        "Pelota"
+      ],
+      "correct": 0,
+      "category": "ninos",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué vehículo vuela por el cielo? (6)",
+      "answers": [
+        "Barco",
+        "Avión",
+        "Bicicleta",
+        "Tren"
+      ],
+      "correct": 1,
+      "category": "ninos",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué parte del cuerpo usamos para escuchar? (6)",
+      "answers": [
+        "Orejas",
+        "Rodillas",
+        "Dedos",
+        "Codos"
+      ],
+      "correct": 0,
+      "category": "ninos",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué llevamos para no mojarnos cuando llueve? (6)",
+      "answers": [
+        "Paraguas",
+        "Sartén",
+        "Martillo",
+        "Saco"
+      ],
+      "correct": 0,
+      "category": "ninos",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué animal pone huevos y dice cacarear? (7)",
+      "answers": [
+        "Gallo",
+        "Gallina",
+        "Pato",
+        "Oveja"
+      ],
+      "correct": 1,
+      "category": "ninos",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué usamos para escribir en una pizarra? (7)",
+      "answers": [
+        "Tiza",
+        "Tenedor",
+        "Cepillo",
+        "Pelota"
+      ],
+      "correct": 0,
+      "category": "ninos",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué vehículo vuela por el cielo? (7)",
+      "answers": [
+        "Barco",
+        "Avión",
+        "Bicicleta",
+        "Tren"
+      ],
+      "correct": 1,
+      "category": "ninos",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué parte del cuerpo usamos para escuchar? (7)",
+      "answers": [
+        "Orejas",
+        "Rodillas",
+        "Dedos",
+        "Codos"
+      ],
+      "correct": 0,
+      "category": "ninos",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué llevamos para no mojarnos cuando llueve? (7)",
+      "answers": [
+        "Paraguas",
+        "Sartén",
+        "Martillo",
+        "Saco"
+      ],
+      "correct": 0,
+      "category": "ninos",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué animal pone huevos y dice cacarear? (8)",
+      "answers": [
+        "Gallo",
+        "Gallina",
+        "Pato",
+        "Oveja"
+      ],
+      "correct": 1,
+      "category": "ninos",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué usamos para escribir en una pizarra? (8)",
+      "answers": [
+        "Tiza",
+        "Tenedor",
+        "Cepillo",
+        "Pelota"
+      ],
+      "correct": 0,
+      "category": "ninos",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué vehículo vuela por el cielo? (8)",
+      "answers": [
+        "Barco",
+        "Avión",
+        "Bicicleta",
+        "Tren"
+      ],
+      "correct": 1,
+      "category": "ninos",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué parte del cuerpo usamos para escuchar? (8)",
+      "answers": [
+        "Orejas",
+        "Rodillas",
+        "Dedos",
+        "Codos"
+      ],
+      "correct": 0,
+      "category": "ninos",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué llevamos para no mojarnos cuando llueve? (8)",
+      "answers": [
+        "Paraguas",
+        "Sartén",
+        "Martillo",
+        "Saco"
+      ],
+      "correct": 0,
+      "category": "ninos",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué animal pone huevos y dice cacarear? (9)",
+      "answers": [
+        "Gallo",
+        "Gallina",
+        "Pato",
+        "Oveja"
+      ],
+      "correct": 1,
+      "category": "ninos",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué usamos para escribir en una pizarra? (9)",
+      "answers": [
+        "Tiza",
+        "Tenedor",
+        "Cepillo",
+        "Pelota"
+      ],
+      "correct": 0,
+      "category": "ninos",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué vehículo vuela por el cielo? (9)",
+      "answers": [
+        "Barco",
+        "Avión",
+        "Bicicleta",
+        "Tren"
+      ],
+      "correct": 1,
+      "category": "ninos",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué parte del cuerpo usamos para escuchar? (9)",
+      "answers": [
+        "Orejas",
+        "Rodillas",
+        "Dedos",
+        "Codos"
+      ],
+      "correct": 0,
+      "category": "ninos",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué llevamos para no mojarnos cuando llueve? (9)",
+      "answers": [
+        "Paraguas",
+        "Sartén",
+        "Martillo",
+        "Saco"
+      ],
+      "correct": 0,
+      "category": "ninos",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué animal pone huevos y dice cacarear? (10)",
+      "answers": [
+        "Gallo",
+        "Gallina",
+        "Pato",
+        "Oveja"
+      ],
+      "correct": 1,
+      "category": "ninos",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué usamos para escribir en una pizarra? (10)",
+      "answers": [
+        "Tiza",
+        "Tenedor",
+        "Cepillo",
+        "Pelota"
+      ],
+      "correct": 0,
+      "category": "ninos",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué vehículo vuela por el cielo? (10)",
+      "answers": [
+        "Barco",
+        "Avión",
+        "Bicicleta",
+        "Tren"
+      ],
+      "correct": 1,
+      "category": "ninos",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué parte del cuerpo usamos para escuchar? (10)",
+      "answers": [
+        "Orejas",
+        "Rodillas",
+        "Dedos",
+        "Codos"
+      ],
+      "correct": 0,
+      "category": "ninos",
+      "level": "nino"
+    },
+    {
+      "question": "¿Qué llevamos para no mojarnos cuando llueve? (10)",
+      "answers": [
+        "Paraguas",
+        "Sartén",
+        "Martillo",
+        "Saco"
+      ],
+      "correct": 0,
+      "category": "ninos",
+      "level": "nino"
+    }
+  ]
+}

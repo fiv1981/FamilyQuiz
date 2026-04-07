@@ -1,0 +1,4818 @@
+{
+  "general": [
+    {
+      "question": "¿Cuántos lados tiene un octógono?",
+      "answers": [
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "correct": 2,
+      "category": "general",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué idioma se habla principalmente en Brasil?",
+      "answers": [
+        "Español",
+        "Portugués",
+        "Italiano",
+        "Inglés"
+      ],
+      "correct": 1,
+      "category": "general",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué número romano representa el 10?",
+      "answers": [
+        "V",
+        "X",
+        "L",
+        "C"
+      ],
+      "correct": 1,
+      "category": "general",
+      "level": "medio"
+    },
+    {
+      "question": "¿Cuál es el resultado de 9 x 7?",
+      "answers": [
+        "54",
+        "63",
+        "72",
+        "49"
+      ],
+      "correct": 1,
+      "category": "general",
+      "level": "medio"
+    },
+    {
+      "question": "¿Cuántos continentes se suelen contar?",
+      "answers": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correct": 2,
+      "category": "general",
+      "level": "medio"
+    },
+    {
+      "question": "¿Cuántos lados tiene un octógono? (2)",
+      "answers": [
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "correct": 2,
+      "category": "general",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué idioma se habla principalmente en Brasil? (2)",
+      "answers": [
+        "Español",
+        "Portugués",
+        "Italiano",
+        "Inglés"
+      ],
+      "correct": 1,
+      "category": "general",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué número romano representa el 10? (2)",
+      "answers": [
+        "V",
+        "X",
+        "L",
+        "C"
+      ],
+      "correct": 1,
+      "category": "general",
+      "level": "medio"
+    },
+    {
+      "question": "¿Cuál es el resultado de 9 x 7? (2)",
+      "answers": [
+        "54",
+        "63",
+        "72",
+        "49"
+      ],
+      "correct": 1,
+      "category": "general",
+      "level": "medio"
+    },
+    {
+      "question": "¿Cuántos continentes se suelen contar? (2)",
+      "answers": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correct": 2,
+      "category": "general",
+      "level": "medio"
+    },
+    {
+      "question": "¿Cuántos lados tiene un octógono? (3)",
+      "answers": [
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "correct": 2,
+      "category": "general",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué idioma se habla principalmente en Brasil? (3)",
+      "answers": [
+        "Español",
+        "Portugués",
+        "Italiano",
+        "Inglés"
+      ],
+      "correct": 1,
+      "category": "general",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué número romano representa el 10? (3)",
+      "answers": [
+        "V",
+        "X",
+        "L",
+        "C"
+      ],
+      "correct": 1,
+      "category": "general",
+      "level": "medio"
+    },
+    {
+      "question": "¿Cuál es el resultado de 9 x 7? (3)",
+      "answers": [
+        "54",
+        "63",
+        "72",
+        "49"
+      ],
+      "correct": 1,
+      "category": "general",
+      "level": "medio"
+    },
+    {
+      "question": "¿Cuántos continentes se suelen contar? (3)",
+      "answers": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correct": 2,
+      "category": "general",
+      "level": "medio"
+    },
+    {
+      "question": "¿Cuántos lados tiene un octógono? (4)",
+      "answers": [
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "correct": 2,
+      "category": "general",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué idioma se habla principalmente en Brasil? (4)",
+      "answers": [
+        "Español",
+        "Portugués",
+        "Italiano",
+        "Inglés"
+      ],
+      "correct": 1,
+      "category": "general",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué número romano representa el 10? (4)",
+      "answers": [
+        "V",
+        "X",
+        "L",
+        "C"
+      ],
+      "correct": 1,
+      "category": "general",
+      "level": "medio"
+    },
+    {
+      "question": "¿Cuál es el resultado de 9 x 7? (4)",
+      "answers": [
+        "54",
+        "63",
+        "72",
+        "49"
+      ],
+      "correct": 1,
+      "category": "general",
+      "level": "medio"
+    },
+    {
+      "question": "¿Cuántos continentes se suelen contar? (4)",
+      "answers": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correct": 2,
+      "category": "general",
+      "level": "medio"
+    },
+    {
+      "question": "¿Cuántos lados tiene un octógono? (5)",
+      "answers": [
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "correct": 2,
+      "category": "general",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué idioma se habla principalmente en Brasil? (5)",
+      "answers": [
+        "Español",
+        "Portugués",
+        "Italiano",
+        "Inglés"
+      ],
+      "correct": 1,
+      "category": "general",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué número romano representa el 10? (5)",
+      "answers": [
+        "V",
+        "X",
+        "L",
+        "C"
+      ],
+      "correct": 1,
+      "category": "general",
+      "level": "medio"
+    },
+    {
+      "question": "¿Cuál es el resultado de 9 x 7? (5)",
+      "answers": [
+        "54",
+        "63",
+        "72",
+        "49"
+      ],
+      "correct": 1,
+      "category": "general",
+      "level": "medio"
+    },
+    {
+      "question": "¿Cuántos continentes se suelen contar? (5)",
+      "answers": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correct": 2,
+      "category": "general",
+      "level": "medio"
+    },
+    {
+      "question": "¿Cuántos lados tiene un octógono? (6)",
+      "answers": [
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "correct": 2,
+      "category": "general",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué idioma se habla principalmente en Brasil? (6)",
+      "answers": [
+        "Español",
+        "Portugués",
+        "Italiano",
+        "Inglés"
+      ],
+      "correct": 1,
+      "category": "general",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué número romano representa el 10? (6)",
+      "answers": [
+        "V",
+        "X",
+        "L",
+        "C"
+      ],
+      "correct": 1,
+      "category": "general",
+      "level": "medio"
+    },
+    {
+      "question": "¿Cuál es el resultado de 9 x 7? (6)",
+      "answers": [
+        "54",
+        "63",
+        "72",
+        "49"
+      ],
+      "correct": 1,
+      "category": "general",
+      "level": "medio"
+    },
+    {
+      "question": "¿Cuántos continentes se suelen contar? (6)",
+      "answers": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correct": 2,
+      "category": "general",
+      "level": "medio"
+    },
+    {
+      "question": "¿Cuántos lados tiene un octógono? (7)",
+      "answers": [
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "correct": 2,
+      "category": "general",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué idioma se habla principalmente en Brasil? (7)",
+      "answers": [
+        "Español",
+        "Portugués",
+        "Italiano",
+        "Inglés"
+      ],
+      "correct": 1,
+      "category": "general",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué número romano representa el 10? (7)",
+      "answers": [
+        "V",
+        "X",
+        "L",
+        "C"
+      ],
+      "correct": 1,
+      "category": "general",
+      "level": "medio"
+    },
+    {
+      "question": "¿Cuál es el resultado de 9 x 7? (7)",
+      "answers": [
+        "54",
+        "63",
+        "72",
+        "49"
+      ],
+      "correct": 1,
+      "category": "general",
+      "level": "medio"
+    },
+    {
+      "question": "¿Cuántos continentes se suelen contar? (7)",
+      "answers": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correct": 2,
+      "category": "general",
+      "level": "medio"
+    },
+    {
+      "question": "¿Cuántos lados tiene un octógono? (8)",
+      "answers": [
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "correct": 2,
+      "category": "general",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué idioma se habla principalmente en Brasil? (8)",
+      "answers": [
+        "Español",
+        "Portugués",
+        "Italiano",
+        "Inglés"
+      ],
+      "correct": 1,
+      "category": "general",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué número romano representa el 10? (8)",
+      "answers": [
+        "V",
+        "X",
+        "L",
+        "C"
+      ],
+      "correct": 1,
+      "category": "general",
+      "level": "medio"
+    },
+    {
+      "question": "¿Cuál es el resultado de 9 x 7? (8)",
+      "answers": [
+        "54",
+        "63",
+        "72",
+        "49"
+      ],
+      "correct": 1,
+      "category": "general",
+      "level": "medio"
+    },
+    {
+      "question": "¿Cuántos continentes se suelen contar? (8)",
+      "answers": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correct": 2,
+      "category": "general",
+      "level": "medio"
+    },
+    {
+      "question": "¿Cuántos lados tiene un octógono? (9)",
+      "answers": [
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "correct": 2,
+      "category": "general",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué idioma se habla principalmente en Brasil? (9)",
+      "answers": [
+        "Español",
+        "Portugués",
+        "Italiano",
+        "Inglés"
+      ],
+      "correct": 1,
+      "category": "general",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué número romano representa el 10? (9)",
+      "answers": [
+        "V",
+        "X",
+        "L",
+        "C"
+      ],
+      "correct": 1,
+      "category": "general",
+      "level": "medio"
+    },
+    {
+      "question": "¿Cuál es el resultado de 9 x 7? (9)",
+      "answers": [
+        "54",
+        "63",
+        "72",
+        "49"
+      ],
+      "correct": 1,
+      "category": "general",
+      "level": "medio"
+    },
+    {
+      "question": "¿Cuántos continentes se suelen contar? (9)",
+      "answers": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correct": 2,
+      "category": "general",
+      "level": "medio"
+    },
+    {
+      "question": "¿Cuántos lados tiene un octógono? (10)",
+      "answers": [
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "correct": 2,
+      "category": "general",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué idioma se habla principalmente en Brasil? (10)",
+      "answers": [
+        "Español",
+        "Portugués",
+        "Italiano",
+        "Inglés"
+      ],
+      "correct": 1,
+      "category": "general",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué número romano representa el 10? (10)",
+      "answers": [
+        "V",
+        "X",
+        "L",
+        "C"
+      ],
+      "correct": 1,
+      "category": "general",
+      "level": "medio"
+    },
+    {
+      "question": "¿Cuál es el resultado de 9 x 7? (10)",
+      "answers": [
+        "54",
+        "63",
+        "72",
+        "49"
+      ],
+      "correct": 1,
+      "category": "general",
+      "level": "medio"
+    },
+    {
+      "question": "¿Cuántos continentes se suelen contar? (10)",
+      "answers": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correct": 2,
+      "category": "general",
+      "level": "medio"
+    }
+  ],
+  "geografia": [
+    {
+      "question": "¿Qué río pasa por Londres?",
+      "answers": [
+        "Sena",
+        "Támesis",
+        "Danubio",
+        "Tíber"
+      ],
+      "correct": 1,
+      "category": "geografia",
+      "level": "medio"
+    },
+    {
+      "question": "¿Cuál es la capital de Canadá?",
+      "answers": [
+        "Toronto",
+        "Ottawa",
+        "Montreal",
+        "Vancouver"
+      ],
+      "correct": 1,
+      "category": "geografia",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué cordillera está en Sudamérica?",
+      "answers": [
+        "Alpes",
+        "Andes",
+        "Urales",
+        "Pirineos"
+      ],
+      "correct": 1,
+      "category": "geografia",
+      "level": "medio"
+    },
+    {
+      "question": "¿En qué océano está Hawái?",
+      "answers": [
+        "Atlántico",
+        "Índico",
+        "Pacífico",
+        "Ártico"
+      ],
+      "correct": 2,
+      "category": "geografia",
+      "level": "medio"
+    },
+    {
+      "question": "¿Cuál es la capital de Japón?",
+      "answers": [
+        "Kioto",
+        "Osaka",
+        "Tokio",
+        "Nara"
+      ],
+      "correct": 2,
+      "category": "geografia",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué río pasa por Londres? (2)",
+      "answers": [
+        "Sena",
+        "Támesis",
+        "Danubio",
+        "Tíber"
+      ],
+      "correct": 1,
+      "category": "geografia",
+      "level": "medio"
+    },
+    {
+      "question": "¿Cuál es la capital de Canadá? (2)",
+      "answers": [
+        "Toronto",
+        "Ottawa",
+        "Montreal",
+        "Vancouver"
+      ],
+      "correct": 1,
+      "category": "geografia",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué cordillera está en Sudamérica? (2)",
+      "answers": [
+        "Alpes",
+        "Andes",
+        "Urales",
+        "Pirineos"
+      ],
+      "correct": 1,
+      "category": "geografia",
+      "level": "medio"
+    },
+    {
+      "question": "¿En qué océano está Hawái? (2)",
+      "answers": [
+        "Atlántico",
+        "Índico",
+        "Pacífico",
+        "Ártico"
+      ],
+      "correct": 2,
+      "category": "geografia",
+      "level": "medio"
+    },
+    {
+      "question": "¿Cuál es la capital de Japón? (2)",
+      "answers": [
+        "Kioto",
+        "Osaka",
+        "Tokio",
+        "Nara"
+      ],
+      "correct": 2,
+      "category": "geografia",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué río pasa por Londres? (3)",
+      "answers": [
+        "Sena",
+        "Támesis",
+        "Danubio",
+        "Tíber"
+      ],
+      "correct": 1,
+      "category": "geografia",
+      "level": "medio"
+    },
+    {
+      "question": "¿Cuál es la capital de Canadá? (3)",
+      "answers": [
+        "Toronto",
+        "Ottawa",
+        "Montreal",
+        "Vancouver"
+      ],
+      "correct": 1,
+      "category": "geografia",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué cordillera está en Sudamérica? (3)",
+      "answers": [
+        "Alpes",
+        "Andes",
+        "Urales",
+        "Pirineos"
+      ],
+      "correct": 1,
+      "category": "geografia",
+      "level": "medio"
+    },
+    {
+      "question": "¿En qué océano está Hawái? (3)",
+      "answers": [
+        "Atlántico",
+        "Índico",
+        "Pacífico",
+        "Ártico"
+      ],
+      "correct": 2,
+      "category": "geografia",
+      "level": "medio"
+    },
+    {
+      "question": "¿Cuál es la capital de Japón? (3)",
+      "answers": [
+        "Kioto",
+        "Osaka",
+        "Tokio",
+        "Nara"
+      ],
+      "correct": 2,
+      "category": "geografia",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué río pasa por Londres? (4)",
+      "answers": [
+        "Sena",
+        "Támesis",
+        "Danubio",
+        "Tíber"
+      ],
+      "correct": 1,
+      "category": "geografia",
+      "level": "medio"
+    },
+    {
+      "question": "¿Cuál es la capital de Canadá? (4)",
+      "answers": [
+        "Toronto",
+        "Ottawa",
+        "Montreal",
+        "Vancouver"
+      ],
+      "correct": 1,
+      "category": "geografia",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué cordillera está en Sudamérica? (4)",
+      "answers": [
+        "Alpes",
+        "Andes",
+        "Urales",
+        "Pirineos"
+      ],
+      "correct": 1,
+      "category": "geografia",
+      "level": "medio"
+    },
+    {
+      "question": "¿En qué océano está Hawái? (4)",
+      "answers": [
+        "Atlántico",
+        "Índico",
+        "Pacífico",
+        "Ártico"
+      ],
+      "correct": 2,
+      "category": "geografia",
+      "level": "medio"
+    },
+    {
+      "question": "¿Cuál es la capital de Japón? (4)",
+      "answers": [
+        "Kioto",
+        "Osaka",
+        "Tokio",
+        "Nara"
+      ],
+      "correct": 2,
+      "category": "geografia",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué río pasa por Londres? (5)",
+      "answers": [
+        "Sena",
+        "Támesis",
+        "Danubio",
+        "Tíber"
+      ],
+      "correct": 1,
+      "category": "geografia",
+      "level": "medio"
+    },
+    {
+      "question": "¿Cuál es la capital de Canadá? (5)",
+      "answers": [
+        "Toronto",
+        "Ottawa",
+        "Montreal",
+        "Vancouver"
+      ],
+      "correct": 1,
+      "category": "geografia",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué cordillera está en Sudamérica? (5)",
+      "answers": [
+        "Alpes",
+        "Andes",
+        "Urales",
+        "Pirineos"
+      ],
+      "correct": 1,
+      "category": "geografia",
+      "level": "medio"
+    },
+    {
+      "question": "¿En qué océano está Hawái? (5)",
+      "answers": [
+        "Atlántico",
+        "Índico",
+        "Pacífico",
+        "Ártico"
+      ],
+      "correct": 2,
+      "category": "geografia",
+      "level": "medio"
+    },
+    {
+      "question": "¿Cuál es la capital de Japón? (5)",
+      "answers": [
+        "Kioto",
+        "Osaka",
+        "Tokio",
+        "Nara"
+      ],
+      "correct": 2,
+      "category": "geografia",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué río pasa por Londres? (6)",
+      "answers": [
+        "Sena",
+        "Támesis",
+        "Danubio",
+        "Tíber"
+      ],
+      "correct": 1,
+      "category": "geografia",
+      "level": "medio"
+    },
+    {
+      "question": "¿Cuál es la capital de Canadá? (6)",
+      "answers": [
+        "Toronto",
+        "Ottawa",
+        "Montreal",
+        "Vancouver"
+      ],
+      "correct": 1,
+      "category": "geografia",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué cordillera está en Sudamérica? (6)",
+      "answers": [
+        "Alpes",
+        "Andes",
+        "Urales",
+        "Pirineos"
+      ],
+      "correct": 1,
+      "category": "geografia",
+      "level": "medio"
+    },
+    {
+      "question": "¿En qué océano está Hawái? (6)",
+      "answers": [
+        "Atlántico",
+        "Índico",
+        "Pacífico",
+        "Ártico"
+      ],
+      "correct": 2,
+      "category": "geografia",
+      "level": "medio"
+    },
+    {
+      "question": "¿Cuál es la capital de Japón? (6)",
+      "answers": [
+        "Kioto",
+        "Osaka",
+        "Tokio",
+        "Nara"
+      ],
+      "correct": 2,
+      "category": "geografia",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué río pasa por Londres? (7)",
+      "answers": [
+        "Sena",
+        "Támesis",
+        "Danubio",
+        "Tíber"
+      ],
+      "correct": 1,
+      "category": "geografia",
+      "level": "medio"
+    },
+    {
+      "question": "¿Cuál es la capital de Canadá? (7)",
+      "answers": [
+        "Toronto",
+        "Ottawa",
+        "Montreal",
+        "Vancouver"
+      ],
+      "correct": 1,
+      "category": "geografia",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué cordillera está en Sudamérica? (7)",
+      "answers": [
+        "Alpes",
+        "Andes",
+        "Urales",
+        "Pirineos"
+      ],
+      "correct": 1,
+      "category": "geografia",
+      "level": "medio"
+    },
+    {
+      "question": "¿En qué océano está Hawái? (7)",
+      "answers": [
+        "Atlántico",
+        "Índico",
+        "Pacífico",
+        "Ártico"
+      ],
+      "correct": 2,
+      "category": "geografia",
+      "level": "medio"
+    },
+    {
+      "question": "¿Cuál es la capital de Japón? (7)",
+      "answers": [
+        "Kioto",
+        "Osaka",
+        "Tokio",
+        "Nara"
+      ],
+      "correct": 2,
+      "category": "geografia",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué río pasa por Londres? (8)",
+      "answers": [
+        "Sena",
+        "Támesis",
+        "Danubio",
+        "Tíber"
+      ],
+      "correct": 1,
+      "category": "geografia",
+      "level": "medio"
+    },
+    {
+      "question": "¿Cuál es la capital de Canadá? (8)",
+      "answers": [
+        "Toronto",
+        "Ottawa",
+        "Montreal",
+        "Vancouver"
+      ],
+      "correct": 1,
+      "category": "geografia",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué cordillera está en Sudamérica? (8)",
+      "answers": [
+        "Alpes",
+        "Andes",
+        "Urales",
+        "Pirineos"
+      ],
+      "correct": 1,
+      "category": "geografia",
+      "level": "medio"
+    },
+    {
+      "question": "¿En qué océano está Hawái? (8)",
+      "answers": [
+        "Atlántico",
+        "Índico",
+        "Pacífico",
+        "Ártico"
+      ],
+      "correct": 2,
+      "category": "geografia",
+      "level": "medio"
+    },
+    {
+      "question": "¿Cuál es la capital de Japón? (8)",
+      "answers": [
+        "Kioto",
+        "Osaka",
+        "Tokio",
+        "Nara"
+      ],
+      "correct": 2,
+      "category": "geografia",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué río pasa por Londres? (9)",
+      "answers": [
+        "Sena",
+        "Támesis",
+        "Danubio",
+        "Tíber"
+      ],
+      "correct": 1,
+      "category": "geografia",
+      "level": "medio"
+    },
+    {
+      "question": "¿Cuál es la capital de Canadá? (9)",
+      "answers": [
+        "Toronto",
+        "Ottawa",
+        "Montreal",
+        "Vancouver"
+      ],
+      "correct": 1,
+      "category": "geografia",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué cordillera está en Sudamérica? (9)",
+      "answers": [
+        "Alpes",
+        "Andes",
+        "Urales",
+        "Pirineos"
+      ],
+      "correct": 1,
+      "category": "geografia",
+      "level": "medio"
+    },
+    {
+      "question": "¿En qué océano está Hawái? (9)",
+      "answers": [
+        "Atlántico",
+        "Índico",
+        "Pacífico",
+        "Ártico"
+      ],
+      "correct": 2,
+      "category": "geografia",
+      "level": "medio"
+    },
+    {
+      "question": "¿Cuál es la capital de Japón? (9)",
+      "answers": [
+        "Kioto",
+        "Osaka",
+        "Tokio",
+        "Nara"
+      ],
+      "correct": 2,
+      "category": "geografia",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué río pasa por Londres? (10)",
+      "answers": [
+        "Sena",
+        "Támesis",
+        "Danubio",
+        "Tíber"
+      ],
+      "correct": 1,
+      "category": "geografia",
+      "level": "medio"
+    },
+    {
+      "question": "¿Cuál es la capital de Canadá? (10)",
+      "answers": [
+        "Toronto",
+        "Ottawa",
+        "Montreal",
+        "Vancouver"
+      ],
+      "correct": 1,
+      "category": "geografia",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué cordillera está en Sudamérica? (10)",
+      "answers": [
+        "Alpes",
+        "Andes",
+        "Urales",
+        "Pirineos"
+      ],
+      "correct": 1,
+      "category": "geografia",
+      "level": "medio"
+    },
+    {
+      "question": "¿En qué océano está Hawái? (10)",
+      "answers": [
+        "Atlántico",
+        "Índico",
+        "Pacífico",
+        "Ártico"
+      ],
+      "correct": 2,
+      "category": "geografia",
+      "level": "medio"
+    },
+    {
+      "question": "¿Cuál es la capital de Japón? (10)",
+      "answers": [
+        "Kioto",
+        "Osaka",
+        "Tokio",
+        "Nara"
+      ],
+      "correct": 2,
+      "category": "geografia",
+      "level": "medio"
+    }
+  ],
+  "ciencia": [
+    {
+      "question": "¿Cuál es el órgano que bombea la sangre?",
+      "answers": [
+        "Pulmón",
+        "Corazón",
+        "Hígado",
+        "Riñón"
+      ],
+      "correct": 1,
+      "category": "ciencia",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué gas absorben las plantas?",
+      "answers": [
+        "Oxígeno",
+        "CO2",
+        "Helio",
+        "Hidrógeno"
+      ],
+      "correct": 1,
+      "category": "ciencia",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué planeta tiene anillos muy visibles?",
+      "answers": [
+        "Marte",
+        "Saturno",
+        "Mercurio",
+        "Venus"
+      ],
+      "correct": 1,
+      "category": "ciencia",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué tipo de animal es una rana?",
+      "answers": [
+        "Mamífero",
+        "Anfibio",
+        "Ave",
+        "Reptil"
+      ],
+      "correct": 1,
+      "category": "ciencia",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué metal es líquido a temperatura ambiente?",
+      "answers": [
+        "Oro",
+        "Mercurio",
+        "Plata",
+        "Hierro"
+      ],
+      "correct": 1,
+      "category": "ciencia",
+      "level": "medio"
+    },
+    {
+      "question": "¿Cuál es el órgano que bombea la sangre? (2)",
+      "answers": [
+        "Pulmón",
+        "Corazón",
+        "Hígado",
+        "Riñón"
+      ],
+      "correct": 1,
+      "category": "ciencia",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué gas absorben las plantas? (2)",
+      "answers": [
+        "Oxígeno",
+        "CO2",
+        "Helio",
+        "Hidrógeno"
+      ],
+      "correct": 1,
+      "category": "ciencia",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué planeta tiene anillos muy visibles? (2)",
+      "answers": [
+        "Marte",
+        "Saturno",
+        "Mercurio",
+        "Venus"
+      ],
+      "correct": 1,
+      "category": "ciencia",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué tipo de animal es una rana? (2)",
+      "answers": [
+        "Mamífero",
+        "Anfibio",
+        "Ave",
+        "Reptil"
+      ],
+      "correct": 1,
+      "category": "ciencia",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué metal es líquido a temperatura ambiente? (2)",
+      "answers": [
+        "Oro",
+        "Mercurio",
+        "Plata",
+        "Hierro"
+      ],
+      "correct": 1,
+      "category": "ciencia",
+      "level": "medio"
+    },
+    {
+      "question": "¿Cuál es el órgano que bombea la sangre? (3)",
+      "answers": [
+        "Pulmón",
+        "Corazón",
+        "Hígado",
+        "Riñón"
+      ],
+      "correct": 1,
+      "category": "ciencia",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué gas absorben las plantas? (3)",
+      "answers": [
+        "Oxígeno",
+        "CO2",
+        "Helio",
+        "Hidrógeno"
+      ],
+      "correct": 1,
+      "category": "ciencia",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué planeta tiene anillos muy visibles? (3)",
+      "answers": [
+        "Marte",
+        "Saturno",
+        "Mercurio",
+        "Venus"
+      ],
+      "correct": 1,
+      "category": "ciencia",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué tipo de animal es una rana? (3)",
+      "answers": [
+        "Mamífero",
+        "Anfibio",
+        "Ave",
+        "Reptil"
+      ],
+      "correct": 1,
+      "category": "ciencia",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué metal es líquido a temperatura ambiente? (3)",
+      "answers": [
+        "Oro",
+        "Mercurio",
+        "Plata",
+        "Hierro"
+      ],
+      "correct": 1,
+      "category": "ciencia",
+      "level": "medio"
+    },
+    {
+      "question": "¿Cuál es el órgano que bombea la sangre? (4)",
+      "answers": [
+        "Pulmón",
+        "Corazón",
+        "Hígado",
+        "Riñón"
+      ],
+      "correct": 1,
+      "category": "ciencia",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué gas absorben las plantas? (4)",
+      "answers": [
+        "Oxígeno",
+        "CO2",
+        "Helio",
+        "Hidrógeno"
+      ],
+      "correct": 1,
+      "category": "ciencia",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué planeta tiene anillos muy visibles? (4)",
+      "answers": [
+        "Marte",
+        "Saturno",
+        "Mercurio",
+        "Venus"
+      ],
+      "correct": 1,
+      "category": "ciencia",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué tipo de animal es una rana? (4)",
+      "answers": [
+        "Mamífero",
+        "Anfibio",
+        "Ave",
+        "Reptil"
+      ],
+      "correct": 1,
+      "category": "ciencia",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué metal es líquido a temperatura ambiente? (4)",
+      "answers": [
+        "Oro",
+        "Mercurio",
+        "Plata",
+        "Hierro"
+      ],
+      "correct": 1,
+      "category": "ciencia",
+      "level": "medio"
+    },
+    {
+      "question": "¿Cuál es el órgano que bombea la sangre? (5)",
+      "answers": [
+        "Pulmón",
+        "Corazón",
+        "Hígado",
+        "Riñón"
+      ],
+      "correct": 1,
+      "category": "ciencia",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué gas absorben las plantas? (5)",
+      "answers": [
+        "Oxígeno",
+        "CO2",
+        "Helio",
+        "Hidrógeno"
+      ],
+      "correct": 1,
+      "category": "ciencia",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué planeta tiene anillos muy visibles? (5)",
+      "answers": [
+        "Marte",
+        "Saturno",
+        "Mercurio",
+        "Venus"
+      ],
+      "correct": 1,
+      "category": "ciencia",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué tipo de animal es una rana? (5)",
+      "answers": [
+        "Mamífero",
+        "Anfibio",
+        "Ave",
+        "Reptil"
+      ],
+      "correct": 1,
+      "category": "ciencia",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué metal es líquido a temperatura ambiente? (5)",
+      "answers": [
+        "Oro",
+        "Mercurio",
+        "Plata",
+        "Hierro"
+      ],
+      "correct": 1,
+      "category": "ciencia",
+      "level": "medio"
+    },
+    {
+      "question": "¿Cuál es el órgano que bombea la sangre? (6)",
+      "answers": [
+        "Pulmón",
+        "Corazón",
+        "Hígado",
+        "Riñón"
+      ],
+      "correct": 1,
+      "category": "ciencia",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué gas absorben las plantas? (6)",
+      "answers": [
+        "Oxígeno",
+        "CO2",
+        "Helio",
+        "Hidrógeno"
+      ],
+      "correct": 1,
+      "category": "ciencia",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué planeta tiene anillos muy visibles? (6)",
+      "answers": [
+        "Marte",
+        "Saturno",
+        "Mercurio",
+        "Venus"
+      ],
+      "correct": 1,
+      "category": "ciencia",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué tipo de animal es una rana? (6)",
+      "answers": [
+        "Mamífero",
+        "Anfibio",
+        "Ave",
+        "Reptil"
+      ],
+      "correct": 1,
+      "category": "ciencia",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué metal es líquido a temperatura ambiente? (6)",
+      "answers": [
+        "Oro",
+        "Mercurio",
+        "Plata",
+        "Hierro"
+      ],
+      "correct": 1,
+      "category": "ciencia",
+      "level": "medio"
+    },
+    {
+      "question": "¿Cuál es el órgano que bombea la sangre? (7)",
+      "answers": [
+        "Pulmón",
+        "Corazón",
+        "Hígado",
+        "Riñón"
+      ],
+      "correct": 1,
+      "category": "ciencia",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué gas absorben las plantas? (7)",
+      "answers": [
+        "Oxígeno",
+        "CO2",
+        "Helio",
+        "Hidrógeno"
+      ],
+      "correct": 1,
+      "category": "ciencia",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué planeta tiene anillos muy visibles? (7)",
+      "answers": [
+        "Marte",
+        "Saturno",
+        "Mercurio",
+        "Venus"
+      ],
+      "correct": 1,
+      "category": "ciencia",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué tipo de animal es una rana? (7)",
+      "answers": [
+        "Mamífero",
+        "Anfibio",
+        "Ave",
+        "Reptil"
+      ],
+      "correct": 1,
+      "category": "ciencia",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué metal es líquido a temperatura ambiente? (7)",
+      "answers": [
+        "Oro",
+        "Mercurio",
+        "Plata",
+        "Hierro"
+      ],
+      "correct": 1,
+      "category": "ciencia",
+      "level": "medio"
+    },
+    {
+      "question": "¿Cuál es el órgano que bombea la sangre? (8)",
+      "answers": [
+        "Pulmón",
+        "Corazón",
+        "Hígado",
+        "Riñón"
+      ],
+      "correct": 1,
+      "category": "ciencia",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué gas absorben las plantas? (8)",
+      "answers": [
+        "Oxígeno",
+        "CO2",
+        "Helio",
+        "Hidrógeno"
+      ],
+      "correct": 1,
+      "category": "ciencia",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué planeta tiene anillos muy visibles? (8)",
+      "answers": [
+        "Marte",
+        "Saturno",
+        "Mercurio",
+        "Venus"
+      ],
+      "correct": 1,
+      "category": "ciencia",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué tipo de animal es una rana? (8)",
+      "answers": [
+        "Mamífero",
+        "Anfibio",
+        "Ave",
+        "Reptil"
+      ],
+      "correct": 1,
+      "category": "ciencia",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué metal es líquido a temperatura ambiente? (8)",
+      "answers": [
+        "Oro",
+        "Mercurio",
+        "Plata",
+        "Hierro"
+      ],
+      "correct": 1,
+      "category": "ciencia",
+      "level": "medio"
+    },
+    {
+      "question": "¿Cuál es el órgano que bombea la sangre? (9)",
+      "answers": [
+        "Pulmón",
+        "Corazón",
+        "Hígado",
+        "Riñón"
+      ],
+      "correct": 1,
+      "category": "ciencia",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué gas absorben las plantas? (9)",
+      "answers": [
+        "Oxígeno",
+        "CO2",
+        "Helio",
+        "Hidrógeno"
+      ],
+      "correct": 1,
+      "category": "ciencia",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué planeta tiene anillos muy visibles? (9)",
+      "answers": [
+        "Marte",
+        "Saturno",
+        "Mercurio",
+        "Venus"
+      ],
+      "correct": 1,
+      "category": "ciencia",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué tipo de animal es una rana? (9)",
+      "answers": [
+        "Mamífero",
+        "Anfibio",
+        "Ave",
+        "Reptil"
+      ],
+      "correct": 1,
+      "category": "ciencia",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué metal es líquido a temperatura ambiente? (9)",
+      "answers": [
+        "Oro",
+        "Mercurio",
+        "Plata",
+        "Hierro"
+      ],
+      "correct": 1,
+      "category": "ciencia",
+      "level": "medio"
+    },
+    {
+      "question": "¿Cuál es el órgano que bombea la sangre? (10)",
+      "answers": [
+        "Pulmón",
+        "Corazón",
+        "Hígado",
+        "Riñón"
+      ],
+      "correct": 1,
+      "category": "ciencia",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué gas absorben las plantas? (10)",
+      "answers": [
+        "Oxígeno",
+        "CO2",
+        "Helio",
+        "Hidrógeno"
+      ],
+      "correct": 1,
+      "category": "ciencia",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué planeta tiene anillos muy visibles? (10)",
+      "answers": [
+        "Marte",
+        "Saturno",
+        "Mercurio",
+        "Venus"
+      ],
+      "correct": 1,
+      "category": "ciencia",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué tipo de animal es una rana? (10)",
+      "answers": [
+        "Mamífero",
+        "Anfibio",
+        "Ave",
+        "Reptil"
+      ],
+      "correct": 1,
+      "category": "ciencia",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué metal es líquido a temperatura ambiente? (10)",
+      "answers": [
+        "Oro",
+        "Mercurio",
+        "Plata",
+        "Hierro"
+      ],
+      "correct": 1,
+      "category": "ciencia",
+      "level": "medio"
+    }
+  ],
+  "historia": [
+    {
+      "question": "¿Qué imperio tenía su capital en Roma?",
+      "answers": [
+        "Romano",
+        "Persa",
+        "Bizantino",
+        "Inca"
+      ],
+      "correct": 0,
+      "category": "historia",
+      "level": "medio"
+    },
+    {
+      "question": "¿Quién fue Napoleón?",
+      "answers": [
+        "Pintor",
+        "Emperador francés",
+        "Astrónomo",
+        "Explorador"
+      ],
+      "correct": 1,
+      "category": "historia",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué civilización construyó Machu Picchu?",
+      "answers": [
+        "Maya",
+        "Inca",
+        "Azteca",
+        "Olmeca"
+      ],
+      "correct": 1,
+      "category": "historia",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué barco famoso se hundió en 1912?",
+      "answers": [
+        "Mayflower",
+        "Titanic",
+        "Bismarck",
+        "Endeavour"
+      ],
+      "correct": 1,
+      "category": "historia",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué reina de Egipto es muy famosa?",
+      "answers": [
+        "Victoria",
+        "Cleopatra",
+        "Isabel I",
+        "Catalina"
+      ],
+      "correct": 1,
+      "category": "historia",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué imperio tenía su capital en Roma? (2)",
+      "answers": [
+        "Romano",
+        "Persa",
+        "Bizantino",
+        "Inca"
+      ],
+      "correct": 0,
+      "category": "historia",
+      "level": "medio"
+    },
+    {
+      "question": "¿Quién fue Napoleón? (2)",
+      "answers": [
+        "Pintor",
+        "Emperador francés",
+        "Astrónomo",
+        "Explorador"
+      ],
+      "correct": 1,
+      "category": "historia",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué civilización construyó Machu Picchu? (2)",
+      "answers": [
+        "Maya",
+        "Inca",
+        "Azteca",
+        "Olmeca"
+      ],
+      "correct": 1,
+      "category": "historia",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué barco famoso se hundió en 1912? (2)",
+      "answers": [
+        "Mayflower",
+        "Titanic",
+        "Bismarck",
+        "Endeavour"
+      ],
+      "correct": 1,
+      "category": "historia",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué reina de Egipto es muy famosa? (2)",
+      "answers": [
+        "Victoria",
+        "Cleopatra",
+        "Isabel I",
+        "Catalina"
+      ],
+      "correct": 1,
+      "category": "historia",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué imperio tenía su capital en Roma? (3)",
+      "answers": [
+        "Romano",
+        "Persa",
+        "Bizantino",
+        "Inca"
+      ],
+      "correct": 0,
+      "category": "historia",
+      "level": "medio"
+    },
+    {
+      "question": "¿Quién fue Napoleón? (3)",
+      "answers": [
+        "Pintor",
+        "Emperador francés",
+        "Astrónomo",
+        "Explorador"
+      ],
+      "correct": 1,
+      "category": "historia",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué civilización construyó Machu Picchu? (3)",
+      "answers": [
+        "Maya",
+        "Inca",
+        "Azteca",
+        "Olmeca"
+      ],
+      "correct": 1,
+      "category": "historia",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué barco famoso se hundió en 1912? (3)",
+      "answers": [
+        "Mayflower",
+        "Titanic",
+        "Bismarck",
+        "Endeavour"
+      ],
+      "correct": 1,
+      "category": "historia",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué reina de Egipto es muy famosa? (3)",
+      "answers": [
+        "Victoria",
+        "Cleopatra",
+        "Isabel I",
+        "Catalina"
+      ],
+      "correct": 1,
+      "category": "historia",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué imperio tenía su capital en Roma? (4)",
+      "answers": [
+        "Romano",
+        "Persa",
+        "Bizantino",
+        "Inca"
+      ],
+      "correct": 0,
+      "category": "historia",
+      "level": "medio"
+    },
+    {
+      "question": "¿Quién fue Napoleón? (4)",
+      "answers": [
+        "Pintor",
+        "Emperador francés",
+        "Astrónomo",
+        "Explorador"
+      ],
+      "correct": 1,
+      "category": "historia",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué civilización construyó Machu Picchu? (4)",
+      "answers": [
+        "Maya",
+        "Inca",
+        "Azteca",
+        "Olmeca"
+      ],
+      "correct": 1,
+      "category": "historia",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué barco famoso se hundió en 1912? (4)",
+      "answers": [
+        "Mayflower",
+        "Titanic",
+        "Bismarck",
+        "Endeavour"
+      ],
+      "correct": 1,
+      "category": "historia",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué reina de Egipto es muy famosa? (4)",
+      "answers": [
+        "Victoria",
+        "Cleopatra",
+        "Isabel I",
+        "Catalina"
+      ],
+      "correct": 1,
+      "category": "historia",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué imperio tenía su capital en Roma? (5)",
+      "answers": [
+        "Romano",
+        "Persa",
+        "Bizantino",
+        "Inca"
+      ],
+      "correct": 0,
+      "category": "historia",
+      "level": "medio"
+    },
+    {
+      "question": "¿Quién fue Napoleón? (5)",
+      "answers": [
+        "Pintor",
+        "Emperador francés",
+        "Astrónomo",
+        "Explorador"
+      ],
+      "correct": 1,
+      "category": "historia",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué civilización construyó Machu Picchu? (5)",
+      "answers": [
+        "Maya",
+        "Inca",
+        "Azteca",
+        "Olmeca"
+      ],
+      "correct": 1,
+      "category": "historia",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué barco famoso se hundió en 1912? (5)",
+      "answers": [
+        "Mayflower",
+        "Titanic",
+        "Bismarck",
+        "Endeavour"
+      ],
+      "correct": 1,
+      "category": "historia",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué reina de Egipto es muy famosa? (5)",
+      "answers": [
+        "Victoria",
+        "Cleopatra",
+        "Isabel I",
+        "Catalina"
+      ],
+      "correct": 1,
+      "category": "historia",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué imperio tenía su capital en Roma? (6)",
+      "answers": [
+        "Romano",
+        "Persa",
+        "Bizantino",
+        "Inca"
+      ],
+      "correct": 0,
+      "category": "historia",
+      "level": "medio"
+    },
+    {
+      "question": "¿Quién fue Napoleón? (6)",
+      "answers": [
+        "Pintor",
+        "Emperador francés",
+        "Astrónomo",
+        "Explorador"
+      ],
+      "correct": 1,
+      "category": "historia",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué civilización construyó Machu Picchu? (6)",
+      "answers": [
+        "Maya",
+        "Inca",
+        "Azteca",
+        "Olmeca"
+      ],
+      "correct": 1,
+      "category": "historia",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué barco famoso se hundió en 1912? (6)",
+      "answers": [
+        "Mayflower",
+        "Titanic",
+        "Bismarck",
+        "Endeavour"
+      ],
+      "correct": 1,
+      "category": "historia",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué reina de Egipto es muy famosa? (6)",
+      "answers": [
+        "Victoria",
+        "Cleopatra",
+        "Isabel I",
+        "Catalina"
+      ],
+      "correct": 1,
+      "category": "historia",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué imperio tenía su capital en Roma? (7)",
+      "answers": [
+        "Romano",
+        "Persa",
+        "Bizantino",
+        "Inca"
+      ],
+      "correct": 0,
+      "category": "historia",
+      "level": "medio"
+    },
+    {
+      "question": "¿Quién fue Napoleón? (7)",
+      "answers": [
+        "Pintor",
+        "Emperador francés",
+        "Astrónomo",
+        "Explorador"
+      ],
+      "correct": 1,
+      "category": "historia",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué civilización construyó Machu Picchu? (7)",
+      "answers": [
+        "Maya",
+        "Inca",
+        "Azteca",
+        "Olmeca"
+      ],
+      "correct": 1,
+      "category": "historia",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué barco famoso se hundió en 1912? (7)",
+      "answers": [
+        "Mayflower",
+        "Titanic",
+        "Bismarck",
+        "Endeavour"
+      ],
+      "correct": 1,
+      "category": "historia",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué reina de Egipto es muy famosa? (7)",
+      "answers": [
+        "Victoria",
+        "Cleopatra",
+        "Isabel I",
+        "Catalina"
+      ],
+      "correct": 1,
+      "category": "historia",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué imperio tenía su capital en Roma? (8)",
+      "answers": [
+        "Romano",
+        "Persa",
+        "Bizantino",
+        "Inca"
+      ],
+      "correct": 0,
+      "category": "historia",
+      "level": "medio"
+    },
+    {
+      "question": "¿Quién fue Napoleón? (8)",
+      "answers": [
+        "Pintor",
+        "Emperador francés",
+        "Astrónomo",
+        "Explorador"
+      ],
+      "correct": 1,
+      "category": "historia",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué civilización construyó Machu Picchu? (8)",
+      "answers": [
+        "Maya",
+        "Inca",
+        "Azteca",
+        "Olmeca"
+      ],
+      "correct": 1,
+      "category": "historia",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué barco famoso se hundió en 1912? (8)",
+      "answers": [
+        "Mayflower",
+        "Titanic",
+        "Bismarck",
+        "Endeavour"
+      ],
+      "correct": 1,
+      "category": "historia",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué reina de Egipto es muy famosa? (8)",
+      "answers": [
+        "Victoria",
+        "Cleopatra",
+        "Isabel I",
+        "Catalina"
+      ],
+      "correct": 1,
+      "category": "historia",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué imperio tenía su capital en Roma? (9)",
+      "answers": [
+        "Romano",
+        "Persa",
+        "Bizantino",
+        "Inca"
+      ],
+      "correct": 0,
+      "category": "historia",
+      "level": "medio"
+    },
+    {
+      "question": "¿Quién fue Napoleón? (9)",
+      "answers": [
+        "Pintor",
+        "Emperador francés",
+        "Astrónomo",
+        "Explorador"
+      ],
+      "correct": 1,
+      "category": "historia",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué civilización construyó Machu Picchu? (9)",
+      "answers": [
+        "Maya",
+        "Inca",
+        "Azteca",
+        "Olmeca"
+      ],
+      "correct": 1,
+      "category": "historia",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué barco famoso se hundió en 1912? (9)",
+      "answers": [
+        "Mayflower",
+        "Titanic",
+        "Bismarck",
+        "Endeavour"
+      ],
+      "correct": 1,
+      "category": "historia",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué reina de Egipto es muy famosa? (9)",
+      "answers": [
+        "Victoria",
+        "Cleopatra",
+        "Isabel I",
+        "Catalina"
+      ],
+      "correct": 1,
+      "category": "historia",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué imperio tenía su capital en Roma? (10)",
+      "answers": [
+        "Romano",
+        "Persa",
+        "Bizantino",
+        "Inca"
+      ],
+      "correct": 0,
+      "category": "historia",
+      "level": "medio"
+    },
+    {
+      "question": "¿Quién fue Napoleón? (10)",
+      "answers": [
+        "Pintor",
+        "Emperador francés",
+        "Astrónomo",
+        "Explorador"
+      ],
+      "correct": 1,
+      "category": "historia",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué civilización construyó Machu Picchu? (10)",
+      "answers": [
+        "Maya",
+        "Inca",
+        "Azteca",
+        "Olmeca"
+      ],
+      "correct": 1,
+      "category": "historia",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué barco famoso se hundió en 1912? (10)",
+      "answers": [
+        "Mayflower",
+        "Titanic",
+        "Bismarck",
+        "Endeavour"
+      ],
+      "correct": 1,
+      "category": "historia",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué reina de Egipto es muy famosa? (10)",
+      "answers": [
+        "Victoria",
+        "Cleopatra",
+        "Isabel I",
+        "Catalina"
+      ],
+      "correct": 1,
+      "category": "historia",
+      "level": "medio"
+    }
+  ],
+  "cine": [
+    {
+      "question": "¿Quién dirigió Titanic?",
+      "answers": [
+        "Spielberg",
+        "Cameron",
+        "Nolan",
+        "Scorsese"
+      ],
+      "correct": 1,
+      "category": "cine",
+      "level": "medio"
+    },
+    {
+      "question": "¿Cómo se llama el parque de dinosaurios de Spielberg?",
+      "answers": [
+        "Jurassic Park",
+        "Dino Land",
+        "Jurassic World",
+        "Isla Dino"
+      ],
+      "correct": 0,
+      "category": "cine",
+      "level": "medio"
+    },
+    {
+      "question": "¿Quién interpreta a Jack Sparrow?",
+      "answers": [
+        "Orlando Bloom",
+        "Johnny Depp",
+        "Tom Cruise",
+        "Brad Pitt"
+      ],
+      "correct": 1,
+      "category": "cine",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué saga incluye a Frodo?",
+      "answers": [
+        "Harry Potter",
+        "Star Wars",
+        "El Señor de los Anillos",
+        "Matrix"
+      ],
+      "correct": 2,
+      "category": "cine",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué película trata de sueños dentro de sueños?",
+      "answers": [
+        "Origen",
+        "Memento",
+        "Avatar",
+        "Gravity"
+      ],
+      "correct": 0,
+      "category": "cine",
+      "level": "medio"
+    },
+    {
+      "question": "¿Quién dirigió Titanic? (2)",
+      "answers": [
+        "Spielberg",
+        "Cameron",
+        "Nolan",
+        "Scorsese"
+      ],
+      "correct": 1,
+      "category": "cine",
+      "level": "medio"
+    },
+    {
+      "question": "¿Cómo se llama el parque de dinosaurios de Spielberg? (2)",
+      "answers": [
+        "Jurassic Park",
+        "Dino Land",
+        "Jurassic World",
+        "Isla Dino"
+      ],
+      "correct": 0,
+      "category": "cine",
+      "level": "medio"
+    },
+    {
+      "question": "¿Quién interpreta a Jack Sparrow? (2)",
+      "answers": [
+        "Orlando Bloom",
+        "Johnny Depp",
+        "Tom Cruise",
+        "Brad Pitt"
+      ],
+      "correct": 1,
+      "category": "cine",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué saga incluye a Frodo? (2)",
+      "answers": [
+        "Harry Potter",
+        "Star Wars",
+        "El Señor de los Anillos",
+        "Matrix"
+      ],
+      "correct": 2,
+      "category": "cine",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué película trata de sueños dentro de sueños? (2)",
+      "answers": [
+        "Origen",
+        "Memento",
+        "Avatar",
+        "Gravity"
+      ],
+      "correct": 0,
+      "category": "cine",
+      "level": "medio"
+    },
+    {
+      "question": "¿Quién dirigió Titanic? (3)",
+      "answers": [
+        "Spielberg",
+        "Cameron",
+        "Nolan",
+        "Scorsese"
+      ],
+      "correct": 1,
+      "category": "cine",
+      "level": "medio"
+    },
+    {
+      "question": "¿Cómo se llama el parque de dinosaurios de Spielberg? (3)",
+      "answers": [
+        "Jurassic Park",
+        "Dino Land",
+        "Jurassic World",
+        "Isla Dino"
+      ],
+      "correct": 0,
+      "category": "cine",
+      "level": "medio"
+    },
+    {
+      "question": "¿Quién interpreta a Jack Sparrow? (3)",
+      "answers": [
+        "Orlando Bloom",
+        "Johnny Depp",
+        "Tom Cruise",
+        "Brad Pitt"
+      ],
+      "correct": 1,
+      "category": "cine",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué saga incluye a Frodo? (3)",
+      "answers": [
+        "Harry Potter",
+        "Star Wars",
+        "El Señor de los Anillos",
+        "Matrix"
+      ],
+      "correct": 2,
+      "category": "cine",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué película trata de sueños dentro de sueños? (3)",
+      "answers": [
+        "Origen",
+        "Memento",
+        "Avatar",
+        "Gravity"
+      ],
+      "correct": 0,
+      "category": "cine",
+      "level": "medio"
+    },
+    {
+      "question": "¿Quién dirigió Titanic? (4)",
+      "answers": [
+        "Spielberg",
+        "Cameron",
+        "Nolan",
+        "Scorsese"
+      ],
+      "correct": 1,
+      "category": "cine",
+      "level": "medio"
+    },
+    {
+      "question": "¿Cómo se llama el parque de dinosaurios de Spielberg? (4)",
+      "answers": [
+        "Jurassic Park",
+        "Dino Land",
+        "Jurassic World",
+        "Isla Dino"
+      ],
+      "correct": 0,
+      "category": "cine",
+      "level": "medio"
+    },
+    {
+      "question": "¿Quién interpreta a Jack Sparrow? (4)",
+      "answers": [
+        "Orlando Bloom",
+        "Johnny Depp",
+        "Tom Cruise",
+        "Brad Pitt"
+      ],
+      "correct": 1,
+      "category": "cine",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué saga incluye a Frodo? (4)",
+      "answers": [
+        "Harry Potter",
+        "Star Wars",
+        "El Señor de los Anillos",
+        "Matrix"
+      ],
+      "correct": 2,
+      "category": "cine",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué película trata de sueños dentro de sueños? (4)",
+      "answers": [
+        "Origen",
+        "Memento",
+        "Avatar",
+        "Gravity"
+      ],
+      "correct": 0,
+      "category": "cine",
+      "level": "medio"
+    },
+    {
+      "question": "¿Quién dirigió Titanic? (5)",
+      "answers": [
+        "Spielberg",
+        "Cameron",
+        "Nolan",
+        "Scorsese"
+      ],
+      "correct": 1,
+      "category": "cine",
+      "level": "medio"
+    },
+    {
+      "question": "¿Cómo se llama el parque de dinosaurios de Spielberg? (5)",
+      "answers": [
+        "Jurassic Park",
+        "Dino Land",
+        "Jurassic World",
+        "Isla Dino"
+      ],
+      "correct": 0,
+      "category": "cine",
+      "level": "medio"
+    },
+    {
+      "question": "¿Quién interpreta a Jack Sparrow? (5)",
+      "answers": [
+        "Orlando Bloom",
+        "Johnny Depp",
+        "Tom Cruise",
+        "Brad Pitt"
+      ],
+      "correct": 1,
+      "category": "cine",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué saga incluye a Frodo? (5)",
+      "answers": [
+        "Harry Potter",
+        "Star Wars",
+        "El Señor de los Anillos",
+        "Matrix"
+      ],
+      "correct": 2,
+      "category": "cine",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué película trata de sueños dentro de sueños? (5)",
+      "answers": [
+        "Origen",
+        "Memento",
+        "Avatar",
+        "Gravity"
+      ],
+      "correct": 0,
+      "category": "cine",
+      "level": "medio"
+    },
+    {
+      "question": "¿Quién dirigió Titanic? (6)",
+      "answers": [
+        "Spielberg",
+        "Cameron",
+        "Nolan",
+        "Scorsese"
+      ],
+      "correct": 1,
+      "category": "cine",
+      "level": "medio"
+    },
+    {
+      "question": "¿Cómo se llama el parque de dinosaurios de Spielberg? (6)",
+      "answers": [
+        "Jurassic Park",
+        "Dino Land",
+        "Jurassic World",
+        "Isla Dino"
+      ],
+      "correct": 0,
+      "category": "cine",
+      "level": "medio"
+    },
+    {
+      "question": "¿Quién interpreta a Jack Sparrow? (6)",
+      "answers": [
+        "Orlando Bloom",
+        "Johnny Depp",
+        "Tom Cruise",
+        "Brad Pitt"
+      ],
+      "correct": 1,
+      "category": "cine",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué saga incluye a Frodo? (6)",
+      "answers": [
+        "Harry Potter",
+        "Star Wars",
+        "El Señor de los Anillos",
+        "Matrix"
+      ],
+      "correct": 2,
+      "category": "cine",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué película trata de sueños dentro de sueños? (6)",
+      "answers": [
+        "Origen",
+        "Memento",
+        "Avatar",
+        "Gravity"
+      ],
+      "correct": 0,
+      "category": "cine",
+      "level": "medio"
+    },
+    {
+      "question": "¿Quién dirigió Titanic? (7)",
+      "answers": [
+        "Spielberg",
+        "Cameron",
+        "Nolan",
+        "Scorsese"
+      ],
+      "correct": 1,
+      "category": "cine",
+      "level": "medio"
+    },
+    {
+      "question": "¿Cómo se llama el parque de dinosaurios de Spielberg? (7)",
+      "answers": [
+        "Jurassic Park",
+        "Dino Land",
+        "Jurassic World",
+        "Isla Dino"
+      ],
+      "correct": 0,
+      "category": "cine",
+      "level": "medio"
+    },
+    {
+      "question": "¿Quién interpreta a Jack Sparrow? (7)",
+      "answers": [
+        "Orlando Bloom",
+        "Johnny Depp",
+        "Tom Cruise",
+        "Brad Pitt"
+      ],
+      "correct": 1,
+      "category": "cine",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué saga incluye a Frodo? (7)",
+      "answers": [
+        "Harry Potter",
+        "Star Wars",
+        "El Señor de los Anillos",
+        "Matrix"
+      ],
+      "correct": 2,
+      "category": "cine",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué película trata de sueños dentro de sueños? (7)",
+      "answers": [
+        "Origen",
+        "Memento",
+        "Avatar",
+        "Gravity"
+      ],
+      "correct": 0,
+      "category": "cine",
+      "level": "medio"
+    },
+    {
+      "question": "¿Quién dirigió Titanic? (8)",
+      "answers": [
+        "Spielberg",
+        "Cameron",
+        "Nolan",
+        "Scorsese"
+      ],
+      "correct": 1,
+      "category": "cine",
+      "level": "medio"
+    },
+    {
+      "question": "¿Cómo se llama el parque de dinosaurios de Spielberg? (8)",
+      "answers": [
+        "Jurassic Park",
+        "Dino Land",
+        "Jurassic World",
+        "Isla Dino"
+      ],
+      "correct": 0,
+      "category": "cine",
+      "level": "medio"
+    },
+    {
+      "question": "¿Quién interpreta a Jack Sparrow? (8)",
+      "answers": [
+        "Orlando Bloom",
+        "Johnny Depp",
+        "Tom Cruise",
+        "Brad Pitt"
+      ],
+      "correct": 1,
+      "category": "cine",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué saga incluye a Frodo? (8)",
+      "answers": [
+        "Harry Potter",
+        "Star Wars",
+        "El Señor de los Anillos",
+        "Matrix"
+      ],
+      "correct": 2,
+      "category": "cine",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué película trata de sueños dentro de sueños? (8)",
+      "answers": [
+        "Origen",
+        "Memento",
+        "Avatar",
+        "Gravity"
+      ],
+      "correct": 0,
+      "category": "cine",
+      "level": "medio"
+    },
+    {
+      "question": "¿Quién dirigió Titanic? (9)",
+      "answers": [
+        "Spielberg",
+        "Cameron",
+        "Nolan",
+        "Scorsese"
+      ],
+      "correct": 1,
+      "category": "cine",
+      "level": "medio"
+    },
+    {
+      "question": "¿Cómo se llama el parque de dinosaurios de Spielberg? (9)",
+      "answers": [
+        "Jurassic Park",
+        "Dino Land",
+        "Jurassic World",
+        "Isla Dino"
+      ],
+      "correct": 0,
+      "category": "cine",
+      "level": "medio"
+    },
+    {
+      "question": "¿Quién interpreta a Jack Sparrow? (9)",
+      "answers": [
+        "Orlando Bloom",
+        "Johnny Depp",
+        "Tom Cruise",
+        "Brad Pitt"
+      ],
+      "correct": 1,
+      "category": "cine",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué saga incluye a Frodo? (9)",
+      "answers": [
+        "Harry Potter",
+        "Star Wars",
+        "El Señor de los Anillos",
+        "Matrix"
+      ],
+      "correct": 2,
+      "category": "cine",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué película trata de sueños dentro de sueños? (9)",
+      "answers": [
+        "Origen",
+        "Memento",
+        "Avatar",
+        "Gravity"
+      ],
+      "correct": 0,
+      "category": "cine",
+      "level": "medio"
+    },
+    {
+      "question": "¿Quién dirigió Titanic? (10)",
+      "answers": [
+        "Spielberg",
+        "Cameron",
+        "Nolan",
+        "Scorsese"
+      ],
+      "correct": 1,
+      "category": "cine",
+      "level": "medio"
+    },
+    {
+      "question": "¿Cómo se llama el parque de dinosaurios de Spielberg? (10)",
+      "answers": [
+        "Jurassic Park",
+        "Dino Land",
+        "Jurassic World",
+        "Isla Dino"
+      ],
+      "correct": 0,
+      "category": "cine",
+      "level": "medio"
+    },
+    {
+      "question": "¿Quién interpreta a Jack Sparrow? (10)",
+      "answers": [
+        "Orlando Bloom",
+        "Johnny Depp",
+        "Tom Cruise",
+        "Brad Pitt"
+      ],
+      "correct": 1,
+      "category": "cine",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué saga incluye a Frodo? (10)",
+      "answers": [
+        "Harry Potter",
+        "Star Wars",
+        "El Señor de los Anillos",
+        "Matrix"
+      ],
+      "correct": 2,
+      "category": "cine",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué película trata de sueños dentro de sueños? (10)",
+      "answers": [
+        "Origen",
+        "Memento",
+        "Avatar",
+        "Gravity"
+      ],
+      "correct": 0,
+      "category": "cine",
+      "level": "medio"
+    }
+  ],
+  "deporte": [
+    {
+      "question": "¿Qué color lleva el maillot del líder en el Tour?",
+      "answers": [
+        "Rojo",
+        "Verde",
+        "Amarillo",
+        "Azul"
+      ],
+      "correct": 2,
+      "category": "deporte",
+      "level": "medio"
+    },
+    {
+      "question": "¿Cuántos sets máximos tiene un Grand Slam masculino?",
+      "answers": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correct": 2,
+      "category": "deporte",
+      "level": "medio"
+    },
+    {
+      "question": "¿En qué deporte se usa un volante?",
+      "answers": [
+        "Pádel",
+        "Tenis",
+        "Bádminton",
+        "Squash"
+      ],
+      "correct": 2,
+      "category": "deporte",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué país ganó el Mundial de fútbol 2010?",
+      "answers": [
+        "Brasil",
+        "España",
+        "Alemania",
+        "Argentina"
+      ],
+      "correct": 1,
+      "category": "deporte",
+      "level": "medio"
+    },
+    {
+      "question": "¿Cuántos jugadores hay por equipo en una pista de baloncesto?",
+      "answers": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "correct": 1,
+      "category": "deporte",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué color lleva el maillot del líder en el Tour? (2)",
+      "answers": [
+        "Rojo",
+        "Verde",
+        "Amarillo",
+        "Azul"
+      ],
+      "correct": 2,
+      "category": "deporte",
+      "level": "medio"
+    },
+    {
+      "question": "¿Cuántos sets máximos tiene un Grand Slam masculino? (2)",
+      "answers": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correct": 2,
+      "category": "deporte",
+      "level": "medio"
+    },
+    {
+      "question": "¿En qué deporte se usa un volante? (2)",
+      "answers": [
+        "Pádel",
+        "Tenis",
+        "Bádminton",
+        "Squash"
+      ],
+      "correct": 2,
+      "category": "deporte",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué país ganó el Mundial de fútbol 2010? (2)",
+      "answers": [
+        "Brasil",
+        "España",
+        "Alemania",
+        "Argentina"
+      ],
+      "correct": 1,
+      "category": "deporte",
+      "level": "medio"
+    },
+    {
+      "question": "¿Cuántos jugadores hay por equipo en una pista de baloncesto? (2)",
+      "answers": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "correct": 1,
+      "category": "deporte",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué color lleva el maillot del líder en el Tour? (3)",
+      "answers": [
+        "Rojo",
+        "Verde",
+        "Amarillo",
+        "Azul"
+      ],
+      "correct": 2,
+      "category": "deporte",
+      "level": "medio"
+    },
+    {
+      "question": "¿Cuántos sets máximos tiene un Grand Slam masculino? (3)",
+      "answers": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correct": 2,
+      "category": "deporte",
+      "level": "medio"
+    },
+    {
+      "question": "¿En qué deporte se usa un volante? (3)",
+      "answers": [
+        "Pádel",
+        "Tenis",
+        "Bádminton",
+        "Squash"
+      ],
+      "correct": 2,
+      "category": "deporte",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué país ganó el Mundial de fútbol 2010? (3)",
+      "answers": [
+        "Brasil",
+        "España",
+        "Alemania",
+        "Argentina"
+      ],
+      "correct": 1,
+      "category": "deporte",
+      "level": "medio"
+    },
+    {
+      "question": "¿Cuántos jugadores hay por equipo en una pista de baloncesto? (3)",
+      "answers": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "correct": 1,
+      "category": "deporte",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué color lleva el maillot del líder en el Tour? (4)",
+      "answers": [
+        "Rojo",
+        "Verde",
+        "Amarillo",
+        "Azul"
+      ],
+      "correct": 2,
+      "category": "deporte",
+      "level": "medio"
+    },
+    {
+      "question": "¿Cuántos sets máximos tiene un Grand Slam masculino? (4)",
+      "answers": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correct": 2,
+      "category": "deporte",
+      "level": "medio"
+    },
+    {
+      "question": "¿En qué deporte se usa un volante? (4)",
+      "answers": [
+        "Pádel",
+        "Tenis",
+        "Bádminton",
+        "Squash"
+      ],
+      "correct": 2,
+      "category": "deporte",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué país ganó el Mundial de fútbol 2010? (4)",
+      "answers": [
+        "Brasil",
+        "España",
+        "Alemania",
+        "Argentina"
+      ],
+      "correct": 1,
+      "category": "deporte",
+      "level": "medio"
+    },
+    {
+      "question": "¿Cuántos jugadores hay por equipo en una pista de baloncesto? (4)",
+      "answers": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "correct": 1,
+      "category": "deporte",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué color lleva el maillot del líder en el Tour? (5)",
+      "answers": [
+        "Rojo",
+        "Verde",
+        "Amarillo",
+        "Azul"
+      ],
+      "correct": 2,
+      "category": "deporte",
+      "level": "medio"
+    },
+    {
+      "question": "¿Cuántos sets máximos tiene un Grand Slam masculino? (5)",
+      "answers": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correct": 2,
+      "category": "deporte",
+      "level": "medio"
+    },
+    {
+      "question": "¿En qué deporte se usa un volante? (5)",
+      "answers": [
+        "Pádel",
+        "Tenis",
+        "Bádminton",
+        "Squash"
+      ],
+      "correct": 2,
+      "category": "deporte",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué país ganó el Mundial de fútbol 2010? (5)",
+      "answers": [
+        "Brasil",
+        "España",
+        "Alemania",
+        "Argentina"
+      ],
+      "correct": 1,
+      "category": "deporte",
+      "level": "medio"
+    },
+    {
+      "question": "¿Cuántos jugadores hay por equipo en una pista de baloncesto? (5)",
+      "answers": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "correct": 1,
+      "category": "deporte",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué color lleva el maillot del líder en el Tour? (6)",
+      "answers": [
+        "Rojo",
+        "Verde",
+        "Amarillo",
+        "Azul"
+      ],
+      "correct": 2,
+      "category": "deporte",
+      "level": "medio"
+    },
+    {
+      "question": "¿Cuántos sets máximos tiene un Grand Slam masculino? (6)",
+      "answers": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correct": 2,
+      "category": "deporte",
+      "level": "medio"
+    },
+    {
+      "question": "¿En qué deporte se usa un volante? (6)",
+      "answers": [
+        "Pádel",
+        "Tenis",
+        "Bádminton",
+        "Squash"
+      ],
+      "correct": 2,
+      "category": "deporte",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué país ganó el Mundial de fútbol 2010? (6)",
+      "answers": [
+        "Brasil",
+        "España",
+        "Alemania",
+        "Argentina"
+      ],
+      "correct": 1,
+      "category": "deporte",
+      "level": "medio"
+    },
+    {
+      "question": "¿Cuántos jugadores hay por equipo en una pista de baloncesto? (6)",
+      "answers": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "correct": 1,
+      "category": "deporte",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué color lleva el maillot del líder en el Tour? (7)",
+      "answers": [
+        "Rojo",
+        "Verde",
+        "Amarillo",
+        "Azul"
+      ],
+      "correct": 2,
+      "category": "deporte",
+      "level": "medio"
+    },
+    {
+      "question": "¿Cuántos sets máximos tiene un Grand Slam masculino? (7)",
+      "answers": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correct": 2,
+      "category": "deporte",
+      "level": "medio"
+    },
+    {
+      "question": "¿En qué deporte se usa un volante? (7)",
+      "answers": [
+        "Pádel",
+        "Tenis",
+        "Bádminton",
+        "Squash"
+      ],
+      "correct": 2,
+      "category": "deporte",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué país ganó el Mundial de fútbol 2010? (7)",
+      "answers": [
+        "Brasil",
+        "España",
+        "Alemania",
+        "Argentina"
+      ],
+      "correct": 1,
+      "category": "deporte",
+      "level": "medio"
+    },
+    {
+      "question": "¿Cuántos jugadores hay por equipo en una pista de baloncesto? (7)",
+      "answers": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "correct": 1,
+      "category": "deporte",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué color lleva el maillot del líder en el Tour? (8)",
+      "answers": [
+        "Rojo",
+        "Verde",
+        "Amarillo",
+        "Azul"
+      ],
+      "correct": 2,
+      "category": "deporte",
+      "level": "medio"
+    },
+    {
+      "question": "¿Cuántos sets máximos tiene un Grand Slam masculino? (8)",
+      "answers": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correct": 2,
+      "category": "deporte",
+      "level": "medio"
+    },
+    {
+      "question": "¿En qué deporte se usa un volante? (8)",
+      "answers": [
+        "Pádel",
+        "Tenis",
+        "Bádminton",
+        "Squash"
+      ],
+      "correct": 2,
+      "category": "deporte",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué país ganó el Mundial de fútbol 2010? (8)",
+      "answers": [
+        "Brasil",
+        "España",
+        "Alemania",
+        "Argentina"
+      ],
+      "correct": 1,
+      "category": "deporte",
+      "level": "medio"
+    },
+    {
+      "question": "¿Cuántos jugadores hay por equipo en una pista de baloncesto? (8)",
+      "answers": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "correct": 1,
+      "category": "deporte",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué color lleva el maillot del líder en el Tour? (9)",
+      "answers": [
+        "Rojo",
+        "Verde",
+        "Amarillo",
+        "Azul"
+      ],
+      "correct": 2,
+      "category": "deporte",
+      "level": "medio"
+    },
+    {
+      "question": "¿Cuántos sets máximos tiene un Grand Slam masculino? (9)",
+      "answers": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correct": 2,
+      "category": "deporte",
+      "level": "medio"
+    },
+    {
+      "question": "¿En qué deporte se usa un volante? (9)",
+      "answers": [
+        "Pádel",
+        "Tenis",
+        "Bádminton",
+        "Squash"
+      ],
+      "correct": 2,
+      "category": "deporte",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué país ganó el Mundial de fútbol 2010? (9)",
+      "answers": [
+        "Brasil",
+        "España",
+        "Alemania",
+        "Argentina"
+      ],
+      "correct": 1,
+      "category": "deporte",
+      "level": "medio"
+    },
+    {
+      "question": "¿Cuántos jugadores hay por equipo en una pista de baloncesto? (9)",
+      "answers": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "correct": 1,
+      "category": "deporte",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué color lleva el maillot del líder en el Tour? (10)",
+      "answers": [
+        "Rojo",
+        "Verde",
+        "Amarillo",
+        "Azul"
+      ],
+      "correct": 2,
+      "category": "deporte",
+      "level": "medio"
+    },
+    {
+      "question": "¿Cuántos sets máximos tiene un Grand Slam masculino? (10)",
+      "answers": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correct": 2,
+      "category": "deporte",
+      "level": "medio"
+    },
+    {
+      "question": "¿En qué deporte se usa un volante? (10)",
+      "answers": [
+        "Pádel",
+        "Tenis",
+        "Bádminton",
+        "Squash"
+      ],
+      "correct": 2,
+      "category": "deporte",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué país ganó el Mundial de fútbol 2010? (10)",
+      "answers": [
+        "Brasil",
+        "España",
+        "Alemania",
+        "Argentina"
+      ],
+      "correct": 1,
+      "category": "deporte",
+      "level": "medio"
+    },
+    {
+      "question": "¿Cuántos jugadores hay por equipo en una pista de baloncesto? (10)",
+      "answers": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "correct": 1,
+      "category": "deporte",
+      "level": "medio"
+    }
+  ],
+  "musica": [
+    {
+      "question": "¿Qué compositor escribió Las cuatro estaciones?",
+      "answers": [
+        "Mozart",
+        "Vivaldi",
+        "Bach",
+        "Haydn"
+      ],
+      "correct": 1,
+      "category": "musica",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué instrumento tiene 88 teclas en su versión estándar?",
+      "answers": [
+        "Piano",
+        "Acordeón",
+        "Órgano",
+        "Sinte"
+      ],
+      "correct": 0,
+      "category": "musica",
+      "level": "medio"
+    },
+    {
+      "question": "¿Cuál es la clave musical más usada para melodías agudas?",
+      "answers": [
+        "Fa",
+        "Do",
+        "Sol",
+        "Re"
+      ],
+      "correct": 2,
+      "category": "musica",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué cantante era apodado The Boss?",
+      "answers": [
+        "Prince",
+        "Springsteen",
+        "Elton John",
+        "Bowie"
+      ],
+      "correct": 1,
+      "category": "musica",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué instrumento suele llevarse al hombro con correa en rock?",
+      "answers": [
+        "Guitarra eléctrica",
+        "Arpa",
+        "Tuba",
+        "Oboe"
+      ],
+      "correct": 0,
+      "category": "musica",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué compositor escribió Las cuatro estaciones? (2)",
+      "answers": [
+        "Mozart",
+        "Vivaldi",
+        "Bach",
+        "Haydn"
+      ],
+      "correct": 1,
+      "category": "musica",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué instrumento tiene 88 teclas en su versión estándar? (2)",
+      "answers": [
+        "Piano",
+        "Acordeón",
+        "Órgano",
+        "Sinte"
+      ],
+      "correct": 0,
+      "category": "musica",
+      "level": "medio"
+    },
+    {
+      "question": "¿Cuál es la clave musical más usada para melodías agudas? (2)",
+      "answers": [
+        "Fa",
+        "Do",
+        "Sol",
+        "Re"
+      ],
+      "correct": 2,
+      "category": "musica",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué cantante era apodado The Boss? (2)",
+      "answers": [
+        "Prince",
+        "Springsteen",
+        "Elton John",
+        "Bowie"
+      ],
+      "correct": 1,
+      "category": "musica",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué instrumento suele llevarse al hombro con correa en rock? (2)",
+      "answers": [
+        "Guitarra eléctrica",
+        "Arpa",
+        "Tuba",
+        "Oboe"
+      ],
+      "correct": 0,
+      "category": "musica",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué compositor escribió Las cuatro estaciones? (3)",
+      "answers": [
+        "Mozart",
+        "Vivaldi",
+        "Bach",
+        "Haydn"
+      ],
+      "correct": 1,
+      "category": "musica",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué instrumento tiene 88 teclas en su versión estándar? (3)",
+      "answers": [
+        "Piano",
+        "Acordeón",
+        "Órgano",
+        "Sinte"
+      ],
+      "correct": 0,
+      "category": "musica",
+      "level": "medio"
+    },
+    {
+      "question": "¿Cuál es la clave musical más usada para melodías agudas? (3)",
+      "answers": [
+        "Fa",
+        "Do",
+        "Sol",
+        "Re"
+      ],
+      "correct": 2,
+      "category": "musica",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué cantante era apodado The Boss? (3)",
+      "answers": [
+        "Prince",
+        "Springsteen",
+        "Elton John",
+        "Bowie"
+      ],
+      "correct": 1,
+      "category": "musica",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué instrumento suele llevarse al hombro con correa en rock? (3)",
+      "answers": [
+        "Guitarra eléctrica",
+        "Arpa",
+        "Tuba",
+        "Oboe"
+      ],
+      "correct": 0,
+      "category": "musica",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué compositor escribió Las cuatro estaciones? (4)",
+      "answers": [
+        "Mozart",
+        "Vivaldi",
+        "Bach",
+        "Haydn"
+      ],
+      "correct": 1,
+      "category": "musica",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué instrumento tiene 88 teclas en su versión estándar? (4)",
+      "answers": [
+        "Piano",
+        "Acordeón",
+        "Órgano",
+        "Sinte"
+      ],
+      "correct": 0,
+      "category": "musica",
+      "level": "medio"
+    },
+    {
+      "question": "¿Cuál es la clave musical más usada para melodías agudas? (4)",
+      "answers": [
+        "Fa",
+        "Do",
+        "Sol",
+        "Re"
+      ],
+      "correct": 2,
+      "category": "musica",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué cantante era apodado The Boss? (4)",
+      "answers": [
+        "Prince",
+        "Springsteen",
+        "Elton John",
+        "Bowie"
+      ],
+      "correct": 1,
+      "category": "musica",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué instrumento suele llevarse al hombro con correa en rock? (4)",
+      "answers": [
+        "Guitarra eléctrica",
+        "Arpa",
+        "Tuba",
+        "Oboe"
+      ],
+      "correct": 0,
+      "category": "musica",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué compositor escribió Las cuatro estaciones? (5)",
+      "answers": [
+        "Mozart",
+        "Vivaldi",
+        "Bach",
+        "Haydn"
+      ],
+      "correct": 1,
+      "category": "musica",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué instrumento tiene 88 teclas en su versión estándar? (5)",
+      "answers": [
+        "Piano",
+        "Acordeón",
+        "Órgano",
+        "Sinte"
+      ],
+      "correct": 0,
+      "category": "musica",
+      "level": "medio"
+    },
+    {
+      "question": "¿Cuál es la clave musical más usada para melodías agudas? (5)",
+      "answers": [
+        "Fa",
+        "Do",
+        "Sol",
+        "Re"
+      ],
+      "correct": 2,
+      "category": "musica",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué cantante era apodado The Boss? (5)",
+      "answers": [
+        "Prince",
+        "Springsteen",
+        "Elton John",
+        "Bowie"
+      ],
+      "correct": 1,
+      "category": "musica",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué instrumento suele llevarse al hombro con correa en rock? (5)",
+      "answers": [
+        "Guitarra eléctrica",
+        "Arpa",
+        "Tuba",
+        "Oboe"
+      ],
+      "correct": 0,
+      "category": "musica",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué compositor escribió Las cuatro estaciones? (6)",
+      "answers": [
+        "Mozart",
+        "Vivaldi",
+        "Bach",
+        "Haydn"
+      ],
+      "correct": 1,
+      "category": "musica",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué instrumento tiene 88 teclas en su versión estándar? (6)",
+      "answers": [
+        "Piano",
+        "Acordeón",
+        "Órgano",
+        "Sinte"
+      ],
+      "correct": 0,
+      "category": "musica",
+      "level": "medio"
+    },
+    {
+      "question": "¿Cuál es la clave musical más usada para melodías agudas? (6)",
+      "answers": [
+        "Fa",
+        "Do",
+        "Sol",
+        "Re"
+      ],
+      "correct": 2,
+      "category": "musica",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué cantante era apodado The Boss? (6)",
+      "answers": [
+        "Prince",
+        "Springsteen",
+        "Elton John",
+        "Bowie"
+      ],
+      "correct": 1,
+      "category": "musica",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué instrumento suele llevarse al hombro con correa en rock? (6)",
+      "answers": [
+        "Guitarra eléctrica",
+        "Arpa",
+        "Tuba",
+        "Oboe"
+      ],
+      "correct": 0,
+      "category": "musica",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué compositor escribió Las cuatro estaciones? (7)",
+      "answers": [
+        "Mozart",
+        "Vivaldi",
+        "Bach",
+        "Haydn"
+      ],
+      "correct": 1,
+      "category": "musica",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué instrumento tiene 88 teclas en su versión estándar? (7)",
+      "answers": [
+        "Piano",
+        "Acordeón",
+        "Órgano",
+        "Sinte"
+      ],
+      "correct": 0,
+      "category": "musica",
+      "level": "medio"
+    },
+    {
+      "question": "¿Cuál es la clave musical más usada para melodías agudas? (7)",
+      "answers": [
+        "Fa",
+        "Do",
+        "Sol",
+        "Re"
+      ],
+      "correct": 2,
+      "category": "musica",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué cantante era apodado The Boss? (7)",
+      "answers": [
+        "Prince",
+        "Springsteen",
+        "Elton John",
+        "Bowie"
+      ],
+      "correct": 1,
+      "category": "musica",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué instrumento suele llevarse al hombro con correa en rock? (7)",
+      "answers": [
+        "Guitarra eléctrica",
+        "Arpa",
+        "Tuba",
+        "Oboe"
+      ],
+      "correct": 0,
+      "category": "musica",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué compositor escribió Las cuatro estaciones? (8)",
+      "answers": [
+        "Mozart",
+        "Vivaldi",
+        "Bach",
+        "Haydn"
+      ],
+      "correct": 1,
+      "category": "musica",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué instrumento tiene 88 teclas en su versión estándar? (8)",
+      "answers": [
+        "Piano",
+        "Acordeón",
+        "Órgano",
+        "Sinte"
+      ],
+      "correct": 0,
+      "category": "musica",
+      "level": "medio"
+    },
+    {
+      "question": "¿Cuál es la clave musical más usada para melodías agudas? (8)",
+      "answers": [
+        "Fa",
+        "Do",
+        "Sol",
+        "Re"
+      ],
+      "correct": 2,
+      "category": "musica",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué cantante era apodado The Boss? (8)",
+      "answers": [
+        "Prince",
+        "Springsteen",
+        "Elton John",
+        "Bowie"
+      ],
+      "correct": 1,
+      "category": "musica",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué instrumento suele llevarse al hombro con correa en rock? (8)",
+      "answers": [
+        "Guitarra eléctrica",
+        "Arpa",
+        "Tuba",
+        "Oboe"
+      ],
+      "correct": 0,
+      "category": "musica",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué compositor escribió Las cuatro estaciones? (9)",
+      "answers": [
+        "Mozart",
+        "Vivaldi",
+        "Bach",
+        "Haydn"
+      ],
+      "correct": 1,
+      "category": "musica",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué instrumento tiene 88 teclas en su versión estándar? (9)",
+      "answers": [
+        "Piano",
+        "Acordeón",
+        "Órgano",
+        "Sinte"
+      ],
+      "correct": 0,
+      "category": "musica",
+      "level": "medio"
+    },
+    {
+      "question": "¿Cuál es la clave musical más usada para melodías agudas? (9)",
+      "answers": [
+        "Fa",
+        "Do",
+        "Sol",
+        "Re"
+      ],
+      "correct": 2,
+      "category": "musica",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué cantante era apodado The Boss? (9)",
+      "answers": [
+        "Prince",
+        "Springsteen",
+        "Elton John",
+        "Bowie"
+      ],
+      "correct": 1,
+      "category": "musica",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué instrumento suele llevarse al hombro con correa en rock? (9)",
+      "answers": [
+        "Guitarra eléctrica",
+        "Arpa",
+        "Tuba",
+        "Oboe"
+      ],
+      "correct": 0,
+      "category": "musica",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué compositor escribió Las cuatro estaciones? (10)",
+      "answers": [
+        "Mozart",
+        "Vivaldi",
+        "Bach",
+        "Haydn"
+      ],
+      "correct": 1,
+      "category": "musica",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué instrumento tiene 88 teclas en su versión estándar? (10)",
+      "answers": [
+        "Piano",
+        "Acordeón",
+        "Órgano",
+        "Sinte"
+      ],
+      "correct": 0,
+      "category": "musica",
+      "level": "medio"
+    },
+    {
+      "question": "¿Cuál es la clave musical más usada para melodías agudas? (10)",
+      "answers": [
+        "Fa",
+        "Do",
+        "Sol",
+        "Re"
+      ],
+      "correct": 2,
+      "category": "musica",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué cantante era apodado The Boss? (10)",
+      "answers": [
+        "Prince",
+        "Springsteen",
+        "Elton John",
+        "Bowie"
+      ],
+      "correct": 1,
+      "category": "musica",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué instrumento suele llevarse al hombro con correa en rock? (10)",
+      "answers": [
+        "Guitarra eléctrica",
+        "Arpa",
+        "Tuba",
+        "Oboe"
+      ],
+      "correct": 0,
+      "category": "musica",
+      "level": "medio"
+    }
+  ],
+  "ninos": [
+    {
+      "question": "¿Qué planeta es el tercero desde el Sol?",
+      "answers": [
+        "Venus",
+        "Tierra",
+        "Marte",
+        "Júpiter"
+      ],
+      "correct": 1,
+      "category": "ninos",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué material se obtiene de los árboles para hacer papel?",
+      "answers": [
+        "Madera",
+        "Piedra",
+        "Arena",
+        "Plástico"
+      ],
+      "correct": 0,
+      "category": "ninos",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué animal cambia de oruga a mariposa?",
+      "answers": [
+        "Abeja",
+        "Mariposa",
+        "Mosca",
+        "Saltamontes"
+      ],
+      "correct": 1,
+      "category": "ninos",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué utensilio se usa para comer sopa?",
+      "answers": [
+        "Cuchara",
+        "Tenedor",
+        "Cuchillo",
+        "Pajita"
+      ],
+      "correct": 0,
+      "category": "ninos",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué prenda se lleva en las manos cuando hace mucho frío?",
+      "answers": [
+        "Guantes",
+        "Calcetines",
+        "Gafas",
+        "Gorro"
+      ],
+      "correct": 0,
+      "category": "ninos",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué planeta es el tercero desde el Sol? (2)",
+      "answers": [
+        "Venus",
+        "Tierra",
+        "Marte",
+        "Júpiter"
+      ],
+      "correct": 1,
+      "category": "ninos",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué material se obtiene de los árboles para hacer papel? (2)",
+      "answers": [
+        "Madera",
+        "Piedra",
+        "Arena",
+        "Plástico"
+      ],
+      "correct": 0,
+      "category": "ninos",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué animal cambia de oruga a mariposa? (2)",
+      "answers": [
+        "Abeja",
+        "Mariposa",
+        "Mosca",
+        "Saltamontes"
+      ],
+      "correct": 1,
+      "category": "ninos",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué utensilio se usa para comer sopa? (2)",
+      "answers": [
+        "Cuchara",
+        "Tenedor",
+        "Cuchillo",
+        "Pajita"
+      ],
+      "correct": 0,
+      "category": "ninos",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué prenda se lleva en las manos cuando hace mucho frío? (2)",
+      "answers": [
+        "Guantes",
+        "Calcetines",
+        "Gafas",
+        "Gorro"
+      ],
+      "correct": 0,
+      "category": "ninos",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué planeta es el tercero desde el Sol? (3)",
+      "answers": [
+        "Venus",
+        "Tierra",
+        "Marte",
+        "Júpiter"
+      ],
+      "correct": 1,
+      "category": "ninos",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué material se obtiene de los árboles para hacer papel? (3)",
+      "answers": [
+        "Madera",
+        "Piedra",
+        "Arena",
+        "Plástico"
+      ],
+      "correct": 0,
+      "category": "ninos",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué animal cambia de oruga a mariposa? (3)",
+      "answers": [
+        "Abeja",
+        "Mariposa",
+        "Mosca",
+        "Saltamontes"
+      ],
+      "correct": 1,
+      "category": "ninos",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué utensilio se usa para comer sopa? (3)",
+      "answers": [
+        "Cuchara",
+        "Tenedor",
+        "Cuchillo",
+        "Pajita"
+      ],
+      "correct": 0,
+      "category": "ninos",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué prenda se lleva en las manos cuando hace mucho frío? (3)",
+      "answers": [
+        "Guantes",
+        "Calcetines",
+        "Gafas",
+        "Gorro"
+      ],
+      "correct": 0,
+      "category": "ninos",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué planeta es el tercero desde el Sol? (4)",
+      "answers": [
+        "Venus",
+        "Tierra",
+        "Marte",
+        "Júpiter"
+      ],
+      "correct": 1,
+      "category": "ninos",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué material se obtiene de los árboles para hacer papel? (4)",
+      "answers": [
+        "Madera",
+        "Piedra",
+        "Arena",
+        "Plástico"
+      ],
+      "correct": 0,
+      "category": "ninos",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué animal cambia de oruga a mariposa? (4)",
+      "answers": [
+        "Abeja",
+        "Mariposa",
+        "Mosca",
+        "Saltamontes"
+      ],
+      "correct": 1,
+      "category": "ninos",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué utensilio se usa para comer sopa? (4)",
+      "answers": [
+        "Cuchara",
+        "Tenedor",
+        "Cuchillo",
+        "Pajita"
+      ],
+      "correct": 0,
+      "category": "ninos",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué prenda se lleva en las manos cuando hace mucho frío? (4)",
+      "answers": [
+        "Guantes",
+        "Calcetines",
+        "Gafas",
+        "Gorro"
+      ],
+      "correct": 0,
+      "category": "ninos",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué planeta es el tercero desde el Sol? (5)",
+      "answers": [
+        "Venus",
+        "Tierra",
+        "Marte",
+        "Júpiter"
+      ],
+      "correct": 1,
+      "category": "ninos",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué material se obtiene de los árboles para hacer papel? (5)",
+      "answers": [
+        "Madera",
+        "Piedra",
+        "Arena",
+        "Plástico"
+      ],
+      "correct": 0,
+      "category": "ninos",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué animal cambia de oruga a mariposa? (5)",
+      "answers": [
+        "Abeja",
+        "Mariposa",
+        "Mosca",
+        "Saltamontes"
+      ],
+      "correct": 1,
+      "category": "ninos",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué utensilio se usa para comer sopa? (5)",
+      "answers": [
+        "Cuchara",
+        "Tenedor",
+        "Cuchillo",
+        "Pajita"
+      ],
+      "correct": 0,
+      "category": "ninos",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué prenda se lleva en las manos cuando hace mucho frío? (5)",
+      "answers": [
+        "Guantes",
+        "Calcetines",
+        "Gafas",
+        "Gorro"
+      ],
+      "correct": 0,
+      "category": "ninos",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué planeta es el tercero desde el Sol? (6)",
+      "answers": [
+        "Venus",
+        "Tierra",
+        "Marte",
+        "Júpiter"
+      ],
+      "correct": 1,
+      "category": "ninos",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué material se obtiene de los árboles para hacer papel? (6)",
+      "answers": [
+        "Madera",
+        "Piedra",
+        "Arena",
+        "Plástico"
+      ],
+      "correct": 0,
+      "category": "ninos",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué animal cambia de oruga a mariposa? (6)",
+      "answers": [
+        "Abeja",
+        "Mariposa",
+        "Mosca",
+        "Saltamontes"
+      ],
+      "correct": 1,
+      "category": "ninos",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué utensilio se usa para comer sopa? (6)",
+      "answers": [
+        "Cuchara",
+        "Tenedor",
+        "Cuchillo",
+        "Pajita"
+      ],
+      "correct": 0,
+      "category": "ninos",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué prenda se lleva en las manos cuando hace mucho frío? (6)",
+      "answers": [
+        "Guantes",
+        "Calcetines",
+        "Gafas",
+        "Gorro"
+      ],
+      "correct": 0,
+      "category": "ninos",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué planeta es el tercero desde el Sol? (7)",
+      "answers": [
+        "Venus",
+        "Tierra",
+        "Marte",
+        "Júpiter"
+      ],
+      "correct": 1,
+      "category": "ninos",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué material se obtiene de los árboles para hacer papel? (7)",
+      "answers": [
+        "Madera",
+        "Piedra",
+        "Arena",
+        "Plástico"
+      ],
+      "correct": 0,
+      "category": "ninos",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué animal cambia de oruga a mariposa? (7)",
+      "answers": [
+        "Abeja",
+        "Mariposa",
+        "Mosca",
+        "Saltamontes"
+      ],
+      "correct": 1,
+      "category": "ninos",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué utensilio se usa para comer sopa? (7)",
+      "answers": [
+        "Cuchara",
+        "Tenedor",
+        "Cuchillo",
+        "Pajita"
+      ],
+      "correct": 0,
+      "category": "ninos",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué prenda se lleva en las manos cuando hace mucho frío? (7)",
+      "answers": [
+        "Guantes",
+        "Calcetines",
+        "Gafas",
+        "Gorro"
+      ],
+      "correct": 0,
+      "category": "ninos",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué planeta es el tercero desde el Sol? (8)",
+      "answers": [
+        "Venus",
+        "Tierra",
+        "Marte",
+        "Júpiter"
+      ],
+      "correct": 1,
+      "category": "ninos",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué material se obtiene de los árboles para hacer papel? (8)",
+      "answers": [
+        "Madera",
+        "Piedra",
+        "Arena",
+        "Plástico"
+      ],
+      "correct": 0,
+      "category": "ninos",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué animal cambia de oruga a mariposa? (8)",
+      "answers": [
+        "Abeja",
+        "Mariposa",
+        "Mosca",
+        "Saltamontes"
+      ],
+      "correct": 1,
+      "category": "ninos",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué utensilio se usa para comer sopa? (8)",
+      "answers": [
+        "Cuchara",
+        "Tenedor",
+        "Cuchillo",
+        "Pajita"
+      ],
+      "correct": 0,
+      "category": "ninos",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué prenda se lleva en las manos cuando hace mucho frío? (8)",
+      "answers": [
+        "Guantes",
+        "Calcetines",
+        "Gafas",
+        "Gorro"
+      ],
+      "correct": 0,
+      "category": "ninos",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué planeta es el tercero desde el Sol? (9)",
+      "answers": [
+        "Venus",
+        "Tierra",
+        "Marte",
+        "Júpiter"
+      ],
+      "correct": 1,
+      "category": "ninos",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué material se obtiene de los árboles para hacer papel? (9)",
+      "answers": [
+        "Madera",
+        "Piedra",
+        "Arena",
+        "Plástico"
+      ],
+      "correct": 0,
+      "category": "ninos",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué animal cambia de oruga a mariposa? (9)",
+      "answers": [
+        "Abeja",
+        "Mariposa",
+        "Mosca",
+        "Saltamontes"
+      ],
+      "correct": 1,
+      "category": "ninos",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué utensilio se usa para comer sopa? (9)",
+      "answers": [
+        "Cuchara",
+        "Tenedor",
+        "Cuchillo",
+        "Pajita"
+      ],
+      "correct": 0,
+      "category": "ninos",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué prenda se lleva en las manos cuando hace mucho frío? (9)",
+      "answers": [
+        "Guantes",
+        "Calcetines",
+        "Gafas",
+        "Gorro"
+      ],
+      "correct": 0,
+      "category": "ninos",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué planeta es el tercero desde el Sol? (10)",
+      "answers": [
+        "Venus",
+        "Tierra",
+        "Marte",
+        "Júpiter"
+      ],
+      "correct": 1,
+      "category": "ninos",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué material se obtiene de los árboles para hacer papel? (10)",
+      "answers": [
+        "Madera",
+        "Piedra",
+        "Arena",
+        "Plástico"
+      ],
+      "correct": 0,
+      "category": "ninos",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué animal cambia de oruga a mariposa? (10)",
+      "answers": [
+        "Abeja",
+        "Mariposa",
+        "Mosca",
+        "Saltamontes"
+      ],
+      "correct": 1,
+      "category": "ninos",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué utensilio se usa para comer sopa? (10)",
+      "answers": [
+        "Cuchara",
+        "Tenedor",
+        "Cuchillo",
+        "Pajita"
+      ],
+      "correct": 0,
+      "category": "ninos",
+      "level": "medio"
+    },
+    {
+      "question": "¿Qué prenda se lleva en las manos cuando hace mucho frío? (10)",
+      "answers": [
+        "Guantes",
+        "Calcetines",
+        "Gafas",
+        "Gorro"
+      ],
+      "correct": 0,
+      "category": "ninos",
+      "level": "medio"
+    }
+  ]
+}

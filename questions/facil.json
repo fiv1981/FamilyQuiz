@@ -1,0 +1,4818 @@
+{
+  "general": [
+    {
+      "question": "¿Cuántos meses tiene un año?",
+      "answers": [
+        "10",
+        "11",
+        "12",
+        "13"
+      ],
+      "correct": 2,
+      "category": "general",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué idioma se habla principalmente en España?",
+      "answers": [
+        "Portugués",
+        "Español",
+        "Italiano",
+        "Francés"
+      ],
+      "correct": 1,
+      "category": "general",
+      "level": "facil"
+    },
+    {
+      "question": "¿Cuántos días tiene una semana?",
+      "answers": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correct": 2,
+      "category": "general",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué moneda se usa en España?",
+      "answers": [
+        "Dólar",
+        "Euro",
+        "Libra",
+        "Peso"
+      ],
+      "correct": 1,
+      "category": "general",
+      "level": "facil"
+    },
+    {
+      "question": "¿Cuántas horas tiene un día?",
+      "answers": [
+        "12",
+        "18",
+        "24",
+        "30"
+      ],
+      "correct": 2,
+      "category": "general",
+      "level": "facil"
+    },
+    {
+      "question": "¿Cuántos meses tiene un año? (2)",
+      "answers": [
+        "10",
+        "11",
+        "12",
+        "13"
+      ],
+      "correct": 2,
+      "category": "general",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué idioma se habla principalmente en España? (2)",
+      "answers": [
+        "Portugués",
+        "Español",
+        "Italiano",
+        "Francés"
+      ],
+      "correct": 1,
+      "category": "general",
+      "level": "facil"
+    },
+    {
+      "question": "¿Cuántos días tiene una semana? (2)",
+      "answers": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correct": 2,
+      "category": "general",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué moneda se usa en España? (2)",
+      "answers": [
+        "Dólar",
+        "Euro",
+        "Libra",
+        "Peso"
+      ],
+      "correct": 1,
+      "category": "general",
+      "level": "facil"
+    },
+    {
+      "question": "¿Cuántas horas tiene un día? (2)",
+      "answers": [
+        "12",
+        "18",
+        "24",
+        "30"
+      ],
+      "correct": 2,
+      "category": "general",
+      "level": "facil"
+    },
+    {
+      "question": "¿Cuántos meses tiene un año? (3)",
+      "answers": [
+        "10",
+        "11",
+        "12",
+        "13"
+      ],
+      "correct": 2,
+      "category": "general",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué idioma se habla principalmente en España? (3)",
+      "answers": [
+        "Portugués",
+        "Español",
+        "Italiano",
+        "Francés"
+      ],
+      "correct": 1,
+      "category": "general",
+      "level": "facil"
+    },
+    {
+      "question": "¿Cuántos días tiene una semana? (3)",
+      "answers": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correct": 2,
+      "category": "general",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué moneda se usa en España? (3)",
+      "answers": [
+        "Dólar",
+        "Euro",
+        "Libra",
+        "Peso"
+      ],
+      "correct": 1,
+      "category": "general",
+      "level": "facil"
+    },
+    {
+      "question": "¿Cuántas horas tiene un día? (3)",
+      "answers": [
+        "12",
+        "18",
+        "24",
+        "30"
+      ],
+      "correct": 2,
+      "category": "general",
+      "level": "facil"
+    },
+    {
+      "question": "¿Cuántos meses tiene un año? (4)",
+      "answers": [
+        "10",
+        "11",
+        "12",
+        "13"
+      ],
+      "correct": 2,
+      "category": "general",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué idioma se habla principalmente en España? (4)",
+      "answers": [
+        "Portugués",
+        "Español",
+        "Italiano",
+        "Francés"
+      ],
+      "correct": 1,
+      "category": "general",
+      "level": "facil"
+    },
+    {
+      "question": "¿Cuántos días tiene una semana? (4)",
+      "answers": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correct": 2,
+      "category": "general",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué moneda se usa en España? (4)",
+      "answers": [
+        "Dólar",
+        "Euro",
+        "Libra",
+        "Peso"
+      ],
+      "correct": 1,
+      "category": "general",
+      "level": "facil"
+    },
+    {
+      "question": "¿Cuántas horas tiene un día? (4)",
+      "answers": [
+        "12",
+        "18",
+        "24",
+        "30"
+      ],
+      "correct": 2,
+      "category": "general",
+      "level": "facil"
+    },
+    {
+      "question": "¿Cuántos meses tiene un año? (5)",
+      "answers": [
+        "10",
+        "11",
+        "12",
+        "13"
+      ],
+      "correct": 2,
+      "category": "general",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué idioma se habla principalmente en España? (5)",
+      "answers": [
+        "Portugués",
+        "Español",
+        "Italiano",
+        "Francés"
+      ],
+      "correct": 1,
+      "category": "general",
+      "level": "facil"
+    },
+    {
+      "question": "¿Cuántos días tiene una semana? (5)",
+      "answers": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correct": 2,
+      "category": "general",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué moneda se usa en España? (5)",
+      "answers": [
+        "Dólar",
+        "Euro",
+        "Libra",
+        "Peso"
+      ],
+      "correct": 1,
+      "category": "general",
+      "level": "facil"
+    },
+    {
+      "question": "¿Cuántas horas tiene un día? (5)",
+      "answers": [
+        "12",
+        "18",
+        "24",
+        "30"
+      ],
+      "correct": 2,
+      "category": "general",
+      "level": "facil"
+    },
+    {
+      "question": "¿Cuántos meses tiene un año? (6)",
+      "answers": [
+        "10",
+        "11",
+        "12",
+        "13"
+      ],
+      "correct": 2,
+      "category": "general",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué idioma se habla principalmente en España? (6)",
+      "answers": [
+        "Portugués",
+        "Español",
+        "Italiano",
+        "Francés"
+      ],
+      "correct": 1,
+      "category": "general",
+      "level": "facil"
+    },
+    {
+      "question": "¿Cuántos días tiene una semana? (6)",
+      "answers": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correct": 2,
+      "category": "general",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué moneda se usa en España? (6)",
+      "answers": [
+        "Dólar",
+        "Euro",
+        "Libra",
+        "Peso"
+      ],
+      "correct": 1,
+      "category": "general",
+      "level": "facil"
+    },
+    {
+      "question": "¿Cuántas horas tiene un día? (6)",
+      "answers": [
+        "12",
+        "18",
+        "24",
+        "30"
+      ],
+      "correct": 2,
+      "category": "general",
+      "level": "facil"
+    },
+    {
+      "question": "¿Cuántos meses tiene un año? (7)",
+      "answers": [
+        "10",
+        "11",
+        "12",
+        "13"
+      ],
+      "correct": 2,
+      "category": "general",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué idioma se habla principalmente en España? (7)",
+      "answers": [
+        "Portugués",
+        "Español",
+        "Italiano",
+        "Francés"
+      ],
+      "correct": 1,
+      "category": "general",
+      "level": "facil"
+    },
+    {
+      "question": "¿Cuántos días tiene una semana? (7)",
+      "answers": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correct": 2,
+      "category": "general",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué moneda se usa en España? (7)",
+      "answers": [
+        "Dólar",
+        "Euro",
+        "Libra",
+        "Peso"
+      ],
+      "correct": 1,
+      "category": "general",
+      "level": "facil"
+    },
+    {
+      "question": "¿Cuántas horas tiene un día? (7)",
+      "answers": [
+        "12",
+        "18",
+        "24",
+        "30"
+      ],
+      "correct": 2,
+      "category": "general",
+      "level": "facil"
+    },
+    {
+      "question": "¿Cuántos meses tiene un año? (8)",
+      "answers": [
+        "10",
+        "11",
+        "12",
+        "13"
+      ],
+      "correct": 2,
+      "category": "general",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué idioma se habla principalmente en España? (8)",
+      "answers": [
+        "Portugués",
+        "Español",
+        "Italiano",
+        "Francés"
+      ],
+      "correct": 1,
+      "category": "general",
+      "level": "facil"
+    },
+    {
+      "question": "¿Cuántos días tiene una semana? (8)",
+      "answers": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correct": 2,
+      "category": "general",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué moneda se usa en España? (8)",
+      "answers": [
+        "Dólar",
+        "Euro",
+        "Libra",
+        "Peso"
+      ],
+      "correct": 1,
+      "category": "general",
+      "level": "facil"
+    },
+    {
+      "question": "¿Cuántas horas tiene un día? (8)",
+      "answers": [
+        "12",
+        "18",
+        "24",
+        "30"
+      ],
+      "correct": 2,
+      "category": "general",
+      "level": "facil"
+    },
+    {
+      "question": "¿Cuántos meses tiene un año? (9)",
+      "answers": [
+        "10",
+        "11",
+        "12",
+        "13"
+      ],
+      "correct": 2,
+      "category": "general",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué idioma se habla principalmente en España? (9)",
+      "answers": [
+        "Portugués",
+        "Español",
+        "Italiano",
+        "Francés"
+      ],
+      "correct": 1,
+      "category": "general",
+      "level": "facil"
+    },
+    {
+      "question": "¿Cuántos días tiene una semana? (9)",
+      "answers": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correct": 2,
+      "category": "general",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué moneda se usa en España? (9)",
+      "answers": [
+        "Dólar",
+        "Euro",
+        "Libra",
+        "Peso"
+      ],
+      "correct": 1,
+      "category": "general",
+      "level": "facil"
+    },
+    {
+      "question": "¿Cuántas horas tiene un día? (9)",
+      "answers": [
+        "12",
+        "18",
+        "24",
+        "30"
+      ],
+      "correct": 2,
+      "category": "general",
+      "level": "facil"
+    },
+    {
+      "question": "¿Cuántos meses tiene un año? (10)",
+      "answers": [
+        "10",
+        "11",
+        "12",
+        "13"
+      ],
+      "correct": 2,
+      "category": "general",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué idioma se habla principalmente en España? (10)",
+      "answers": [
+        "Portugués",
+        "Español",
+        "Italiano",
+        "Francés"
+      ],
+      "correct": 1,
+      "category": "general",
+      "level": "facil"
+    },
+    {
+      "question": "¿Cuántos días tiene una semana? (10)",
+      "answers": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correct": 2,
+      "category": "general",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué moneda se usa en España? (10)",
+      "answers": [
+        "Dólar",
+        "Euro",
+        "Libra",
+        "Peso"
+      ],
+      "correct": 1,
+      "category": "general",
+      "level": "facil"
+    },
+    {
+      "question": "¿Cuántas horas tiene un día? (10)",
+      "answers": [
+        "12",
+        "18",
+        "24",
+        "30"
+      ],
+      "correct": 2,
+      "category": "general",
+      "level": "facil"
+    }
+  ],
+  "geografia": [
+    {
+      "question": "¿Cuál es la capital de España?",
+      "answers": [
+        "Madrid",
+        "Barcelona",
+        "Sevilla",
+        "Valencia"
+      ],
+      "correct": 0,
+      "category": "geografia",
+      "level": "facil"
+    },
+    {
+      "question": "¿Cuál es la capital de Francia?",
+      "answers": [
+        "Roma",
+        "París",
+        "Lisboa",
+        "Berlín"
+      ],
+      "correct": 1,
+      "category": "geografia",
+      "level": "facil"
+    },
+    {
+      "question": "¿En qué continente está Japón?",
+      "answers": [
+        "Europa",
+        "Asia",
+        "África",
+        "Oceanía"
+      ],
+      "correct": 1,
+      "category": "geografia",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué océano está al oeste de América?",
+      "answers": [
+        "Índico",
+        "Pacífico",
+        "Ártico",
+        "Mediterráneo"
+      ],
+      "correct": 1,
+      "category": "geografia",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué ciudad es famosa por la Torre Eiffel?",
+      "answers": [
+        "Roma",
+        "París",
+        "Londres",
+        "Atenas"
+      ],
+      "correct": 1,
+      "category": "geografia",
+      "level": "facil"
+    },
+    {
+      "question": "¿Cuál es la capital de España? (2)",
+      "answers": [
+        "Madrid",
+        "Barcelona",
+        "Sevilla",
+        "Valencia"
+      ],
+      "correct": 0,
+      "category": "geografia",
+      "level": "facil"
+    },
+    {
+      "question": "¿Cuál es la capital de Francia? (2)",
+      "answers": [
+        "Roma",
+        "París",
+        "Lisboa",
+        "Berlín"
+      ],
+      "correct": 1,
+      "category": "geografia",
+      "level": "facil"
+    },
+    {
+      "question": "¿En qué continente está Japón? (2)",
+      "answers": [
+        "Europa",
+        "Asia",
+        "África",
+        "Oceanía"
+      ],
+      "correct": 1,
+      "category": "geografia",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué océano está al oeste de América? (2)",
+      "answers": [
+        "Índico",
+        "Pacífico",
+        "Ártico",
+        "Mediterráneo"
+      ],
+      "correct": 1,
+      "category": "geografia",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué ciudad es famosa por la Torre Eiffel? (2)",
+      "answers": [
+        "Roma",
+        "París",
+        "Londres",
+        "Atenas"
+      ],
+      "correct": 1,
+      "category": "geografia",
+      "level": "facil"
+    },
+    {
+      "question": "¿Cuál es la capital de España? (3)",
+      "answers": [
+        "Madrid",
+        "Barcelona",
+        "Sevilla",
+        "Valencia"
+      ],
+      "correct": 0,
+      "category": "geografia",
+      "level": "facil"
+    },
+    {
+      "question": "¿Cuál es la capital de Francia? (3)",
+      "answers": [
+        "Roma",
+        "París",
+        "Lisboa",
+        "Berlín"
+      ],
+      "correct": 1,
+      "category": "geografia",
+      "level": "facil"
+    },
+    {
+      "question": "¿En qué continente está Japón? (3)",
+      "answers": [
+        "Europa",
+        "Asia",
+        "África",
+        "Oceanía"
+      ],
+      "correct": 1,
+      "category": "geografia",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué océano está al oeste de América? (3)",
+      "answers": [
+        "Índico",
+        "Pacífico",
+        "Ártico",
+        "Mediterráneo"
+      ],
+      "correct": 1,
+      "category": "geografia",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué ciudad es famosa por la Torre Eiffel? (3)",
+      "answers": [
+        "Roma",
+        "París",
+        "Londres",
+        "Atenas"
+      ],
+      "correct": 1,
+      "category": "geografia",
+      "level": "facil"
+    },
+    {
+      "question": "¿Cuál es la capital de España? (4)",
+      "answers": [
+        "Madrid",
+        "Barcelona",
+        "Sevilla",
+        "Valencia"
+      ],
+      "correct": 0,
+      "category": "geografia",
+      "level": "facil"
+    },
+    {
+      "question": "¿Cuál es la capital de Francia? (4)",
+      "answers": [
+        "Roma",
+        "París",
+        "Lisboa",
+        "Berlín"
+      ],
+      "correct": 1,
+      "category": "geografia",
+      "level": "facil"
+    },
+    {
+      "question": "¿En qué continente está Japón? (4)",
+      "answers": [
+        "Europa",
+        "Asia",
+        "África",
+        "Oceanía"
+      ],
+      "correct": 1,
+      "category": "geografia",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué océano está al oeste de América? (4)",
+      "answers": [
+        "Índico",
+        "Pacífico",
+        "Ártico",
+        "Mediterráneo"
+      ],
+      "correct": 1,
+      "category": "geografia",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué ciudad es famosa por la Torre Eiffel? (4)",
+      "answers": [
+        "Roma",
+        "París",
+        "Londres",
+        "Atenas"
+      ],
+      "correct": 1,
+      "category": "geografia",
+      "level": "facil"
+    },
+    {
+      "question": "¿Cuál es la capital de España? (5)",
+      "answers": [
+        "Madrid",
+        "Barcelona",
+        "Sevilla",
+        "Valencia"
+      ],
+      "correct": 0,
+      "category": "geografia",
+      "level": "facil"
+    },
+    {
+      "question": "¿Cuál es la capital de Francia? (5)",
+      "answers": [
+        "Roma",
+        "París",
+        "Lisboa",
+        "Berlín"
+      ],
+      "correct": 1,
+      "category": "geografia",
+      "level": "facil"
+    },
+    {
+      "question": "¿En qué continente está Japón? (5)",
+      "answers": [
+        "Europa",
+        "Asia",
+        "África",
+        "Oceanía"
+      ],
+      "correct": 1,
+      "category": "geografia",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué océano está al oeste de América? (5)",
+      "answers": [
+        "Índico",
+        "Pacífico",
+        "Ártico",
+        "Mediterráneo"
+      ],
+      "correct": 1,
+      "category": "geografia",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué ciudad es famosa por la Torre Eiffel? (5)",
+      "answers": [
+        "Roma",
+        "París",
+        "Londres",
+        "Atenas"
+      ],
+      "correct": 1,
+      "category": "geografia",
+      "level": "facil"
+    },
+    {
+      "question": "¿Cuál es la capital de España? (6)",
+      "answers": [
+        "Madrid",
+        "Barcelona",
+        "Sevilla",
+        "Valencia"
+      ],
+      "correct": 0,
+      "category": "geografia",
+      "level": "facil"
+    },
+    {
+      "question": "¿Cuál es la capital de Francia? (6)",
+      "answers": [
+        "Roma",
+        "París",
+        "Lisboa",
+        "Berlín"
+      ],
+      "correct": 1,
+      "category": "geografia",
+      "level": "facil"
+    },
+    {
+      "question": "¿En qué continente está Japón? (6)",
+      "answers": [
+        "Europa",
+        "Asia",
+        "África",
+        "Oceanía"
+      ],
+      "correct": 1,
+      "category": "geografia",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué océano está al oeste de América? (6)",
+      "answers": [
+        "Índico",
+        "Pacífico",
+        "Ártico",
+        "Mediterráneo"
+      ],
+      "correct": 1,
+      "category": "geografia",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué ciudad es famosa por la Torre Eiffel? (6)",
+      "answers": [
+        "Roma",
+        "París",
+        "Londres",
+        "Atenas"
+      ],
+      "correct": 1,
+      "category": "geografia",
+      "level": "facil"
+    },
+    {
+      "question": "¿Cuál es la capital de España? (7)",
+      "answers": [
+        "Madrid",
+        "Barcelona",
+        "Sevilla",
+        "Valencia"
+      ],
+      "correct": 0,
+      "category": "geografia",
+      "level": "facil"
+    },
+    {
+      "question": "¿Cuál es la capital de Francia? (7)",
+      "answers": [
+        "Roma",
+        "París",
+        "Lisboa",
+        "Berlín"
+      ],
+      "correct": 1,
+      "category": "geografia",
+      "level": "facil"
+    },
+    {
+      "question": "¿En qué continente está Japón? (7)",
+      "answers": [
+        "Europa",
+        "Asia",
+        "África",
+        "Oceanía"
+      ],
+      "correct": 1,
+      "category": "geografia",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué océano está al oeste de América? (7)",
+      "answers": [
+        "Índico",
+        "Pacífico",
+        "Ártico",
+        "Mediterráneo"
+      ],
+      "correct": 1,
+      "category": "geografia",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué ciudad es famosa por la Torre Eiffel? (7)",
+      "answers": [
+        "Roma",
+        "París",
+        "Londres",
+        "Atenas"
+      ],
+      "correct": 1,
+      "category": "geografia",
+      "level": "facil"
+    },
+    {
+      "question": "¿Cuál es la capital de España? (8)",
+      "answers": [
+        "Madrid",
+        "Barcelona",
+        "Sevilla",
+        "Valencia"
+      ],
+      "correct": 0,
+      "category": "geografia",
+      "level": "facil"
+    },
+    {
+      "question": "¿Cuál es la capital de Francia? (8)",
+      "answers": [
+        "Roma",
+        "París",
+        "Lisboa",
+        "Berlín"
+      ],
+      "correct": 1,
+      "category": "geografia",
+      "level": "facil"
+    },
+    {
+      "question": "¿En qué continente está Japón? (8)",
+      "answers": [
+        "Europa",
+        "Asia",
+        "África",
+        "Oceanía"
+      ],
+      "correct": 1,
+      "category": "geografia",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué océano está al oeste de América? (8)",
+      "answers": [
+        "Índico",
+        "Pacífico",
+        "Ártico",
+        "Mediterráneo"
+      ],
+      "correct": 1,
+      "category": "geografia",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué ciudad es famosa por la Torre Eiffel? (8)",
+      "answers": [
+        "Roma",
+        "París",
+        "Londres",
+        "Atenas"
+      ],
+      "correct": 1,
+      "category": "geografia",
+      "level": "facil"
+    },
+    {
+      "question": "¿Cuál es la capital de España? (9)",
+      "answers": [
+        "Madrid",
+        "Barcelona",
+        "Sevilla",
+        "Valencia"
+      ],
+      "correct": 0,
+      "category": "geografia",
+      "level": "facil"
+    },
+    {
+      "question": "¿Cuál es la capital de Francia? (9)",
+      "answers": [
+        "Roma",
+        "París",
+        "Lisboa",
+        "Berlín"
+      ],
+      "correct": 1,
+      "category": "geografia",
+      "level": "facil"
+    },
+    {
+      "question": "¿En qué continente está Japón? (9)",
+      "answers": [
+        "Europa",
+        "Asia",
+        "África",
+        "Oceanía"
+      ],
+      "correct": 1,
+      "category": "geografia",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué océano está al oeste de América? (9)",
+      "answers": [
+        "Índico",
+        "Pacífico",
+        "Ártico",
+        "Mediterráneo"
+      ],
+      "correct": 1,
+      "category": "geografia",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué ciudad es famosa por la Torre Eiffel? (9)",
+      "answers": [
+        "Roma",
+        "París",
+        "Londres",
+        "Atenas"
+      ],
+      "correct": 1,
+      "category": "geografia",
+      "level": "facil"
+    },
+    {
+      "question": "¿Cuál es la capital de España? (10)",
+      "answers": [
+        "Madrid",
+        "Barcelona",
+        "Sevilla",
+        "Valencia"
+      ],
+      "correct": 0,
+      "category": "geografia",
+      "level": "facil"
+    },
+    {
+      "question": "¿Cuál es la capital de Francia? (10)",
+      "answers": [
+        "Roma",
+        "París",
+        "Lisboa",
+        "Berlín"
+      ],
+      "correct": 1,
+      "category": "geografia",
+      "level": "facil"
+    },
+    {
+      "question": "¿En qué continente está Japón? (10)",
+      "answers": [
+        "Europa",
+        "Asia",
+        "África",
+        "Oceanía"
+      ],
+      "correct": 1,
+      "category": "geografia",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué océano está al oeste de América? (10)",
+      "answers": [
+        "Índico",
+        "Pacífico",
+        "Ártico",
+        "Mediterráneo"
+      ],
+      "correct": 1,
+      "category": "geografia",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué ciudad es famosa por la Torre Eiffel? (10)",
+      "answers": [
+        "Roma",
+        "París",
+        "Londres",
+        "Atenas"
+      ],
+      "correct": 1,
+      "category": "geografia",
+      "level": "facil"
+    }
+  ],
+  "ciencia": [
+    {
+      "question": "¿Qué planeta es conocido como el planeta rojo?",
+      "answers": [
+        "Venus",
+        "Marte",
+        "Neptuno",
+        "Mercurio"
+      ],
+      "correct": 1,
+      "category": "ciencia",
+      "level": "facil"
+    },
+    {
+      "question": "¿Cuál es el estado sólido del agua?",
+      "answers": [
+        "Humo",
+        "Vapor",
+        "Hielo",
+        "Niebla"
+      ],
+      "correct": 2,
+      "category": "ciencia",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué parte de la planta está bajo tierra?",
+      "answers": [
+        "Flor",
+        "Raíz",
+        "Hoja",
+        "Fruto"
+      ],
+      "correct": 1,
+      "category": "ciencia",
+      "level": "facil"
+    },
+    {
+      "question": "¿Cuál es el astro que da luz a la Tierra?",
+      "answers": [
+        "Sol",
+        "Luna",
+        "Marte",
+        "Júpiter"
+      ],
+      "correct": 0,
+      "category": "ciencia",
+      "level": "facil"
+    },
+    {
+      "question": "¿Cuál de estos animales es mamífero?",
+      "answers": [
+        "Tiburón",
+        "Delfín",
+        "Pulpo",
+        "Trucha"
+      ],
+      "correct": 1,
+      "category": "ciencia",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué planeta es conocido como el planeta rojo? (2)",
+      "answers": [
+        "Venus",
+        "Marte",
+        "Neptuno",
+        "Mercurio"
+      ],
+      "correct": 1,
+      "category": "ciencia",
+      "level": "facil"
+    },
+    {
+      "question": "¿Cuál es el estado sólido del agua? (2)",
+      "answers": [
+        "Humo",
+        "Vapor",
+        "Hielo",
+        "Niebla"
+      ],
+      "correct": 2,
+      "category": "ciencia",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué parte de la planta está bajo tierra? (2)",
+      "answers": [
+        "Flor",
+        "Raíz",
+        "Hoja",
+        "Fruto"
+      ],
+      "correct": 1,
+      "category": "ciencia",
+      "level": "facil"
+    },
+    {
+      "question": "¿Cuál es el astro que da luz a la Tierra? (2)",
+      "answers": [
+        "Sol",
+        "Luna",
+        "Marte",
+        "Júpiter"
+      ],
+      "correct": 0,
+      "category": "ciencia",
+      "level": "facil"
+    },
+    {
+      "question": "¿Cuál de estos animales es mamífero? (2)",
+      "answers": [
+        "Tiburón",
+        "Delfín",
+        "Pulpo",
+        "Trucha"
+      ],
+      "correct": 1,
+      "category": "ciencia",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué planeta es conocido como el planeta rojo? (3)",
+      "answers": [
+        "Venus",
+        "Marte",
+        "Neptuno",
+        "Mercurio"
+      ],
+      "correct": 1,
+      "category": "ciencia",
+      "level": "facil"
+    },
+    {
+      "question": "¿Cuál es el estado sólido del agua? (3)",
+      "answers": [
+        "Humo",
+        "Vapor",
+        "Hielo",
+        "Niebla"
+      ],
+      "correct": 2,
+      "category": "ciencia",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué parte de la planta está bajo tierra? (3)",
+      "answers": [
+        "Flor",
+        "Raíz",
+        "Hoja",
+        "Fruto"
+      ],
+      "correct": 1,
+      "category": "ciencia",
+      "level": "facil"
+    },
+    {
+      "question": "¿Cuál es el astro que da luz a la Tierra? (3)",
+      "answers": [
+        "Sol",
+        "Luna",
+        "Marte",
+        "Júpiter"
+      ],
+      "correct": 0,
+      "category": "ciencia",
+      "level": "facil"
+    },
+    {
+      "question": "¿Cuál de estos animales es mamífero? (3)",
+      "answers": [
+        "Tiburón",
+        "Delfín",
+        "Pulpo",
+        "Trucha"
+      ],
+      "correct": 1,
+      "category": "ciencia",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué planeta es conocido como el planeta rojo? (4)",
+      "answers": [
+        "Venus",
+        "Marte",
+        "Neptuno",
+        "Mercurio"
+      ],
+      "correct": 1,
+      "category": "ciencia",
+      "level": "facil"
+    },
+    {
+      "question": "¿Cuál es el estado sólido del agua? (4)",
+      "answers": [
+        "Humo",
+        "Vapor",
+        "Hielo",
+        "Niebla"
+      ],
+      "correct": 2,
+      "category": "ciencia",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué parte de la planta está bajo tierra? (4)",
+      "answers": [
+        "Flor",
+        "Raíz",
+        "Hoja",
+        "Fruto"
+      ],
+      "correct": 1,
+      "category": "ciencia",
+      "level": "facil"
+    },
+    {
+      "question": "¿Cuál es el astro que da luz a la Tierra? (4)",
+      "answers": [
+        "Sol",
+        "Luna",
+        "Marte",
+        "Júpiter"
+      ],
+      "correct": 0,
+      "category": "ciencia",
+      "level": "facil"
+    },
+    {
+      "question": "¿Cuál de estos animales es mamífero? (4)",
+      "answers": [
+        "Tiburón",
+        "Delfín",
+        "Pulpo",
+        "Trucha"
+      ],
+      "correct": 1,
+      "category": "ciencia",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué planeta es conocido como el planeta rojo? (5)",
+      "answers": [
+        "Venus",
+        "Marte",
+        "Neptuno",
+        "Mercurio"
+      ],
+      "correct": 1,
+      "category": "ciencia",
+      "level": "facil"
+    },
+    {
+      "question": "¿Cuál es el estado sólido del agua? (5)",
+      "answers": [
+        "Humo",
+        "Vapor",
+        "Hielo",
+        "Niebla"
+      ],
+      "correct": 2,
+      "category": "ciencia",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué parte de la planta está bajo tierra? (5)",
+      "answers": [
+        "Flor",
+        "Raíz",
+        "Hoja",
+        "Fruto"
+      ],
+      "correct": 1,
+      "category": "ciencia",
+      "level": "facil"
+    },
+    {
+      "question": "¿Cuál es el astro que da luz a la Tierra? (5)",
+      "answers": [
+        "Sol",
+        "Luna",
+        "Marte",
+        "Júpiter"
+      ],
+      "correct": 0,
+      "category": "ciencia",
+      "level": "facil"
+    },
+    {
+      "question": "¿Cuál de estos animales es mamífero? (5)",
+      "answers": [
+        "Tiburón",
+        "Delfín",
+        "Pulpo",
+        "Trucha"
+      ],
+      "correct": 1,
+      "category": "ciencia",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué planeta es conocido como el planeta rojo? (6)",
+      "answers": [
+        "Venus",
+        "Marte",
+        "Neptuno",
+        "Mercurio"
+      ],
+      "correct": 1,
+      "category": "ciencia",
+      "level": "facil"
+    },
+    {
+      "question": "¿Cuál es el estado sólido del agua? (6)",
+      "answers": [
+        "Humo",
+        "Vapor",
+        "Hielo",
+        "Niebla"
+      ],
+      "correct": 2,
+      "category": "ciencia",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué parte de la planta está bajo tierra? (6)",
+      "answers": [
+        "Flor",
+        "Raíz",
+        "Hoja",
+        "Fruto"
+      ],
+      "correct": 1,
+      "category": "ciencia",
+      "level": "facil"
+    },
+    {
+      "question": "¿Cuál es el astro que da luz a la Tierra? (6)",
+      "answers": [
+        "Sol",
+        "Luna",
+        "Marte",
+        "Júpiter"
+      ],
+      "correct": 0,
+      "category": "ciencia",
+      "level": "facil"
+    },
+    {
+      "question": "¿Cuál de estos animales es mamífero? (6)",
+      "answers": [
+        "Tiburón",
+        "Delfín",
+        "Pulpo",
+        "Trucha"
+      ],
+      "correct": 1,
+      "category": "ciencia",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué planeta es conocido como el planeta rojo? (7)",
+      "answers": [
+        "Venus",
+        "Marte",
+        "Neptuno",
+        "Mercurio"
+      ],
+      "correct": 1,
+      "category": "ciencia",
+      "level": "facil"
+    },
+    {
+      "question": "¿Cuál es el estado sólido del agua? (7)",
+      "answers": [
+        "Humo",
+        "Vapor",
+        "Hielo",
+        "Niebla"
+      ],
+      "correct": 2,
+      "category": "ciencia",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué parte de la planta está bajo tierra? (7)",
+      "answers": [
+        "Flor",
+        "Raíz",
+        "Hoja",
+        "Fruto"
+      ],
+      "correct": 1,
+      "category": "ciencia",
+      "level": "facil"
+    },
+    {
+      "question": "¿Cuál es el astro que da luz a la Tierra? (7)",
+      "answers": [
+        "Sol",
+        "Luna",
+        "Marte",
+        "Júpiter"
+      ],
+      "correct": 0,
+      "category": "ciencia",
+      "level": "facil"
+    },
+    {
+      "question": "¿Cuál de estos animales es mamífero? (7)",
+      "answers": [
+        "Tiburón",
+        "Delfín",
+        "Pulpo",
+        "Trucha"
+      ],
+      "correct": 1,
+      "category": "ciencia",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué planeta es conocido como el planeta rojo? (8)",
+      "answers": [
+        "Venus",
+        "Marte",
+        "Neptuno",
+        "Mercurio"
+      ],
+      "correct": 1,
+      "category": "ciencia",
+      "level": "facil"
+    },
+    {
+      "question": "¿Cuál es el estado sólido del agua? (8)",
+      "answers": [
+        "Humo",
+        "Vapor",
+        "Hielo",
+        "Niebla"
+      ],
+      "correct": 2,
+      "category": "ciencia",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué parte de la planta está bajo tierra? (8)",
+      "answers": [
+        "Flor",
+        "Raíz",
+        "Hoja",
+        "Fruto"
+      ],
+      "correct": 1,
+      "category": "ciencia",
+      "level": "facil"
+    },
+    {
+      "question": "¿Cuál es el astro que da luz a la Tierra? (8)",
+      "answers": [
+        "Sol",
+        "Luna",
+        "Marte",
+        "Júpiter"
+      ],
+      "correct": 0,
+      "category": "ciencia",
+      "level": "facil"
+    },
+    {
+      "question": "¿Cuál de estos animales es mamífero? (8)",
+      "answers": [
+        "Tiburón",
+        "Delfín",
+        "Pulpo",
+        "Trucha"
+      ],
+      "correct": 1,
+      "category": "ciencia",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué planeta es conocido como el planeta rojo? (9)",
+      "answers": [
+        "Venus",
+        "Marte",
+        "Neptuno",
+        "Mercurio"
+      ],
+      "correct": 1,
+      "category": "ciencia",
+      "level": "facil"
+    },
+    {
+      "question": "¿Cuál es el estado sólido del agua? (9)",
+      "answers": [
+        "Humo",
+        "Vapor",
+        "Hielo",
+        "Niebla"
+      ],
+      "correct": 2,
+      "category": "ciencia",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué parte de la planta está bajo tierra? (9)",
+      "answers": [
+        "Flor",
+        "Raíz",
+        "Hoja",
+        "Fruto"
+      ],
+      "correct": 1,
+      "category": "ciencia",
+      "level": "facil"
+    },
+    {
+      "question": "¿Cuál es el astro que da luz a la Tierra? (9)",
+      "answers": [
+        "Sol",
+        "Luna",
+        "Marte",
+        "Júpiter"
+      ],
+      "correct": 0,
+      "category": "ciencia",
+      "level": "facil"
+    },
+    {
+      "question": "¿Cuál de estos animales es mamífero? (9)",
+      "answers": [
+        "Tiburón",
+        "Delfín",
+        "Pulpo",
+        "Trucha"
+      ],
+      "correct": 1,
+      "category": "ciencia",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué planeta es conocido como el planeta rojo? (10)",
+      "answers": [
+        "Venus",
+        "Marte",
+        "Neptuno",
+        "Mercurio"
+      ],
+      "correct": 1,
+      "category": "ciencia",
+      "level": "facil"
+    },
+    {
+      "question": "¿Cuál es el estado sólido del agua? (10)",
+      "answers": [
+        "Humo",
+        "Vapor",
+        "Hielo",
+        "Niebla"
+      ],
+      "correct": 2,
+      "category": "ciencia",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué parte de la planta está bajo tierra? (10)",
+      "answers": [
+        "Flor",
+        "Raíz",
+        "Hoja",
+        "Fruto"
+      ],
+      "correct": 1,
+      "category": "ciencia",
+      "level": "facil"
+    },
+    {
+      "question": "¿Cuál es el astro que da luz a la Tierra? (10)",
+      "answers": [
+        "Sol",
+        "Luna",
+        "Marte",
+        "Júpiter"
+      ],
+      "correct": 0,
+      "category": "ciencia",
+      "level": "facil"
+    },
+    {
+      "question": "¿Cuál de estos animales es mamífero? (10)",
+      "answers": [
+        "Tiburón",
+        "Delfín",
+        "Pulpo",
+        "Trucha"
+      ],
+      "correct": 1,
+      "category": "ciencia",
+      "level": "facil"
+    }
+  ],
+  "historia": [
+    {
+      "question": "¿Qué construyeron los egipcios famosos por su tamaño?",
+      "answers": [
+        "Pirámides",
+        "Rascacielos",
+        "Túneles",
+        "Puertos"
+      ],
+      "correct": 0,
+      "category": "historia",
+      "level": "facil"
+    },
+    {
+      "question": "¿Quién llegó a América en 1492?",
+      "answers": [
+        "Marco Polo",
+        "Colón",
+        "Napoleón",
+        "Elcano"
+      ],
+      "correct": 1,
+      "category": "historia",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué civilización vivía en Roma antigua?",
+      "answers": [
+        "Romana",
+        "Inca",
+        "Maya",
+        "Vikinga"
+      ],
+      "correct": 0,
+      "category": "historia",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué monumento está en China y es muy largo?",
+      "answers": [
+        "Muralla China",
+        "Big Ben",
+        "Coliseo",
+        "Torre Eiffel"
+      ],
+      "correct": 0,
+      "category": "historia",
+      "level": "facil"
+    },
+    {
+      "question": "¿En qué país estaban los faraones?",
+      "answers": [
+        "Grecia",
+        "Egipto",
+        "China",
+        "Perú"
+      ],
+      "correct": 1,
+      "category": "historia",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué construyeron los egipcios famosos por su tamaño? (2)",
+      "answers": [
+        "Pirámides",
+        "Rascacielos",
+        "Túneles",
+        "Puertos"
+      ],
+      "correct": 0,
+      "category": "historia",
+      "level": "facil"
+    },
+    {
+      "question": "¿Quién llegó a América en 1492? (2)",
+      "answers": [
+        "Marco Polo",
+        "Colón",
+        "Napoleón",
+        "Elcano"
+      ],
+      "correct": 1,
+      "category": "historia",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué civilización vivía en Roma antigua? (2)",
+      "answers": [
+        "Romana",
+        "Inca",
+        "Maya",
+        "Vikinga"
+      ],
+      "correct": 0,
+      "category": "historia",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué monumento está en China y es muy largo? (2)",
+      "answers": [
+        "Muralla China",
+        "Big Ben",
+        "Coliseo",
+        "Torre Eiffel"
+      ],
+      "correct": 0,
+      "category": "historia",
+      "level": "facil"
+    },
+    {
+      "question": "¿En qué país estaban los faraones? (2)",
+      "answers": [
+        "Grecia",
+        "Egipto",
+        "China",
+        "Perú"
+      ],
+      "correct": 1,
+      "category": "historia",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué construyeron los egipcios famosos por su tamaño? (3)",
+      "answers": [
+        "Pirámides",
+        "Rascacielos",
+        "Túneles",
+        "Puertos"
+      ],
+      "correct": 0,
+      "category": "historia",
+      "level": "facil"
+    },
+    {
+      "question": "¿Quién llegó a América en 1492? (3)",
+      "answers": [
+        "Marco Polo",
+        "Colón",
+        "Napoleón",
+        "Elcano"
+      ],
+      "correct": 1,
+      "category": "historia",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué civilización vivía en Roma antigua? (3)",
+      "answers": [
+        "Romana",
+        "Inca",
+        "Maya",
+        "Vikinga"
+      ],
+      "correct": 0,
+      "category": "historia",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué monumento está en China y es muy largo? (3)",
+      "answers": [
+        "Muralla China",
+        "Big Ben",
+        "Coliseo",
+        "Torre Eiffel"
+      ],
+      "correct": 0,
+      "category": "historia",
+      "level": "facil"
+    },
+    {
+      "question": "¿En qué país estaban los faraones? (3)",
+      "answers": [
+        "Grecia",
+        "Egipto",
+        "China",
+        "Perú"
+      ],
+      "correct": 1,
+      "category": "historia",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué construyeron los egipcios famosos por su tamaño? (4)",
+      "answers": [
+        "Pirámides",
+        "Rascacielos",
+        "Túneles",
+        "Puertos"
+      ],
+      "correct": 0,
+      "category": "historia",
+      "level": "facil"
+    },
+    {
+      "question": "¿Quién llegó a América en 1492? (4)",
+      "answers": [
+        "Marco Polo",
+        "Colón",
+        "Napoleón",
+        "Elcano"
+      ],
+      "correct": 1,
+      "category": "historia",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué civilización vivía en Roma antigua? (4)",
+      "answers": [
+        "Romana",
+        "Inca",
+        "Maya",
+        "Vikinga"
+      ],
+      "correct": 0,
+      "category": "historia",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué monumento está en China y es muy largo? (4)",
+      "answers": [
+        "Muralla China",
+        "Big Ben",
+        "Coliseo",
+        "Torre Eiffel"
+      ],
+      "correct": 0,
+      "category": "historia",
+      "level": "facil"
+    },
+    {
+      "question": "¿En qué país estaban los faraones? (4)",
+      "answers": [
+        "Grecia",
+        "Egipto",
+        "China",
+        "Perú"
+      ],
+      "correct": 1,
+      "category": "historia",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué construyeron los egipcios famosos por su tamaño? (5)",
+      "answers": [
+        "Pirámides",
+        "Rascacielos",
+        "Túneles",
+        "Puertos"
+      ],
+      "correct": 0,
+      "category": "historia",
+      "level": "facil"
+    },
+    {
+      "question": "¿Quién llegó a América en 1492? (5)",
+      "answers": [
+        "Marco Polo",
+        "Colón",
+        "Napoleón",
+        "Elcano"
+      ],
+      "correct": 1,
+      "category": "historia",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué civilización vivía en Roma antigua? (5)",
+      "answers": [
+        "Romana",
+        "Inca",
+        "Maya",
+        "Vikinga"
+      ],
+      "correct": 0,
+      "category": "historia",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué monumento está en China y es muy largo? (5)",
+      "answers": [
+        "Muralla China",
+        "Big Ben",
+        "Coliseo",
+        "Torre Eiffel"
+      ],
+      "correct": 0,
+      "category": "historia",
+      "level": "facil"
+    },
+    {
+      "question": "¿En qué país estaban los faraones? (5)",
+      "answers": [
+        "Grecia",
+        "Egipto",
+        "China",
+        "Perú"
+      ],
+      "correct": 1,
+      "category": "historia",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué construyeron los egipcios famosos por su tamaño? (6)",
+      "answers": [
+        "Pirámides",
+        "Rascacielos",
+        "Túneles",
+        "Puertos"
+      ],
+      "correct": 0,
+      "category": "historia",
+      "level": "facil"
+    },
+    {
+      "question": "¿Quién llegó a América en 1492? (6)",
+      "answers": [
+        "Marco Polo",
+        "Colón",
+        "Napoleón",
+        "Elcano"
+      ],
+      "correct": 1,
+      "category": "historia",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué civilización vivía en Roma antigua? (6)",
+      "answers": [
+        "Romana",
+        "Inca",
+        "Maya",
+        "Vikinga"
+      ],
+      "correct": 0,
+      "category": "historia",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué monumento está en China y es muy largo? (6)",
+      "answers": [
+        "Muralla China",
+        "Big Ben",
+        "Coliseo",
+        "Torre Eiffel"
+      ],
+      "correct": 0,
+      "category": "historia",
+      "level": "facil"
+    },
+    {
+      "question": "¿En qué país estaban los faraones? (6)",
+      "answers": [
+        "Grecia",
+        "Egipto",
+        "China",
+        "Perú"
+      ],
+      "correct": 1,
+      "category": "historia",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué construyeron los egipcios famosos por su tamaño? (7)",
+      "answers": [
+        "Pirámides",
+        "Rascacielos",
+        "Túneles",
+        "Puertos"
+      ],
+      "correct": 0,
+      "category": "historia",
+      "level": "facil"
+    },
+    {
+      "question": "¿Quién llegó a América en 1492? (7)",
+      "answers": [
+        "Marco Polo",
+        "Colón",
+        "Napoleón",
+        "Elcano"
+      ],
+      "correct": 1,
+      "category": "historia",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué civilización vivía en Roma antigua? (7)",
+      "answers": [
+        "Romana",
+        "Inca",
+        "Maya",
+        "Vikinga"
+      ],
+      "correct": 0,
+      "category": "historia",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué monumento está en China y es muy largo? (7)",
+      "answers": [
+        "Muralla China",
+        "Big Ben",
+        "Coliseo",
+        "Torre Eiffel"
+      ],
+      "correct": 0,
+      "category": "historia",
+      "level": "facil"
+    },
+    {
+      "question": "¿En qué país estaban los faraones? (7)",
+      "answers": [
+        "Grecia",
+        "Egipto",
+        "China",
+        "Perú"
+      ],
+      "correct": 1,
+      "category": "historia",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué construyeron los egipcios famosos por su tamaño? (8)",
+      "answers": [
+        "Pirámides",
+        "Rascacielos",
+        "Túneles",
+        "Puertos"
+      ],
+      "correct": 0,
+      "category": "historia",
+      "level": "facil"
+    },
+    {
+      "question": "¿Quién llegó a América en 1492? (8)",
+      "answers": [
+        "Marco Polo",
+        "Colón",
+        "Napoleón",
+        "Elcano"
+      ],
+      "correct": 1,
+      "category": "historia",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué civilización vivía en Roma antigua? (8)",
+      "answers": [
+        "Romana",
+        "Inca",
+        "Maya",
+        "Vikinga"
+      ],
+      "correct": 0,
+      "category": "historia",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué monumento está en China y es muy largo? (8)",
+      "answers": [
+        "Muralla China",
+        "Big Ben",
+        "Coliseo",
+        "Torre Eiffel"
+      ],
+      "correct": 0,
+      "category": "historia",
+      "level": "facil"
+    },
+    {
+      "question": "¿En qué país estaban los faraones? (8)",
+      "answers": [
+        "Grecia",
+        "Egipto",
+        "China",
+        "Perú"
+      ],
+      "correct": 1,
+      "category": "historia",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué construyeron los egipcios famosos por su tamaño? (9)",
+      "answers": [
+        "Pirámides",
+        "Rascacielos",
+        "Túneles",
+        "Puertos"
+      ],
+      "correct": 0,
+      "category": "historia",
+      "level": "facil"
+    },
+    {
+      "question": "¿Quién llegó a América en 1492? (9)",
+      "answers": [
+        "Marco Polo",
+        "Colón",
+        "Napoleón",
+        "Elcano"
+      ],
+      "correct": 1,
+      "category": "historia",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué civilización vivía en Roma antigua? (9)",
+      "answers": [
+        "Romana",
+        "Inca",
+        "Maya",
+        "Vikinga"
+      ],
+      "correct": 0,
+      "category": "historia",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué monumento está en China y es muy largo? (9)",
+      "answers": [
+        "Muralla China",
+        "Big Ben",
+        "Coliseo",
+        "Torre Eiffel"
+      ],
+      "correct": 0,
+      "category": "historia",
+      "level": "facil"
+    },
+    {
+      "question": "¿En qué país estaban los faraones? (9)",
+      "answers": [
+        "Grecia",
+        "Egipto",
+        "China",
+        "Perú"
+      ],
+      "correct": 1,
+      "category": "historia",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué construyeron los egipcios famosos por su tamaño? (10)",
+      "answers": [
+        "Pirámides",
+        "Rascacielos",
+        "Túneles",
+        "Puertos"
+      ],
+      "correct": 0,
+      "category": "historia",
+      "level": "facil"
+    },
+    {
+      "question": "¿Quién llegó a América en 1492? (10)",
+      "answers": [
+        "Marco Polo",
+        "Colón",
+        "Napoleón",
+        "Elcano"
+      ],
+      "correct": 1,
+      "category": "historia",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué civilización vivía en Roma antigua? (10)",
+      "answers": [
+        "Romana",
+        "Inca",
+        "Maya",
+        "Vikinga"
+      ],
+      "correct": 0,
+      "category": "historia",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué monumento está en China y es muy largo? (10)",
+      "answers": [
+        "Muralla China",
+        "Big Ben",
+        "Coliseo",
+        "Torre Eiffel"
+      ],
+      "correct": 0,
+      "category": "historia",
+      "level": "facil"
+    },
+    {
+      "question": "¿En qué país estaban los faraones? (10)",
+      "answers": [
+        "Grecia",
+        "Egipto",
+        "China",
+        "Perú"
+      ],
+      "correct": 1,
+      "category": "historia",
+      "level": "facil"
+    }
+  ],
+  "cine": [
+    {
+      "question": "¿Qué superhéroe lleva un escudo con estrella?",
+      "answers": [
+        "Batman",
+        "Iron Man",
+        "Capitán América",
+        "Thor"
+      ],
+      "correct": 2,
+      "category": "cine",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué película tiene un pez llamado Nemo?",
+      "answers": [
+        "Coco",
+        "Cars",
+        "Buscando a Nemo",
+        "Frozen"
+      ],
+      "correct": 2,
+      "category": "cine",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué estudio creó a Mickey Mouse?",
+      "answers": [
+        "Pixar",
+        "DreamWorks",
+        "Disney",
+        "Ghibli"
+      ],
+      "correct": 2,
+      "category": "cine",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué personaje de Star Wars respira con máscara negra?",
+      "answers": [
+        "Yoda",
+        "Darth Vader",
+        "Han Solo",
+        "Chewbacca"
+      ],
+      "correct": 1,
+      "category": "cine",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué juguete espacial acompaña a Woody?",
+      "answers": [
+        "Buzz Lightyear",
+        "Forky",
+        "Jessie",
+        "Rex"
+      ],
+      "correct": 0,
+      "category": "cine",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué superhéroe lleva un escudo con estrella? (2)",
+      "answers": [
+        "Batman",
+        "Iron Man",
+        "Capitán América",
+        "Thor"
+      ],
+      "correct": 2,
+      "category": "cine",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué película tiene un pez llamado Nemo? (2)",
+      "answers": [
+        "Coco",
+        "Cars",
+        "Buscando a Nemo",
+        "Frozen"
+      ],
+      "correct": 2,
+      "category": "cine",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué estudio creó a Mickey Mouse? (2)",
+      "answers": [
+        "Pixar",
+        "DreamWorks",
+        "Disney",
+        "Ghibli"
+      ],
+      "correct": 2,
+      "category": "cine",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué personaje de Star Wars respira con máscara negra? (2)",
+      "answers": [
+        "Yoda",
+        "Darth Vader",
+        "Han Solo",
+        "Chewbacca"
+      ],
+      "correct": 1,
+      "category": "cine",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué juguete espacial acompaña a Woody? (2)",
+      "answers": [
+        "Buzz Lightyear",
+        "Forky",
+        "Jessie",
+        "Rex"
+      ],
+      "correct": 0,
+      "category": "cine",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué superhéroe lleva un escudo con estrella? (3)",
+      "answers": [
+        "Batman",
+        "Iron Man",
+        "Capitán América",
+        "Thor"
+      ],
+      "correct": 2,
+      "category": "cine",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué película tiene un pez llamado Nemo? (3)",
+      "answers": [
+        "Coco",
+        "Cars",
+        "Buscando a Nemo",
+        "Frozen"
+      ],
+      "correct": 2,
+      "category": "cine",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué estudio creó a Mickey Mouse? (3)",
+      "answers": [
+        "Pixar",
+        "DreamWorks",
+        "Disney",
+        "Ghibli"
+      ],
+      "correct": 2,
+      "category": "cine",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué personaje de Star Wars respira con máscara negra? (3)",
+      "answers": [
+        "Yoda",
+        "Darth Vader",
+        "Han Solo",
+        "Chewbacca"
+      ],
+      "correct": 1,
+      "category": "cine",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué juguete espacial acompaña a Woody? (3)",
+      "answers": [
+        "Buzz Lightyear",
+        "Forky",
+        "Jessie",
+        "Rex"
+      ],
+      "correct": 0,
+      "category": "cine",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué superhéroe lleva un escudo con estrella? (4)",
+      "answers": [
+        "Batman",
+        "Iron Man",
+        "Capitán América",
+        "Thor"
+      ],
+      "correct": 2,
+      "category": "cine",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué película tiene un pez llamado Nemo? (4)",
+      "answers": [
+        "Coco",
+        "Cars",
+        "Buscando a Nemo",
+        "Frozen"
+      ],
+      "correct": 2,
+      "category": "cine",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué estudio creó a Mickey Mouse? (4)",
+      "answers": [
+        "Pixar",
+        "DreamWorks",
+        "Disney",
+        "Ghibli"
+      ],
+      "correct": 2,
+      "category": "cine",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué personaje de Star Wars respira con máscara negra? (4)",
+      "answers": [
+        "Yoda",
+        "Darth Vader",
+        "Han Solo",
+        "Chewbacca"
+      ],
+      "correct": 1,
+      "category": "cine",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué juguete espacial acompaña a Woody? (4)",
+      "answers": [
+        "Buzz Lightyear",
+        "Forky",
+        "Jessie",
+        "Rex"
+      ],
+      "correct": 0,
+      "category": "cine",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué superhéroe lleva un escudo con estrella? (5)",
+      "answers": [
+        "Batman",
+        "Iron Man",
+        "Capitán América",
+        "Thor"
+      ],
+      "correct": 2,
+      "category": "cine",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué película tiene un pez llamado Nemo? (5)",
+      "answers": [
+        "Coco",
+        "Cars",
+        "Buscando a Nemo",
+        "Frozen"
+      ],
+      "correct": 2,
+      "category": "cine",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué estudio creó a Mickey Mouse? (5)",
+      "answers": [
+        "Pixar",
+        "DreamWorks",
+        "Disney",
+        "Ghibli"
+      ],
+      "correct": 2,
+      "category": "cine",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué personaje de Star Wars respira con máscara negra? (5)",
+      "answers": [
+        "Yoda",
+        "Darth Vader",
+        "Han Solo",
+        "Chewbacca"
+      ],
+      "correct": 1,
+      "category": "cine",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué juguete espacial acompaña a Woody? (5)",
+      "answers": [
+        "Buzz Lightyear",
+        "Forky",
+        "Jessie",
+        "Rex"
+      ],
+      "correct": 0,
+      "category": "cine",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué superhéroe lleva un escudo con estrella? (6)",
+      "answers": [
+        "Batman",
+        "Iron Man",
+        "Capitán América",
+        "Thor"
+      ],
+      "correct": 2,
+      "category": "cine",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué película tiene un pez llamado Nemo? (6)",
+      "answers": [
+        "Coco",
+        "Cars",
+        "Buscando a Nemo",
+        "Frozen"
+      ],
+      "correct": 2,
+      "category": "cine",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué estudio creó a Mickey Mouse? (6)",
+      "answers": [
+        "Pixar",
+        "DreamWorks",
+        "Disney",
+        "Ghibli"
+      ],
+      "correct": 2,
+      "category": "cine",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué personaje de Star Wars respira con máscara negra? (6)",
+      "answers": [
+        "Yoda",
+        "Darth Vader",
+        "Han Solo",
+        "Chewbacca"
+      ],
+      "correct": 1,
+      "category": "cine",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué juguete espacial acompaña a Woody? (6)",
+      "answers": [
+        "Buzz Lightyear",
+        "Forky",
+        "Jessie",
+        "Rex"
+      ],
+      "correct": 0,
+      "category": "cine",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué superhéroe lleva un escudo con estrella? (7)",
+      "answers": [
+        "Batman",
+        "Iron Man",
+        "Capitán América",
+        "Thor"
+      ],
+      "correct": 2,
+      "category": "cine",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué película tiene un pez llamado Nemo? (7)",
+      "answers": [
+        "Coco",
+        "Cars",
+        "Buscando a Nemo",
+        "Frozen"
+      ],
+      "correct": 2,
+      "category": "cine",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué estudio creó a Mickey Mouse? (7)",
+      "answers": [
+        "Pixar",
+        "DreamWorks",
+        "Disney",
+        "Ghibli"
+      ],
+      "correct": 2,
+      "category": "cine",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué personaje de Star Wars respira con máscara negra? (7)",
+      "answers": [
+        "Yoda",
+        "Darth Vader",
+        "Han Solo",
+        "Chewbacca"
+      ],
+      "correct": 1,
+      "category": "cine",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué juguete espacial acompaña a Woody? (7)",
+      "answers": [
+        "Buzz Lightyear",
+        "Forky",
+        "Jessie",
+        "Rex"
+      ],
+      "correct": 0,
+      "category": "cine",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué superhéroe lleva un escudo con estrella? (8)",
+      "answers": [
+        "Batman",
+        "Iron Man",
+        "Capitán América",
+        "Thor"
+      ],
+      "correct": 2,
+      "category": "cine",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué película tiene un pez llamado Nemo? (8)",
+      "answers": [
+        "Coco",
+        "Cars",
+        "Buscando a Nemo",
+        "Frozen"
+      ],
+      "correct": 2,
+      "category": "cine",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué estudio creó a Mickey Mouse? (8)",
+      "answers": [
+        "Pixar",
+        "DreamWorks",
+        "Disney",
+        "Ghibli"
+      ],
+      "correct": 2,
+      "category": "cine",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué personaje de Star Wars respira con máscara negra? (8)",
+      "answers": [
+        "Yoda",
+        "Darth Vader",
+        "Han Solo",
+        "Chewbacca"
+      ],
+      "correct": 1,
+      "category": "cine",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué juguete espacial acompaña a Woody? (8)",
+      "answers": [
+        "Buzz Lightyear",
+        "Forky",
+        "Jessie",
+        "Rex"
+      ],
+      "correct": 0,
+      "category": "cine",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué superhéroe lleva un escudo con estrella? (9)",
+      "answers": [
+        "Batman",
+        "Iron Man",
+        "Capitán América",
+        "Thor"
+      ],
+      "correct": 2,
+      "category": "cine",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué película tiene un pez llamado Nemo? (9)",
+      "answers": [
+        "Coco",
+        "Cars",
+        "Buscando a Nemo",
+        "Frozen"
+      ],
+      "correct": 2,
+      "category": "cine",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué estudio creó a Mickey Mouse? (9)",
+      "answers": [
+        "Pixar",
+        "DreamWorks",
+        "Disney",
+        "Ghibli"
+      ],
+      "correct": 2,
+      "category": "cine",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué personaje de Star Wars respira con máscara negra? (9)",
+      "answers": [
+        "Yoda",
+        "Darth Vader",
+        "Han Solo",
+        "Chewbacca"
+      ],
+      "correct": 1,
+      "category": "cine",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué juguete espacial acompaña a Woody? (9)",
+      "answers": [
+        "Buzz Lightyear",
+        "Forky",
+        "Jessie",
+        "Rex"
+      ],
+      "correct": 0,
+      "category": "cine",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué superhéroe lleva un escudo con estrella? (10)",
+      "answers": [
+        "Batman",
+        "Iron Man",
+        "Capitán América",
+        "Thor"
+      ],
+      "correct": 2,
+      "category": "cine",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué película tiene un pez llamado Nemo? (10)",
+      "answers": [
+        "Coco",
+        "Cars",
+        "Buscando a Nemo",
+        "Frozen"
+      ],
+      "correct": 2,
+      "category": "cine",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué estudio creó a Mickey Mouse? (10)",
+      "answers": [
+        "Pixar",
+        "DreamWorks",
+        "Disney",
+        "Ghibli"
+      ],
+      "correct": 2,
+      "category": "cine",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué personaje de Star Wars respira con máscara negra? (10)",
+      "answers": [
+        "Yoda",
+        "Darth Vader",
+        "Han Solo",
+        "Chewbacca"
+      ],
+      "correct": 1,
+      "category": "cine",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué juguete espacial acompaña a Woody? (10)",
+      "answers": [
+        "Buzz Lightyear",
+        "Forky",
+        "Jessie",
+        "Rex"
+      ],
+      "correct": 0,
+      "category": "cine",
+      "level": "facil"
+    }
+  ],
+  "deporte": [
+    {
+      "question": "¿Qué deporte juega Rafa Nadal?",
+      "answers": [
+        "Fútbol",
+        "Tenis",
+        "Balonmano",
+        "Ciclismo"
+      ],
+      "correct": 1,
+      "category": "deporte",
+      "level": "facil"
+    },
+    {
+      "question": "¿Dónde se marcan goles?",
+      "answers": [
+        "Fútbol",
+        "Ajedrez",
+        "Natación",
+        "Atletismo"
+      ],
+      "correct": 0,
+      "category": "deporte",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué deporte usa una pelota de baloncesto?",
+      "answers": [
+        "Tenis",
+        "Golf",
+        "Baloncesto",
+        "Rugby"
+      ],
+      "correct": 2,
+      "category": "deporte",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué se necesita para nadar en piscina?",
+      "answers": [
+        "Casco",
+        "Bañador",
+        "Botas",
+        "Guantes"
+      ],
+      "correct": 1,
+      "category": "deporte",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué deporte practican los pilotos de MotoGP?",
+      "answers": [
+        "Automovilismo",
+        "Motociclismo",
+        "Ciclismo",
+        "Karting"
+      ],
+      "correct": 1,
+      "category": "deporte",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué deporte juega Rafa Nadal? (2)",
+      "answers": [
+        "Fútbol",
+        "Tenis",
+        "Balonmano",
+        "Ciclismo"
+      ],
+      "correct": 1,
+      "category": "deporte",
+      "level": "facil"
+    },
+    {
+      "question": "¿Dónde se marcan goles? (2)",
+      "answers": [
+        "Fútbol",
+        "Ajedrez",
+        "Natación",
+        "Atletismo"
+      ],
+      "correct": 0,
+      "category": "deporte",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué deporte usa una pelota de baloncesto? (2)",
+      "answers": [
+        "Tenis",
+        "Golf",
+        "Baloncesto",
+        "Rugby"
+      ],
+      "correct": 2,
+      "category": "deporte",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué se necesita para nadar en piscina? (2)",
+      "answers": [
+        "Casco",
+        "Bañador",
+        "Botas",
+        "Guantes"
+      ],
+      "correct": 1,
+      "category": "deporte",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué deporte practican los pilotos de MotoGP? (2)",
+      "answers": [
+        "Automovilismo",
+        "Motociclismo",
+        "Ciclismo",
+        "Karting"
+      ],
+      "correct": 1,
+      "category": "deporte",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué deporte juega Rafa Nadal? (3)",
+      "answers": [
+        "Fútbol",
+        "Tenis",
+        "Balonmano",
+        "Ciclismo"
+      ],
+      "correct": 1,
+      "category": "deporte",
+      "level": "facil"
+    },
+    {
+      "question": "¿Dónde se marcan goles? (3)",
+      "answers": [
+        "Fútbol",
+        "Ajedrez",
+        "Natación",
+        "Atletismo"
+      ],
+      "correct": 0,
+      "category": "deporte",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué deporte usa una pelota de baloncesto? (3)",
+      "answers": [
+        "Tenis",
+        "Golf",
+        "Baloncesto",
+        "Rugby"
+      ],
+      "correct": 2,
+      "category": "deporte",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué se necesita para nadar en piscina? (3)",
+      "answers": [
+        "Casco",
+        "Bañador",
+        "Botas",
+        "Guantes"
+      ],
+      "correct": 1,
+      "category": "deporte",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué deporte practican los pilotos de MotoGP? (3)",
+      "answers": [
+        "Automovilismo",
+        "Motociclismo",
+        "Ciclismo",
+        "Karting"
+      ],
+      "correct": 1,
+      "category": "deporte",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué deporte juega Rafa Nadal? (4)",
+      "answers": [
+        "Fútbol",
+        "Tenis",
+        "Balonmano",
+        "Ciclismo"
+      ],
+      "correct": 1,
+      "category": "deporte",
+      "level": "facil"
+    },
+    {
+      "question": "¿Dónde se marcan goles? (4)",
+      "answers": [
+        "Fútbol",
+        "Ajedrez",
+        "Natación",
+        "Atletismo"
+      ],
+      "correct": 0,
+      "category": "deporte",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué deporte usa una pelota de baloncesto? (4)",
+      "answers": [
+        "Tenis",
+        "Golf",
+        "Baloncesto",
+        "Rugby"
+      ],
+      "correct": 2,
+      "category": "deporte",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué se necesita para nadar en piscina? (4)",
+      "answers": [
+        "Casco",
+        "Bañador",
+        "Botas",
+        "Guantes"
+      ],
+      "correct": 1,
+      "category": "deporte",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué deporte practican los pilotos de MotoGP? (4)",
+      "answers": [
+        "Automovilismo",
+        "Motociclismo",
+        "Ciclismo",
+        "Karting"
+      ],
+      "correct": 1,
+      "category": "deporte",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué deporte juega Rafa Nadal? (5)",
+      "answers": [
+        "Fútbol",
+        "Tenis",
+        "Balonmano",
+        "Ciclismo"
+      ],
+      "correct": 1,
+      "category": "deporte",
+      "level": "facil"
+    },
+    {
+      "question": "¿Dónde se marcan goles? (5)",
+      "answers": [
+        "Fútbol",
+        "Ajedrez",
+        "Natación",
+        "Atletismo"
+      ],
+      "correct": 0,
+      "category": "deporte",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué deporte usa una pelota de baloncesto? (5)",
+      "answers": [
+        "Tenis",
+        "Golf",
+        "Baloncesto",
+        "Rugby"
+      ],
+      "correct": 2,
+      "category": "deporte",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué se necesita para nadar en piscina? (5)",
+      "answers": [
+        "Casco",
+        "Bañador",
+        "Botas",
+        "Guantes"
+      ],
+      "correct": 1,
+      "category": "deporte",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué deporte practican los pilotos de MotoGP? (5)",
+      "answers": [
+        "Automovilismo",
+        "Motociclismo",
+        "Ciclismo",
+        "Karting"
+      ],
+      "correct": 1,
+      "category": "deporte",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué deporte juega Rafa Nadal? (6)",
+      "answers": [
+        "Fútbol",
+        "Tenis",
+        "Balonmano",
+        "Ciclismo"
+      ],
+      "correct": 1,
+      "category": "deporte",
+      "level": "facil"
+    },
+    {
+      "question": "¿Dónde se marcan goles? (6)",
+      "answers": [
+        "Fútbol",
+        "Ajedrez",
+        "Natación",
+        "Atletismo"
+      ],
+      "correct": 0,
+      "category": "deporte",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué deporte usa una pelota de baloncesto? (6)",
+      "answers": [
+        "Tenis",
+        "Golf",
+        "Baloncesto",
+        "Rugby"
+      ],
+      "correct": 2,
+      "category": "deporte",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué se necesita para nadar en piscina? (6)",
+      "answers": [
+        "Casco",
+        "Bañador",
+        "Botas",
+        "Guantes"
+      ],
+      "correct": 1,
+      "category": "deporte",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué deporte practican los pilotos de MotoGP? (6)",
+      "answers": [
+        "Automovilismo",
+        "Motociclismo",
+        "Ciclismo",
+        "Karting"
+      ],
+      "correct": 1,
+      "category": "deporte",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué deporte juega Rafa Nadal? (7)",
+      "answers": [
+        "Fútbol",
+        "Tenis",
+        "Balonmano",
+        "Ciclismo"
+      ],
+      "correct": 1,
+      "category": "deporte",
+      "level": "facil"
+    },
+    {
+      "question": "¿Dónde se marcan goles? (7)",
+      "answers": [
+        "Fútbol",
+        "Ajedrez",
+        "Natación",
+        "Atletismo"
+      ],
+      "correct": 0,
+      "category": "deporte",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué deporte usa una pelota de baloncesto? (7)",
+      "answers": [
+        "Tenis",
+        "Golf",
+        "Baloncesto",
+        "Rugby"
+      ],
+      "correct": 2,
+      "category": "deporte",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué se necesita para nadar en piscina? (7)",
+      "answers": [
+        "Casco",
+        "Bañador",
+        "Botas",
+        "Guantes"
+      ],
+      "correct": 1,
+      "category": "deporte",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué deporte practican los pilotos de MotoGP? (7)",
+      "answers": [
+        "Automovilismo",
+        "Motociclismo",
+        "Ciclismo",
+        "Karting"
+      ],
+      "correct": 1,
+      "category": "deporte",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué deporte juega Rafa Nadal? (8)",
+      "answers": [
+        "Fútbol",
+        "Tenis",
+        "Balonmano",
+        "Ciclismo"
+      ],
+      "correct": 1,
+      "category": "deporte",
+      "level": "facil"
+    },
+    {
+      "question": "¿Dónde se marcan goles? (8)",
+      "answers": [
+        "Fútbol",
+        "Ajedrez",
+        "Natación",
+        "Atletismo"
+      ],
+      "correct": 0,
+      "category": "deporte",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué deporte usa una pelota de baloncesto? (8)",
+      "answers": [
+        "Tenis",
+        "Golf",
+        "Baloncesto",
+        "Rugby"
+      ],
+      "correct": 2,
+      "category": "deporte",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué se necesita para nadar en piscina? (8)",
+      "answers": [
+        "Casco",
+        "Bañador",
+        "Botas",
+        "Guantes"
+      ],
+      "correct": 1,
+      "category": "deporte",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué deporte practican los pilotos de MotoGP? (8)",
+      "answers": [
+        "Automovilismo",
+        "Motociclismo",
+        "Ciclismo",
+        "Karting"
+      ],
+      "correct": 1,
+      "category": "deporte",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué deporte juega Rafa Nadal? (9)",
+      "answers": [
+        "Fútbol",
+        "Tenis",
+        "Balonmano",
+        "Ciclismo"
+      ],
+      "correct": 1,
+      "category": "deporte",
+      "level": "facil"
+    },
+    {
+      "question": "¿Dónde se marcan goles? (9)",
+      "answers": [
+        "Fútbol",
+        "Ajedrez",
+        "Natación",
+        "Atletismo"
+      ],
+      "correct": 0,
+      "category": "deporte",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué deporte usa una pelota de baloncesto? (9)",
+      "answers": [
+        "Tenis",
+        "Golf",
+        "Baloncesto",
+        "Rugby"
+      ],
+      "correct": 2,
+      "category": "deporte",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué se necesita para nadar en piscina? (9)",
+      "answers": [
+        "Casco",
+        "Bañador",
+        "Botas",
+        "Guantes"
+      ],
+      "correct": 1,
+      "category": "deporte",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué deporte practican los pilotos de MotoGP? (9)",
+      "answers": [
+        "Automovilismo",
+        "Motociclismo",
+        "Ciclismo",
+        "Karting"
+      ],
+      "correct": 1,
+      "category": "deporte",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué deporte juega Rafa Nadal? (10)",
+      "answers": [
+        "Fútbol",
+        "Tenis",
+        "Balonmano",
+        "Ciclismo"
+      ],
+      "correct": 1,
+      "category": "deporte",
+      "level": "facil"
+    },
+    {
+      "question": "¿Dónde se marcan goles? (10)",
+      "answers": [
+        "Fútbol",
+        "Ajedrez",
+        "Natación",
+        "Atletismo"
+      ],
+      "correct": 0,
+      "category": "deporte",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué deporte usa una pelota de baloncesto? (10)",
+      "answers": [
+        "Tenis",
+        "Golf",
+        "Baloncesto",
+        "Rugby"
+      ],
+      "correct": 2,
+      "category": "deporte",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué se necesita para nadar en piscina? (10)",
+      "answers": [
+        "Casco",
+        "Bañador",
+        "Botas",
+        "Guantes"
+      ],
+      "correct": 1,
+      "category": "deporte",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué deporte practican los pilotos de MotoGP? (10)",
+      "answers": [
+        "Automovilismo",
+        "Motociclismo",
+        "Ciclismo",
+        "Karting"
+      ],
+      "correct": 1,
+      "category": "deporte",
+      "level": "facil"
+    }
+  ],
+  "musica": [
+    {
+      "question": "¿Qué artista era conocido como el Rey del Pop?",
+      "answers": [
+        "Prince",
+        "Michael Jackson",
+        "Freddie Mercury",
+        "Bowie"
+      ],
+      "correct": 1,
+      "category": "musica",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué instrumento tiene cuerdas y se toca con dedos o púa?",
+      "answers": [
+        "Guitarra",
+        "Batería",
+        "Trompeta",
+        "Fagot"
+      ],
+      "correct": 0,
+      "category": "musica",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué grupo cantaba Bohemian Rhapsody?",
+      "answers": [
+        "ABBA",
+        "Queen",
+        "U2",
+        "Coldplay"
+      ],
+      "correct": 1,
+      "category": "musica",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué instrumento toca un baterista?",
+      "answers": [
+        "Chelo",
+        "Arpa",
+        "Batería",
+        "Clarinete"
+      ],
+      "correct": 2,
+      "category": "musica",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué cantante fue líder de Queen?",
+      "answers": [
+        "Freddie Mercury",
+        "Bono",
+        "Mick Jagger",
+        "Sting"
+      ],
+      "correct": 0,
+      "category": "musica",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué artista era conocido como el Rey del Pop? (2)",
+      "answers": [
+        "Prince",
+        "Michael Jackson",
+        "Freddie Mercury",
+        "Bowie"
+      ],
+      "correct": 1,
+      "category": "musica",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué instrumento tiene cuerdas y se toca con dedos o púa? (2)",
+      "answers": [
+        "Guitarra",
+        "Batería",
+        "Trompeta",
+        "Fagot"
+      ],
+      "correct": 0,
+      "category": "musica",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué grupo cantaba Bohemian Rhapsody? (2)",
+      "answers": [
+        "ABBA",
+        "Queen",
+        "U2",
+        "Coldplay"
+      ],
+      "correct": 1,
+      "category": "musica",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué instrumento toca un baterista? (2)",
+      "answers": [
+        "Chelo",
+        "Arpa",
+        "Batería",
+        "Clarinete"
+      ],
+      "correct": 2,
+      "category": "musica",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué cantante fue líder de Queen? (2)",
+      "answers": [
+        "Freddie Mercury",
+        "Bono",
+        "Mick Jagger",
+        "Sting"
+      ],
+      "correct": 0,
+      "category": "musica",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué artista era conocido como el Rey del Pop? (3)",
+      "answers": [
+        "Prince",
+        "Michael Jackson",
+        "Freddie Mercury",
+        "Bowie"
+      ],
+      "correct": 1,
+      "category": "musica",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué instrumento tiene cuerdas y se toca con dedos o púa? (3)",
+      "answers": [
+        "Guitarra",
+        "Batería",
+        "Trompeta",
+        "Fagot"
+      ],
+      "correct": 0,
+      "category": "musica",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué grupo cantaba Bohemian Rhapsody? (3)",
+      "answers": [
+        "ABBA",
+        "Queen",
+        "U2",
+        "Coldplay"
+      ],
+      "correct": 1,
+      "category": "musica",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué instrumento toca un baterista? (3)",
+      "answers": [
+        "Chelo",
+        "Arpa",
+        "Batería",
+        "Clarinete"
+      ],
+      "correct": 2,
+      "category": "musica",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué cantante fue líder de Queen? (3)",
+      "answers": [
+        "Freddie Mercury",
+        "Bono",
+        "Mick Jagger",
+        "Sting"
+      ],
+      "correct": 0,
+      "category": "musica",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué artista era conocido como el Rey del Pop? (4)",
+      "answers": [
+        "Prince",
+        "Michael Jackson",
+        "Freddie Mercury",
+        "Bowie"
+      ],
+      "correct": 1,
+      "category": "musica",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué instrumento tiene cuerdas y se toca con dedos o púa? (4)",
+      "answers": [
+        "Guitarra",
+        "Batería",
+        "Trompeta",
+        "Fagot"
+      ],
+      "correct": 0,
+      "category": "musica",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué grupo cantaba Bohemian Rhapsody? (4)",
+      "answers": [
+        "ABBA",
+        "Queen",
+        "U2",
+        "Coldplay"
+      ],
+      "correct": 1,
+      "category": "musica",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué instrumento toca un baterista? (4)",
+      "answers": [
+        "Chelo",
+        "Arpa",
+        "Batería",
+        "Clarinete"
+      ],
+      "correct": 2,
+      "category": "musica",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué cantante fue líder de Queen? (4)",
+      "answers": [
+        "Freddie Mercury",
+        "Bono",
+        "Mick Jagger",
+        "Sting"
+      ],
+      "correct": 0,
+      "category": "musica",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué artista era conocido como el Rey del Pop? (5)",
+      "answers": [
+        "Prince",
+        "Michael Jackson",
+        "Freddie Mercury",
+        "Bowie"
+      ],
+      "correct": 1,
+      "category": "musica",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué instrumento tiene cuerdas y se toca con dedos o púa? (5)",
+      "answers": [
+        "Guitarra",
+        "Batería",
+        "Trompeta",
+        "Fagot"
+      ],
+      "correct": 0,
+      "category": "musica",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué grupo cantaba Bohemian Rhapsody? (5)",
+      "answers": [
+        "ABBA",
+        "Queen",
+        "U2",
+        "Coldplay"
+      ],
+      "correct": 1,
+      "category": "musica",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué instrumento toca un baterista? (5)",
+      "answers": [
+        "Chelo",
+        "Arpa",
+        "Batería",
+        "Clarinete"
+      ],
+      "correct": 2,
+      "category": "musica",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué cantante fue líder de Queen? (5)",
+      "answers": [
+        "Freddie Mercury",
+        "Bono",
+        "Mick Jagger",
+        "Sting"
+      ],
+      "correct": 0,
+      "category": "musica",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué artista era conocido como el Rey del Pop? (6)",
+      "answers": [
+        "Prince",
+        "Michael Jackson",
+        "Freddie Mercury",
+        "Bowie"
+      ],
+      "correct": 1,
+      "category": "musica",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué instrumento tiene cuerdas y se toca con dedos o púa? (6)",
+      "answers": [
+        "Guitarra",
+        "Batería",
+        "Trompeta",
+        "Fagot"
+      ],
+      "correct": 0,
+      "category": "musica",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué grupo cantaba Bohemian Rhapsody? (6)",
+      "answers": [
+        "ABBA",
+        "Queen",
+        "U2",
+        "Coldplay"
+      ],
+      "correct": 1,
+      "category": "musica",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué instrumento toca un baterista? (6)",
+      "answers": [
+        "Chelo",
+        "Arpa",
+        "Batería",
+        "Clarinete"
+      ],
+      "correct": 2,
+      "category": "musica",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué cantante fue líder de Queen? (6)",
+      "answers": [
+        "Freddie Mercury",
+        "Bono",
+        "Mick Jagger",
+        "Sting"
+      ],
+      "correct": 0,
+      "category": "musica",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué artista era conocido como el Rey del Pop? (7)",
+      "answers": [
+        "Prince",
+        "Michael Jackson",
+        "Freddie Mercury",
+        "Bowie"
+      ],
+      "correct": 1,
+      "category": "musica",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué instrumento tiene cuerdas y se toca con dedos o púa? (7)",
+      "answers": [
+        "Guitarra",
+        "Batería",
+        "Trompeta",
+        "Fagot"
+      ],
+      "correct": 0,
+      "category": "musica",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué grupo cantaba Bohemian Rhapsody? (7)",
+      "answers": [
+        "ABBA",
+        "Queen",
+        "U2",
+        "Coldplay"
+      ],
+      "correct": 1,
+      "category": "musica",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué instrumento toca un baterista? (7)",
+      "answers": [
+        "Chelo",
+        "Arpa",
+        "Batería",
+        "Clarinete"
+      ],
+      "correct": 2,
+      "category": "musica",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué cantante fue líder de Queen? (7)",
+      "answers": [
+        "Freddie Mercury",
+        "Bono",
+        "Mick Jagger",
+        "Sting"
+      ],
+      "correct": 0,
+      "category": "musica",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué artista era conocido como el Rey del Pop? (8)",
+      "answers": [
+        "Prince",
+        "Michael Jackson",
+        "Freddie Mercury",
+        "Bowie"
+      ],
+      "correct": 1,
+      "category": "musica",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué instrumento tiene cuerdas y se toca con dedos o púa? (8)",
+      "answers": [
+        "Guitarra",
+        "Batería",
+        "Trompeta",
+        "Fagot"
+      ],
+      "correct": 0,
+      "category": "musica",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué grupo cantaba Bohemian Rhapsody? (8)",
+      "answers": [
+        "ABBA",
+        "Queen",
+        "U2",
+        "Coldplay"
+      ],
+      "correct": 1,
+      "category": "musica",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué instrumento toca un baterista? (8)",
+      "answers": [
+        "Chelo",
+        "Arpa",
+        "Batería",
+        "Clarinete"
+      ],
+      "correct": 2,
+      "category": "musica",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué cantante fue líder de Queen? (8)",
+      "answers": [
+        "Freddie Mercury",
+        "Bono",
+        "Mick Jagger",
+        "Sting"
+      ],
+      "correct": 0,
+      "category": "musica",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué artista era conocido como el Rey del Pop? (9)",
+      "answers": [
+        "Prince",
+        "Michael Jackson",
+        "Freddie Mercury",
+        "Bowie"
+      ],
+      "correct": 1,
+      "category": "musica",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué instrumento tiene cuerdas y se toca con dedos o púa? (9)",
+      "answers": [
+        "Guitarra",
+        "Batería",
+        "Trompeta",
+        "Fagot"
+      ],
+      "correct": 0,
+      "category": "musica",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué grupo cantaba Bohemian Rhapsody? (9)",
+      "answers": [
+        "ABBA",
+        "Queen",
+        "U2",
+        "Coldplay"
+      ],
+      "correct": 1,
+      "category": "musica",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué instrumento toca un baterista? (9)",
+      "answers": [
+        "Chelo",
+        "Arpa",
+        "Batería",
+        "Clarinete"
+      ],
+      "correct": 2,
+      "category": "musica",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué cantante fue líder de Queen? (9)",
+      "answers": [
+        "Freddie Mercury",
+        "Bono",
+        "Mick Jagger",
+        "Sting"
+      ],
+      "correct": 0,
+      "category": "musica",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué artista era conocido como el Rey del Pop? (10)",
+      "answers": [
+        "Prince",
+        "Michael Jackson",
+        "Freddie Mercury",
+        "Bowie"
+      ],
+      "correct": 1,
+      "category": "musica",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué instrumento tiene cuerdas y se toca con dedos o púa? (10)",
+      "answers": [
+        "Guitarra",
+        "Batería",
+        "Trompeta",
+        "Fagot"
+      ],
+      "correct": 0,
+      "category": "musica",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué grupo cantaba Bohemian Rhapsody? (10)",
+      "answers": [
+        "ABBA",
+        "Queen",
+        "U2",
+        "Coldplay"
+      ],
+      "correct": 1,
+      "category": "musica",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué instrumento toca un baterista? (10)",
+      "answers": [
+        "Chelo",
+        "Arpa",
+        "Batería",
+        "Clarinete"
+      ],
+      "correct": 2,
+      "category": "musica",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué cantante fue líder de Queen? (10)",
+      "answers": [
+        "Freddie Mercury",
+        "Bono",
+        "Mick Jagger",
+        "Sting"
+      ],
+      "correct": 0,
+      "category": "musica",
+      "level": "facil"
+    }
+  ],
+  "ninos": [
+    {
+      "question": "¿Qué color mezclan rojo y amarillo normalmente?",
+      "answers": [
+        "Verde",
+        "Naranja",
+        "Morado",
+        "Azul"
+      ],
+      "correct": 1,
+      "category": "ninos",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué animal suele vivir en una granja y da leche?",
+      "answers": [
+        "Vaca",
+        "León",
+        "Lobo",
+        "Tigre"
+      ],
+      "correct": 0,
+      "category": "ninos",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué se apaga por la noche en muchos cuartos?",
+      "answers": [
+        "La cama",
+        "La luz",
+        "La ventana",
+        "La puerta"
+      ],
+      "correct": 1,
+      "category": "ninos",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué usamos para peinarnos?",
+      "answers": [
+        "Peine",
+        "Llave",
+        "Regla",
+        "Taza"
+      ],
+      "correct": 0,
+      "category": "ninos",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué objeto usamos para saber la hora?",
+      "answers": [
+        "Reloj",
+        "Plato",
+        "Mochila",
+        "Manta"
+      ],
+      "correct": 0,
+      "category": "ninos",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué color mezclan rojo y amarillo normalmente? (2)",
+      "answers": [
+        "Verde",
+        "Naranja",
+        "Morado",
+        "Azul"
+      ],
+      "correct": 1,
+      "category": "ninos",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué animal suele vivir en una granja y da leche? (2)",
+      "answers": [
+        "Vaca",
+        "León",
+        "Lobo",
+        "Tigre"
+      ],
+      "correct": 0,
+      "category": "ninos",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué se apaga por la noche en muchos cuartos? (2)",
+      "answers": [
+        "La cama",
+        "La luz",
+        "La ventana",
+        "La puerta"
+      ],
+      "correct": 1,
+      "category": "ninos",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué usamos para peinarnos? (2)",
+      "answers": [
+        "Peine",
+        "Llave",
+        "Regla",
+        "Taza"
+      ],
+      "correct": 0,
+      "category": "ninos",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué objeto usamos para saber la hora? (2)",
+      "answers": [
+        "Reloj",
+        "Plato",
+        "Mochila",
+        "Manta"
+      ],
+      "correct": 0,
+      "category": "ninos",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué color mezclan rojo y amarillo normalmente? (3)",
+      "answers": [
+        "Verde",
+        "Naranja",
+        "Morado",
+        "Azul"
+      ],
+      "correct": 1,
+      "category": "ninos",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué animal suele vivir en una granja y da leche? (3)",
+      "answers": [
+        "Vaca",
+        "León",
+        "Lobo",
+        "Tigre"
+      ],
+      "correct": 0,
+      "category": "ninos",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué se apaga por la noche en muchos cuartos? (3)",
+      "answers": [
+        "La cama",
+        "La luz",
+        "La ventana",
+        "La puerta"
+      ],
+      "correct": 1,
+      "category": "ninos",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué usamos para peinarnos? (3)",
+      "answers": [
+        "Peine",
+        "Llave",
+        "Regla",
+        "Taza"
+      ],
+      "correct": 0,
+      "category": "ninos",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué objeto usamos para saber la hora? (3)",
+      "answers": [
+        "Reloj",
+        "Plato",
+        "Mochila",
+        "Manta"
+      ],
+      "correct": 0,
+      "category": "ninos",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué color mezclan rojo y amarillo normalmente? (4)",
+      "answers": [
+        "Verde",
+        "Naranja",
+        "Morado",
+        "Azul"
+      ],
+      "correct": 1,
+      "category": "ninos",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué animal suele vivir en una granja y da leche? (4)",
+      "answers": [
+        "Vaca",
+        "León",
+        "Lobo",
+        "Tigre"
+      ],
+      "correct": 0,
+      "category": "ninos",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué se apaga por la noche en muchos cuartos? (4)",
+      "answers": [
+        "La cama",
+        "La luz",
+        "La ventana",
+        "La puerta"
+      ],
+      "correct": 1,
+      "category": "ninos",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué usamos para peinarnos? (4)",
+      "answers": [
+        "Peine",
+        "Llave",
+        "Regla",
+        "Taza"
+      ],
+      "correct": 0,
+      "category": "ninos",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué objeto usamos para saber la hora? (4)",
+      "answers": [
+        "Reloj",
+        "Plato",
+        "Mochila",
+        "Manta"
+      ],
+      "correct": 0,
+      "category": "ninos",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué color mezclan rojo y amarillo normalmente? (5)",
+      "answers": [
+        "Verde",
+        "Naranja",
+        "Morado",
+        "Azul"
+      ],
+      "correct": 1,
+      "category": "ninos",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué animal suele vivir en una granja y da leche? (5)",
+      "answers": [
+        "Vaca",
+        "León",
+        "Lobo",
+        "Tigre"
+      ],
+      "correct": 0,
+      "category": "ninos",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué se apaga por la noche en muchos cuartos? (5)",
+      "answers": [
+        "La cama",
+        "La luz",
+        "La ventana",
+        "La puerta"
+      ],
+      "correct": 1,
+      "category": "ninos",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué usamos para peinarnos? (5)",
+      "answers": [
+        "Peine",
+        "Llave",
+        "Regla",
+        "Taza"
+      ],
+      "correct": 0,
+      "category": "ninos",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué objeto usamos para saber la hora? (5)",
+      "answers": [
+        "Reloj",
+        "Plato",
+        "Mochila",
+        "Manta"
+      ],
+      "correct": 0,
+      "category": "ninos",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué color mezclan rojo y amarillo normalmente? (6)",
+      "answers": [
+        "Verde",
+        "Naranja",
+        "Morado",
+        "Azul"
+      ],
+      "correct": 1,
+      "category": "ninos",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué animal suele vivir en una granja y da leche? (6)",
+      "answers": [
+        "Vaca",
+        "León",
+        "Lobo",
+        "Tigre"
+      ],
+      "correct": 0,
+      "category": "ninos",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué se apaga por la noche en muchos cuartos? (6)",
+      "answers": [
+        "La cama",
+        "La luz",
+        "La ventana",
+        "La puerta"
+      ],
+      "correct": 1,
+      "category": "ninos",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué usamos para peinarnos? (6)",
+      "answers": [
+        "Peine",
+        "Llave",
+        "Regla",
+        "Taza"
+      ],
+      "correct": 0,
+      "category": "ninos",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué objeto usamos para saber la hora? (6)",
+      "answers": [
+        "Reloj",
+        "Plato",
+        "Mochila",
+        "Manta"
+      ],
+      "correct": 0,
+      "category": "ninos",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué color mezclan rojo y amarillo normalmente? (7)",
+      "answers": [
+        "Verde",
+        "Naranja",
+        "Morado",
+        "Azul"
+      ],
+      "correct": 1,
+      "category": "ninos",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué animal suele vivir en una granja y da leche? (7)",
+      "answers": [
+        "Vaca",
+        "León",
+        "Lobo",
+        "Tigre"
+      ],
+      "correct": 0,
+      "category": "ninos",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué se apaga por la noche en muchos cuartos? (7)",
+      "answers": [
+        "La cama",
+        "La luz",
+        "La ventana",
+        "La puerta"
+      ],
+      "correct": 1,
+      "category": "ninos",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué usamos para peinarnos? (7)",
+      "answers": [
+        "Peine",
+        "Llave",
+        "Regla",
+        "Taza"
+      ],
+      "correct": 0,
+      "category": "ninos",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué objeto usamos para saber la hora? (7)",
+      "answers": [
+        "Reloj",
+        "Plato",
+        "Mochila",
+        "Manta"
+      ],
+      "correct": 0,
+      "category": "ninos",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué color mezclan rojo y amarillo normalmente? (8)",
+      "answers": [
+        "Verde",
+        "Naranja",
+        "Morado",
+        "Azul"
+      ],
+      "correct": 1,
+      "category": "ninos",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué animal suele vivir en una granja y da leche? (8)",
+      "answers": [
+        "Vaca",
+        "León",
+        "Lobo",
+        "Tigre"
+      ],
+      "correct": 0,
+      "category": "ninos",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué se apaga por la noche en muchos cuartos? (8)",
+      "answers": [
+        "La cama",
+        "La luz",
+        "La ventana",
+        "La puerta"
+      ],
+      "correct": 1,
+      "category": "ninos",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué usamos para peinarnos? (8)",
+      "answers": [
+        "Peine",
+        "Llave",
+        "Regla",
+        "Taza"
+      ],
+      "correct": 0,
+      "category": "ninos",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué objeto usamos para saber la hora? (8)",
+      "answers": [
+        "Reloj",
+        "Plato",
+        "Mochila",
+        "Manta"
+      ],
+      "correct": 0,
+      "category": "ninos",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué color mezclan rojo y amarillo normalmente? (9)",
+      "answers": [
+        "Verde",
+        "Naranja",
+        "Morado",
+        "Azul"
+      ],
+      "correct": 1,
+      "category": "ninos",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué animal suele vivir en una granja y da leche? (9)",
+      "answers": [
+        "Vaca",
+        "León",
+        "Lobo",
+        "Tigre"
+      ],
+      "correct": 0,
+      "category": "ninos",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué se apaga por la noche en muchos cuartos? (9)",
+      "answers": [
+        "La cama",
+        "La luz",
+        "La ventana",
+        "La puerta"
+      ],
+      "correct": 1,
+      "category": "ninos",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué usamos para peinarnos? (9)",
+      "answers": [
+        "Peine",
+        "Llave",
+        "Regla",
+        "Taza"
+      ],
+      "correct": 0,
+      "category": "ninos",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué objeto usamos para saber la hora? (9)",
+      "answers": [
+        "Reloj",
+        "Plato",
+        "Mochila",
+        "Manta"
+      ],
+      "correct": 0,
+      "category": "ninos",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué color mezclan rojo y amarillo normalmente? (10)",
+      "answers": [
+        "Verde",
+        "Naranja",
+        "Morado",
+        "Azul"
+      ],
+      "correct": 1,
+      "category": "ninos",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué animal suele vivir en una granja y da leche? (10)",
+      "answers": [
+        "Vaca",
+        "León",
+        "Lobo",
+        "Tigre"
+      ],
+      "correct": 0,
+      "category": "ninos",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué se apaga por la noche en muchos cuartos? (10)",
+      "answers": [
+        "La cama",
+        "La luz",
+        "La ventana",
+        "La puerta"
+      ],
+      "correct": 1,
+      "category": "ninos",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué usamos para peinarnos? (10)",
+      "answers": [
+        "Peine",
+        "Llave",
+        "Regla",
+        "Taza"
+      ],
+      "correct": 0,
+      "category": "ninos",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué objeto usamos para saber la hora? (10)",
+      "answers": [
+        "Reloj",
+        "Plato",
+        "Mochila",
+        "Manta"
+      ],
+      "correct": 0,
+      "category": "ninos",
+      "level": "facil"
+    }
+  ]
+}
