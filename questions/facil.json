@@ -13,18 +13,6 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué idioma se habla principalmente en España?",
-      "answers": [
-        "Portugués",
-        "Español",
-        "Italiano",
-        "Francés"
-      ],
-      "correct": 1,
-      "category": "general",
-      "level": "facil"
-    },
-    {
       "question": "¿Cuántos días tiene una semana?",
       "answers": [
         "5",
@@ -49,43 +37,115 @@
       "level": "facil"
     },
     {
+      "question": "¿Qué idioma se habla principalmente en Brasil?",
+      "answers": [
+        "Español",
+        "Portugués",
+        "Italiano",
+        "Francés"
+      ],
+      "correct": 1,
+      "category": "general",
+      "level": "facil"
+    },
+    {
       "question": "¿Cuántas horas tiene un día?",
       "answers": [
         "12",
         "18",
         "24",
-        "30"
+        "48"
       ],
       "correct": 2,
       "category": "general",
       "level": "facil"
     },
     {
-      "question": "¿Cuántos meses tiene un año? (2)",
+      "question": "¿Cuál es el tercer mes del año?",
       "answers": [
-        "10",
-        "11",
-        "12",
-        "13"
-      ],
-      "correct": 2,
-      "category": "general",
-      "level": "facil"
-    },
-    {
-      "question": "¿Qué idioma se habla principalmente en España? (2)",
-      "answers": [
-        "Portugués",
-        "Español",
-        "Italiano",
-        "Francés"
+        "Febrero",
+        "Marzo",
+        "Abril",
+        "Mayo"
       ],
       "correct": 1,
       "category": "general",
       "level": "facil"
     },
     {
-      "question": "¿Cuántos días tiene una semana? (2)",
+      "question": "¿Qué parte del cuerpo usamos para oír?",
+      "answers": [
+        "Nariz",
+        "Boca",
+        "Orejas",
+        "Ojos"
+      ],
+      "correct": 2,
+      "category": "general",
+      "level": "facil"
+    },
+    {
+      "question": "¿Cuántas patas tiene una araña?",
+      "answers": [
+        "6",
+        "8",
+        "10",
+        "12"
+      ],
+      "correct": 1,
+      "category": "general",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué instrumento usamos para mirar la hora?",
+      "answers": [
+        "Brújula",
+        "Reloj",
+        "Termómetro",
+        "Cronómetro"
+      ],
+      "correct": 1,
+      "category": "general",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué color se obtiene al mezclar azul y amarillo?",
+      "answers": [
+        "Rojo",
+        "Verde",
+        "Naranja",
+        "Morado"
+      ],
+      "correct": 1,
+      "category": "general",
+      "level": "facil"
+    },
+    {
+      "question": "¿Cuál de estos es un mamífero?",
+      "answers": [
+        "Delfín",
+        "Pulpo",
+        "Sardina",
+        "Tiburón"
+      ],
+      "correct": 0,
+      "category": "general",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué estación suele ser la más calurosa?",
+      "answers": [
+        "Otoño",
+        "Invierno",
+        "Verano",
+        "Primavera"
+      ],
+      "correct": 2,
+      "category": "general",
+      "level": "facil"
+    },
+    {
+      "question": "¿Cuántos continentes se suelen contar?",
       "answers": [
         "5",
         "6",
@@ -97,504 +157,444 @@
       "level": "facil"
     },
     {
-      "question": "¿Qué moneda se usa en España? (2)",
+      "question": "¿Qué planeta es conocido como el planeta rojo?",
       "answers": [
-        "Dólar",
-        "Euro",
-        "Libra",
-        "Peso"
+        "Mercurio",
+        "Marte",
+        "Venus",
+        "Saturno"
       ],
       "correct": 1,
       "category": "general",
       "level": "facil"
     },
     {
-      "question": "¿Cuántas horas tiene un día? (2)",
+      "question": "¿Qué animal maúlla?",
       "answers": [
-        "12",
-        "18",
-        "24",
-        "30"
+        "Perro",
+        "Gato",
+        "Vaca",
+        "Caballo"
+      ],
+      "correct": 1,
+      "category": "general",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué bebida sale normalmente de una vaca?",
+      "answers": [
+        "Leche",
+        "Zumo",
+        "Té",
+        "Agua"
+      ],
+      "correct": 0,
+      "category": "general",
+      "level": "facil"
+    },
+    {
+      "question": "¿Cómo se llama la ciencia que estudia los animales?",
+      "answers": [
+        "Botánica",
+        "Zoología",
+        "Geología",
+        "Química"
+      ],
+      "correct": 1,
+      "category": "general",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué usamos para escribir con tinta?",
+      "answers": [
+        "Lápiz",
+        "Rotulador",
+        "Bolígrafo",
+        "Tiza"
       ],
       "correct": 2,
       "category": "general",
       "level": "facil"
     },
     {
-      "question": "¿Cuántos meses tiene un año? (3)",
+      "question": "¿Qué gas respiramos para vivir?",
+      "answers": [
+        "Helio",
+        "Oxígeno",
+        "Nitrógeno",
+        "Vapor"
+      ],
+      "correct": 1,
+      "category": "general",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué se pone en los pies?",
+      "answers": [
+        "Guantes",
+        "Zapatos",
+        "Gorro",
+        "Bufanda"
+      ],
+      "correct": 1,
+      "category": "general",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué figura tiene tres lados?",
+      "answers": [
+        "Círculo",
+        "Cuadrado",
+        "Triángulo",
+        "Rectángulo"
+      ],
+      "correct": 2,
+      "category": "general",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué parte de la planta suele estar bajo tierra?",
+      "answers": [
+        "Flor",
+        "Raíz",
+        "Hoja",
+        "Fruto"
+      ],
+      "correct": 1,
+      "category": "general",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué país tiene forma de bota?",
+      "answers": [
+        "Italia",
+        "Portugal",
+        "Grecia",
+        "Suiza"
+      ],
+      "correct": 0,
+      "category": "general",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué animal pone huevos y hace cacareo?",
+      "answers": [
+        "Gallina",
+        "Vaca",
+        "Perro",
+        "Caballo"
+      ],
+      "correct": 0,
+      "category": "general",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué color tiene normalmente un plátano maduro?",
+      "answers": [
+        "Azul",
+        "Rojo",
+        "Amarillo",
+        "Morado"
+      ],
+      "correct": 2,
+      "category": "general",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué astro vemos de noche iluminando el cielo?",
+      "answers": [
+        "Luna",
+        "Sol",
+        "Venus",
+        "Marte"
+      ],
+      "correct": 0,
+      "category": "general",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué parte del cuerpo usamos para ver?",
+      "answers": [
+        "Rodillas",
+        "Ojos",
+        "Brazos",
+        "Codos"
+      ],
+      "correct": 1,
+      "category": "general",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué electrodoméstico enfría los alimentos?",
+      "answers": [
+        "Horno",
+        "Frigorífico",
+        "Lavadora",
+        "Microondas"
+      ],
+      "correct": 1,
+      "category": "general",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué fruta suele ser roja y tener semillas por fuera?",
+      "answers": [
+        "Pera",
+        "Manzana",
+        "Fresa",
+        "Plátano"
+      ],
+      "correct": 2,
+      "category": "general",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué usamos para peinarnos?",
+      "answers": [
+        "Peine",
+        "Cuchara",
+        "Llave",
+        "Taza"
+      ],
+      "correct": 0,
+      "category": "general",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué aparato usamos para hacer llamadas?",
+      "answers": [
+        "Móvil",
+        "Tostadora",
+        "Nevera",
+        "Plancha"
+      ],
+      "correct": 0,
+      "category": "general",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué color tiene el carbón?",
+      "answers": [
+        "Negro",
+        "Rosa",
+        "Dorado",
+        "Verde"
+      ],
+      "correct": 0,
+      "category": "general",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué medio de transporte viaja por raíles?",
+      "answers": [
+        "Avión",
+        "Barco",
+        "Tren",
+        "Bicicleta"
+      ],
+      "correct": 2,
+      "category": "general",
+      "level": "facil"
+    },
+    {
+      "question": "¿Cuántos dedos tienes en las dos manos?",
+      "answers": [
+        "8",
+        "10",
+        "12",
+        "14"
+      ],
+      "correct": 1,
+      "category": "general",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué usamos cuando llueve para no mojarnos?",
+      "answers": [
+        "Paraguas",
+        "Cinturón",
+        "Bufanda",
+        "Gafas"
+      ],
+      "correct": 0,
+      "category": "general",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué figura es redonda y no tiene lados?",
+      "answers": [
+        "Triángulo",
+        "Círculo",
+        "Hexágono",
+        "Rombo"
+      ],
+      "correct": 1,
+      "category": "general",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué animal dice guau?",
+      "answers": [
+        "Gato",
+        "Perro",
+        "Gallina",
+        "Pato"
+      ],
+      "correct": 1,
+      "category": "general",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué parte del día viene después de la tarde?",
+      "answers": [
+        "Mañana",
+        "Mediodía",
+        "Noche",
+        "Amanecer"
+      ],
+      "correct": 2,
+      "category": "general",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué objeto sirve para alumbrar en la oscuridad?",
+      "answers": [
+        "Linterna",
+        "Toalla",
+        "Pala",
+        "Regla"
+      ],
+      "correct": 0,
+      "category": "general",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué animal vive normalmente en el agua?",
+      "answers": [
+        "Pez",
+        "Caballo",
+        "Gato",
+        "Conejo"
+      ],
+      "correct": 0,
+      "category": "general",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué sabor tiene normalmente el limón?",
+      "answers": [
+        "Dulce",
+        "Salado",
+        "Ácido",
+        "Picante"
+      ],
+      "correct": 2,
+      "category": "general",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué usamos para cortar papel en clase?",
+      "answers": [
+        "Tijeras",
+        "Martillo",
+        "Pala",
+        "Cepillo"
+      ],
+      "correct": 0,
+      "category": "general",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué día va después del viernes?",
+      "answers": [
+        "Jueves",
+        "Sábado",
+        "Domingo",
+        "Lunes"
+      ],
+      "correct": 1,
+      "category": "general",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué bebida caliente se hace con hojas?",
+      "answers": [
+        "Café",
+        "Té",
+        "Batido",
+        "Refresco"
+      ],
+      "correct": 1,
+      "category": "general",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué figura tiene cuatro lados iguales y cuatro ángulos rectos?",
+      "answers": [
+        "Triángulo",
+        "Círculo",
+        "Cuadrado",
+        "Pentágono"
+      ],
+      "correct": 2,
+      "category": "general",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué animal produce lana?",
+      "answers": [
+        "Oveja",
+        "Vaca",
+        "Cerdo",
+        "Cabra"
+      ],
+      "correct": 0,
+      "category": "general",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué usamos para sentarnos?",
+      "answers": [
+        "Silla",
+        "Cama",
+        "Ventana",
+        "Escoba"
+      ],
+      "correct": 0,
+      "category": "general",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué color tiene la nieve limpia?",
+      "answers": [
+        "Azul",
+        "Blanco",
+        "Rojo",
+        "Negro"
+      ],
+      "correct": 1,
+      "category": "general",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué suele volar en el cielo?",
+      "answers": [
+        "Avión",
+        "Submarino",
+        "Tren",
+        "Patinete"
+      ],
+      "correct": 0,
+      "category": "general",
+      "level": "facil"
+    },
+    {
+      "question": "¿Qué hay en una docena?",
       "answers": [
         "10",
         "11",
         "12",
         "13"
-      ],
-      "correct": 2,
-      "category": "general",
-      "level": "facil"
-    },
-    {
-      "question": "¿Qué idioma se habla principalmente en España? (3)",
-      "answers": [
-        "Portugués",
-        "Español",
-        "Italiano",
-        "Francés"
-      ],
-      "correct": 1,
-      "category": "general",
-      "level": "facil"
-    },
-    {
-      "question": "¿Cuántos días tiene una semana? (3)",
-      "answers": [
-        "5",
-        "6",
-        "7",
-        "8"
-      ],
-      "correct": 2,
-      "category": "general",
-      "level": "facil"
-    },
-    {
-      "question": "¿Qué moneda se usa en España? (3)",
-      "answers": [
-        "Dólar",
-        "Euro",
-        "Libra",
-        "Peso"
-      ],
-      "correct": 1,
-      "category": "general",
-      "level": "facil"
-    },
-    {
-      "question": "¿Cuántas horas tiene un día? (3)",
-      "answers": [
-        "12",
-        "18",
-        "24",
-        "30"
-      ],
-      "correct": 2,
-      "category": "general",
-      "level": "facil"
-    },
-    {
-      "question": "¿Cuántos meses tiene un año? (4)",
-      "answers": [
-        "10",
-        "11",
-        "12",
-        "13"
-      ],
-      "correct": 2,
-      "category": "general",
-      "level": "facil"
-    },
-    {
-      "question": "¿Qué idioma se habla principalmente en España? (4)",
-      "answers": [
-        "Portugués",
-        "Español",
-        "Italiano",
-        "Francés"
-      ],
-      "correct": 1,
-      "category": "general",
-      "level": "facil"
-    },
-    {
-      "question": "¿Cuántos días tiene una semana? (4)",
-      "answers": [
-        "5",
-        "6",
-        "7",
-        "8"
-      ],
-      "correct": 2,
-      "category": "general",
-      "level": "facil"
-    },
-    {
-      "question": "¿Qué moneda se usa en España? (4)",
-      "answers": [
-        "Dólar",
-        "Euro",
-        "Libra",
-        "Peso"
-      ],
-      "correct": 1,
-      "category": "general",
-      "level": "facil"
-    },
-    {
-      "question": "¿Cuántas horas tiene un día? (4)",
-      "answers": [
-        "12",
-        "18",
-        "24",
-        "30"
-      ],
-      "correct": 2,
-      "category": "general",
-      "level": "facil"
-    },
-    {
-      "question": "¿Cuántos meses tiene un año? (5)",
-      "answers": [
-        "10",
-        "11",
-        "12",
-        "13"
-      ],
-      "correct": 2,
-      "category": "general",
-      "level": "facil"
-    },
-    {
-      "question": "¿Qué idioma se habla principalmente en España? (5)",
-      "answers": [
-        "Portugués",
-        "Español",
-        "Italiano",
-        "Francés"
-      ],
-      "correct": 1,
-      "category": "general",
-      "level": "facil"
-    },
-    {
-      "question": "¿Cuántos días tiene una semana? (5)",
-      "answers": [
-        "5",
-        "6",
-        "7",
-        "8"
-      ],
-      "correct": 2,
-      "category": "general",
-      "level": "facil"
-    },
-    {
-      "question": "¿Qué moneda se usa en España? (5)",
-      "answers": [
-        "Dólar",
-        "Euro",
-        "Libra",
-        "Peso"
-      ],
-      "correct": 1,
-      "category": "general",
-      "level": "facil"
-    },
-    {
-      "question": "¿Cuántas horas tiene un día? (5)",
-      "answers": [
-        "12",
-        "18",
-        "24",
-        "30"
-      ],
-      "correct": 2,
-      "category": "general",
-      "level": "facil"
-    },
-    {
-      "question": "¿Cuántos meses tiene un año? (6)",
-      "answers": [
-        "10",
-        "11",
-        "12",
-        "13"
-      ],
-      "correct": 2,
-      "category": "general",
-      "level": "facil"
-    },
-    {
-      "question": "¿Qué idioma se habla principalmente en España? (6)",
-      "answers": [
-        "Portugués",
-        "Español",
-        "Italiano",
-        "Francés"
-      ],
-      "correct": 1,
-      "category": "general",
-      "level": "facil"
-    },
-    {
-      "question": "¿Cuántos días tiene una semana? (6)",
-      "answers": [
-        "5",
-        "6",
-        "7",
-        "8"
-      ],
-      "correct": 2,
-      "category": "general",
-      "level": "facil"
-    },
-    {
-      "question": "¿Qué moneda se usa en España? (6)",
-      "answers": [
-        "Dólar",
-        "Euro",
-        "Libra",
-        "Peso"
-      ],
-      "correct": 1,
-      "category": "general",
-      "level": "facil"
-    },
-    {
-      "question": "¿Cuántas horas tiene un día? (6)",
-      "answers": [
-        "12",
-        "18",
-        "24",
-        "30"
-      ],
-      "correct": 2,
-      "category": "general",
-      "level": "facil"
-    },
-    {
-      "question": "¿Cuántos meses tiene un año? (7)",
-      "answers": [
-        "10",
-        "11",
-        "12",
-        "13"
-      ],
-      "correct": 2,
-      "category": "general",
-      "level": "facil"
-    },
-    {
-      "question": "¿Qué idioma se habla principalmente en España? (7)",
-      "answers": [
-        "Portugués",
-        "Español",
-        "Italiano",
-        "Francés"
-      ],
-      "correct": 1,
-      "category": "general",
-      "level": "facil"
-    },
-    {
-      "question": "¿Cuántos días tiene una semana? (7)",
-      "answers": [
-        "5",
-        "6",
-        "7",
-        "8"
-      ],
-      "correct": 2,
-      "category": "general",
-      "level": "facil"
-    },
-    {
-      "question": "¿Qué moneda se usa en España? (7)",
-      "answers": [
-        "Dólar",
-        "Euro",
-        "Libra",
-        "Peso"
-      ],
-      "correct": 1,
-      "category": "general",
-      "level": "facil"
-    },
-    {
-      "question": "¿Cuántas horas tiene un día? (7)",
-      "answers": [
-        "12",
-        "18",
-        "24",
-        "30"
-      ],
-      "correct": 2,
-      "category": "general",
-      "level": "facil"
-    },
-    {
-      "question": "¿Cuántos meses tiene un año? (8)",
-      "answers": [
-        "10",
-        "11",
-        "12",
-        "13"
-      ],
-      "correct": 2,
-      "category": "general",
-      "level": "facil"
-    },
-    {
-      "question": "¿Qué idioma se habla principalmente en España? (8)",
-      "answers": [
-        "Portugués",
-        "Español",
-        "Italiano",
-        "Francés"
-      ],
-      "correct": 1,
-      "category": "general",
-      "level": "facil"
-    },
-    {
-      "question": "¿Cuántos días tiene una semana? (8)",
-      "answers": [
-        "5",
-        "6",
-        "7",
-        "8"
-      ],
-      "correct": 2,
-      "category": "general",
-      "level": "facil"
-    },
-    {
-      "question": "¿Qué moneda se usa en España? (8)",
-      "answers": [
-        "Dólar",
-        "Euro",
-        "Libra",
-        "Peso"
-      ],
-      "correct": 1,
-      "category": "general",
-      "level": "facil"
-    },
-    {
-      "question": "¿Cuántas horas tiene un día? (8)",
-      "answers": [
-        "12",
-        "18",
-        "24",
-        "30"
-      ],
-      "correct": 2,
-      "category": "general",
-      "level": "facil"
-    },
-    {
-      "question": "¿Cuántos meses tiene un año? (9)",
-      "answers": [
-        "10",
-        "11",
-        "12",
-        "13"
-      ],
-      "correct": 2,
-      "category": "general",
-      "level": "facil"
-    },
-    {
-      "question": "¿Qué idioma se habla principalmente en España? (9)",
-      "answers": [
-        "Portugués",
-        "Español",
-        "Italiano",
-        "Francés"
-      ],
-      "correct": 1,
-      "category": "general",
-      "level": "facil"
-    },
-    {
-      "question": "¿Cuántos días tiene una semana? (9)",
-      "answers": [
-        "5",
-        "6",
-        "7",
-        "8"
-      ],
-      "correct": 2,
-      "category": "general",
-      "level": "facil"
-    },
-    {
-      "question": "¿Qué moneda se usa en España? (9)",
-      "answers": [
-        "Dólar",
-        "Euro",
-        "Libra",
-        "Peso"
-      ],
-      "correct": 1,
-      "category": "general",
-      "level": "facil"
-    },
-    {
-      "question": "¿Cuántas horas tiene un día? (9)",
-      "answers": [
-        "12",
-        "18",
-        "24",
-        "30"
-      ],
-      "correct": 2,
-      "category": "general",
-      "level": "facil"
-    },
-    {
-      "question": "¿Cuántos meses tiene un año? (10)",
-      "answers": [
-        "10",
-        "11",
-        "12",
-        "13"
-      ],
-      "correct": 2,
-      "category": "general",
-      "level": "facil"
-    },
-    {
-      "question": "¿Qué idioma se habla principalmente en España? (10)",
-      "answers": [
-        "Portugués",
-        "Español",
-        "Italiano",
-        "Francés"
-      ],
-      "correct": 1,
-      "category": "general",
-      "level": "facil"
-    },
-    {
-      "question": "¿Cuántos días tiene una semana? (10)",
-      "answers": [
-        "5",
-        "6",
-        "7",
-        "8"
-      ],
-      "correct": 2,
-      "category": "general",
-      "level": "facil"
-    },
-    {
-      "question": "¿Qué moneda se usa en España? (10)",
-      "answers": [
-        "Dólar",
-        "Euro",
-        "Libra",
-        "Peso"
-      ],
-      "correct": 1,
-      "category": "general",
-      "level": "facil"
-    },
-    {
-      "question": "¿Cuántas horas tiene un día? (10)",
-      "answers": [
-        "12",
-        "18",
-        "24",
-        "30"
       ],
       "correct": 2,
       "category": "general",
