@@ -3,10 +3,10 @@
     {
       "question": "¿Cuál de estas lenguas indias no forma parte de la familia de lenguas indoeuropeas?",
       "answers": [
-        "urdu",
+        "Urdu",
         "Tamil",
-        "punjabí",
-        "hindi"
+        "Punjabí",
+        "Hindi"
       ],
       "correct": 1,
       "category": "general",
@@ -28,9 +28,9 @@
       "question": "¿Cuál de las siguientes sustancias químicas se encuentran en las semillas de berenjena?",
       "answers": [
         "Nicotina",
-        "cianuro",
-        "psilocibina",
-        "mescalina"
+        "Cianuro",
+        "Psilocibina",
+        "Mescalina"
       ],
       "correct": 0,
       "category": "general",
@@ -51,10 +51,10 @@
     {
       "question": "Según el Código Internacional de Señales, ¿qué bandera única se interpreta como \"Necesito asistencia (no socorro)\"?",
       "answers": [
-        "papá",
-        "delta",
+        "Papá",
+        "Delta",
         "Víctor",
-        "kilo"
+        "Kilo"
       ],
       "correct": 2,
       "category": "general",
@@ -63,10 +63,10 @@
     {
       "question": "En los sistemas de vuelo, ¿qué significan las iniciales \"TCAS\"?",
       "answers": [
-        "Sistema para evitar colisiones de tráfico",
-        "Sistema de alineación de configuración de tráfico",
-        "Sistema de alerta de comunicación de tráfico",
-        "Sistema de abreviaturas de distintivos de llamada de tráfico"
+        "Sistema Para Evitar Colisiones de Tráfico",
+        "Sistema de Alineación de Configuración de Tráfico",
+        "Sistema de Alerta de Comunicación de Tráfico",
+        "Sistema de Abreviaturas de Distintivos de Llamada de Tráfico"
       ],
       "correct": 0,
       "category": "general",
@@ -101,7 +101,7 @@
       "answers": [
         "Kawkab",
         "Qamar",
-        "farsas",
+        "Farsas",
         "Najma"
       ],
       "correct": 1,
@@ -111,7 +111,7 @@
     {
       "question": "¿Dónde en La Coruña (España) está la sede de \"Inditex\", el grupo de moda más grande del mundo?",
       "answers": [
-        "sanjenjo",
+        "Sanjenjo",
         "Mugía",
         "Arteijo",
         "Órdenes"
@@ -123,10 +123,10 @@
     {
       "question": "¿Cuál es la palabra china romanizada para \"avión\"?",
       "answers": [
-        "feiji",
+        "Feiji",
         "Huojian",
         "Zongxiano",
-        "quiché"
+        "Quiché"
       ],
       "correct": 0,
       "category": "general",
@@ -147,10 +147,10 @@
     {
       "question": "La popularidad del productor de música electrónica Kygo se disparó después de cierto remix. ¿Qué canción remezcló?",
       "answers": [
-        "a-ha - Enfréntate a mí",
+        "A-Ha - Enfréntate a Mí",
         "Coldplay - Medianoche",
-        "Ed Sheeran - Veo fuego",
-        "Marvin Gaye - Curación sexual"
+        "Ed Sheeran - Veo Fuego",
+        "Marvin Gaye - Curación Sexual"
       ],
       "correct": 2,
       "category": "general",
@@ -172,8 +172,8 @@
       "question": "¿Qué músico colaboró con el productor estadounidense Porter Robinson y lanzó la canción de 2016 \"Shelter\"?",
       "answers": [
         "Zedd",
-        "madeon",
-        "deadmau5",
+        "Madeon",
+        "Deadmau5",
         "Mat Zo"
       ],
       "correct": 1,
@@ -183,10 +183,10 @@
     {
       "question": "¿La \"nefelocccigia\" es la práctica de hacer qué?",
       "answers": [
-        "Nadar en agua helada",
-        "Encontrar formas en las nubes",
-        "Dormir con los ojos abiertos",
-        "Rompiendo cristales con tu voz"
+        "Nadar en Agua Helada",
+        "Encontrar Formas en las Nubes",
+        "Dormir Con los Ojos Abiertos",
+        "Rompiendo Cristales Con Tu Voz"
       ],
       "correct": 1,
       "category": "general",
@@ -195,10 +195,10 @@
     {
       "question": "¿Cuál de los siguientes significa la palabra \"astasia\"?",
       "answers": [
-        "Un deseo febril de arrancarse la ropa.",
-        "La incapacidad de levantarse",
-        "La incapacidad de concentrarse en cualquier cosa.",
-        "La incapacidad para tomar decisiones."
+        "Un Deseo Febril de Arrancarse la Ropa.",
+        "La Incapacidad de Levantarse",
+        "La Incapacidad de Concentrarse en Cualquier Cosa.",
+        "La Incapacidad Para Tomar Decisiones."
       ],
       "correct": 1,
       "category": "general",
@@ -231,10 +231,10 @@
     {
       "question": "¿Cuál de estos términos anatómicos se refiere a la cola de la criatura?",
       "answers": [
-        "ventral",
-        "caudal",
-        "proximal",
-        "coronal"
+        "Ventral",
+        "Caudal",
+        "Proximal",
+        "Coronal"
       ],
       "correct": 1,
       "category": "general",
@@ -243,9 +243,9 @@
     {
       "question": "Originalmente otra palabra para amapola, ¿coquelicot es una sombra de qué?",
       "answers": [
-        "rosa",
-        "rojo",
-        "azul",
+        "Rosa",
+        "Rojo",
+        "Azul",
         "Verde"
       ],
       "correct": 1,
@@ -255,10 +255,10 @@
     {
       "question": "¿Qué tipo de perro es 'Handsome Dan', la mascota de la Universidad de Yale?",
       "answers": [
-        "terrier de yorkshire",
-        "boxeador",
-        "bulldog",
-        "perro"
+        "Terrier de Yorkshire",
+        "Boxeador",
+        "Bulldog",
+        "Perro"
       ],
       "correct": 2,
       "category": "general",
@@ -280,8 +280,8 @@
       "question": "¿La sciofobia es el miedo a qué?",
       "answers": [
         "Sombras",
-        "comiendo",
-        "luces brillantes",
+        "Comiendo",
+        "Luces Brillantes",
         "Transporte"
       ],
       "correct": 0,
@@ -291,10 +291,10 @@
     {
       "question": "¿Cuál es el peso de una barra de oro en Fallout: New Vegas?",
       "answers": [
-        "35 libras",
-        "40 libras",
-        "32,50 libras",
-        "30 libras"
+        "35 Libras",
+        "40 Libras",
+        "32,50 Libras",
+        "30 Libras"
       ],
       "correct": 0,
       "category": "general",
@@ -327,9 +327,9 @@
     {
       "question": "Antes del siglo XIX, la \"Salón\" originalmente se llamaba...",
       "answers": [
-        "salón",
-        "Sala abierta",
-        "sala de estar",
+        "Salón",
+        "Sala Abierta",
+        "Sala de Estar",
         "Loft"
       ],
       "correct": 0,
@@ -363,10 +363,10 @@
     {
       "question": "¿Cuál de las siguientes es una familia existente en \"Los Sims\"?",
       "answers": [
-        "la familia",
-        "La familia gótica",
-        "La familia orgullosa",
-        "La familia Simoleón"
+        "La Familia",
+        "La Familia Gótica",
+        "La Familia Orgullosa",
+        "La Familia Simoleón"
       ],
       "correct": 1,
       "category": "general",
@@ -388,7 +388,7 @@
       "question": "¿Qué estrella de cine tiene su estatua en Leicester Square?",
       "answers": [
         "Alfred Hitchcock",
-        "charlie chaplin",
+        "Charlie Chaplin",
         "Pablo Newman",
         "Rowan Atkinson"
       ],
@@ -400,9 +400,9 @@
       "question": "El malva, que lleva el nombre de la flor de malva, ¿es un tono de qué?",
       "answers": [
         "Púrpura",
-        "rojo",
-        "marrón",
-        "rosa"
+        "Rojo",
+        "Marrón",
+        "Rosa"
       ],
       "correct": 0,
       "category": "general",
@@ -411,10 +411,10 @@
     {
       "question": "¿Cuál de los siguientes significa la palabra \"abulia\"?",
       "answers": [
-        "La incapacidad de concentrarse en cualquier cosa.",
-        "Un deseo febril de arrancarse la ropa.",
-        "La incapacidad para tomar decisiones.",
-        "La incapacidad de levantarse"
+        "La Incapacidad de Concentrarse en Cualquier Cosa.",
+        "Un Deseo Febril de Arrancarse la Ropa.",
+        "La Incapacidad Para Tomar Decisiones.",
+        "La Incapacidad de Levantarse"
       ],
       "correct": 2,
       "category": "general",
@@ -435,10 +435,10 @@
     {
       "question": "¿Cuál de las siguientes opciones describe mejor el Quadrangularis Reversum?",
       "answers": [
-        "Un instrumento de percusión",
-        "una jugada de ajedrez",
-        "Un teorema geométrico",
-        "Un edificio en la Universidad de Oxford"
+        "Un Instrumento de Percusión",
+        "Una Jugada de Ajedrez",
+        "Un Teorema Geométrico",
+        "Un Edificio en la Universidad de Oxford"
       ],
       "correct": 0,
       "category": "general",
@@ -447,8 +447,8 @@
     {
       "question": "¿Dónde tiene su sede Apple Inc.?",
       "answers": [
-        "cupertino, california",
-        "ciudad de secuoya, california",
+        "Cupertino, California",
+        "Ciudad de Secuoya, California",
         "Redmond, Washington",
         "Santa Mónica, California, EE.UU."
       ],
@@ -472,9 +472,9 @@
       "question": "¿Cuál es el sustantivo más utilizado en el idioma inglés?",
       "answers": [
         "Inicio",
-        "agua",
-        "tiempo",
-        "hombre"
+        "Agua",
+        "Tiempo",
+        "Hombre"
       ],
       "correct": 2,
       "category": "general",
@@ -483,10 +483,10 @@
     {
       "question": "¿Cuánto tiempo les tomó a los limpiadores de ventanas motorizados del World Trade Center original limpiar todo el exterior del edificio?",
       "answers": [
-        "2 meses",
-        "1 mes",
-        "1 semana",
-        "3 semanas"
+        "2 Meses",
+        "1 Mes",
+        "1 Semana",
+        "3 Semanas"
       ],
       "correct": 1,
       "category": "general",
@@ -497,8 +497,8 @@
       "answers": [
         "Calabaza de Guinea",
         "Potimarrón",
-        "berenjena",
-        "melongeno"
+        "Berenjena",
+        "Melongeno"
       ],
       "correct": 1,
       "category": "general",
@@ -508,9 +508,9 @@
       "question": "En el MMO RPG \"Realm of the Mad God\", ¿qué mazmorra se considera la más difícil?",
       "answers": [
         "La Tumba de los Antiguos",
-        "Los destrozados",
-        "El teatro del titiritero",
-        "Pozo de serpientes"
+        "Los Destrozados",
+        "El Teatro del Titiritero",
+        "Pozo de Serpientes"
       ],
       "correct": 1,
       "category": "general",
@@ -520,9 +520,9 @@
       "question": "¿Qué significa la palabra sueca \"Grunka\" en inglés?",
       "answers": [
         "Lugar",
-        "gente",
-        "cosa",
-        "piña"
+        "Gente",
+        "Cosa",
+        "Piña"
       ],
       "correct": 2,
       "category": "general",
@@ -533,8 +533,8 @@
       "answers": [
         "Plata",
         "Cobre",
-        "níquel",
-        "hierro"
+        "Níquel",
+        "Hierro"
       ],
       "correct": 1,
       "category": "general",
@@ -545,8 +545,8 @@
       "answers": [
         "Púrpura",
         "Verde",
-        "rojo",
-        "negro"
+        "Rojo",
+        "Negro"
       ],
       "correct": 1,
       "category": "general",
@@ -556,9 +556,9 @@
       "question": "¿La xantofobia es el miedo a qué color?",
       "answers": [
         "Verde",
-        "rojo",
-        "azul",
-        "amarillo"
+        "Rojo",
+        "Azul",
+        "Amarillo"
       ],
       "correct": 3,
       "category": "general",
@@ -568,7 +568,7 @@
       "question": "La Mansión Encantada de Disney es el hogar de un trío de fantasmas que hacen autostop. ¿Cuál de estos NO es uno de ellos?",
       "answers": [
         "Gus",
-        "harry",
+        "Harry",
         "Esdras",
         "Phineas"
       ],
@@ -592,7 +592,7 @@
       "question": "¿Cuál es el puente más largo del mundo?",
       "answers": [
         "Puente I de la Calzada Rey Fahd, Arabia Saudita",
-        "Calzada del lago Pontchartrain, Estados Unidos",
+        "Calzada del Lago Pontchartrain, Estados Unidos",
         "Gran Puente Danyang-Kunshan, China",
         "Puente Sultán Abdul Halim Muadzam Shah, Malasia"
       ],
@@ -629,10 +629,10 @@
     {
       "question": "¿El prefijo chino- (como en chino-americano) se usa para referirse a qué nacionalidad?",
       "answers": [
-        "indio",
-        "ruso",
-        "chino",
-        "japonés"
+        "Indio",
+        "Ruso",
+        "Chino",
+        "Japonés"
       ],
       "correct": 2,
       "category": "geografia",
@@ -644,7 +644,7 @@
         "Sacramento, California",
         "Fresno, California",
         "Rosemead, California",
-        "san diego, california"
+        "San Diego, California"
       ],
       "correct": 2,
       "category": "geografia",
@@ -668,7 +668,7 @@
         "Anglesey",
         "Pembrokeshire",
         "Wrexham",
-        "puente"
+        "Puente"
       ],
       "correct": 0,
       "category": "geografia",
@@ -716,7 +716,7 @@
         "Monte Tremblant",
         "Monte Logan",
         "Montaña de Whistler",
-        "montaña azul"
+        "Montaña Azul"
       ],
       "correct": 1,
       "category": "geografia",
@@ -750,9 +750,9 @@
       "question": "¿Cuál es la ciudad más grande y capital comercial de Sri Lanka?",
       "answers": [
         "Negombo",
-        "colombo",
-        "kandy",
-        "moratuwa"
+        "Colombo",
+        "Kandy",
+        "Moratuwa"
       ],
       "correct": 1,
       "category": "geografia",
@@ -776,7 +776,7 @@
         "Sichuan",
         "Cantón",
         "Yangtsé",
-        "fujián"
+        "Fujián"
       ],
       "correct": 2,
       "category": "geografia",
@@ -835,7 +835,7 @@
       "answers": [
         "Ahmedabad",
         "Hyderabad",
-        "islamabad",
+        "Islamabad",
         "Ghaziabad"
       ],
       "correct": 2,
@@ -857,9 +857,9 @@
     {
       "question": "¿Cuál es el área de la Ciudad del Vaticano?",
       "answers": [
-        "0,86 km ^ 2",
-        "0,44 km ^ 2",
-        "0,10 km ^ 2",
+        "0,86 Km ^ 2",
+        "0,44 Km ^ 2",
+        "0,10 Km ^ 2",
         "12.00km^2"
       ],
       "correct": 1,
@@ -872,7 +872,7 @@
         "Castillo de Olivia",
         "Castillo de Isabel",
         "Castillo de Ricardo",
-        "castillo franco"
+        "Castillo Franco"
       ],
       "correct": 1,
       "category": "geografia",
@@ -881,7 +881,7 @@
     {
       "question": "¿Cuál es la sede del condado de King, Washington?",
       "answers": [
-        "seattle",
+        "Seattle",
         "Enumclaw",
         "Bellevue",
         "Skykomish"
@@ -908,7 +908,7 @@
         "Burkina Faso",
         "República Centroafricana",
         "Senegal",
-        "zambia"
+        "Zambia"
       ],
       "correct": 0,
       "category": "geografia",
@@ -918,9 +918,9 @@
       "question": "¿Cuál es la ruta de escalada más común para la segunda montaña más alta del mundo, el K2?",
       "answers": [
         "Espolón de los Abruzos",
-        "Línea polaca",
+        "Línea Polaca",
         "Ruta Cesen",
-        "Línea mágica"
+        "Línea Mágica"
       ],
       "correct": 0,
       "category": "geografia",
@@ -965,10 +965,10 @@
     {
       "question": "¿Cuál de estas ciudades tiene una longitud de 4° Este?",
       "answers": [
-        "hong kong",
+        "Hong Kong",
         "Ámsterdam",
         "Río de Janeiro",
-        "toronto"
+        "Toronto"
       ],
       "correct": 1,
       "category": "geografia",
@@ -1016,7 +1016,7 @@
         "Rusia",
         "Surinam",
         "Singapur",
-        "georgia"
+        "Georgia"
       ],
       "correct": 1,
       "category": "geografia",
@@ -1025,7 +1025,7 @@
     {
       "question": "¿Cuál de estas NO es una placa tectónica real?",
       "answers": [
-        "Placa norteamericana",
+        "Placa Norteamericana",
         "Placa Atlántica",
         "Placa Euroasiática",
         "Placa de Nazca"
@@ -1061,8 +1061,8 @@
     {
       "question": "¿Cuál es el nombre oficial alemán de los Ferrocarriles Federales Suizos?",
       "answers": [
-        "FFCC estatales suecas",
-        "FFCC Bundesbahnen suecas",
+        "FFCC Estatales Suecas",
+        "FFCC Bundesbahnen Suecas",
         "Bundesbahnen de Suiza",
         "Trenes Nacionales Suizos"
       ],
@@ -1098,9 +1098,9 @@
       "question": "¿Cuál es la ciudad capital de las Bermudas?",
       "answers": [
         "Santo Domingo",
-        "san juan",
-        "hamilton",
-        "la habana"
+        "San Juan",
+        "Hamilton",
+        "La Habana"
       ],
       "correct": 2,
       "category": "geografia",
@@ -1121,10 +1121,10 @@
     {
       "question": "¿Qué tiene de especial el lago Titicaca?",
       "answers": [
-        "El lago más profundo del mundo.",
-        "Lago navegable más alto",
-        "El lago más largo del mundo.",
-        "Permanece congelado todo el año"
+        "El Lago Más Profundo del Mundo.",
+        "Lago Navegable Más Alto",
+        "El Lago Más Largo del Mundo.",
+        "Permanece Congelado Todo el Año"
       ],
       "correct": 1,
       "category": "geografia",
@@ -1133,7 +1133,7 @@
     {
       "question": "¿Qué atracción turística de América del Norte atiende la compañía turística \"Maid of the Mist\"?",
       "answers": [
-        "mundodisney",
+        "Mundodisney",
         "Parque Nacional Yosemite",
         "Cataratas del Niágara",
         "Whistler, Columbia Británica"
@@ -1157,10 +1157,10 @@
     {
       "question": "¿Cuál de estas es la moneda oficial de las Islas Cook?",
       "answers": [
-        "Libra británica",
-        "dólar australiano",
-        "dólar estadounidense",
-        "dólar neozelandés"
+        "Libra Británica",
+        "Dólar Australiano",
+        "Dólar Estadounidense",
+        "Dólar Neozelandés"
       ],
       "correct": 3,
       "category": "geografia",
@@ -1196,7 +1196,7 @@
         "Lishan Didan",
         "Hulaula",
         "Lishana Deni",
-        "Neoarameo caldeo"
+        "Neoarameo Caldeo"
       ],
       "correct": 2,
       "category": "geografia",
@@ -1207,10 +1207,10 @@
     {
       "question": "¿Cuál de los siguientes se considera condicionamiento clásico?",
       "answers": [
-        "Los experimentos con los monos de Harlow",
-        "Los experimentos con perros de Pavlov.",
-        "El experimento del gato de Schrödinger",
-        "Experimento de la caja Skinner"
+        "Los Experimentos Con los Monos de Harlow",
+        "Los Experimentos Con Perros de Pavlov.",
+        "El Experimento del Gato de Schrödinger",
+        "Experimento de la Caja Skinner"
       ],
       "correct": 1,
       "category": "ciencia",
@@ -1219,7 +1219,7 @@
     {
       "question": "¿Qué principio de física relaciona el flujo eléctrico neto que sale de una superficie cerrada con la carga encerrada por esa superficie?",
       "answers": [
-        "ley de amperio",
+        "Ley de Amperio",
         "Ley de Faraday",
         "Ley de Gauss",
         "Ley Biot-Savart"
@@ -1231,10 +1231,10 @@
     {
       "question": "¿Cuál de estos compuestos químicos NO se encuentra en el ácido gástrico?",
       "answers": [
-        "ácido sulfúrico",
-        "Cloruro de potasio",
-        "Cloruro de sodio",
-        "ácido clorhídrico"
+        "Ácido Sulfúrico",
+        "Cloruro de Potasio",
+        "Cloruro de Sodio",
+        "Ácido Clorhídrico"
       ],
       "correct": 0,
       "category": "ciencia",
@@ -1243,10 +1243,10 @@
     {
       "question": "¿Qué nombre común se le da a la afección medial, síndrome de estrés tibial (MTSS)?",
       "answers": [
-        "Dolores en las espinillas",
-        "Codo de tenista",
-        "Túnel carpiano",
-        "Rodilla de criada"
+        "Dolores en las Espinillas",
+        "Codo de Tenista",
+        "Túnel Carpiano",
+        "Rodilla de Criada"
       ],
       "correct": 0,
       "category": "ciencia",
@@ -1256,9 +1256,9 @@
       "question": "¿El síndrome del estallido heliooftálmico autosómico dominante es la necesidad de hacer qué al ver el sol?",
       "answers": [
         "Bostezo",
-        "hipo",
+        "Hipo",
         "Estornudar",
-        "tos"
+        "Tos"
       ],
       "correct": 2,
       "category": "ciencia",
@@ -1270,7 +1270,7 @@
         "Miofibrillas",
         "Miofiamentos",
         "Epimisio",
-        "miocardio"
+        "Miocardio"
       ],
       "correct": 0,
       "category": "ciencia",
@@ -1291,10 +1291,10 @@
     {
       "question": "¿Qué es el \"estenoma\"?",
       "answers": [
-        "Un género de polillas",
-        "Un estimulante de combate de la Segunda Guerra Mundial.",
-        "un tipo de condimento",
-        "Una ciudad portuaria en el caribe"
+        "Un Género de Polillas",
+        "Un Estimulante de Combate de la Segunda Guerra Mundial.",
+        "Un Tipo de Condimento",
+        "Una Ciudad Portuaria en el Caribe"
       ],
       "correct": 0,
       "category": "ciencia",
@@ -1303,10 +1303,10 @@
     {
       "question": "¿A qué se refiere el término \"aislamiento\" en microbiología?",
       "answers": [
-        "El nivel de nitrógeno en el suelo.",
-        "La separación de una cepa de una población natural mixta de microbios vivos.",
-        "Probar los efectos de ciertos microorganismos en entornos aislados, como cuevas.",
-        "Falta de nutrición en microambientes."
+        "El Nivel de Nitrógeno en el Suelo.",
+        "La Separación de Una Cepa de Una Población Natural Mixta de Microbios Vivos.",
+        "Probar los Efectos de Ciertos Microorganismos en Entornos Aislados, Como Cuevas.",
+        "Falta de Nutrición en Microambientes."
       ],
       "correct": 1,
       "category": "ciencia",
@@ -1315,10 +1315,10 @@
     {
       "question": "¿Cuántos protones hay en un átomo de oxígeno?",
       "answers": [
-        "cuatro",
-        "dos",
+        "Cuatro",
+        "Dos",
         "Ocho",
-        "seis"
+        "Seis"
       ],
       "correct": 2,
       "category": "ciencia",
@@ -1327,10 +1327,10 @@
     {
       "question": "¿Qué satélite Landsat ha tenido actualmente la vida operativa más larga?",
       "answers": [
-        "satélite 5",
-        "satélite 6",
-        "satélite 7",
-        "satélite 8"
+        "Satélite 5",
+        "Satélite 6",
+        "Satélite 7",
+        "Satélite 8"
       ],
       "correct": 0,
       "category": "ciencia",
@@ -1339,10 +1339,10 @@
     {
       "question": "¿Cuál no es un tipo de neurona?",
       "answers": [
-        "Neurona perceptiva",
-        "Neurona sensorial",
-        "Neurona motora",
-        "interneurona"
+        "Neurona Perceptiva",
+        "Neurona Sensorial",
+        "Neurona Motora",
+        "Interneurona"
       ],
       "correct": 0,
       "category": "ciencia",
@@ -1352,9 +1352,9 @@
       "question": "¿Cuál es la toxina más potente conocida?",
       "answers": [
         "Amianto",
-        "cianuro",
-        "toxina botulínica",
-        "ricina"
+        "Cianuro",
+        "Toxina Botulínica",
+        "Ricina"
       ],
       "correct": 2,
       "category": "ciencia",
@@ -1365,7 +1365,7 @@
       "answers": [
         "Polipropileno (PP)",
         "Polietileno (PE)",
-        "Policloruro de vinilo (PVC)",
+        "Policloruro de Vinilo (PVC)",
         "Poliestireno (PS)"
       ],
       "correct": 2,
@@ -1376,7 +1376,7 @@
       "question": "¿La coulrofobia es el miedo irracional a qué?",
       "answers": [
         "Túneles",
-        "payasos",
+        "Payasos",
         "Agujas",
         "Cementerios"
       ],
@@ -1388,7 +1388,7 @@
       "question": "¿Cuál de los siguientes es el término para \"complicaciones quirúrgicas resultantes de esponjas quirúrgicas dejadas dentro del cuerpo del paciente\"?",
       "answers": [
         "Meupareunia",
-        "gossypiboma",
+        "Gossypiboma",
         "Gongozler",
         "Jentacular"
       ],
@@ -1411,9 +1411,9 @@
     {
       "question": "Si plantaras las semillas de Quercus robur ¿qué crecería?",
       "answers": [
-        "árboles",
-        "flores",
-        "verduras",
+        "Árboles",
+        "Flores",
+        "Verduras",
         "Granos"
       ],
       "correct": 0,
@@ -1423,10 +1423,10 @@
     {
       "question": "¿Cómo se llama la envoltura gaseosa de un cometa (que crea la cola)?",
       "answers": [
-        "La repercusión",
-        "el coma",
-        "el ablativo",
-        "el velorio"
+        "La Repercusión",
+        "El Coma",
+        "El Ablativo",
+        "El Velorio"
       ],
       "correct": 1,
       "category": "ciencia",
@@ -1447,10 +1447,10 @@
     {
       "question": "¿Cuál de estos es el término científico para \"Brain Freeze\"?",
       "answers": [
-        "Amblioma americano",
-        "Ganglioneuralgia esfenopalatina",
-        "Amaranto retroflexo",
-        "Hyacinthoides itálica"
+        "Amblioma Americano",
+        "Ganglioneuralgia Esfenopalatina",
+        "Amaranto Retroflexo",
+        "Hyacinthoides Itálica"
       ],
       "correct": 1,
       "category": "ciencia",
@@ -1459,10 +1459,10 @@
     {
       "question": "¿Qué satélite Landsat no logró alcanzar la órbita?",
       "answers": [
-        "satélite 5",
-        "satélite 4",
-        "satélite 6",
-        "satélite 3"
+        "Satélite 5",
+        "Satélite 4",
+        "Satélite 6",
+        "Satélite 3"
       ],
       "correct": 2,
       "category": "ciencia",
@@ -1484,9 +1484,9 @@
       "question": "¿Qué horizonte en un perfil de suelo está formado por un lecho de roca?",
       "answers": [
         "R",
-        "oh",
+        "Oh",
         "B",
-        "re"
+        "Re"
       ],
       "correct": 0,
       "category": "ciencia",
@@ -1495,9 +1495,9 @@
     {
       "question": "¿Qué enfermedad genética es causada por tener un cromosoma Y adicional (XYY)?",
       "answers": [
-        "El síndrome de Jacob",
-        "El síndrome de Turner",
-        "síndrome de down",
+        "El Síndrome de Jacob",
+        "El Síndrome de Turner",
+        "Síndrome de Down",
         "Síndrome de Klinefelter"
       ],
       "correct": 0,
@@ -1519,10 +1519,10 @@
     {
       "question": "¿Qué significa el nombre científico de la criatura marina del período Cámbrico Anomalocaris?",
       "answers": [
-        "Almeja anómala",
-        "Cangrejo extraño",
-        "Camarones anormales",
-        "Pez deformado"
+        "Almeja Anómala",
+        "Cangrejo Extraño",
+        "Camarones Anormales",
+        "Pez Deformado"
       ],
       "correct": 2,
       "category": "ciencia",
@@ -1531,10 +1531,10 @@
     {
       "question": "¿Cuál de los siguientes es un músculo importante de la espalda?",
       "answers": [
-        "trapecio",
         "Trapecio",
-        "trapezoide",
-        "triquetro"
+        "Trapecio",
+        "Trapezoide",
+        "Triquetro"
       ],
       "correct": 0,
       "category": "ciencia",
@@ -1543,10 +1543,10 @@
     {
       "question": "¿En qué órgano humano se encuentran los 'Islotes de Langerhans'?",
       "answers": [
-        "hígado",
-        "páncreas",
+        "Hígado",
+        "Páncreas",
         "Cerebro",
-        "riñón"
+        "Riñón"
       ],
       "correct": 1,
       "category": "ciencia",
@@ -1555,10 +1555,10 @@
     {
       "question": "¿Cuáles de las siguientes son células del sistema inmunológico adaptativo?",
       "answers": [
-        "Células T citotóxicas",
-        "Células asesinas naturales",
-        "Células dendríticas",
-        "glóbulos blancos"
+        "Células T Citotóxicas",
+        "Células Asesinas Naturales",
+        "Células Dendríticas",
+        "Glóbulos Blancos"
       ],
       "correct": 0,
       "category": "ciencia",
@@ -1579,10 +1579,10 @@
     {
       "question": "¿Cuál de estos es un dispositivo amplificador semiconductor?",
       "answers": [
-        "diodo",
-        "tubo",
-        "unión PN",
-        "transistores"
+        "Diodo",
+        "Tubo",
+        "Unión PN",
+        "Transistores"
       ],
       "correct": 3,
       "category": "ciencia",
@@ -1591,10 +1591,10 @@
     {
       "question": "¿Qué unidad científica lleva el nombre de un noble italiano?",
       "answers": [
-        "hercios",
-        "voltio",
-        "pascal",
-        "ohmios"
+        "Hercios",
+        "Voltio",
+        "Pascal",
+        "Ohmios"
       ],
       "correct": 1,
       "category": "ciencia",
@@ -1615,8 +1615,8 @@
     {
       "question": "¿Qué temperatura puede alcanzar el núcleo del Sol?",
       "answers": [
-        "8° mil millones de F (°4,4 mil millones de C)",
-        "Cero absoluto (tanto F como C)",
+        "8° Mil Millones de F (°4,4 Mil Millones de C)",
+        "Cero Absoluto (tanto F Como C)",
         "27° Millones F (15° Millones C)",
         "938.000°F (521093,3°C)"
       ],
@@ -1651,10 +1651,10 @@
     {
       "question": "¿Cuál de los siguientes NO es un elemento real?",
       "answers": [
-        "vitrenio",
-        "praseodimio",
-        "hasio",
-        "lutecio"
+        "Vitrenio",
+        "Praseodimio",
+        "Hasio",
+        "Lutecio"
       ],
       "correct": 0,
       "category": "ciencia",
@@ -1663,10 +1663,10 @@
     {
       "question": "¿Cómo se conoce más comúnmente al ácido isobutilfenilpropanoico?",
       "answers": [
-        "aspirina",
-        "ketamina",
-        "ibuprofeno",
-        "morfina"
+        "Aspirina",
+        "Ketamina",
+        "Ibuprofeno",
+        "Morfina"
       ],
       "correct": 2,
       "category": "ciencia",
@@ -1687,10 +1687,10 @@
     {
       "question": "¿Cuál fue el primer compuesto orgánico que se sintetizó a partir de compuestos inorgánicos?",
       "answers": [
-        "formaldehído",
-        "urea",
-        "etanol",
-        "propano"
+        "Formaldehído",
+        "Urea",
+        "Etanol",
+        "Propano"
       ],
       "correct": 1,
       "category": "ciencia",
@@ -1699,7 +1699,7 @@
     {
       "question": "¿Cuál es la fórmula molecular de la glucosa?",
       "answers": [
-        "k+",
+        "K+",
         "C6H12O6",
         "C2H4O2",
         "CH4"
@@ -1711,10 +1711,10 @@
     {
       "question": "¿Cuánta radiación emite un plátano?",
       "answers": [
-        "0,5 microsievert",
-        "0,1 microsievert",
-        "0,7 microsievert",
-        "0,3 microsieverts"
+        "0,5 Microsievert",
+        "0,1 Microsievert",
+        "0,7 Microsievert",
+        "0,3 Microsieverts"
       ],
       "correct": 1,
       "category": "ciencia",
@@ -1737,8 +1737,8 @@
       "answers": [
         "Calisto",
         "Titán",
-        "miranda",
-        "europa"
+        "Miranda",
+        "Europa"
       ],
       "correct": 1,
       "category": "ciencia",
@@ -1747,10 +1747,10 @@
     {
       "question": "En física cuántica, ¿cuál de estas partículas subatómicas teorizadas aún no se ha observado?",
       "answers": [
-        "gluón",
+        "Gluón",
         "Gravitón",
-        "bosón Z",
-        "neutrino tau"
+        "Bosón Z",
+        "Neutrino Tau"
       ],
       "correct": 1,
       "category": "ciencia",
@@ -1760,7 +1760,7 @@
       "question": "¿Cuál es el nombre científico del zorro rojo?",
       "answers": [
         "Vulpes Vulpie",
-        "zorro rojo",
+        "Zorro Rojo",
         "Vulpes Redus",
         "Vulpes Vulpes"
       ],
@@ -1771,9 +1771,9 @@
     {
       "question": "¿Qué elemento de la tabla periódica tiene 92 electrones?",
       "answers": [
-        "azufre",
-        "uranio",
-        "hierro",
+        "Azufre",
+        "Uranio",
+        "Hierro",
         "Hidrógeno"
       ],
       "correct": 1,
@@ -1783,10 +1783,10 @@
     {
       "question": "¿La teoría del Big Bang fue teorizada por primera vez por un sacerdote de qué ideología religiosa?",
       "answers": [
-        "judío",
-        "cristiano",
-        "islámico",
-        "católico"
+        "Judío",
+        "Cristiano",
+        "Islámico",
+        "Católico"
       ],
       "correct": 3,
       "category": "ciencia",
@@ -1795,10 +1795,10 @@
     {
       "question": "La palabra \"ciencia\" proviene de la palabra \"scire\", ¿qué significa?",
       "answers": [
-        "vivir",
-        "para medir",
-        "saber",
-        "contar"
+        "Vivir",
+        "Para Medir",
+        "Saber",
+        "Contar"
       ],
       "correct": 2,
       "category": "ciencia",
@@ -1858,9 +1858,9 @@
       "question": "Enumere los siguientes imperios iraníes en orden cronológico:",
       "answers": [
         "Aqueménida, Media, Sasánida, Parta",
-        "Mediano, aqueménida, parto, sasánida",
+        "Mediano, Aqueménida, Parto, Sasánida",
         "Aqueménida, Media, Parta, Sasánida",
-        "Mediano, aqueménida, sasánida, parto"
+        "Mediano, Aqueménida, Sasánida, Parto"
       ],
       "correct": 1,
       "category": "historia",
@@ -1883,7 +1883,7 @@
       "answers": [
         "Australia y Nueva Zelanda",
         "Francia y Brasil",
-        "Estados Unidos e Inglaterra",
+        "Estados Unidos E Inglaterra",
         "Canadá y Noruega"
       ],
       "correct": 1,
@@ -1917,10 +1917,10 @@
     {
       "question": "¿En qué día ARPANET sufrió una caída de red de 4 horas de duración?",
       "answers": [
-        "27 de octubre de 1980",
-        "29 de octubre de 1969",
-        "21 de noviembre de 1969",
-        "9 de diciembre de 1991"
+        "27 de Octubre de 1980",
+        "29 de Octubre de 1969",
+        "21 de Noviembre de 1969",
+        "9 de Diciembre de 1991"
       ],
       "correct": 0,
       "category": "historia",
@@ -1929,10 +1929,10 @@
     {
       "question": "¿Cuándo comenzó la Revolución Francesa?",
       "answers": [
-        "06 de mayo de 1799",
-        "05 de abril de 1789",
-        "05 de mayo de 1789",
-        "12 de abril de 1789"
+        "06 de Mayo de 1799",
+        "05 de Abril de 1789",
+        "05 de Mayo de 1789",
+        "12 de Abril de 1789"
       ],
       "correct": 2,
       "category": "historia",
@@ -1942,7 +1942,7 @@
       "question": "Durante el triunvirato romano del 42 a. C., ¿qué región de la República romana se le dio a Lépido?",
       "answers": [
         "Hispania",
-        "italia",
+        "Italia",
         "Galia",
         "Asia"
       ],
@@ -1954,8 +1954,8 @@
       "question": "Después de la batalla de Marj Dabiq de 1516, ¿el Imperio Otomano tomó el control de Jerusalén desde qué sultanato?",
       "answers": [
         "Omeya",
-        "mameluco",
-        "selyúcida",
+        "Mameluco",
+        "Selyúcida",
         "Ayyubí"
       ],
       "correct": 1,
@@ -1966,7 +1966,7 @@
       "question": "¿Cuál de los siguientes físicos ayudó a la Alemania nazi en la producción de un arma nuclear?",
       "answers": [
         "Albert Einstein",
-        "Juan von Neumann",
+        "Juan Von Neumann",
         "Werner Heisenberg",
         "Max Planck"
       ],
@@ -1992,7 +1992,7 @@
         "Francia",
         "Estados Unidos",
         "Haití",
-        "cuba"
+        "Cuba"
       ],
       "correct": 2,
       "category": "historia",
@@ -2014,9 +2014,9 @@
       "question": "¿Cómo se llamaba Napoleón Bonaparte antes de cambiarlo?",
       "answers": [
         "Napoleón de Bonaparte",
-        "Naapolion van Bonijpaart",
+        "Naapolion Van Bonijpaart",
         "Napoleón de Boaparte",
-        "napoleona de buenoparte"
+        "Napoleona de Buenoparte"
       ],
       "correct": 0,
       "category": "historia",
@@ -2027,8 +2027,8 @@
       "answers": [
         "Batalla del Mar del Coral",
         "Ataque a Pearl Harbor",
-        "Batalla de mitad de camino",
-        "Ataque a la isla Truk"
+        "Batalla de Mitad de Camino",
+        "Ataque a la Isla Truk"
       ],
       "correct": 2,
       "category": "historia",
@@ -2039,7 +2039,7 @@
       "answers": [
         "Parachoques-WAC",
         "Sputnik I",
-        "Tapa de alcantarilla americana",
+        "Tapa de Alcantarilla Americana",
         "Sputnik II"
       ],
       "correct": 0,
@@ -2049,9 +2049,9 @@
     {
       "question": "¿Qué significaba la abreviatura \"RMS\" en el RMS Titanic en 1912?",
       "answers": [
-        "Sensor de vorágine regulado",
-        "Barco de correo real",
-        "Horario marítimo regular",
+        "Sensor de Vorágine Regulado",
+        "Barco de Correo Real",
+        "Horario Marítimo Regular",
         "Servicio de Majestad Real"
       ],
       "correct": 1,
@@ -2061,10 +2061,10 @@
     {
       "question": "¿Cuánto duró el Levantamiento de Varsovia durante la Segunda Guerra Mundial?",
       "answers": [
-        "63 días",
-        "20 dias",
-        "55 días",
-        "224 días"
+        "63 Días",
+        "20 Dias",
+        "55 Días",
+        "224 Días"
       ],
       "correct": 0,
       "category": "historia",
@@ -2076,7 +2076,7 @@
         "Pío III",
         "Urbano II",
         "Alejandro VI",
-        "inocente v"
+        "Inocente V"
       ],
       "correct": 2,
       "category": "historia",
@@ -2097,10 +2097,10 @@
     {
       "question": "¿Cuándo se fundó la ciudad de Roma, Italia?",
       "answers": [
-        "697 a. C.",
-        "753 a. C.",
-        "524 a. C.",
-        "902 a. C."
+        "697 A. C.",
+        "753 A. C.",
+        "524 A. C.",
+        "902 A. C."
       ],
       "correct": 1,
       "category": "historia",
@@ -2121,10 +2121,10 @@
     {
       "question": "¿Cuándo declaró Lituania su independencia de la Unión Soviética?",
       "answers": [
-        "5 de diciembre de 1991",
-        "11 de marzo de 1990",
-        "20 de abril de 1989",
-        "25 de diciembre de 1991"
+        "5 de Diciembre de 1991",
+        "11 de Marzo de 1990",
+        "20 de Abril de 1989",
+        "25 de Diciembre de 1991"
       ],
       "correct": 1,
       "category": "historia",
@@ -2145,10 +2145,10 @@
     {
       "question": "Antes de que las colonias americanas cambiaran al calendario gregoriano en 1752, ¿en qué fecha comenzaba el nuevo año?",
       "answers": [
-        "1 de diciembre",
-        "25 de marzo",
-        "25 de septiembre",
-        "1 de junio"
+        "1 de Diciembre",
+        "25 de Marzo",
+        "25 de Septiembre",
+        "1 de Junio"
       ],
       "correct": 1,
       "category": "historia",
@@ -2157,10 +2157,10 @@
     {
       "question": "¿Cuándo abandonó Canadá la confederación para convertirse en su propia nación?",
       "answers": [
-        "1 de julio de 1832",
-        "1 de julio de 1867",
-        "1 de julio de 1763",
-        "1 de julio de 1902"
+        "1 de Julio de 1832",
+        "1 de Julio de 1867",
+        "1 de Julio de 1763",
+        "1 de Julio de 1902"
       ],
       "correct": 1,
       "category": "historia",
@@ -2169,10 +2169,10 @@
     {
       "question": "¿Cuándo se levantó el \"Asedio de Leningrado\" durante la Segunda Guerra Mundial?",
       "answers": [
-        "septiembre de 1943",
-        "enero de 1944",
-        "marzo de 1944",
-        "noviembre de 1943"
+        "Septiembre de 1943",
+        "Enero de 1944",
+        "Marzo de 1944",
+        "Noviembre de 1943"
       ],
       "correct": 1,
       "category": "historia",
@@ -2218,7 +2218,7 @@
       "question": "¿El pianista Frédéric Chopin fue compositor de qué época musical?",
       "answers": [
         "Renacimiento",
-        "romantico",
+        "Romantico",
         "Barroco",
         "Clásico"
       ],
@@ -2241,10 +2241,10 @@
     {
       "question": "¿Qué encontraron en 1946 dos jóvenes pastores cerca de una cueva?",
       "answers": [
-        "ovejas",
+        "Ovejas",
         "Rollos del Mar Muerto",
-        "El primer durmiente de las cavernas de Oaxaca",
-        "El cofre de Barbanegra"
+        "El Primer Durmiente de las Cavernas de Oaxaca",
+        "El Cofre de Barbanegra"
       ],
       "correct": 1,
       "category": "historia",
@@ -2277,10 +2277,10 @@
     {
       "question": "¿Cuándo se fundaron las SS o Schutzstaffel?",
       "answers": [
-        "4 de abril de 1925",
-        "8 de marzo de 1935",
-        "1 de septiembre de 1941",
-        "21 de febrero de 1926"
+        "4 de Abril de 1925",
+        "8 de Marzo de 1935",
+        "1 de Septiembre de 1941",
+        "21 de Febrero de 1926"
       ],
       "correct": 0,
       "category": "historia",
@@ -2289,10 +2289,10 @@
     {
       "question": "¿Qué día comenzó la Primera Guerra Mundial?",
       "answers": [
-        "28 de abril",
-        "28 de junio",
-        "28 de julio",
-        "28 de enero"
+        "28 de Abril",
+        "28 de Junio",
+        "28 de Julio",
+        "28 de Enero"
       ],
       "correct": 2,
       "category": "historia",
@@ -2349,10 +2349,10 @@
     {
       "question": "¿Cómo se llama el Boeing B-29 que lanzó la bomba atómica 'Little Boy' sobre Hiroshima?",
       "answers": [
-        "Mal necesario",
-        "Casa llena",
+        "Mal Necesario",
+        "Casa Llena",
         "Enola Gay",
-        "El gran artista"
+        "El Gran Artista"
       ],
       "correct": 2,
       "category": "historia",
@@ -2361,9 +2361,9 @@
     {
       "question": "¿Cómo se llamaba la red de espías que ayudó a Estados Unidos a ganar la Guerra Revolucionaria?",
       "answers": [
-        "Los espías de Washington",
-        "Sin nombre",
-        "Anillo de espías de Nueva York",
+        "Los Espías de Washington",
+        "Sin Nombre",
+        "Anillo de Espías de Nueva York",
         "Anillo Culper"
       ],
       "correct": 3,
@@ -2400,7 +2400,7 @@
         "Iván el Terrible",
         "Mijaíl Romanov",
         "Alexis de Rusia",
-        "Pedro el grande"
+        "Pedro el Grande"
       ],
       "correct": 0,
       "category": "historia",
@@ -2424,8 +2424,8 @@
       "question": "En Avengers: Infinity War, ¿dónde estaba ubicada la Piedra del Alma?",
       "answers": [
         "Vormir",
-        "xandar",
-        "No sé dónde",
+        "Xandar",
+        "No Sé Dónde",
         "Asgard"
       ],
       "correct": 0,
@@ -2435,8 +2435,8 @@
     {
       "question": "¿Cuál era el apellido de Dorothy en 'El mago de Oz'?",
       "answers": [
-        "dia",
-        "parker",
+        "Dia",
+        "Parker",
         "Vendaval",
         "Perkins"
       ],
@@ -2447,10 +2447,10 @@
     {
       "question": "En la película \"Spaceballs\", ¿qué intentan robar las Spaceballs del planeta Druidia?",
       "answers": [
-        "princesa estrella solitaria",
-        "aire",
+        "Princesa Estrella Solitaria",
+        "Aire",
         "El Schwartz",
-        "albóndigas"
+        "Albóndigas"
       ],
       "correct": 1,
       "category": "cine",
@@ -2473,7 +2473,7 @@
       "answers": [
         "Pamela Bouvier",
         "Vanessa Kensington",
-        "maria buenas noches",
+        "Maria Buenas Noches",
         "Wai Lin"
       ],
       "correct": 1,
@@ -2484,7 +2484,7 @@
       "question": "¿Cómo se llama la banda ficticia de retro-mod protagonizada por Austin Powers como vocalista principal?",
       "answers": [
         "Señor E.",
-        "Lanza de menta",
+        "Lanza de Menta",
         "Té Ming",
         "Tos"
       ],
@@ -2495,10 +2495,10 @@
     {
       "question": "¿Qué nombre le puso Tom Hanks a su compañero de voleibol en la película `Náufrago`?",
       "answers": [
-        "viernes",
-        "jones",
-        "wilson",
-        "billy"
+        "Viernes",
+        "Jones",
+        "Wilson",
+        "Billy"
       ],
       "correct": 2,
       "category": "cine",
@@ -2508,7 +2508,7 @@
       "question": "En \"ALF\", ¿cuál era el verdadero nombre de ALF?",
       "answers": [
         "Gordon Shumway",
-        "Gordon von Gam",
+        "Gordon Von Gam",
         "Gordon Foster",
         "Gordon Milipp"
       ],
@@ -2521,7 +2521,7 @@
       "answers": [
         "Elegido",
         "Rey Dragón",
-        "mono de hierro",
+        "Mono de Hierro",
         "Maestro Tang"
       ],
       "correct": 0,
@@ -2531,10 +2531,10 @@
     {
       "question": "Al final de la película \"Rat Race\" de 2001, ¿en qué concierto chocan los concursantes?",
       "answers": [
-        "suma 41",
-        "Aplastar la boca",
-        "parque linkin",
-        "Bolos para sopa"
+        "Suma 41",
+        "Aplastar la Boca",
+        "Parque Linkin",
+        "Bolos Para Sopa"
       ],
       "correct": 1,
       "category": "cine",
@@ -2543,10 +2543,10 @@
     {
       "question": "Esta película contiene la cita: \"Houston, tenemos un problema\".",
       "answers": [
-        "Lo correcto",
+        "Lo Correcto",
         "Apolo 13",
-        "Capricornio uno",
-        "abandonado"
+        "Capricornio Uno",
+        "Abandonado"
       ],
       "correct": 1,
       "category": "cine",
@@ -2555,10 +2555,10 @@
     {
       "question": "¿Qué película incluye un espíritu gigante parecido a un conejito que tiene poderes mágicos, incluido el cultivo de árboles?",
       "answers": [
-        "Alicia en el país de las maravillas",
-        "mi vecino totoro",
-        "El ascenso de los guardianes",
-        "salto"
+        "Alicia en el País de las Maravillas",
+        "Mi Vecino Totoro",
+        "El Ascenso de los Guardianes",
+        "Salto"
       ],
       "correct": 1,
       "category": "cine",
@@ -2615,10 +2615,10 @@
     {
       "question": "¿Qué superhéroe han interpretado en el cine los actores Michael Keaton, Val Kilmer, George Clooney y Christian Bale?",
       "answers": [
-        "hombre de hierro",
-        "batman",
-        "superhombre",
-        "hombre araña"
+        "Hombre de Hierro",
+        "Batman",
+        "Superhombre",
+        "Hombre Araña"
       ],
       "correct": 1,
       "category": "cine",
@@ -2627,10 +2627,10 @@
     {
       "question": "¿Las tiendas 7-Eleven se convirtieron temporalmente en Kwik E-marts para promover el estreno de qué película?",
       "answers": [
-        "pisto",
-        "La película de los Simpson",
-        "shrek tercero",
-        "El hombre araña 3"
+        "Pisto",
+        "La Película de los Simpson",
+        "Shrek Tercero",
+        "El Hombre Araña 3"
       ],
       "correct": 1,
       "category": "cine",
@@ -2663,7 +2663,7 @@
     {
       "question": "¿En qué estado de Estados Unidos se desarrolla principalmente la película de 1996 'Fargo'?",
       "answers": [
-        "minnesota",
+        "Minnesota",
         "Dakota del Sur",
         "Dakota del Norte",
         "Wisconsin"
@@ -2675,10 +2675,10 @@
     {
       "question": "Daniel Radcliffe se convirtió en una estrella mundial en la industria cinematográfica debido a su actuación ¿en qué franquicia cinematográfica?",
       "answers": [
-        "harry potter",
-        "piratas del caribe",
-        "Niños espías",
-        "ted"
+        "Harry Potter",
+        "Piratas del Caribe",
+        "Niños Espías",
+        "Ted"
       ],
       "correct": 0,
       "category": "cine",
@@ -2723,10 +2723,10 @@
     {
       "question": "¿Qué película protagonizada por Bruce Willis contiene la frase \"Veo gente muerta\"?",
       "answers": [
-        "Morir duro",
-        "El sexto sentido",
+        "Morir Duro",
+        "El Sexto Sentido",
         "Armagedón",
-        "El quinto elemento"
+        "El Quinto Elemento"
       ],
       "correct": 1,
       "category": "cine",
@@ -2735,10 +2735,10 @@
     {
       "question": "Max Schreck, un famoso actor de cine mudo alemán, interpreta a un famoso monstruo ¿en qué película de 1922?",
       "answers": [
-        "El jinete sin cabeza",
-        "frankenstein",
+        "El Jinete Sin Cabeza",
+        "Frankenstein",
         "Nosferatu",
-        "haxan"
+        "Haxan"
       ],
       "correct": 2,
       "category": "cine",
@@ -2759,10 +2759,10 @@
     {
       "question": "¿Qué película animada fue la primera en presentar a una celebridad como actor de doblaje?",
       "answers": [
-        "aladino",
-        "historia del juguete",
-        "James y el melocotón gigante",
-        "El jorobado de Notre Dame"
+        "Aladino",
+        "Historia del Juguete",
+        "James y el Melocotón Gigante",
+        "El Jorobado de Notre Dame"
       ],
       "correct": 0,
       "category": "cine",
@@ -2783,10 +2783,10 @@
     {
       "question": "En la película \"Náufrago\", se nombra al mejor amigo del protagonista principal mientras estaba en la isla.",
       "answers": [
-        "willy",
-        "carson",
-        "jackson",
-        "wilson"
+        "Willy",
+        "Carson",
+        "Jackson",
+        "Wilson"
       ],
       "correct": 3,
       "category": "cine",
@@ -2795,10 +2795,10 @@
     {
       "question": "¿Qué película de James Bond tuvo el tema principal escrito e interpretado por la cantautora inglesa Adele?",
       "answers": [
-        "espectro",
-        "Casino real",
-        "caída del cielo",
-        "Consuelo cuántico"
+        "Espectro",
+        "Casino Real",
+        "Caída del Cielo",
+        "Consuelo Cuántico"
       ],
       "correct": 2,
       "category": "cine",
@@ -2807,10 +2807,10 @@
     {
       "question": "¿Qué período histórico fue el centro de la película Assassin's Creed (2016)?",
       "answers": [
-        "Inquisición española",
-        "revolución francesa",
-        "Inglaterra victoriana",
-        "América colonial"
+        "Inquisición Española",
+        "Revolución Francesa",
+        "Inglaterra Victoriana",
+        "América Colonial"
       ],
       "correct": 0,
       "category": "cine",
@@ -2819,10 +2819,10 @@
     {
       "question": "¿Cuál de las siguientes películas no está basada en una novela de Stephen King?",
       "answers": [
-        "La cosa",
-        "miseria",
+        "La Cosa",
+        "Miseria",
         "La Milla Verde",
-        "carrie"
+        "Carrie"
       ],
       "correct": 0,
       "category": "cine",
@@ -2831,10 +2831,10 @@
     {
       "question": "¿Qué película ha sido considerada por la crítica como la mejor película de todos los tiempos?",
       "answers": [
-        "avatar",
+        "Avatar",
         "Ciudadano Kane",
         "El Padrino Parte II",
-        "La habitación"
+        "La Habitación"
       ],
       "correct": 1,
       "category": "cine",
@@ -2843,10 +2843,10 @@
     {
       "question": "Esta película contiene la cita: \"Nadie arrincona a Baby\".",
       "answers": [
-        "Bonita en rosa",
-        "Día libre de Ferris Bueller",
-        "baile sucio",
-        "Tres hombres y un bebé"
+        "Bonita en Rosa",
+        "Día Libre de Ferris Bueller",
+        "Baile Sucio",
+        "Tres Hombres y Un Bebé"
       ],
       "correct": 2,
       "category": "cine",
@@ -2855,10 +2855,10 @@
     {
       "question": "¿Qué película contiene la cita \"¡Saluda a mi amiguito!\"?",
       "answers": [
-        "Perros de reserva",
+        "Perros de Reserva",
         "Calor",
-        "caracortada",
-        "Buenos amigos"
+        "Caracortada",
+        "Buenos Amigos"
       ],
       "correct": 2,
       "category": "cine",
@@ -2879,10 +2879,10 @@
     {
       "question": "Para la película \"En busca del arca perdida\", ¿de qué se enfermó Harrison Ford durante el rodaje de la persecución en El Cairo?",
       "answers": [
-        "disentería",
+        "Disentería",
         "Estreñimiento",
-        "anemia",
-        "Reflujo ácido"
+        "Anemia",
+        "Reflujo Ácido"
       ],
       "correct": 0,
       "category": "cine",
@@ -2903,10 +2903,10 @@
     {
       "question": "¿Qué película estrenada en 2016 presenta a Superman y Batman peleando?",
       "answers": [
-        "Batman v Superman: El negro del caballero",
-        "Batman v Superman: Superapocalipsis",
-        "Batman v Superman: El amanecer de la justicia",
-        "Batman v Superman: Caída del Caballero"
+        "Batman V Superman: el Negro del Caballero",
+        "Batman V Superman: Superapocalipsis",
+        "Batman V Superman: el Amanecer de la Justicia",
+        "Batman V Superman: Caída del Caballero"
       ],
       "correct": 2,
       "category": "cine",
@@ -2916,7 +2916,7 @@
       "question": "¿Quién dirigió Marvel's Avengers Endgame?",
       "answers": [
         "Kevin Feige",
-        "Los hermanos Russo",
+        "Los Hermanos Russo",
         "Josh Whedon",
         "Zack Sinder"
       ],
@@ -2951,10 +2951,10 @@
     {
       "question": "En la película \"V de Vendetta\", ¿cuál es la fecha que el justiciero enmascarado \"V\" insta a la gente a recordar?",
       "answers": [
-        "5 de septiembre",
-        "6 de noviembre",
-        "5 de noviembre",
-        "4 de noviembre"
+        "5 de Septiembre",
+        "6 de Noviembre",
+        "5 de Noviembre",
+        "4 de Noviembre"
       ],
       "correct": 2,
       "category": "cine",
@@ -2975,10 +2975,10 @@
     {
       "question": "En Avengers: Infinity War, ¿quién mantuvo la Piedra de la Realidad (también conocida como Éter) bajo custodia segura?",
       "answers": [
-        "El coleccionista",
-        "bruja escarlata",
-        "doctor extraño",
-        "el gran maestro"
+        "El Coleccionista",
+        "Bruja Escarlata",
+        "Doctor Extraño",
+        "El Gran Maestro"
       ],
       "correct": 0,
       "category": "cine",
@@ -2987,10 +2987,10 @@
     {
       "question": "¿Cuál fue el primer largometraje animado por computadora?",
       "answers": [
-        "101 dálmatas",
-        "tron",
-        "rey leon",
-        "historia del juguete"
+        "101 Dálmatas",
+        "Tron",
+        "Rey Leon",
+        "Historia del Juguete"
       ],
       "correct": 3,
       "category": "cine",
@@ -3000,9 +3000,9 @@
       "question": "En la película de Super Mario Bros. (2023), ¿quién interpreta a Toad?",
       "answers": [
         "Seth Rogan",
-        "día de charlie",
+        "Día de Charlie",
         "Keegan-Michael Key",
-        "Jack negro"
+        "Jack Negro"
       ],
       "correct": 2,
       "category": "cine",
@@ -3027,7 +3027,7 @@
       "answers": [
         "Watford",
         "Tottenham Hotspur",
-        "ciudad de leicester",
+        "Ciudad de Leicester",
         "Ciudad de Stoke"
       ],
       "correct": 2,
@@ -3038,9 +3038,9 @@
       "question": "En golf, ¿qué nombre se le da a un hoyo con una puntuación de dos bajo par?",
       "answers": [
         "Águila",
-        "fantasma",
+        "Fantasma",
         "Albatros",
-        "pajarito"
+        "Pajarito"
       ],
       "correct": 0,
       "category": "deporte",
@@ -3074,7 +3074,7 @@
       "question": "¿Qué deporte presenta los términos amor, dos, partido y volea?",
       "answers": [
         "Tenis",
-        "baloncesto",
+        "Baloncesto",
         "Grillo",
         "Curling"
       ],
@@ -3111,7 +3111,7 @@
       "answers": [
         "Estilos AJ",
         "Seth Rollins",
-        "andrade",
+        "Andrade",
         "Braun Strowman"
       ],
       "correct": 1,
@@ -3123,7 +3123,7 @@
       "answers": [
         "Don McKellar",
         "Don Taylor",
-        "don cereza",
+        "Don Cereza",
         "Donald Sutherland"
       ],
       "correct": 2,
@@ -3145,9 +3145,9 @@
     {
       "question": "¿En qué deporte se utiliza un \"volante\"?",
       "answers": [
-        "bádminton",
-        "Tenis de mesa",
-        "rugby",
+        "Bádminton",
+        "Tenis de Mesa",
+        "Rugby",
         "Grillo"
       ],
       "correct": 0,
@@ -3182,8 +3182,8 @@
       "question": "¿Qué piloto ha sido campeón del mundo de Fórmula 1 un récord de 7 veces?",
       "answers": [
         "Jim Clark",
-        "michael schumacher",
-        "fernando alonso",
+        "Michael Schumacher",
+        "Fernando Alonso",
         "Ayrton Sena"
       ],
       "correct": 1,
@@ -3208,7 +3208,7 @@
         "Paige",
         "Jackie Robinson",
         "Roy Campanella",
-        "Inundación breve"
+        "Inundación Breve"
       ],
       "correct": 1,
       "category": "deporte",
@@ -3229,8 +3229,8 @@
     {
       "question": "¿Qué club de fútbol inglés tiene el sobrenombre de 'Los Zorros'?",
       "answers": [
-        "ciudad de bradford",
-        "ciudad de leicester",
+        "Ciudad de Bradford",
+        "Ciudad de Leicester",
         "West Bromwich Albión",
         "Ciudad de Northampton"
       ],
@@ -3266,7 +3266,7 @@
       "question": "¿Cómo se llama el estadio del Manchester United?",
       "answers": [
         "Anfield",
-        "Estadio de la ciudad de Manchester",
+        "Estadio de la Ciudad de Manchester",
         "Old Trafford",
         "Parque de San Jaime"
       ],
@@ -3277,10 +3277,10 @@
     {
       "question": "En los bolos, ¿cuál es el término utilizado para conseguir tres strikes consecutivos?",
       "answers": [
-        "pajarito",
+        "Pajarito",
         "Turquía",
         "Águila",
-        "flamenco"
+        "Flamenco"
       ],
       "correct": 1,
       "category": "deporte",
@@ -3316,7 +3316,7 @@
         "París Saints Germain",
         "FC Barcelona",
         "FC Sunderland",
-        "manchester unido"
+        "Manchester Unido"
       ],
       "correct": 2,
       "category": "deporte",
@@ -3338,7 +3338,7 @@
       "question": "¿La Liga de Campeones de la UEFA es una competición anual de fútbol de clubes en la que participan clubes de qué continente?",
       "answers": [
         "Europa",
-        "américa del sur",
+        "América del Sur",
         "África",
         "Asia"
       ],
@@ -3361,10 +3361,10 @@
     {
       "question": "¿Cuál es el tipo de lanzamiento más común que realizan los lanzadores en el béisbol?",
       "answers": [
-        "bola rápida",
-        "loco",
-        "bola lenta",
-        "pelota de palma"
+        "Bola Rápida",
+        "Loco",
+        "Bola Lenta",
+        "Pelota de Palma"
       ],
       "correct": 0,
       "category": "deporte",
@@ -3373,10 +3373,10 @@
     {
       "question": "¿En qué fecha se celebró la ceremonia de clausura de los Juegos Olímpicos de Verano de Río 2016?",
       "answers": [
-        "23 de agosto",
-        "21 de agosto",
-        "17 de agosto",
-        "19 de agosto"
+        "23 de Agosto",
+        "21 de Agosto",
+        "17 de Agosto",
+        "19 de Agosto"
       ],
       "correct": 1,
       "category": "deporte",
@@ -3397,10 +3397,10 @@
     {
       "question": "¿Cómo se llama la \"herramienta\" que se utiliza para golpear la bola blanca en el billar?",
       "answers": [
-        "mazo",
-        "señal",
-        "raqueta",
-        "murciélago"
+        "Mazo",
+        "Señal",
+        "Raqueta",
+        "Murciélago"
       ],
       "correct": 1,
       "category": "deporte",
@@ -3410,8 +3410,8 @@
       "question": "¿A qué equipo venció Inglaterra para ganar la final del Mundial de 1966?",
       "answers": [
         "Alemania Occidental",
-        "unión soviética",
-        "portugal",
+        "Unión Soviética",
+        "Portugal",
         "Brasil"
       ],
       "correct": 0,
@@ -3422,9 +3422,9 @@
       "question": "¿Con quién ganó Steven Gerrard la Liga de Campeones?",
       "answers": [
         "Chelsea",
-        "hombre de la ciudad",
+        "Hombre de la Ciudad",
         "Liverpool",
-        "real madrid"
+        "Real Madrid"
       ],
       "correct": 2,
       "category": "deporte",
@@ -3446,7 +3446,7 @@
       "question": "¿Cuál de estos equipos de la NHL jugó originalmente en Atlanta?",
       "answers": [
         "Llamas de Calgary",
-        "Minnesota salvaje",
+        "Minnesota Salvaje",
         "Canucks de Vancouver",
         "Blues de San Luis"
       ],
@@ -3460,7 +3460,7 @@
         "Brooklyn",
         "Las Vegas",
         "Boston",
-        "seattle"
+        "Seattle"
       ],
       "correct": 0,
       "category": "deporte",
@@ -3529,7 +3529,7 @@
     {
       "question": "¿De qué país surgieron futbolistas como Cafú, Roberto Carlos y Pelé?",
       "answers": [
-        "portugal",
+        "Portugal",
         "Argentina",
         "Brasil",
         "España"
@@ -3544,7 +3544,7 @@
         "Nueva York",
         "Ciudad de Quebec",
         "Montréal",
-        "houston"
+        "Houston"
       ],
       "correct": 1,
       "category": "deporte",
@@ -3568,7 +3568,7 @@
         "Suiza",
         "Inglaterra",
         "Países Bajos",
-        "portugal"
+        "Portugal"
       ],
       "correct": 3,
       "category": "deporte",
@@ -3591,8 +3591,8 @@
       "answers": [
         "Cheslea",
         "Liverpool",
-        "manchester unido",
-        "ciudad de leicester"
+        "Manchester Unido",
+        "Ciudad de Leicester"
       ],
       "correct": 3,
       "category": "deporte",
@@ -3601,10 +3601,10 @@
     {
       "question": "¿Qué equipo ha ganado más Copas Stanley en la NHL?",
       "answers": [
-        "Hojas de arce de Toronto",
+        "Hojas de Arce de Toronto",
         "Blackhawks de Chicago",
         "Canadienses de Montreal",
-        "Alas rojas de Detroit"
+        "Alas Rojas de Detroit"
       ],
       "correct": 2,
       "category": "deporte",
@@ -3616,8 +3616,8 @@
       "question": "¿Quién fue el baterista original de The Beatles?",
       "answers": [
         "Stuart Sutcliffe",
-        "Pete mejor",
-        "tommy moore",
+        "Pete Mejor",
+        "Tommy Moore",
         "Ringo Starr"
       ],
       "correct": 2,
@@ -3627,10 +3627,10 @@
     {
       "question": "¿En qué álbum se encuentra la canción 'New Slang' de The Shins?",
       "answers": [
-        "Oh, mundo invertido",
-        "Toboganes demasiado estrechos",
-        "Haciendo una mueca toda la noche",
-        "puerto de mañana"
+        "Oh, Mundo Invertido",
+        "Toboganes Demasiado Estrechos",
+        "Haciendo Una Mueca Toda la Noche",
+        "Puerto de Mañana"
       ],
       "correct": 0,
       "category": "musica",
@@ -3639,10 +3639,10 @@
     {
       "question": "¿\"Unison\" de Björk contiene una muestra de qué canción de Oval?",
       "answers": [
-        "Cubierta aérea",
+        "Cubierta Aérea",
         "Panorámica",
-        "hacer mientras",
-        "textual"
+        "Hacer Mientras",
+        "Textual"
       ],
       "correct": 0,
       "category": "musica",
@@ -3663,10 +3663,10 @@
     {
       "question": "¿Cuál fue el último álbum de Aphex Twin lanzado antes de su pausa de una década?",
       "answers": [
-        "siro",
-        "Obras ambientales recopiladas 85-92",
+        "Siro",
+        "Obras Ambientales Recopiladas 85-92",
         "Drukqs",
-        "lameventanas"
+        "Lameventanas"
       ],
       "correct": 2,
       "category": "musica",
@@ -3675,10 +3675,10 @@
     {
       "question": "\"Todos los chicos\" de Panic! ¿At the Disco fue lanzado como bonus track en qué álbum?",
       "answers": [
-        "Una fiebre que no puedes quitar con el sudor",
-        "¡Demasiado raro para vivir, demasiado raro para morir!",
-        "Muerte de un soltero",
-        "Vicios y virtudes"
+        "Una Fiebre Que No Puedes Quitar Con el Sudor",
+        "¡Demasiado Raro Para Vivir, Demasiado Raro Para Morir!",
+        "Muerte de Un Soltero",
+        "Vicios y Virtudes"
       ],
       "correct": 1,
       "category": "musica",
@@ -3687,9 +3687,9 @@
     {
       "question": "¿En qué álbum de los Beatles encontrarías la canción 'Eleanor Rigby'?",
       "answers": [
-        "revólver",
+        "Revólver",
         "Camino de la Abadía",
-        "alma de goma",
+        "Alma de Goma",
         "¡Ayuda!"
       ],
       "correct": 0,
@@ -3700,9 +3700,9 @@
       "question": "¿Cuál es el nombre artístico de la cantante neozelandesa Phillipa \"Pip\" Brown?",
       "answers": [
         "Lorde",
-        "kesha",
-        "mariquita",
-        "anika moa"
+        "Kesha",
+        "Mariquita",
+        "Anika Moa"
       ],
       "correct": 2,
       "category": "musica",
@@ -3711,10 +3711,10 @@
     {
       "question": "¿Cuál es el título en inglés de la pista de vaporwave \"リサフランク420 / 現代のコンピュー\" de Macintosh Plus (Vektroid)?",
       "answers": [
-        "Todo está en tu cabeza 420 / Entender",
-        "Haz tu movimiento 420 / Mi mente",
-        "Lisa Frank 420 / Computación moderna",
-        "Fumar hierba 420 / todos los días"
+        "Todo Está en Tu Cabeza 420 / Entender",
+        "Haz Tu Movimiento 420 / Mi Mente",
+        "Lisa Frank 420 / Computación Moderna",
+        "Fumar Hierba 420 / Todos los Días"
       ],
       "correct": 2,
       "category": "musica",
@@ -3723,10 +3723,10 @@
     {
       "question": "¿Cuál fue el primer sencillo de la banda de rock progresivo Rush?",
       "answers": [
-        "No se desvanece",
+        "No Se Desvanece",
         "Tom Sawyer",
-        "hombre trabajador",
-        "Dueño de un corazón solitario"
+        "Hombre Trabajador",
+        "Dueño de Un Corazón Solitario"
       ],
       "correct": 0,
       "category": "musica",
@@ -3735,10 +3735,10 @@
     {
       "question": "¿Cuál es el primer álbum de Pink Floyd?",
       "answers": [
-        "Ojalá estuvieras aquí",
-        "El flautista a las puertas del amanecer",
-        "entrometerse",
-        "El lado oscuro de la luna"
+        "Ojalá Estuvieras Aquí",
+        "El Flautista a las Puertas del Amanecer",
+        "Entrometerse",
+        "El Lado Oscuro de la Luna"
       ],
       "correct": 1,
       "category": "musica",
@@ -3747,10 +3747,10 @@
     {
       "question": "¿Cuál de estas canciones NO está incluida en el OST de Suicide Squad?",
       "answers": [
-        "Cielos en llamas - AC/DC",
-        "Sin mí - Eminem",
-        "Paganos - Veintiún pilotos",
-        "Hijo afortunado - Creedence Clearwater Revival"
+        "Cielos en Llamas - AC/DC",
+        "Sin Mí - Eminem",
+        "Paganos - Veintiún Pilotos",
+        "Hijo Afortunado - Creedence Clearwater Revival"
       ],
       "correct": 0,
       "category": "musica",
@@ -3759,10 +3759,10 @@
     {
       "question": "¿Qué letra trata sobre el líder de Red Hot Chili Peppers, Anthony Kiedis?",
       "answers": [
-        "\"Y me gustó el hoyuelo en tu barbilla / Tus ojos azul pálido\"",
-        "\"Solías ser tan cálido y afectuoso... pero ahora te arrepientes rápidamente\"",
-        "\"Un lituano lluvioso / Baila como un indio\"",
-        "\"Vuela, céfiro mío / Lo siento más que nunca\""
+        "\"Y Me Gustó el Hoyuelo en Tu Barbilla / Tus Ojos Azul Pálido\"",
+        "\"Solías Ser Tan Cálido y Afectuoso... Pero Ahora Te Arrepientes Rápidamente\"",
+        "\"Un Lituano Lluvioso / Baila Como Un Indio\"",
+        "\"Vuela, Céfiro Mío / Lo Siento Más Que Nunca\""
       ],
       "correct": 2,
       "category": "musica",
@@ -3783,10 +3783,10 @@
     {
       "question": "¿Cuándo murió el rapero Eazy-E?",
       "answers": [
-        "14 de febrero de 1993",
-        "26 de marzo de 1995",
-        "21 de octubre de 1994",
-        "11 de julio de 1992"
+        "14 de Febrero de 1993",
+        "26 de Marzo de 1995",
+        "21 de Octubre de 1994",
+        "11 de Julio de 1992"
       ],
       "correct": 1,
       "category": "musica",
@@ -3808,8 +3808,8 @@
       "question": "¿Cómo se llama el mixtape del 2016 lanzado por el productor electrónico venezolano Arca?",
       "answers": [
         "Xen",
-        "entrañas",
-        "ovejas",
+        "Entrañas",
+        "Ovejas",
         "&&&&&&"
       ],
       "correct": 1,
@@ -3819,10 +3819,10 @@
     {
       "question": "¿Cuál de las siguientes NO es una canción real de la banda Thousand Foot Krutch?",
       "answers": [
-        "Deja que las chispas vuelen",
-        "abajo",
-        "Furia ilimitada",
-        "Renuncia al fantasma"
+        "Deja Que las Chispas Vuelen",
+        "Abajo",
+        "Furia Ilimitada",
+        "Renuncia Al Fantasma"
       ],
       "correct": 2,
       "category": "musica",
@@ -3832,9 +3832,9 @@
       "question": "¿Cómo se llamaba la banda de rock que formó Nobuo Uematsu y que tocaba canciones de varios juegos de Final Fantasy?",
       "answers": [
         "Los Espers",
-        "Los magos negros",
-        "Los invocadores de roca",
-        "Las fantasías finales"
+        "Los Magos Negros",
+        "Los Invocadores de Roca",
+        "Las Fantasías Finales"
       ],
       "correct": 1,
       "category": "musica",
@@ -3843,9 +3843,9 @@
     {
       "question": "¿Cómo se llama la canción de Beyoncé y Alejandro Fernández lanzada en 2007?",
       "answers": [
-        "cohete",
+        "Cohete",
         "Amor Gitano",
-        "La última vez",
+        "La Última Vez",
         "Hasta Donde Estes"
       ],
       "correct": 1,
@@ -3855,9 +3855,9 @@
     {
       "question": "¿Cuál de los álbumes de Michael Jackson vendió más copias?",
       "answers": [
-        "Fuera de la pared",
+        "Fuera de la Pared",
         "Suspense",
-        "malo",
+        "Malo",
         "Peligroso"
       ],
       "correct": 1,
@@ -3891,10 +3891,10 @@
     {
       "question": "La canción \"Old Town Road\" del rapero estadounidense Lil Nas X muestra la canción \"34 Ghosts IV\", ¿de qué banda?",
       "answers": [
-        "Clavos de nueve pulgadas",
-        "doncella de hierro",
-        "Apretones de muerte",
-        "Colectivo de animales"
+        "Clavos de Nueve Pulgadas",
+        "Doncella de Hierro",
+        "Apretones de Muerte",
+        "Colectivo de Animales"
       ],
       "correct": 0,
       "category": "musica",
@@ -3903,10 +3903,10 @@
     {
       "question": "¿Qué evento inspiró la canción \"Zombie\" de The Cranberries?",
       "answers": [
-        "Los atentados del 7 de julio",
-        "El atentado en el Manchester Arena",
-        "Los atentados de Warrington",
-        "Ataques del 11 de septiembre"
+        "Los Atentados del 7 de Julio",
+        "El Atentado en el Manchester Arena",
+        "Los Atentados de Warrington",
+        "Ataques del 11 de Septiembre"
       ],
       "correct": 2,
       "category": "musica",
@@ -3915,10 +3915,10 @@
     {
       "question": "¿Cuál es la primera pista del álbum de Dave Matthews Band \"Before These Crowded Streets\"?",
       "answers": [
-        "rapunzel",
-        "Quédate (perdiendo el tiempo)",
+        "Rapunzel",
+        "Quédate (perdiendo el Tiempo)",
         "Pantala Naga Pampa",
-        "No bebas el agua"
+        "No Bebas el Agua"
       ],
       "correct": 2,
       "category": "musica",
@@ -3927,9 +3927,9 @@
     {
       "question": "¿Cuál de estas canciones no es de Tatsuro Yamashita?",
       "answers": [
-        "Me encanta hablar",
-        "La dama afortunada se siente tan bien",
-        "vamos a bailar bebe",
+        "Me Encanta Hablar",
+        "La Dama Afortunada Se Siente Tan Bien",
+        "Vamos a Bailar Bebe",
         "Tiovivo"
       ],
       "correct": 1,
@@ -3941,7 +3941,7 @@
       "answers": [
         "Despacito",
         "Dragostea Din Tei",
-        "Estilo gangnam",
+        "Estilo Gangnam",
         "Asereje"
       ],
       "correct": 1,
@@ -3951,8 +3951,8 @@
     {
       "question": "¿Quién canta la canción de rap \"Secret Wars Part 1\"?",
       "answers": [
-        "conductor de autobús",
-        "El último emperador",
+        "Conductor de Autobús",
+        "El Último Emperador",
         "Masta Killa",
         "MC Frontalot"
       ],
@@ -3966,7 +3966,7 @@
         "Herbie Hancock",
         "Michael Brecker",
         "Wynton Marsalis",
-        "jose henderson"
+        "Jose Henderson"
       ],
       "correct": 2,
       "category": "musica",
@@ -3975,10 +3975,10 @@
     {
       "question": "¿Cuál es el primer álbum de estudio que se lanza en Internet con un precio de \"Paga lo que quieras\"?",
       "answers": [
-        "estrella negra",
-        "El álbum de ayuda",
-        "En arcoiris",
-        "Skrillex y Diplo presentan Jack Ü"
+        "Estrella Negra",
+        "El Álbum de Ayuda",
+        "En Arcoiris",
+        "Skrillex y Diplo Presentan Jack Ü"
       ],
       "correct": 2,
       "category": "musica",
@@ -3990,7 +3990,7 @@
         "Baria Qureshi",
         "Oliver Sim",
         "Romy Madley Croft",
-        "jamie xx"
+        "Jamie Xx"
       ],
       "correct": 3,
       "category": "musica",
@@ -4026,7 +4026,7 @@
         "Andy Rourke",
         "Mike Joyce",
         "Martín Cámaras",
-        "morsey"
+        "Morsey"
       ],
       "correct": 2,
       "category": "musica",
@@ -4035,10 +4035,10 @@
     {
       "question": "¿Cuál de estas NO es una canción incluida en el EP Lockjaw lanzado en 2013 por Flume & Chet Faker?",
       "answers": [
-        "Esta canción no es sobre una niña",
-        "¿Qué pasa con nosotros?",
-        "dejado solo",
-        "Deja el juego"
+        "Esta Canción No Es Sobre Una Niña",
+        "¿Qué Pasa Con Nosotros?",
+        "Dejado Solo",
+        "Deja el Juego"
       ],
       "correct": 2,
       "category": "musica",
@@ -4048,8 +4048,8 @@
       "question": "¿Qué banda es la banda activa más larga del mundo sin interrupciones ni cambios de formación?",
       "answers": [
         "U2",
-        "prisa",
-        "piedras rodantes",
+        "Prisa",
+        "Piedras Rodantes",
         "Radiohead"
       ],
       "correct": 0,
@@ -4071,10 +4071,10 @@
     {
       "question": "¿Cómo se llamaba el grupo de hip hop del que era miembro Kanye West a finales de los 90?",
       "answers": [
-        "Los rompe ritmos",
-        "Los iniciadores",
-        "Los ambiciosos",
-        "Los saltadores"
+        "Los Rompe Ritmos",
+        "Los Iniciadores",
+        "Los Ambiciosos",
+        "Los Saltadores"
       ],
       "correct": 2,
       "category": "musica",
@@ -4083,10 +4083,10 @@
     {
       "question": "Los artistas electrónicos Boys Noize y Skrillex han colaborado y lanzado temas ¿bajo qué nombre?",
       "answers": [
-        "sangre de perro",
+        "Sangre de Perro",
         "Jack U",
-        "¿Qué es lo que no?",
-        "ruidosa"
+        "¿Qué Es Lo Que No?",
+        "Ruidosa"
       ],
       "correct": 0,
       "category": "musica",
@@ -4095,10 +4095,10 @@
     {
       "question": "¿Qué miembro del Wu-Tang Clan tuvo solo un verso en su álbum debut Enter the Wu-Tang (36 Chambers)?",
       "answers": [
-        "Cubierta de inspección",
+        "Cubierta de Inspección",
         "Masta Killa",
         "GZA",
-        "Hombre de método"
+        "Hombre de Método"
       ],
       "correct": 1,
       "category": "musica",
@@ -4107,10 +4107,10 @@
     {
       "question": "¿Qué canción interpretada originalmente por The Bee Gees en 1978 tuvo una versión de Steps 20 años después?",
       "answers": [
-        "tragedia",
-        "Mantenerse vivo",
-        "Fiebre nocturna",
-        "Deberías estar bailando"
+        "Tragedia",
+        "Mantenerse Vivo",
+        "Fiebre Nocturna",
+        "Deberías Estar Bailando"
       ],
       "correct": 0,
       "category": "musica",
@@ -4131,10 +4131,10 @@
     {
       "question": "Dallon Weekes, ex base de gira de Panic! At the Disco, creó su propia banda en 2016 llamada...",
       "answers": [
-        "No se como pero me encontraron",
-        "Trucos al escondite",
-        "¿De dónde vienen todos ustedes?",
-        "Huir de la gente"
+        "No Se Como Pero Me Encontraron",
+        "Trucos Al Escondite",
+        "¿De Dónde Vienen Todos Ustedes?",
+        "Huir de la Gente"
       ],
       "correct": 0,
       "category": "musica",
@@ -4144,9 +4144,9 @@
       "question": "¿En qué canción del álbum del rapero Kanye West \"The Life of Pablo\" aparece Rihanna?",
       "answers": [
         "Famoso",
-        "Lo más destacado",
-        "Haz ultraligero",
-        "lobos"
+        "Lo Más Destacado",
+        "Haz Ultraligero",
+        "Lobos"
       ],
       "correct": 0,
       "category": "musica",
@@ -4156,9 +4156,9 @@
       "question": "¿Una Caixa Malacacheta es qué tipo de instrumento musical se utiliza comúnmente en la música latinoamericana?",
       "answers": [
         "Caja",
-        "Campana de vaca",
-        "maraca",
-        "bombo"
+        "Campana de Vaca",
+        "Maraca",
+        "Bombo"
       ],
       "correct": 0,
       "category": "musica",
@@ -4170,7 +4170,7 @@
         "GAK",
         "Ventana Cáustica",
         "Bradley Strider",
-        "entierro"
+        "Entierro"
       ],
       "correct": 3,
       "category": "musica",
@@ -4180,7 +4180,7 @@
       "question": "¿Cuál de los artistas musicales NO actuó en el concierto Live Aid en el estadio de Wembley, Londres, en 1985?",
       "answers": [
         "David Bowie",
-        "reina",
+        "Reina",
         "Los Rolling Stones",
         "Elton John"
       ],
@@ -4191,10 +4191,10 @@
     {
       "question": "¿Cuál es el término británico para una nota 64?",
       "answers": [
-        "semicorchea",
-        "semicorchea",
-        "semihemidemisemicorchea",
-        "hemidemisemicorchea"
+        "Semicorchea",
+        "Semicorchea",
+        "Semihemidemisemicorchea",
+        "Hemidemisemicorchea"
       ],
       "correct": 3,
       "category": "musica",
@@ -4204,9 +4204,9 @@
       "question": "Este álbum, ahora considerado uno de los mejores de todos los tiempos, fue un fracaso comercial cuando se lanzó.",
       "answers": [
         "Led Zeppelin IV",
-        "El metro de terciopelo y Nico",
+        "El Metro de Terciopelo y Nico",
         "Camino de la Abadía",
-        "Sonidos de mascotas"
+        "Sonidos de Mascotas"
       ],
       "correct": 1,
       "category": "musica",
@@ -4218,9 +4218,9 @@
       "question": "¿Qué empresa realizó la animación de Video Sledgehammer (1986) de Peter Gabriel?",
       "answers": [
         "Animaciones Aardman",
-        "Entretenimiento de iluminación",
+        "Entretenimiento de Iluminación",
         "Medios VIZ",
-        "Entretenimiento de éxito"
+        "Entretenimiento de Éxito"
       ],
       "correct": 0,
       "category": "ninos",
@@ -4229,10 +4229,10 @@
     {
       "question": "¿Quién ganó el campeonato internacional Drum Corps de 1989?",
       "answers": [
-        "Diablos azules",
+        "Diablos Azules",
         "Vanguardia Santa Clara",
-        "la academia",
-        "Los casacas azules"
+        "La Academia",
+        "Los Casacas Azules"
       ],
       "correct": 1,
       "category": "ninos",
@@ -4256,7 +4256,7 @@
         "Michael Brecker",
         "Herbie Hancock",
         "Wynton Marsalis",
-        "jose henderson"
+        "Jose Henderson"
       ],
       "correct": 2,
       "category": "ninos",
@@ -4265,10 +4265,10 @@
     {
       "question": "¿Pamina y Papageno son personajes de qué ópera de Mozart?",
       "answers": [
-        "El empresario",
-        "El ganso de El Cairo",
-        "La flauta magica",
-        "Las bodas de Fígaro"
+        "El Empresario",
+        "El Ganso de el Cairo",
+        "La Flauta Magica",
+        "Las Bodas de Fígaro"
       ],
       "correct": 2,
       "category": "ninos",
@@ -4278,9 +4278,9 @@
       "question": "¿Quién fue el baterista original de The Beatles?",
       "answers": [
         "Stuart Sutcliffe",
-        "tommy moore",
+        "Tommy Moore",
         "Ringo Starr",
-        "Pete mejor"
+        "Pete Mejor"
       ],
       "correct": 1,
       "category": "ninos",
@@ -4301,10 +4301,10 @@
     {
       "question": "¿Cuál es la primera pista del álbum de Dave Matthews Band \"Before These Crowded Streets\"?",
       "answers": [
-        "Quédate (perdiendo el tiempo)",
-        "rapunzel",
+        "Quédate (perdiendo el Tiempo)",
+        "Rapunzel",
         "Pantala Naga Pampa",
-        "No bebas el agua"
+        "No Bebas el Agua"
       ],
       "correct": 2,
       "category": "ninos",
@@ -4325,10 +4325,10 @@
     {
       "question": "\"Todos los chicos\" de Panic! ¿At the Disco fue lanzado como bonus track en qué álbum?",
       "answers": [
-        "¡Demasiado raro para vivir, demasiado raro para morir!",
-        "Muerte de un soltero",
-        "Una fiebre que no puedes quitar con el sudor",
-        "Vicios y virtudes"
+        "¡Demasiado Raro Para Vivir, Demasiado Raro Para Morir!",
+        "Muerte de Un Soltero",
+        "Una Fiebre Que No Puedes Quitar Con el Sudor",
+        "Vicios y Virtudes"
       ],
       "correct": 0,
       "category": "ninos",
@@ -4340,7 +4340,7 @@
         "Danny Brown",
         "Pusha T.",
         "Snoop Dogg",
-        "vince grapas"
+        "Vince Grapas"
       ],
       "correct": 2,
       "category": "ninos",
@@ -4349,10 +4349,10 @@
     {
       "question": "¿Qué portada icónica del álbum presenta las ondas púlsar de CP 1919 colocadas en el centro de la portada?",
       "answers": [
-        "Londres llamando",
-        "El lado oscuro de la luna",
-        "Placeres desconocidos",
-        "El metro de terciopelo y Nico"
+        "Londres Llamando",
+        "El Lado Oscuro de la Luna",
+        "Placeres Desconocidos",
+        "El Metro de Terciopelo y Nico"
       ],
       "correct": 2,
       "category": "ninos",
@@ -4361,10 +4361,10 @@
     {
       "question": "¿Qué álbum de Death Grips es el único que presenta a un miembro de la banda?",
       "answers": [
-        "Los poderes que B",
-        "Web profunda sin amor",
-        "La tienda del dinero",
-        "Pozo sin fondo"
+        "Los Poderes Que B",
+        "Web Profunda Sin Amor",
+        "La Tienda del Dinero",
+        "Pozo Sin Fondo"
       ],
       "correct": 1,
       "category": "ninos",
@@ -4375,7 +4375,7 @@
       "answers": [
         "Martín Cámaras",
         "Andy Rourke",
-        "morsey",
+        "Morsey",
         "Mike Joyce"
       ],
       "correct": 0,
@@ -4398,9 +4398,9 @@
       "question": "¿Cómo se llama el mixtape del 2016 lanzado por el productor electrónico venezolano Arca?",
       "answers": [
         "&&&&&&",
-        "entrañas",
+        "Entrañas",
         "Xen",
-        "ovejas"
+        "Ovejas"
       ],
       "correct": 1,
       "category": "ninos",
@@ -4409,9 +4409,9 @@
     {
       "question": "¿Quién canta la canción de rap \"Secret Wars Part 1\"?",
       "answers": [
-        "conductor de autobús",
+        "Conductor de Autobús",
         "Masta Killa",
-        "El último emperador",
+        "El Último Emperador",
         "MC Frontalot"
       ],
       "correct": 2,
@@ -4423,7 +4423,7 @@
       "answers": [
         "Steve Aoki",
         "AlunaGeorge",
-        "DJ serpiente",
+        "DJ Serpiente",
         "Mayor Lazer"
       ],
       "correct": 1,
@@ -4434,8 +4434,8 @@
       "question": "¿Qué banda es la banda activa más larga del mundo sin interrupciones ni cambios de formación?",
       "answers": [
         "U2",
-        "piedras rodantes",
-        "prisa",
+        "Piedras Rodantes",
+        "Prisa",
         "Radiohead"
       ],
       "correct": 0,
@@ -4445,10 +4445,10 @@
     {
       "question": "¿Cuál de estas canciones NO está incluida en el OST de Suicide Squad?",
       "answers": [
-        "Paganos - Veintiún pilotos",
-        "Cielos en llamas - AC/DC",
-        "Sin mí - Eminem",
-        "Hijo afortunado - Creedence Clearwater Revival"
+        "Paganos - Veintiún Pilotos",
+        "Cielos en Llamas - AC/DC",
+        "Sin Mí - Eminem",
+        "Hijo Afortunado - Creedence Clearwater Revival"
       ],
       "correct": 1,
       "category": "ninos",
@@ -4458,9 +4458,9 @@
       "question": "¿La versión de qué artista de la canción \"The Tide is High\" salió primero?",
       "answers": [
         "Cardenal Offishall",
-        "Gatito atómico",
-        "Los modelos",
-        "rubia"
+        "Gatito Atómico",
+        "Los Modelos",
+        "Rubia"
       ],
       "correct": 2,
       "category": "ninos",
@@ -4471,8 +4471,8 @@
       "answers": [
         "Matt Burnett",
         "Ian Jones Quartey",
-        "rebeca azúcar",
-        "ben leven"
+        "Rebeca Azúcar",
+        "Ben Leven"
       ],
       "correct": 2,
       "category": "ninos",
@@ -4484,7 +4484,7 @@
         "Los Rolling Stones",
         "Elton John",
         "David Bowie",
-        "reina"
+        "Reina"
       ],
       "correct": 0,
       "category": "ninos",
@@ -4494,9 +4494,9 @@
       "question": "¿Cuál fue el último álbum de Aphex Twin lanzado antes de su pausa de una década?",
       "answers": [
         "Drukqs",
-        "lameventanas",
-        "siro",
-        "Obras ambientales recopiladas 85-92"
+        "Lameventanas",
+        "Siro",
+        "Obras Ambientales Recopiladas 85-92"
       ],
       "correct": 0,
       "category": "ninos",
@@ -4505,8 +4505,8 @@
     {
       "question": "¿Cuál de los álbumes de Michael Jackson vendió más copias?",
       "answers": [
-        "Fuera de la pared",
-        "malo",
+        "Fuera de la Pared",
+        "Malo",
         "Suspenso",
         "Peligroso"
       ],
@@ -4519,7 +4519,7 @@
       "answers": [
         "Dragostea Din Tei",
         "Despacito",
-        "Estilo gangnam",
+        "Estilo Gangnam",
         "Asereje"
       ],
       "correct": 0,
@@ -4529,10 +4529,10 @@
     {
       "question": "¿Cuál es el término británico para una nota 64?",
       "answers": [
-        "semicorchea",
-        "hemidemisemicorchea",
-        "semicorchea",
-        "semihemidemisemicorchea"
+        "Semicorchea",
+        "Hemidemisemicorchea",
+        "Semicorchea",
+        "Semihemidemisemicorchea"
       ],
       "correct": 1,
       "category": "ninos",
@@ -4544,7 +4544,7 @@
         "Birmingham",
         "Londres",
         "Mánchester",
-        "Newcastle-upon-Tyne"
+        "Newcastle-Upon-Tyne"
       ],
       "correct": 0,
       "category": "ninos",
@@ -4553,9 +4553,9 @@
     {
       "question": "Los artistas electrónicos Boys Noize y Skrillex han colaborado y lanzado temas ¿bajo qué nombre?",
       "answers": [
-        "ruidosa",
-        "¿Qué es lo que no?",
-        "sangre de perro",
+        "Ruidosa",
+        "¿Qué Es Lo Que No?",
+        "Sangre de Perro",
         "Jack U"
       ],
       "correct": 2,
@@ -4565,10 +4565,10 @@
     {
       "question": "¿Qué éxito de Elton John comienza con la frase \"¿Cuándo vas a bajar\"?",
       "answers": [
-        "Adiós camino de ladrillos amarillos",
-        "Hombre cohete",
+        "Adiós Camino de Ladrillos Amarillos",
+        "Hombre Cohete",
         "Bennie y los Jets",
-        "Roca de cocodrilo"
+        "Roca de Cocodrilo"
       ],
       "correct": 0,
       "category": "ninos",
@@ -4577,10 +4577,10 @@
     {
       "question": "¿Qué álbum fue lanzado por Kanye West en 2013?",
       "answers": [
-        "Mi hermosa fantasía oscura y retorcida",
-        "Mira el trono",
+        "Mi Hermosa Fantasía Oscura y Retorcida",
+        "Mira el Trono",
         "Yeezus",
-        "La vida de Pablo"
+        "La Vida de Pablo"
       ],
       "correct": 2,
       "category": "ninos",
@@ -4589,10 +4589,10 @@
     {
       "question": "¿En qué álbum se encuentra la canción 'New Slang' de The Shins?",
       "answers": [
-        "puerto de mañana",
-        "Toboganes demasiado estrechos",
-        "Haciendo una mueca toda la noche",
-        "Oh, mundo invertido"
+        "Puerto de Mañana",
+        "Toboganes Demasiado Estrechos",
+        "Haciendo Una Mueca Toda la Noche",
+        "Oh, Mundo Invertido"
       ],
       "correct": 3,
       "category": "ninos",
@@ -4601,10 +4601,10 @@
     {
       "question": "¡Pánico! ¿En qué fecha se lanzó el sexto álbum de At the Disco, \"Pray For The Wicked\"?",
       "answers": [
-        "22 de junio de 2018",
-        "9 de mayo de 2018",
-        "21 de febrero de 2018",
-        "13 de marzo de 2018"
+        "22 de Junio de 2018",
+        "9 de Mayo de 2018",
+        "21 de Febrero de 2018",
+        "13 de Marzo de 2018"
       ],
       "correct": 0,
       "category": "ninos",
@@ -4613,10 +4613,10 @@
     {
       "question": "¿En qué canción del álbum del rapero Kanye West \"The Life of Pablo\" aparece Rihanna?",
       "answers": [
-        "lobos",
-        "Haz ultraligero",
+        "Lobos",
+        "Haz Ultraligero",
         "Famoso",
-        "Lo más destacado"
+        "Lo Más Destacado"
       ],
       "correct": 2,
       "category": "ninos",
@@ -4625,10 +4625,10 @@
     {
       "question": "¡En el pánico! La canción de At the Disco \"Nothern Downpour\", cuya letra sigue a \"Sé que el mundo es un hueso roto\".",
       "answers": [
-        "\"Así que deshazte de tus dolores de cabeza, llámalo a casa\"",
-        "\"Así que hazles saber que están solos\"",
-        "\"Así que enciende un fuego en su fría piedra\"",
-        "\"Así que canta tu canción hasta que estés en casa\""
+        "\"Así Que Deshazte de Tus Dolores de Cabeza, Llámalo a Casa\"",
+        "\"Así Que Hazles Saber Que Están Solos\"",
+        "\"Así Que Enciende Un Fuego en Su Fría Piedra\"",
+        "\"Así Que Canta Tu Canción Hasta Que Estés en Casa\""
       ],
       "correct": 0,
       "category": "ninos",
@@ -4661,10 +4661,10 @@
     {
       "question": "¿Cuándo murió el rapero Eazy-E?",
       "answers": [
-        "11 de julio de 1992",
-        "14 de febrero de 1993",
-        "26 de marzo de 1995",
-        "21 de octubre de 1994"
+        "11 de Julio de 1992",
+        "14 de Febrero de 1993",
+        "26 de Marzo de 1995",
+        "21 de Octubre de 1994"
       ],
       "correct": 2,
       "category": "ninos",
@@ -4673,10 +4673,10 @@
     {
       "question": "¿Cómo se llamaba el grupo de hip hop del que era miembro Kanye West a finales de los 90?",
       "answers": [
-        "Los rompe ritmos",
-        "Los iniciadores",
-        "Los ambiciosos",
-        "Los saltadores"
+        "Los Rompe Ritmos",
+        "Los Iniciadores",
+        "Los Ambiciosos",
+        "Los Saltadores"
       ],
       "correct": 2,
       "category": "ninos",
@@ -4685,10 +4685,10 @@
     {
       "question": "¿Cuál es el primer álbum de estudio que se lanza en Internet con un precio de \"Paga lo que quieras\"?",
       "answers": [
-        "En arcoiris",
-        "El álbum de ayuda",
-        "Skrillex y Diplo presentan Jack Ü",
-        "estrella negra"
+        "En Arcoiris",
+        "El Álbum de Ayuda",
+        "Skrillex y Diplo Presentan Jack Ü",
+        "Estrella Negra"
       ],
       "correct": 0,
       "category": "ninos",
@@ -4721,10 +4721,10 @@
     {
       "question": "¿Qué evento inspiró la canción \"Zombie\" de The Cranberries?",
       "answers": [
-        "Los atentados del 7 de julio",
-        "Los atentados de Warrington",
-        "El atentado en el Manchester Arena",
-        "Ataques del 11 de septiembre"
+        "Los Atentados del 7 de Julio",
+        "Los Atentados de Warrington",
+        "El Atentado en el Manchester Arena",
+        "Ataques del 11 de Septiembre"
       ],
       "correct": 1,
       "category": "ninos",
@@ -4735,7 +4735,7 @@
       "answers": [
         "Skrilex",
         "Slushii",
-        "tiesto",
+        "Tiesto",
         "Dash Berlín"
       ],
       "correct": 0,
@@ -4745,8 +4745,8 @@
     {
       "question": "¿En qué álbum de los Beatles encontrarías la canción 'Eleanor Rigby'?",
       "answers": [
-        "alma de goma",
-        "revólver",
+        "Alma de Goma",
+        "Revólver",
         "Camino de la Abadía",
         "¡Ayuda!"
       ],
@@ -4770,9 +4770,9 @@
       "question": "¿Cómo se llamaba la banda de rock que formó Nobuo Uematsu y que tocaba canciones de varios juegos de Final Fantasy?",
       "answers": [
         "Los Espers",
-        "Las fantasías finales",
-        "Los invocadores de roca",
-        "Los magos negros"
+        "Las Fantasías Finales",
+        "Los Invocadores de Roca",
+        "Los Magos Negros"
       ],
       "correct": 3,
       "category": "ninos",
@@ -4782,7 +4782,7 @@
       "question": "¿Chino Moreno es el cantante de qué banda de metal alternativo?",
       "answers": [
         "Herramienta",
-        "Tipo O Negativo",
+        "Tipo o Negativo",
         "Deftones",
         "Korn"
       ],
@@ -4793,10 +4793,10 @@
     {
       "question": "¿En qué álbum de M83 aparece la canción \"Midnight City\"?",
       "answers": [
-        "Antes que el amanecer nos sane",
-        "basura",
+        "Antes Que el Amanecer Nos Sane",
+        "Basura",
         "Sábados = Juventud",
-        "Date prisa, estamos soñando"
+        "Date Prisa, Estamos Soñando"
       ],
       "correct": 3,
       "category": "ninos",
@@ -4805,9 +4805,9 @@
     {
       "question": "¿Cómo se llama la canción de Beyoncé y Alejandro Fernández lanzada en 2007?",
       "answers": [
-        "La última vez",
+        "La Última Vez",
         "Amor Gitano",
-        "cohete",
+        "Cohete",
         "Hasta Donde Estes"
       ],
       "correct": 1,
