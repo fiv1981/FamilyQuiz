@@ -74,15 +74,6 @@ function renderMenu() {
   backToMenuBtn.classList.add("hidden");
   screen.innerHTML = `
     <section class="panel menu-panel">
-      <div class="hero-card">
-        <div>
-          <div class="eyebrow">Modo panorámico · táctil · familiar</div>
-          <h2>Elige dificultad y categoría</h2>
-          <p>Diseñado para jugar en pantalla horizontal, con botones gigantes y lectura fácil.</p>
-        </div>
-        <div class="stats-badge">${QUESTION_BANK.length}+ preguntas</div>
-      </div>
-
       <div class="section-title">Dificultad</div>
       <div class="menu-grid levels-grid">
         ${Object.entries(LEVELS)
