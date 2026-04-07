@@ -36,7 +36,7 @@ const state = {
 };
 
 const screen = document.getElementById("screen");
-const backToMenuBtn = document.getElementById("backToMenuBtn");
+const topRightBtn = document.getElementById("topRightBtn");
 
 function categoryById(id) {
   return CATEGORIES.find((c) => c.id === id) || CATEGORIES[0];
@@ -99,8 +99,31 @@ function resetGame(level, category) {
   state.questions = shuffle(pool, Date.now()).slice(0, rounds);
 }
 
+function configureTopRightButton() {
+  if (state.screen === "loading") {
+    topRightBtn.classList.add("hidden");
+    return;
+  }
+  topRightBtn.classList.remove("hidden");
+  if (state.screen === "difficulty") {
+    topRightBtn.textContent = "Opciones";
+    topRightBtn.onclick = () => {
+      state.screen = "options";
+      render();
+    };
+    return;
+  }
+  topRightBtn.textContent = "Volver";
+  topRightBtn.onclick = () => {
+    if (state.screen === "question") state.screen = "category";
+    else if (state.screen === "category" || state.screen === "options") state.screen = "difficulty";
+    else if (state.screen === "end") state.screen = "difficulty";
+    render();
+  };
+}
+
 function render() {
-  backToMenuBtn.classList.toggle("hidden", state.screen === "difficulty" || state.screen === "loading");
+  configureTopRightButton();
   if (state.screen === "loading") return renderLoading();
   if (state.screen === "difficulty") return renderDifficultyScreen();
   if (state.screen === "category") return renderCategoryScreen();
@@ -123,7 +146,6 @@ function renderDifficultyScreen() {
   stopTimer();
   screen.innerHTML = `
     <section class="panel stage-panel stage-panel--difficulty">
-      <button class="ghost-btn options-btn" id="openOptionsBtn">Opciones</button>
       <div class="stage-head">
         <div>
           <h2>Elige dificultad</h2>
@@ -145,10 +167,6 @@ function renderDifficultyScreen() {
       state.screen = "category";
       render();
     });
-  });
-  document.getElementById("openOptionsBtn").addEventListener("click", () => {
-    state.screen = "options";
-    render();
   });
 }
 
@@ -348,13 +366,6 @@ async function loadQuestions() {
   });
   state.bank = merged;
 }
-
-backToMenuBtn.addEventListener("click", () => {
-  if (state.screen === "question") state.screen = "category";
-  else if (state.screen === "category" || state.screen === "options") state.screen = "difficulty";
-  else if (state.screen === "end") state.screen = "difficulty";
-  render();
-});
 
 (async () => {
   render();
