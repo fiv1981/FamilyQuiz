@@ -13,8 +13,7 @@ const CATEGORIES = [
   { id: "historia", label: "Historia", icon: "🏛️" },
   { id: "cine", label: "Cine y TV", icon: "🎬" },
   { id: "deporte", label: "Deporte", icon: "⚽" },
-  { id: "musica", label: "Música", icon: "🎵" },
-  { id: "ninos", label: "Niños", icon: "🧸" },
+  { id: "musica", label: "Música", icon: "🎵" }
 ];
 
 const OPTIONS = {
@@ -343,8 +342,9 @@ async function loadQuestions() {
   const responses = await Promise.all(levels.map((level) => fetch(`./questions/${level}.json`).then((r) => r.json())));
   const merged = [];
   responses.forEach((payload) => {
-    Object.values(payload).forEach((list) => {
-      merged.push(...list);
+    Object.entries(payload).forEach(([category, list]) => {
+      const targetCategory = category === "ninos" ? "general" : category;
+      merged.push(...list.map((item) => ({ ...item, category: targetCategory })));
     });
   });
   state.bank = merged;
