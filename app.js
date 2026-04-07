@@ -125,7 +125,6 @@ function renderDifficultyScreen() {
     <section class="panel stage-panel stage-panel--difficulty">
       <div class="stage-head">
         <div>
-          <div class="section-title">FamilyQuiz</div>
           <h2>Elige dificultad</h2>
         </div>
         <button class="ghost-btn" id="openOptionsBtn">Opciones</button>
@@ -134,7 +133,6 @@ function renderDifficultyScreen() {
         ${Object.entries(LEVELS).map(([id, level]) => `
           <button class="level-btn level-btn--center" data-level="${id}">
             <span class="level-btn__title">${level.label}</span>
-            <span class="level-btn__sub">${countByLevel(id)} preguntas</span>
           </button>
         `).join("")}
       </div>
